@@ -1,21 +1,21 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-from functools import partial
 
 PATH = 'content'
 
 # Blog Conf
 AUTHOR = 'Lee-W'
-SITENAME = 'Otaku Travels'
+SITENAME = 'Life Lives in Traveling'
 SITEURL = 'http://localhost:8000'
 DISQUS_SITENAME = "lee-w-travlog"
 SITETITLE = AUTHOR
-SITELOGO = None
+SITELOGO = '/images/avatar.jpg'
 BROWSER_COLOR = '#333333'
 
 # Locale
 TIMEZONE = 'Asia/Taipei'
 DEFAULT_LANG = 'zh-tw'
+OG_LOCALE = 'zh-tw'
 DEFAULT_DATE_FORMAT = '%Y/%m/%d - %a'
 
 # Page Setting
@@ -24,9 +24,9 @@ DEFAULT_PAGINATION = 10
 MENUITEMS = (
     ('Archives', '/archives.html'),
     ('Categories', '/categories.html'),
+    ('Tags', 'tags.html')
 )
-DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives')
-# SUMMARY_MAX_LENGTH = 0
+DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'tags')
 
 # Content Setting
 DEFAULT_CATEGORY = 'Travel'
@@ -43,6 +43,11 @@ EXTRA_PATH_METADATA = {
     'images': {'path': 'images'},
 }
 PYGMENTS_STYLE = 'default'
+CC_LICENSE = {
+    'name': 'Creative Commons Attribution-ShareAlike',
+    'version': '4.0',
+    'slug': 'by-sa'
+}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -52,11 +57,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-SOCIAL = (('Linkedin', 'http://tw.linkedin.com/in/clleew'),
-          ('GitHub', 'http://github.com/Lee-W'),
-          ('Gitlab', 'https://gitlab.com/Lee-W'),
-          ('Twitter', 'https://twitter.com/clleew'),
-          ('RSS', '//lee-w.github.io/feeds/all.atom.xml'),)
+SOCIAL = (('linkedin', 'http://tw.linkedin.com/in/clleew'),
+          ('github', 'http://github.com/Lee-W'),
+          ('twitter', 'https://twitter.com/clleew'),
+          ('rss', '//lee-w.github.io/feeds/all.atom.xml'),)
 
 # Markdown extension
 MARKDOWN = {
@@ -76,11 +80,3 @@ PLUGINS = [
     'another_read_more_link', 'share_post', 'i18n_subsites'
 ]
 ANOTHER_READ_MORE_LINK = ''
-
-JINJA_FILTERS = {
-    'sort_by_article_count': partial(
-        sorted,
-        key=lambda x: len(x[1]),
-        reverse=True
-    )
-}
