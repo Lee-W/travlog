@@ -12,6 +12,7 @@ pelican = "*"
 bs4 = "*"
 python-gettext = "*"
 ghp-import = "*"
+typogrify = "*"
 
 [requires]
 python_version = "3.7"
