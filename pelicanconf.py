@@ -35,7 +35,7 @@ ARTICLE_SAVE_AS = 'posts/{category}/{date:%Y}/{date:%m}/{slug}/index.html'
 STATIC_PATHS = ['images', 'static']
 
 # Theme Setting
-THEME = 'theme/pelican-clean-blog'
+THEME = 'Flex'
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
@@ -73,7 +73,7 @@ MARKDOWN = {
 # Plugin-setting
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = [
-    'another_read_more_link', 'share_post',
+    'another_read_more_link', 'share_post', 'i18n_subsites'
 ]
 ANOTHER_READ_MORE_LINK = ''
 
