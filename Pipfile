@@ -11,6 +11,7 @@ mdx-del-ins = "*"
 pelican = "*"
 bs4 = "*"
 python-gettext = "*"
+ghp-import = "*"
 
 [requires]
 python_version = "3.7"
