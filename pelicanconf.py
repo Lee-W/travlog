@@ -22,8 +22,8 @@ DEFAULT_DATE_FORMAT = '%Y/%m/%d - %a'
 MAIN_MENU = True
 DEFAULT_PAGINATION = 10
 MENUITEMS = (
-    ('Archives', '/archives.html'),
-    ('Categories', '/categories.html'),
+    ('Archives', 'archives.html'),
+    ('Categories', 'categories.html'),
     ('Tags', 'tags.html')
 )
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'tags')
@@ -60,7 +60,7 @@ AUTHOR_FEED_RSS = None
 SOCIAL = (('linkedin', 'http://tw.linkedin.com/in/clleew'),
           ('github', 'http://github.com/Lee-W'),
           ('twitter', 'https://twitter.com/clleew'),
-          ('rss', '//lee-w.github.io/feeds/all.atom.xml'),)
+          ('rss', '//lee-w.github.io/travlog/feeds/all.atom.xml'),)
 
 # Markdown extension
 MARKDOWN = {
