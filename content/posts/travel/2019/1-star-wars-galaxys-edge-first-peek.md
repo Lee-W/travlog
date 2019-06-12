@@ -1,5 +1,5 @@
 Title: Star Wars: Galaxy's Edge - First Peek
-Date: 2019-06-09 07:00
+Date: 2019-06-12 10:57
 Category: Travel
 Tags: Star Wars
 Slug: star-wars-galaxys-edge-first-peek

@@ -17,7 +17,7 @@ RELATIVE_URLS = False
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
-DELETE_OUTPUT_DIRECTORY = False
+DELETE_OUTPUT_DIRECTORY = True
 
 DISQUS_SITENAME = "lee-w-travlog"
 GOOGLE_ANALYTICS = "UA-96190677-2"
