@@ -499,7 +499,7 @@ Rey 跟 Chewie 應該會最常出沒在這一帶
 只是我還是因為第一個留言成功拿到 馬可多 的光劍 XD
 但我覺得我有可能是平時沒住在美國，第一個進去 **Star Wars: Galaxy's Edge** 的台灣人吧 XD
 
-![makoto light saber]{static}/images/post-images/2019-06-12-star-war-galaxys-edge-first-peek/15602633029847.jpg)
+![makoto light saber]({static}/images/post-images/2019-06-12-star-war-galaxys-edge-first-peek/15602633029847.jpg)
 
 上次我有去 馬可多 的工作室聊了一下，這次去的心得
 有興趣的話可以看上次的直播 ([星戰樂園之華人第一人?](https://www.facebook.com/100000519888318/videos/2758235014203801/))
