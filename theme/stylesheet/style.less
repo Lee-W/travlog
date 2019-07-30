@@ -122,27 +122,15 @@ main {
     font-size: .72em;
     padding: 14px 0 14px 0;
     border-bottom: @nav-border-color 1px solid;
-  }
 
-  nav, .translations {
     a {
       padding: 0 4px 0 4px;
-      border-left: @nav-border-color 1px solid;
       border-right: @nav-border-color 1px solid;
     }
 
     :first-child {
-      border-left: none;
+      border-left: @nav-border-color 1px solid;
     }
-
-    :last-child {
-      border-right: none;
-    }
-  }
-
-  .neighbors {
-    margin: 4% 0% 4% 0%;
-    height: 20px;
   }
 
   .pagination {
@@ -167,14 +155,6 @@ main {
       p {
         color: @header-text-color;
         font-size: 0.86em;
-      }
-
-      .translations {
-        float: right;
-
-        .active {
-          font-weight: 600;
-        }
       }
     }
 
@@ -221,7 +201,7 @@ main {
       font-size: .78em;
     }
 
-    *:not(pre) > code {
+    code {
       font-size: .8em;
       white-space: nowrap;
       color: #c25;
@@ -310,12 +290,6 @@ a.btn:hover {
   display: block;
 }
 
-.align-center {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
 .float-left {
   float: left;
 }
@@ -368,8 +342,8 @@ ul.social {
 
   a:hover {
     z-index: 2;
-    -webkit-transform: translateY(-2px);
-    transform: translateY(-2px);
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
   }
 
   a {
@@ -390,14 +364,6 @@ ul.social {
     background-color: @google-bg-color;
   }
 
-  a.sc-instagram {
-    background-color: @instagram-bg-color;
-  }
-
-  a.sc-keybase {
-    background-color: @keybase-bg-color;
-  }
-
   a.sc-pinterest {
     background-color: @pinterest-bg-color;
   }
@@ -406,20 +372,12 @@ ul.social {
     background-color: @linkedin-bg-color;
   }
 
-  a.sc-medium {
-    background-color: @medium-bg-color;
-  }
-
   a.sc-rss {
     background-color: @rss-bg-color;
   }
 
   a.sc-stack-overflow {
     background-color: @stack-overflow-bg-color;
-  }
-
-  a.sc-tumblr {
-    background-color: @tumblr-bg-color;
   }
 
   a.sc-twitter {
@@ -434,7 +392,7 @@ ul.social {
     background-color: @github-bg-color;
   }
 
-  a.sc-envelope {
+  a.sc-envelope-o {
     background-color: @email-bg-color;
   }
 
@@ -452,14 +410,6 @@ ul.social {
 
   a.sc-xing {
     background-color: @xing-bg-color;
-  }
-
-  a.sc-bitbucket {
-    background-color: @bitbucket-bg-color;
-  }
-
-  a.sc-mastodon {
-    background-color: @mastodon-bg-color;
   }
 
 }
