@@ -76,6 +76,6 @@ MARKDOWN = {
 # Plugin-setting
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = [
-    'another_read_more_link', 'share_post', 'i18n_subsites'
+    'another_read_more_link', 'share_post', 'i18n_subsites', 'post_stats'
 ]
 ANOTHER_READ_MORE_LINK = ''

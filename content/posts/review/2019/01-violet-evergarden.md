@@ -13,9 +13,10 @@ Summary:
 所以這一篇就出來了
 希望之後還有機會，再多發個幾篇
 
-![tv-screen]({static}/images/post-images/2019-07-30-violet-evergarden/15644747486828.jpg)
-
 <!--more-->
+
+![tv-screen]({filename}/images/post-images/2019-07-30-violet-evergarden/15644747486828.jpg)
+
 
 整體來說，紫羅蘭 的節奏很慢
 故事也算蠻平淡的
