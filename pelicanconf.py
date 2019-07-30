@@ -35,7 +35,7 @@ ARTICLE_SAVE_AS = 'posts/{category}/{date:%Y}/{date:%m}/{slug}/index.html'
 STATIC_PATHS = ['images', 'static']
 
 # Theme Setting
-THEME = 'Flex'
+THEME = 'theme/Flex'
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
