@@ -34,7 +34,6 @@ Then, this part is for you.
 
 另外，如果能多花一些時間跟當地的居民（工作人員）聊天，會有很棒的體驗哦！
 
-
 ## In Depth
 
 簡短版的攻略結束了
@@ -42,6 +41,7 @@ Then, this part is for you.
 文長慎入 XD
 
 ### 為什麼這麼早就能進去
+
 其實我真的是平時都待在台灣的一般人
 既不是美國的居民，也沒有在美國工作或唸書
 這次會進去真的就是天時地利人和啊！
@@ -72,6 +72,7 @@ Then, this part is for you.
 也許就像是 馬可多 說的是原力的指引吧 XD
 
 ### Before Entering
+
 原本在 Tomorrow Land 還好好的 **Star Trader**
 自從 **Star Wars: Galaxy's Edge** 開幕後，就多了很多可怕的商品...
 
@@ -98,7 +99,6 @@ Then, this part is for you.
 證明自己是第一批進入 **Star Wars: Galaxy's Edge** 的
 
 ![lanuch-bay-pin]({static}/images/post-images/2019-06-12-star-war-galaxys-edge-first-peek/15600524707767.jpg)
-
 
 在進場時間的前兩個小時就可以去 **Star Wars Launch Bay** Check-In
 接著會拿到這個手環
@@ -140,6 +140,7 @@ Then, this part is for you.
 ![IMG_3459]({static}/images/post-images/2019-06-12-star-war-galaxys-edge-first-peek/IMG_3459.jpg)
 
 ### Quick note for Star Wars: Galaxy's Edge
+
 **Star Wars: Galaxy's Edge** 跟其他園區不太一樣
 它不是一個 Star Wars 相關物的集大成
 而是它就是 Star Wars 的一部分
@@ -162,6 +163,7 @@ Then, this part is for you.
 說不定年底電影上映後， **Star Wars: Galaxy's Edge** 就會改變一些設定
 
 ### Savi's Workshop
+
 因為答應要幫 馬可多 帶一把光劍回來
 我第一個點就是去 **Savi's Workshop**
 
@@ -282,7 +284,8 @@ Hando 會根據你的表現扣掉 Falcon 的損傷給你獎賞
 但我對這個 Datapad 其實還是有點不懂 ＠＠
 在後面會來聊聊這個 Datapad
 
-### Dok-Ondar’s Den of Antiquities 
+### Dok-Ondar’s Den of Antiquities
+
 這裡主要是在賣道具和收藏品
 同樣會限制進去的人數，不過通常是不會排太久
 
@@ -329,6 +332,7 @@ Leia 的服裝
 不過品質我覺得都蠻不錯的
 
 ### Merchant Row
+
 一些主要的景點都走過後，就開始比較放鬆就只是在 **Batuu** 逛逛
 放慢腳步好好體驗後
 感受到自己真的就在 Star Wars 的世界中，真的很令人感動 QQ
@@ -361,6 +365,7 @@ Leia 的服裝
 結帳時店員也不會用 dollar ，而是用 credit （Star Wars 內的金錢都是用這個字）
 
 ### Food in Batuu
+
 當然在 **Batuu** 還是要試試看遙遠的銀河系的食物如何
 
 這間牛奶攤有賣電影中出現的 Blue Milk (A New Hope) 跟 Green Milk （The Last Jedi）
@@ -390,6 +395,7 @@ Leia 的服裝
 難怪進場前有聽到其他人說第一個就要去
 
 ### The First Order Cargo
+
 聽說 Strom trooper 跟 Kyle Ren 會在這裡出現
 但他們出現的時候，我好像完全在另一邊就錯過了
 
@@ -424,6 +430,7 @@ Leia 的服裝
 ![droid-depot]({static}/images/post-images/2019-06-12-star-war-galaxys-edge-first-peek/P1140522.jpg)
 
 ### Resistance Supply
+
 這個我就真的完全錯過了
 它跟 **Batuu** 其他地方離得最遠
 就是一開始進場 X-Wing 那附近
@@ -439,6 +446,7 @@ Rey 跟 Chewie 應該會最常出沒在這一帶
 ![X-Wing]({static}/images/post-images/2019-06-12-star-war-galaxys-edge-first-peek/P1140597.jpg)
 
 ### Datapad
+
 除了上面提到的地點以外
 還有另一個體驗是能透過 [Play Disney](https://disneyworld.disney.go.com/guest-services/play-app/) 這個 App 來跟現場互動
 進去後選到你所在的樂園中的 **Star Wars: Galaxy's Edge** ，會有一個 Datapad 的選項
@@ -470,6 +478,7 @@ Rey 跟 Chewie 應該會最常出沒在這一帶
 也算是跟其他同好互動的好設計（？？？
 
 ## 最後再來說點什麼
+
 我覺得 Disney 對 **Star Wars: Galaxy's Edge** 算是非常的用心
 好好用心的體驗的話，會真的覺得自己是來到一個遙遠的銀河系
 從廁所、餐廳、商店，每一個細節都做到最符合 Star Wars 的世界觀
@@ -503,7 +512,6 @@ Rey 跟 Chewie 應該會最常出沒在這一帶
 
 上次我有去 馬可多 的工作室聊了一下，這次去的心得
 有興趣的話可以看上次的直播 ([星戰樂園之華人第一人?](https://www.facebook.com/100000519888318/videos/2758235014203801/))
-
 
 > Till the Spire and may the Force be with you!
 
