@@ -4,19 +4,17 @@ Category: Review
 Tags: Animate
 Slug: violet-evergarden
 Authors: Lee-W
-Summary: 
+Summary:
 
-這算是我第一篇追番的心得文章
-我不是什麼專業的評論員，只是隨意寫寫自己的想法，請鞭小力一點 XD
+這是我第一篇的追番心得文
 其實一直都有想做這件事
 總覺得做了一件事還是要留下一些什麼
 所以這一篇就出來了
 希望之後還有機會，再多發個幾篇
 
+![tv-screen]({static}/images/post-images/2019-07-30-violet-evergarden/15644747486828.jpg){: class="col-md-6"}
+
 <!--more-->
-
-![tv-screen]({filename}/images/post-images/2019-07-30-violet-evergarden/15644747486828.jpg)
-
 
 整體來說，紫羅蘭 的節奏很慢
 故事也算蠻平淡的
