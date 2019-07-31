@@ -6,8 +6,8 @@ import sys
 import datetime
 
 from invoke import task
-from invoke.util import cd
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
+
 
 CONFIG = {
     # Local path configuration (can be absolute or relative to tasks.py)
@@ -19,6 +19,10 @@ CONFIG = {
     'port': 8000,
 }
 
+
+PELICAN_CMD = 'pipenv run pelican'
+
+
 @task
 def clean(c):
     """Remove generated files"""
@@ -26,20 +30,24 @@ def clean(c):
         shutil.rmtree(CONFIG['deploy_path'])
         os.makedirs(CONFIG['deploy_path'])
 
+
 @task
 def build(c):
     """Build local version of site"""
-    c.run('pelican -s pelicanconf.py')
+    c.run(f'{PELICAN_CMD} -s pelicanconf.py')
+
 
 @task
 def rebuild(c):
     """`build` with the delete switch"""
-    c.run('pelican -d -s pelicanconf.py')
+    c.run(f'{PELICAN_CMD} -d -s pelicanconf.py')
+
 
 @task
 def regenerate(c):
     """Automatically regenerate site upon file modification"""
-    c.run('pelican -r -s pelicanconf.py')
+    c.run(f'{PELICAN_CMD} -r -s pelicanconf.py', pty=True)
+
 
 @task
 def serve(c):
@@ -51,10 +59,12 @@ def serve(c):
     server = AddressReuseTCPServer(
         CONFIG['deploy_path'],
         ('', CONFIG['port']),
-        ComplexHTTPRequestHandler)
+        ComplexHTTPRequestHandler
+    )
 
     sys.stderr.write('Serving on port {port} ...\n'.format(**CONFIG))
     server.serve_forever()
+
 
 @task
 def reserve(c):
@@ -62,26 +72,23 @@ def reserve(c):
     build(c)
     serve(c)
 
+
 @task
 def preview(c):
     """Build production version of site"""
-    c.run('pelican -s publishconf.py')
+    c.run(f'{PELICAN_CMD} -s publishconf.py')
 
 
 @task
 def publish(c):
     """Publish to production via rsync"""
-    c.run('pelican -s publishconf.py')
-    c.run(
-        'rsync --delete --exclude ".DS_Store" -pthrvz -c '
-        '{} {production}:{dest_path}'.format(
-            CONFIG['deploy_path'].rstrip('/') + '/',
-            **CONFIG))
+    c.run(f'{PELICAN_CMD} -s publishconf.py')
+
 
 @task
-def gh_pages(c):
+def github(c):
     """Publish to GitHub Pages"""
     preview(c)
-    c.run('ghp-import -b {github_pages_branch} '
+    c.run('pipenv run ghp-import -b {github_pages_branch} '
           '-m {commit_message} '
           '{deploy_path} -p'.format(**CONFIG))
