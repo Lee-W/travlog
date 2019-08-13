@@ -16,6 +16,7 @@ RELATIVE_URLS = False
 
 
 MENUITEMS = (
+    ('About', '/travlog/about.html'),
     ('Archives', '/travlog/archives.html'),
     ('Categories', '/travlog/categories.html'),
     ('Tags', '/travlog/tags.html')
