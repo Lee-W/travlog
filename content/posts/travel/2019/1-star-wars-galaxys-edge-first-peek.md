@@ -4,7 +4,7 @@ Category: Travel
 Tags: Star Wars
 Slug: star-wars-galaxys-edge-first-peek
 Authors: Lee-W
-Summary: 
+Summary:
 
 今年 5/31 才在加州 Disney Land 開幕的 **Star Wars: Galaxy's Edge**
 我很幸運的預約到 6/1 8:00 p.m. ~ 12:00 a.m.
@@ -25,9 +25,9 @@ Then, this part is for you.
 2. **Oga's Cantina** 是酒吧，跟 **Savi's Workshop** 都是最熱門的點，而且一樣會限制入場人數  
    我過去的時候，他們已經說今晚不再讓人入場了 QQ  
    如果沒有要做光劍，或已經排到光劍了，就建議直接去排 **Oga's Cantina**
-1. **Dok-Ondar’s Den of Antiquities** 是賣道具和收藏品的商店，也算是需要稍微排隊的點
-2. **Smuggler's Run** 是目前唯一開放的遊樂設施，都來這了不可能沒跟 Millennium Falcon 打聲招呼吧 XD
-3. 再來就是放鬆享受樂園的氛圍到處走走吧！
+3. **Dok-Ondar’s Den of Antiquities** 是賣道具和收藏品的商店，也算是需要稍微排隊的點
+4. **Smuggler's Run** 是目前唯一開放的遊樂設施，都來這了不可能沒跟 Millennium Falcon 打聲招呼吧 XD
+5. 再來就是放鬆享受樂園的氛圍到處走走吧！
 
 進去之前，我會建議至少把 [Star Wars: Galaxy's Edge](https://disneyland.disney.go.com/destinations/disneyland/star-wars-galaxys-edge/) 裡面每一個點的介紹都看完
 你會在體驗每個點的時候，更有感受
@@ -71,7 +71,7 @@ Then, this part is for you.
 雖然說是天是地利人和，但其實也是一番坡折才有辦法進去的
 也許就像是 馬可多 說的是原力的指引吧 XD
 
-### Before Entering
+### 入場之前
 
 原本在 Tomorrow Land 還好好的 **Star Trader**
 自從 **Star Wars: Galaxy's Edge** 開幕後，就多了很多可怕的商品...
@@ -139,7 +139,7 @@ Then, this part is for you.
 
 ![IMG_3459]({static}/images/post-images/2019-06-12-star-war-galaxys-edge-first-peek/IMG_3459.jpg)
 
-### Quick note for Star Wars: Galaxy's Edge
+### Star Wars: Galaxy's Edge 概述
 
 **Star Wars: Galaxy's Edge** 跟其他園區不太一樣
 它不是一個 Star Wars 相關物的集大成
@@ -331,7 +331,7 @@ Leia 的服裝
 稍微大一點的大概就要 100 ~ 200 美元，當然更貴的也還有 XD
 不過品質我覺得都蠻不錯的
 
-### Merchant Row
+### 商店街
 
 一些主要的景點都走過後，就開始比較放鬆就只是在 **Batuu** 逛逛
 放慢腳步好好體驗後
@@ -364,7 +364,7 @@ Leia 的服裝
 刷卡機也做得比較像是 Star Wars 內的機器
 結帳時店員也不會用 dollar ，而是用 credit （Star Wars 內的金錢都是用這個字）
 
-### Food in Batuu
+### Batuu 的食物
 
 當然在 **Batuu** 還是要試試看遙遠的銀河系的食物如何
 
@@ -420,6 +420,7 @@ Leia 的服裝
 自己的破英文很難再聊多一點 QQ
 
 ### Mubo's Droid Depot
+
 這間店我並沒有待很久
 裡面大多是一些機器人相關的東西
 
