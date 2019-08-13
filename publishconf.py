@@ -10,13 +10,14 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
+
 SITEURL = 'https://lee-w.github.io/travlog'
 SITELOGO = '/travlog/images/avatar.jpg'
 RELATIVE_URLS = False
 
 
 MENUITEMS = (
-    ('About', '/travlog/about.html'),
+    ('About', '/travlog/pages/about.html'),
     ('Archives', '/travlog/archives.html'),
     ('Categories', '/travlog/categories.html'),
     ('Tags', '/travlog/tags.html')

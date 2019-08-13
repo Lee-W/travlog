@@ -22,7 +22,7 @@ DEFAULT_DATE_FORMAT = '%Y/%m/%d - %a'
 MAIN_MENU = True
 DEFAULT_PAGINATION = 10
 MENUITEMS = (
-    ('About', '/about.html'),
+    ('About', '/pages/about.html'),
     ('Archives', '/archives.html'),
     ('Categories', '/categories.html'),
     ('Tags', '/tags.html')
