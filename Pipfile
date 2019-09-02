@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 markdown = "*"
-pelican = "*"
+pelican = "==4.0.1"
 bs4 = "*"
 python-gettext = "*"
 ghp-import = "*"
