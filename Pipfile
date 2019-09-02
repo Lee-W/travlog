@@ -7,12 +7,12 @@ verify_ssl = true
 
 [packages]
 markdown = "*"
-mdx-del-ins = "*"
-pelican = "==4.0.1"
+pelican = "*"
 bs4 = "*"
 python-gettext = "*"
 ghp-import = "*"
 typogrify = "*"
+mdx-del-ins = {editable = true,git = "https://github.com/Lee-W/mdx_del_ins"}
 
 [requires]
 python_version = "3.7"
