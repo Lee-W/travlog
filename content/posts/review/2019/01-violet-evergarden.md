@@ -8,7 +8,7 @@ Summary:
 
 這是我第一篇的追番心得文
 其實一直都有想做這件事
-希望之後會持之以後，繼續發下去 XD
+希望之後會持之以恆，繼續發下去 XD
 
 ![tv-screen]({static}/images/post-images/2019-07-30-violet-evergarden/15644747486828.jpg){: width="80%"}
 
