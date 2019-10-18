@@ -7,25 +7,26 @@ from __future__ import unicode_literals
 
 import os
 import sys
+
 sys.path.append(os.curdir)
 from pelicanconf import *
 
 
-SITEURL = 'https://lee-w.github.io/travlog'
-SITELOGO = '/travlog/images/avatar.jpg'
+SITEURL = "https://lee-w.github.io/travlog"
+SITELOGO = "/travlog/images/avatar.jpg"
 RELATIVE_URLS = False
 
 
 MENUITEMS = (
-    ('About', '/travlog/pages/about.html'),
-    ('Archives', '/travlog/archives.html'),
-    ('Categories', '/travlog/categories.html'),
-    ('Tags', '/travlog/tags.html')
+    ("About", "/travlog/pages/about.html"),
+    ("Archives", "/travlog/archives.html"),
+    ("Categories", "/travlog/categories.html"),
+    ("Tags", "/travlog/tags.html"),
 )
 
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+FEED_ALL_ATOM = "feeds/all.atom.xml"
+CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
 DELETE_OUTPUT_DIRECTORY = True
 
