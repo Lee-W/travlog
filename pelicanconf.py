@@ -5,7 +5,7 @@ PATH = 'content'
 
 # Blog Conf
 AUTHOR = 'Lee-W'
-SITENAME = 'Life Lives in Traveling'
+SITENAME = 'Meet people around the world'
 SITEURL = 'http://localhost:8000'
 DISQUS_SITENAME = "lee-w-travlog"
 SITETITLE = AUTHOR
