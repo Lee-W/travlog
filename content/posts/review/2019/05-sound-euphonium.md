@@ -1,4 +1,4 @@
-Title: 吹響吧！上低音號 三部曲 (WIPg)
+Title: 吹響吧！上低音號 三部曲 (WIP)
 Date: 2019-10-29 16:00
 Category: Review
 Tags: Animate, Movie
