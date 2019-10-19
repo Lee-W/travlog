@@ -1,7 +1,7 @@
-Title: 吹響吧！上低音號 三部曲 (WIP)
-Date: 2019-10-17 00:00
+Title: 吹響吧！上低音號 三部曲 (WIPg)
+Date: 2019-10-29 16:00
 Category: Review
-Tags: Anime, Movie
+Tags: Animate, Movie
 Slug: sound-euphonium
 Authors: Lee-W
 Summary:
