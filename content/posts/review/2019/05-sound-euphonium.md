@@ -53,13 +53,11 @@ pray for kyoani
 結尾對是否有參加關西大賽資格的表現很有趣
 明明就很明顯得到資格了，但就是不願意明講 xD
 
-
 另外比較有趣的是，看到去年去宇治聖地巡禮去過的場景，也會特別有感
 
 ![kumiko]({static}/images/post-images/2019-10-29-sound-euphonium/15714945051422.jpg)
 ![yama-1]({static}/images/post-images/2019-10-29-sound-euphonium/15714945193298.jpg)
 ![yama-2]({static}/images/post-images/2019-10-29-sound-euphonium/15714945365664.jpg)
-
 
 ## 想傳達的旋律
 總覺得這一集的作畫好像比上一集好了不少
