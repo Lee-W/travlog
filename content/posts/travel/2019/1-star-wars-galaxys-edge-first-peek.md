@@ -504,7 +504,6 @@ Rey 跟 Chewie 應該會最常出沒在這一帶
 
 ![night batuu 3]({static}/images/post-images/2019-06-12-star-war-galaxys-edge-first-peek/P1140630.jpg)
 
-
 後來我發現真的有華人是開幕第一天就進去了 ([[迪士尼] 星際大戰園區搶先看!](http://ocgirl.net/galaxys-edge/))
 只是我還是因為第一個留言成功拿到 馬可多 的光劍 XD
 但我覺得我有可能是平時沒住在美國，第一個進去 **Star Wars: Galaxy's Edge** 的台灣人吧 XD

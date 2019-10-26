@@ -34,7 +34,6 @@ Series:
 Pray for Kyoani
 ![pray for kyoani]({static}/images/post-images/2019-10-25-sound-euphonium/15719707665942.jpg)
 
-
 各個篇章的心得，我就寫在最下面了
 
 [TOC]
