@@ -1,7 +1,7 @@
 Title: 紫羅蘭的永恆花園
 Date: 2019-07-30 16:27
 Category: Review
-Tags: Animate
+Tags: Animate, Kyoto Animation
 Slug: violet-evergarden
 Authors: Lee-W
 Summary:
