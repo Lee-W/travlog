@@ -2,12 +2,12 @@ Title: 紫羅蘭永恆花園外傳–永遠與自動手記人偶
 Date: 2019-11-05 19:00
 Category: review
 Tags: Animate, Movie, Kyoto Animation
-Slug: violet-evergarden-eternity-and-the-auto-memory-doll
+Slug: violet-evergarden-movie
 Authors: Lee-W
 Summary:
 Series:
 
-![ticket]({static}/images/post-images/2019-11-05-06-violet-evergarden-eternity-and-the-auto-memory-doll/ticket.jpg)
+![ticket]({static}/images/post-images/2019-11-05-06-violet-evergarden-movie/ticket.jpg)
 
 <!--more-->
 
@@ -62,7 +62,7 @@ Series:
 艾米的信被送達孤兒院時，泰勒還不會識字
 由貝內迪克特念給她聽薇爾莉特和艾米給她的信
 
-> 這是守護你的魔法咒語，只要呼喚一聲「艾咪」就行了。 
+> 這是守護你的魔法咒語，只要呼喚一聲「艾咪」就行了。
 
 再來到了三年後
 泰勒長大後來到薇爾莉特的公司
@@ -93,5 +93,3 @@ Series:
 謝謝京阿尼為我們帶來的這些美好
 Pray For Kyoani
 願京阿尼能再一次站起來，為我們帶來更多更好的作品
-
-
