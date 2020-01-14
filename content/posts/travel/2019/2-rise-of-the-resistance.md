@@ -1,4 +1,4 @@
-Title: Rise of the Resistance
+Title: Rise of the Resistance - 世界第一批體驗星戰新設施
 Date: 2019-12-10 11:27
 Category: Travel
 Tags: Star Wars, Galaxy's Edge

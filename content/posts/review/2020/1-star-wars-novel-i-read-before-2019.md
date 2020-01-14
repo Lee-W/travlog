@@ -1,4 +1,4 @@
-Title: 2019 前我看過的 Star Wars 小說
+Title: 2019 前我看過的 23 本 Star Wars 小說
 Date: 2020-01-05 11:37
 Category: Review
 Tags: Star Wars, Novel
