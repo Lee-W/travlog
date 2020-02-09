@@ -82,7 +82,7 @@ Boarding Group 好像是從 10 開始
 
 ![IMG_4979]({static}/images/post-images/2019-12-10-rise-of-the-resistance/IMG_4979.png)
 
-雖然他們說這個 Fass Past 只能用一次
+雖然他們說這個 Fast Pass 只能用一次
 但好像其實可以無限用，不知道是不是 Bug XD
 我聽到其他路人好像也是
 

@@ -139,7 +139,7 @@ Series:
 * 英文難度: 3.5 / 5
 * 時間點: EP 3 ~ EP 4 之間
 * 適合怎樣的人: 喜歡 Thrawn 跟 Eli ，想揭開 Chiss Ascendancy 面紗
-* 短評: 其實我還沒看完，但到目前還蠻滿意的，之後看完可能會再改評價。由 Tarkin 跟 Krennic 的政治鬥爭開始，這也是為什麼 Thrawn 在 Rebels 第四季會消失一段時間。原先離開帝國的 Eli 也會出現並扮演重要的角色，而謎一般的 Chiss Ascendancy 也會出現於故事當中， Thrawn 要怎麼在帝國和 Chiss Ascendancy 的忠誠中做抉擇
+* 短評: 由 Tarkin 跟 Krennic 的政治鬥爭開始，這也是為什麼 Thrawn 在 Rebels 第四季會消失一段時間。原先離開帝國的 Eli 也會出現並扮演重要的角色，而謎一般的 Chiss Ascendancy 也會出現於故事當中， Thrawn 要怎麼在帝國和 Chiss Ascendancy 的忠誠中做抉擇
 
 ### Catalyst: A Rogue One Novel
 * 個人評分: 8 / 10
