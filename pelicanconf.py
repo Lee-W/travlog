@@ -38,7 +38,6 @@ STATIC_PATHS = ["images", "static"]
 # Theme Setting
 THEME = "theme/Flex"
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
-EXTRA_PATH_METADATA = {"images": {"path": "images"}}
 PYGMENTS_STYLE = "default"
 CC_LICENSE = {"name": "Creative Commons Attribution-ShareAlike", "version": "4.0", "slug": "by-sa"}
 
