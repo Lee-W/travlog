@@ -11,7 +11,7 @@ DISQUS_SITENAME = "lee-w-travlog"
 SITETITLE = AUTHOR
 SITELOGO = "/images/avatar.jpg"
 BROWSER_COLOR = "#333333"
-HEADER_COVER = "images/cover.jpeg"
+HEADER_COVER = "/images/cover.jpeg"
 
 # Locale
 TIMEZONE = "Asia/Taipei"
