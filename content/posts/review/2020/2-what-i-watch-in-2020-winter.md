@@ -68,6 +68,8 @@ Authors: Lee-W
 每一個配角都有自己協助或反對的主角原因，各自也有其背後的故事
 當然還有一個原因，就是昴真的太吵了＠＠
 
+![re-zero]({static}/images/post-images/2020-04-23-what-i-watch-in-2020-winter/re-zero.jpeg)
+
 ### 理科生墜入情網，故嘗試證明。
 * 觀看平台: [bilibili](https://www.bilibili.com/bangumi/media/md28226765/)
 
