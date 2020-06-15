@@ -11,6 +11,7 @@ DISQUS_SITENAME = "lee-w-travlog"
 SITETITLE = AUTHOR
 SITELOGO = "/images/avatar.jpg"
 BROWSER_COLOR = "#333333"
+HEADER_COVER = "images/cover.jpeg"
 
 # Locale
 TIMEZONE = "Asia/Taipei"
@@ -36,7 +37,7 @@ ARTICLE_SAVE_AS = "posts/{category}/{date:%Y}/{date:%m}/{slug}/index.html"
 STATIC_PATHS = ["images", "static"]
 
 # Theme Setting
-THEME = "theme/Flex"
+THEME = "theme/attila"
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
 PYGMENTS_STYLE = "default"
 CC_LICENSE = {"name": "Creative Commons Attribution-ShareAlike", "version": "4.0", "slug": "by-sa"}

@@ -1,6 +1,6 @@
 [submodule "pelican-plugins"]
 	path = pelican-plugins
 	url = https://github.com/Lee-W/pelican-plugins
-[submodule "theme/Flex"]
-	path = theme/Flex
-	url = https://github.com/Lee-W/Flex
+[submodule "theme/attila"]
+	path = theme/attila
+	url = https://github.com/Lee-W/attila
