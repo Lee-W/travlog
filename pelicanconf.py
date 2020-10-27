@@ -40,7 +40,11 @@ STATIC_PATHS = ["images", "static"]
 THEME = "theme/attila"
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
 PYGMENTS_STYLE = "default"
-CC_LICENSE = {"name": "Creative Commons Attribution-ShareAlike", "version": "4.0", "slug": "by-sa"}
+CC_LICENSE = {
+    "name": "Creative Commons Attribution-ShareAlike",
+    "version": "4.0",
+    "slug": "by-sa",
+}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -64,11 +68,17 @@ MARKDOWN = {
         "markdown.extensions.codehilite": {"css_class": "highlight"},
         "markdown.extensions.nl2br": {},
         "toc": {},
+        "markdown_del_ins": {}
     },
     "output_format": "html5",
 }
 
 # Plugin-setting
 PLUGIN_PATHS = ["pelican-plugins"]
-PLUGINS = ["another_read_more_link", "share_post", "i18n_subsites", "post_stats"]
+PLUGINS = [
+    "another_read_more_link",
+    "share_post",
+    "i18n_subsites",
+    "post_stats",
+]
 ANOTHER_READ_MORE_LINK = ""
