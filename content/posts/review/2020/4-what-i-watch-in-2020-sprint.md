@@ -258,7 +258,7 @@ Read More 👉 [「聲之形」原畫集開箱](https://lee-w.github.io/travlog/
 原本只想再刷這部，因為連著就順便刷了「吹響吧！上低音號～歡迎加入北宇治高中管樂社」
 沒想到就連其他兩部都一起刷了...
 
-其他的心得就看我之前寫的 [吹響吧！上低音號 三部曲](https://lee-w.github.io/travlog/posts/review/2019/10/sound-euphonium/) 
+其他的心得就看我之前寫的 [吹響吧！上低音號 三部曲](https://lee-w.github.io/travlog/posts/review/2019/10/sound-euphonium/)
 
 ### 吹響吧！上低音號～莉茲與青鳥 （重映）
 * 觀看平台: 樂聲影城 2 廳
@@ -317,7 +317,7 @@ Read More 👉 [「聲之形」原畫集開箱](https://lee-w.github.io/travlog/
 結尾的演奏斷斷續續的剪接其實不是很好
 還好在這次的錯誤後，往後每一部劇場版都是完整的演奏
 
-👉 [吹響吧！上低音號 三部曲](https://lee-w.github.io/travlog/posts/review/2019/10/sound-euphonium/) 
+👉 [吹響吧！上低音號 三部曲](https://lee-w.github.io/travlog/posts/review/2019/10/sound-euphonium/)
 
 ### 紫羅蘭永恆花園外傳－永遠與自動手記人偶
 * 觀看平台: [Netflix](https://www.netflix.com/tw/title/81208936)
@@ -375,7 +375,7 @@ Read More 👉 [「聲之形」原畫集開箱](https://lee-w.github.io/travlog/
 吉普力的作品中，我好像還是比較喜歡[高畑勳](https://zh.wikipedia.org/zh-tw/%E9%AB%98%E7%95%91%E5%8B%B3)導演的作品
 
 ### 企鵝公路
-* 觀看平台: [巴哈姆特動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=14390) 
+* 觀看平台: [巴哈姆特動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=14390)
 
 這是一部蠻奇幻的作品，所以不要探究太多的細節設定
 好好享受這部作品，可能還是比較好的觀看方式 XD
@@ -390,4 +390,3 @@ Read More 👉 [「聲之形」原畫集開箱](https://lee-w.github.io/travlog/
 結果來說我蠻失望的
 故事的節奏、角色的情感改變，我都看不太懂
 雖然能抓到「魔法公主」想傳遞的內容，但劇情上我真的抓不到
-

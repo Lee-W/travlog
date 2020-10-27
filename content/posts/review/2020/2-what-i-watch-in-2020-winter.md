@@ -21,7 +21,7 @@ Authors: Lee-W
 [TOC]
 
 ## 新番
-### 別對映像研出手！ 
+### 別對映像研出手！
 * 觀看平台: [巴哈姆特動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=14455)
 
 這是冬季新番中我最期待的作品，最後一點辜負我的期待

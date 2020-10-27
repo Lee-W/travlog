@@ -30,7 +30,7 @@ Authors: Lee-W
 
 封底還會有一張替換用（？）的封底
 ![P1160674]({static}/images/post-images/20200615-koe-no-katachi-original-painting-unboxing/P1160674.jpeg)
-  
+
 封面是橋上的 `約定好了`
 ![P1160688]({static}/images/post-images/20200615-koe-no-katachi-original-painting-unboxing/P1160688.jpeg)
 
