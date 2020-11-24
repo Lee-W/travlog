@@ -73,7 +73,6 @@ Cover: /images/post-images/2020-emiya-s-salmon/anime 2.png
 
 ![step 5]({static}/images/post-images/2020-emiya-s-salmon/step 5.jpg)
 
-
 > 放入鮭魚和鴻禧菇
 > 最後放上奶油
 
@@ -93,7 +92,6 @@ Cover: /images/post-images/2020-emiya-s-salmon/anime 2.png
 ![step 9]({static}/images/post-images/2020-emiya-s-salmon/step 9.jpg)
 
 > 最後用洋香菜點綴
-
 
 最後就完成了！！！
 
