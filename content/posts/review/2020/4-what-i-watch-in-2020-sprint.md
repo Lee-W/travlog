@@ -341,7 +341,6 @@ Read More 👉 [「聲之形」原畫集開箱](https://lee-w.github.io/travlog/
 
 > Explosion!
 
-
 ### 春宵苦短，少女前進吧！
 * 觀看平台: [巴哈姆特動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=14744)
 

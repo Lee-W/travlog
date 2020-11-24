@@ -37,9 +37,7 @@ Authors: Lee-W
 封底是橋上的 `朋友`
 ![P1160689]({static}/images/post-images/20200615-koe-no-katachi-original-painting-unboxing/P1160689.jpeg)
 
-
 ![P1160739]({static}/images/post-images/20200615-koe-no-katachi-original-painting-unboxing/P1160739.JPG)
-
 
 硝子剛進場拿出筆記本
 這邊我我還蠻希望能有硝子拿起筆記本的 Frame
