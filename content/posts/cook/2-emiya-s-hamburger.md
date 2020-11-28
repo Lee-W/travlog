@@ -1,7 +1,7 @@
 Title: 衛宮家的漢堡排
 Date: 2020-11-24 22:26
 Category: Cook
-Tags: Fate
+Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-hamburger
 Authors: Lee-W
 Cover: {static}/images/post-images/2020-emiya-s-hamburger/anime-finish.png
