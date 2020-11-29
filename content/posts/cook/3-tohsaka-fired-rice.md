@@ -1,5 +1,6 @@
 Title: 遠坂流什錦炒飯
 Date: 2020-11-28 16:54
+Modified: 2020-11-29 23:28
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: tohsaka-fired-rice
@@ -35,6 +36,11 @@ Cover: /images/post-images/2020-tohsaka-fired-rice/anime-finish.png
 酒在實際上有用得比食譜建議的多
 最後炒出來味道偏淡
 平常吃比較鹹的人，醬油可以考慮加到 1 大匙甚至更多
+
+另外需要注意的一點是原作建議要用熱的飯來炒飯
+如果是隔夜飯也建議先熱過
+雖然台灣炒飯一般建議要用隔夜飯才會粒粒分明
+但凜畢竟不是台灣人，用不同的作法應該也很合理吧 XD
 
 ![step-1]({static}/images/post-images/2020-tohsaka-fired-rice/step-1.jpg)
 
