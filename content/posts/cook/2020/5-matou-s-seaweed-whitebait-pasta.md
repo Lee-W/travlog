@@ -1,5 +1,6 @@
 Title: 間桐家的海藻吻仔魚義大利麵
 Date: 2020-12-20 17:21
+Modified: 2020-12-24 15:53
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: matou-s-seaweed-whitebait-pasta
@@ -77,9 +78,6 @@ Rider 出門幫小櫻買菜，剛好遇到了士郎
 
 把義大利麵跟海藻也加入拌炒，繼續攪拌混合所有的食材
 大概炒 30秒 ~ 1 分鐘後，將醬油沿著鍋緣倒入，並將所有食材攪拌均勻
-
-*我也不知道發生什麼事，這張照片才會拍成這樣*
-*不過看起來很動感，很有攪拌的感覺（？？？），我就留下來了*
 
 ![step-6]({static}/images/post-images/2020-matou-s-seaweed-whitebait-pasta/step-6.jpeg)
 
