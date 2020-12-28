@@ -4,7 +4,7 @@ Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: roast-beef-in-einzbern-castle
 Authors: Lee-W
-Cover:
+Cover: /images/post-images/2020-roast-beef-in-einzbern-castle/finish-with-anime.jpeg
 
 說到聖誕節，要重現的當然是第 11 話的用平底鍋就能做的烤牛肉
 ([動畫第 12 話](https://ani.gamer.com.tw/animeVideo.php?sn=16738))
