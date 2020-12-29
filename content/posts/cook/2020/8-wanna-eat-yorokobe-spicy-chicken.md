@@ -98,7 +98,6 @@ Cover: /images/post-images/2020-wanna-eat-yorokobe-spicy-chicken/finish.jpeg
 
 維持小火，並加入辣椒（還不用加入辣椒籽）
 炒到辣椒變成亮紅色，並飄出香氣和辣味，就能進到下一步
-直到辣椒變成輛紅色，並炒出香氣和辣味
 
 ![step-10]({static}/images/post-images/2020-wanna-eat-yorokobe-spicy-chicken/step-10.jpeg)
 
