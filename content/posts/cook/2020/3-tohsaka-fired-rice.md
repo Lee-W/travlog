@@ -1,6 +1,6 @@
 Title: 遠坂流什錦炒飯
 Date: 2020-11-28 16:54
-Modified: 2020-11-29 23:28
+Modified: 2020-12-31 12:21
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: tohsaka-fired-rice
@@ -22,6 +22,7 @@ Cover: /images/post-images/2020-tohsaka-fired-rice/anime-finish.png
 | 叉燒 | 100g |
 | 魚板 | 1/2 條 |
 | 青椒 | 1 個 |
+| 紅蘿蔔 | 1/2 根 |
 | 長蔥 | 1 根 |
 | 鹽、胡椒 | 少許 |
 | 酒 | 1 大匙 |
@@ -82,10 +83,19 @@ Cover: /images/post-images/2020-tohsaka-fired-rice/anime-finish.png
 
 ![anime-finish]({static}/images/post-images/2020-tohsaka-fired-rice/anime-finish.png)
 
+
 漫畫看起來就只有炒飯一道菜，動畫則是多了一個配菜一個湯
 
 湯看起來應該就是玉米濃湯
 菜的話好像是干絲、木耳、紅蘿蔔、葉菜類（應該都可？）
 干絲好像要去傳統市場買比較買得到
 木耳我倒是也買了
-只是後來線上演唱會要開始了，這道配菜跟湯就來不及做了 XD
+只是後來線上演唱會要開始了，這道配菜跟湯就來不及做了 ＸＤ
+
+---
+
+記錄一下後來做的一人份跟原作的比較圖 ＸＤ
+
+![finish-with-comic]({static}/images/post-images/2020-tohsaka-fired-rice/finish-with-comic.jpeg)
+
+![finish-with-anime]({static}/images/post-images/2020-tohsaka-fired-rice/finish-with-anime.jpeg)
