@@ -34,7 +34,7 @@ Cover:
 | 沙拉油 | 適量 |
 | 砂糖 | 2 大匙 |
 | 味琳 | 2 大匙 |
-| 酒 ｜ 1 大匙 |
+| 酒  | 1 大匙 |
 | 高湯 | 適量 |
 
 ![material]({static}/images/post-images/2020-emiya-s-potato-stew/material.jpg)
