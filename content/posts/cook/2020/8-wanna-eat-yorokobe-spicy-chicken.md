@@ -1,5 +1,6 @@
 Title: 要吃嗎？ 令人愉悅的香辣辣子雞
 Date: 2020-12-29 17:40
+Modified: 2021-01-07 16:04
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: wanna-eat-yorokobe-spicy-chicken
@@ -24,12 +25,12 @@ Cover: /images/post-images/2020-wanna-eat-yorokobe-spicy-chicken/finish.jpeg
 | 食材 | 份量 |
 |---|---|
 | 雞腿肉 | 1 片 |
-| 太白粉 | 3 大匙 |
+| 太白粉 | 1.5 大匙 |
 | 長蔥 | 1 根 |
 | 薑 | 1 片 (10 g) |
 | 蒜頭 | 2 瓣 |
 | 乾辣椒 | 5 ~ 10g |
-| 沙拉油 | 5 大匙 |
+| 沙拉油 | 2.5 大匙 |
 | 去皮花生 | 30 g |
 | 花椒 | 1 小匙 |
 | 白芝麻 | 適量 |
