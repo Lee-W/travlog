@@ -5,6 +5,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-omelet
 Authors: Lee-W
 Cover:
+Status: draft
 
 ## 材料 (2 人份)
 
