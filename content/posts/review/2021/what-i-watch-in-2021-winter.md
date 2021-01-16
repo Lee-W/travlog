@@ -1,7 +1,7 @@
 Title: 2021 冬季看什麼
 Date: 2021-01-01 12:50
 Category: Review
-Tags: Animate
+Tags: Animate, 當季看什麼
 Slug: what-i-watch-in-2021-winter
 Authors: Lee-W
 Status: draft
@@ -9,7 +9,38 @@ Status: draft
 [TOC]
 
 ## 新番
+###「進撃的巨人」The Final Season
+* 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=19849)
 
+### 搖曳露營△ 第二季
+* 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=20555)
+
+### 工作細胞 Black
+* 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=20610)
+
+### 暮蟬悲鳴時 業
+* 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=18421)
+
+### 約定的夢幻島 第二季
+* 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=20561)
+
+### 工作細胞 第二季
+* 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=20608)
+
+### 堀與宮村
+* 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=20612)
+
+### Re：從零開始的異世界生活 第二季
+* 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=20528)
+
+### PUI PUI 天竺鼠車車
+* 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=20454)
+
+### 天地創造設計部
+* 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=20557)
+
+### 關於我轉生成史萊姆這檔事 第二季 第一部
+* 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=20530)
 
 ## 舊番
 ### 東京地震 8.0
@@ -32,12 +63,30 @@ Status: draft
 順帶一提 Hami Video 上這部並不支援電視投放
 有這個需求的人建議在其他平台觀看 (e.g., [myVideo](https://www.myvideo.net.tw/details/3/3316))
 
-## 動畫電影
-### 妄想代理人
-* 觀看平台:
-    * 前篇: 京站威秀 5 廳
+### 富豪刑事 Balance:UNLIMITED
+* 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=15246)
 
-![paranoia-agent-1](/images/post-images/2021-what-i-watch-in-2021-winter/paranoia-agent-1.jpeg)
+當初會注意到這部只是因為室友想看
+原本以為會是一部腐劇，不過腐的部分好像不是太多就是
+
+故事是超級有錢人神戶大助
+有一點像是爽片
+
+但前幾集更像是搞笑作品
+看得也蠻開心的
+到了中間終於開始認真講故事
+最後的結尾算是有趣，但有一些地方我有點吃不下去＠＠
+
+### 來自風平浪靜的明日
+* 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=196)
+
+### 齊木楠雄的災難
+* 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=14957)
+
+原來換首 OP ，體感真的差很多
+OP 1 真的很不適合
+
+## 動畫電影
 
 ### 動畫版 我想吃掉你的胰臟
 * 觀看平台: [Hami Video](https://hamivideo.hinet.net/hamivideo/product/112782.do?cs=2)
@@ -60,3 +109,13 @@ Status: draft
 尤其是片尾曲的 [春夏秋冬](https://www.youtube.com/watch?v=BRXQHm8FVx8&t=21s)
 
 > 對你來說，活著的意義是什麼
+
+### 妄想代理人
+* 觀看平台
+    * 前篇： 京站威秀 5 廳
+    * 後篇： 信義威秀 17 廳
+
+![paranoia-agent-1](/images/post-images/2021-what-i-watch-in-2021-winter/paranoia-agent-1.jpeg)
+![paranoia-agent-2](/images/post-images/2021-what-i-watch-in-2021-winter/paranoia-agent-2.jpeg)
+痾...
+我看不懂...
