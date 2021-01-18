@@ -119,3 +119,6 @@ OP 1 真的很不適合
 ![paranoia-agent-2](/images/post-images/2021-what-i-watch-in-2021-winter/paranoia-agent-2.jpeg)
 痾...
 我看不懂...
+
+### 知道天空有多藍的人啊
+* 觀看平台： [HamiVideo](https://hamivideo.hinet.net/hamivideo/product/132004.do?cs=1)
