@@ -36,7 +36,7 @@ Cover: /images/post-images/2021-caster-s-syogayaki/finish.jpeg
 | 豆苗 | 適量 |
 | 番茄 | 1 個 |
 
-![material](/images/post-images/2021-caster-s-syogayaki/material.jpeg)
+![material]({static}/images/post-images/2021-caster-s-syogayaki/material.jpeg)
 
 ## 步驟
 先把薑連同皮一起磨成泥
@@ -46,30 +46,30 @@ Cover: /images/post-images/2021-caster-s-syogayaki/finish.jpeg
 比較厚的豬肉片需要先把筋切斷
 接著把麵粉灑在豬肉的兩面（不用太厚）
 
-![step-1](/images/post-images/2021-caster-s-syogayaki/step-1.jpeg)
+![step-1]({static}/images/post-images/2021-caster-s-syogayaki/step-1.jpeg)
 
 倒入油，以小火將肉的兩面稍微煎過，就可以先起鍋備用
 
-![step-2](/images/post-images/2021-caster-s-syogayaki/step-2.jpeg)
-![step-3](/images/post-images/2021-caster-s-syogayaki/step-3.jpeg)
+![step-2]({static}/images/post-images/2021-caster-s-syogayaki/step-2.jpeg)
+![step-3]({static}/images/post-images/2021-caster-s-syogayaki/step-3.jpeg)
 
 在剛剛炒過肉的鍋子中加入前面調配的醬汁，煮到有點濃稠
 之後加入生薑泥
 
-![step-4](/images/post-images/2021-caster-s-syogayaki/step-4.jpeg)
+![step-4]({static}/images/post-images/2021-caster-s-syogayaki/step-4.jpeg)
 
 將剛剛煎過的肉放入鍋中，開大火並且讓肉都沾到醬汁
 稍微煎個 1 ~ 2 分鐘就可以起鍋
 
-![step-5](/images/post-images/2021-caster-s-syogayaki/step-5.jpeg)
+![step-5]({static}/images/post-images/2021-caster-s-syogayaki/step-5.jpeg)
 
-![step-6](/images/post-images/2021-caster-s-syogayaki/step-6.jpeg)
+![step-6]({static}/images/post-images/2021-caster-s-syogayaki/step-6.jpeg)
 
 最後將裝飾用的高麗菜絲、豆苗、番茄擺上，這道料理就完成了！
 
 ## 完成
 
-![finish](/images/post-images/2021-caster-s-syogayaki/finish.jpeg)
+![finish]({static}/images/post-images/2021-caster-s-syogayaki/finish.jpeg)
 
 當初想先來嘗試這道菜，只是因為食材看起來不難處理
 沒想到它意外的很好吃 😋
