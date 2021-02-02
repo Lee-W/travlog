@@ -24,7 +24,7 @@ Hi, 我是 Wei
 | [衛宮家的馬鈴薯燉肉]({filename}/posts/cook/2020/4-emiya-s-potato-stew.md) | | 23 | |
 | [衛宮家的玉子燒]({filename}/posts/cook/2021/2-emiya-s-omelet.md) | | 21 | |
 | [Caster 的軟嫩薑燒豬肉]({filename}/posts/cook/2021/3-caster-s-syogayaki.md) | 4 | 26 | |
-| 走到森林裡，然後去找核桃 - 核桃布朗尼 | | 28 | |
+| [走到森林裡，然後去找核桃 - 核桃布朗尼]({filename}/posts/cook/2021/4-sara-s-walnut-brownie.md) | | 28 | |
 | 衛宮家的豬肉味噌湯 | | 29 | |
 | 衛宮家的暖呼呼烏龍麵 | | 30 | |
 | [要吃嗎？ 令人愉悅的香辣辣子雞]({filename}/posts/cook/2020/8-wanna-eat-yorokobe-spicy-chicken.md) | 5 | 33 | |
