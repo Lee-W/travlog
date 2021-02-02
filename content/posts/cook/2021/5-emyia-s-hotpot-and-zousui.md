@@ -7,6 +7,9 @@ Authors: Lee-W
 Cover:
 Status: draft
 
+## 材料
+
+## 步驟
 ![step-1](/images/post-images/2021-emiya-s-hotpot-and-zousui/step-1.jpeg)
 ![step-2](/images/post-images/2021-emiya-s-hotpot-and-zousui/step-2.jpeg)
 ![step-3](/images/post-images/2021-emiya-s-hotpot-and-zousui/step-3.jpeg)
