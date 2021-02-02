@@ -7,7 +7,10 @@ Authors: Lee-W
 Cover:
 Status: draft
 
+## 材料
 ![material](/images/post-images/2021-emiya-south-eastern-style-curry/material.jpeg)
+
+## 步驟
 ![step-1](/images/post-images/2021-emiya-south-eastern-style-curry/step-1.jpeg)
 ![step-2](/images/post-images/2021-emiya-south-eastern-style-curry/step-2.jpeg)
 ![step-3](/images/post-images/2021-emiya-south-eastern-style-curry/step-3.jpeg)
