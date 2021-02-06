@@ -1,5 +1,6 @@
 Title: 走到森林裡，然後去找核桃 - 核桃布朗尼
 Date: 2021-02-02 22:58
+Modified: 2021-02-07 01:06
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: sara-s-walnut-brownie
@@ -24,7 +25,7 @@ Cover: /images/post-images/2021-sara-s-walnut-brownie/finish-comic-1.jpeg
 不過非常不精準就是了，請斟酌參考
 
 ## 材料
-* 預估成本： 250 元
+* 預估成本： 300 元
 
 | 食材 | 份量 |
 |---|---|
@@ -64,7 +65,7 @@ Cover: /images/post-images/2021-sara-s-walnut-brownie/finish-comic-1.jpeg
 ![step-1]({static}/images/post-images/2021-sara-s-walnut-brownie/step-1.jpeg)
 
 ## 步驟
-* 預估製作時間： 一小時
+* 預估製作時間： 2 小時
 
 將核桃分成混入麵糊用跟裝飾用，裝飾用的要比混入麵糊的多一些
 （約麵糊 3: 裝飾 5）
