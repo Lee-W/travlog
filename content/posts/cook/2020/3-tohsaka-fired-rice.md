@@ -83,7 +83,6 @@ Cover: /images/post-images/2020-tohsaka-fired-rice/anime-finish.png
 
 ![anime-finish]({static}/images/post-images/2020-tohsaka-fired-rice/anime-finish.png)
 
-
 漫畫看起來就只有炒飯一道菜，動畫則是多了一個配菜一個湯
 
 湯看起來應該就是玉米濃湯

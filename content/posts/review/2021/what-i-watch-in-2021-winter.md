@@ -20,14 +20,13 @@ Status: draft
 [TOC]
 
 ## 新番
-###「進撃的巨人」The Final Season
+### 「進撃的巨人」The Final Season
 * 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=19849)
 
 眾人期待已久的巨人最終季，也是霸權社 WIT 第一次不接手製作巨人
 雖然很多人說 MAPPA 做得不好
 但我還是看得蠻享受的
 反倒覺得是載體不同所造成的
-
 
 ### 搖曳露營△ 第二季
 * 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=20555)
@@ -157,6 +156,9 @@ OP 1 真的很不適合
 片尾用滿滿的後日談配上片尾曲「蒼のワルツ」
 最後再用喬瑟的畫為這個故事劃上句點
 
+### 夏日大作戰
+* 觀看平台： [Netflix](https://www.netflix.com/tw/title/70134425)
+
 ### 千年女優
 * 觀看平台： 京站威秀 7 廳
 
@@ -265,8 +267,11 @@ Netflix 每次都要跳我 ED，我真的很困擾ˊˋ
 Book Walker 真是個恐怖的平台...
 自從買了 Fate/Zero 漫畫後，每次看到大打折就會忍不住刷一下......
 
-### Fate/Zero （漫畫）
-* 觀看平台: [Book Walker](https://www.bookwalker.com.tw/search?series=184)
+### 逃避雖可恥但有用 特別篇（日劇）
+* 觀看平台： [kktv](https://www.kktv.me/titles/01000190)
+
+### Fate/Zero（漫畫）
+* 觀看平台： [Book Walker](https://www.bookwalker.com.tw/search?series=184)
 
 比起動畫跟小說，漫畫前期的表現並沒有特別優秀
 畫風上有點微妙

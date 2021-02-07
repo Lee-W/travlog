@@ -25,7 +25,6 @@ Cover:
 
 ![material]({static}/images/post-images/2020-saber-s-pancake/material.jpeg)
 
-
 ## 步驟
 將蛋、牛奶、優格倒進盆子裡
 ![step-1]({static}/images/post-images/2020-saber-s-pancake/step-1.jpeg)
@@ -48,7 +47,6 @@ Cover:
 原作中還有個步驟是要放濕布在鍋子上 1~2 秒，讓鍋子的溫度平均
 但其他食譜好像沒這麼做
 我手邊也沒適合的布，就跳過這步了
-
 
 先開小～中火
 將麵糊用一湯勺的量，大概在 30 cm 高的位置倒下去

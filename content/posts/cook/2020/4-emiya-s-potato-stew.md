@@ -97,7 +97,6 @@ Cover:
 
 ![step-13]({static}/images/post-images/2020-emiya-s-potato-stew/step-13.jpeg)
 
-
 *煮到快乾大概會像這樣*
 *後來我加了一些高湯回去再加熱一下*
 
