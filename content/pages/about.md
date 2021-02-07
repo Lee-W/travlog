@@ -12,7 +12,7 @@ Hi, 我是 Wei
 
 | | 漫畫單行本 | 回數 | 動畫集數 |
 | --- | --- | --- | --- |
-| 衛宮家的暖呼呼火鍋和雜炊粥 | 1 | 1 | 13 |
+| [衛宮家的暖呼呼火鍋和雜炊粥]({filename}/posts/cook/2021/5-emyia-s-hotpot-and-zousui.md) | 1 | 1 | 13 |
 | [衛宮家的鋁箔悶燒鮭魚]({filename}/posts/cook/2020/1-emiya-s-salmon.md) |  | 2 | 2 |
 | [衛宮家的漢堡排]({filename}/posts/cook/2020/2-emiya-s-hamburger.md) | | 6 | 6 |
 | [遠坂流什錦炒飯]({filename}/posts/cook/2020/3-tohsaka-fired-rice.md) | | 8 | 8 |
