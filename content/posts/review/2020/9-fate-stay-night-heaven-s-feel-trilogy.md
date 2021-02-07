@@ -73,7 +73,6 @@ Cover: /images/post-images/2020-fsn-hf/ticket-3.jpg
 
 ![ticket-3]({static}/images/post-images/2020-fsn-hf/ticket-3.jpg)
 
-
 ## 關於電影本身
 這次連貫著看完三部劇場版，比起以前注意到更多的細節
 像是小櫻提到英雄或崇拜的角色，都會下意識摸著凛送的髮帶

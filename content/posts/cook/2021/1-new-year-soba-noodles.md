@@ -117,7 +117,6 @@ Cover: /images/post-images/2021-new-year-soba-noodles/finish-with-saber.jpeg
 在蝦子腹部側切出 5 個 1/3 深的刀痕
 讓腹部朝下，壓到沒有聽到筋被壓斷的聲音為止
 
-
 混合蛋、冷水、高筋麵粉製作麵衣
 以縱向切開它的方式攪拌
 
@@ -140,7 +139,6 @@ Cover: /images/post-images/2021-new-year-soba-noodles/finish-with-saber.jpeg
 記得要濾掉蝦子的油
 
 ![shrimp-step-7]({static}/images/post-images/2021-new-year-soba-noodles/shrimp-step-7.jpeg)
-
 
 ### 麵和其他
 先將醬汁跟高湯混合，稍微加熱

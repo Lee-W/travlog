@@ -6,7 +6,6 @@ Slug: revisit-galaxy-s-edge
 Authors: Lee-W
 Status: draft
 
-
 為了避免還沒看完我攏長的心得就錯過了小技巧
 我把它們放在文章的開頭了
 
@@ -52,13 +51,8 @@ Status: draft
 而且只有 Galaxy's Edge 內部才買得到
 ![spira](images/post-images/revist-galaxy-s-edge/15795954725599.jpg)
 
-
-
-
-
 ![](images/post-images/revist-galaxy-s-edge/15795954513060.jpg)
 ![](images/post-images/revist-galaxy-s-edge/15795954834126.jpg)
-
 
 ![](images/post-images/revist-galaxy-s-edge/15795954896293.jpg)
 ![](images/post-images/revist-galaxy-s-edge/15795954954937.jpg)
@@ -82,10 +76,7 @@ Status: draft
 ![](images/post-images/revist-galaxy-s-edge/15795957805389.jpg)
 ![](images/post-images/revist-galaxy-s-edge/15795957917564.jpg)
 
-
-
 ![6931f7cc5d14f53a7afe34ade8d2d5f0](images/post-images/revist-galaxy-s-edge/6931f7cc5d14f53a7afe34ade8d2d5f0.jpeg)
-
 
 ---
 第一站就跑去 Smuggler’s Run
