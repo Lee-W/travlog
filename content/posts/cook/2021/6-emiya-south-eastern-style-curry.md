@@ -66,7 +66,7 @@ Cover: /images/post-images/2021-emiya-south-eastern-style-curry/finish.jpeg
 
 ![step-3]({static}/images/post-images/2021-emiya-south-eastern-style-curry/step-3.jpeg)
 
-等到肌肉表面變白，而且有焦香色後，放入甜椒、南瓜、玉米
+等到雞肉表面變白，而且有焦香色後，放入甜椒、南瓜、玉米
 （我也不知道焦香色是什麼顏色，但大概就是有點焦的感覺吧我猜 🤔）
 
 ![step-4]({static}/images/post-images/2021-emiya-south-eastern-style-curry/step-4.jpeg)
