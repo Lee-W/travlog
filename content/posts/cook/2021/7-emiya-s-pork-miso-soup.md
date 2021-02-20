@@ -57,7 +57,7 @@ Cover: /images/post-images/2021-emiya-s-pork-miso-soup/finish.jpeg
 ![step-2]({static}/images/post-images/2021-emiya-s-pork-miso-soup/step-2.jpeg)
 ![step-3]({static}/images/post-images/2021-emiya-s-pork-miso-soup/step-3.jpeg)
 
-豬肉炒熟之後，將板豆腐般成小塊加進去
+豬肉炒熟之後，將板豆腐扳成小塊加進去
 
 ![step-4]({static}/images/post-images/2021-emiya-s-pork-miso-soup/step-4.jpeg)
 
