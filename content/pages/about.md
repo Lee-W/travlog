@@ -26,6 +26,6 @@ Hi, 我是 Wei
 | [衛宮家的玉子燒]({filename}/posts/cook/2021/2-emiya-s-omelet.md) | | 21 | |
 | [Caster 的軟嫩薑燒豬肉]({filename}/posts/cook/2021/3-caster-s-syogayaki.md) | 4 | 26 | |
 | [走到森林裡，然後去找核桃 - 核桃布朗尼]({filename}/posts/cook/2021/4-sara-s-walnut-brownie.md) | | 28 | |
-| 衛宮家的豬肉味噌湯 | | 29 | |
+| [放滿配料的豬肉味噌湯]({filename}/posts/cook/2021/7-emiya-s-pork-miso-soup.md) | | 29 | |
 | 衛宮家的暖呼呼烏龍麵 | | 30 | |
 | [要吃嗎？ 令人愉悅的香辣辣子雞]({filename}/posts/cook/2020/8-wanna-eat-yorokobe-spicy-chicken.md) | 5 | 33 | |
