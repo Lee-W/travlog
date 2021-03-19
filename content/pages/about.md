@@ -21,7 +21,7 @@ Hi, 我是 Wei
 | [愛因茲貝倫城的聖誕烤牛肉]({filename}/posts/cook/2020/7-roast-beef-in-einzbern-castle.md) | 2 | 11 | 12 |
 | [間桐家的海藻吻仔魚義大利麵]({filename}/posts/cook/2020/5-matou-s-seaweed-whitebait-pasta.md) | | 13 | |
 | [不輸給高級食材的南洋風咖哩]({filename}/posts/cook/2021/6-emiya-south-eastern-style-curry.md) | | 17 | |
-| 特製！香煎 ~~龍~~ 牛排 | | 番外2| |
+| [誒不是，龍肉什麼的是找不到的啊]({filename}/posts/cook/2021/9-chaldea-fried-steak.md) | | 番外2| |
 | [明年也請多多指教 - 跨年蕎麥麵]({filename}/posts/cook/2021/1-new-year-soba-noodles.md) | 3 | 20 | 1 |
 | [衛宮家的馬鈴薯燉肉]({filename}/posts/cook/2020/4-emiya-s-potato-stew.md) | | 23 | |
 | [衛宮家的玉子燒]({filename}/posts/cook/2021/2-emiya-s-omelet.md) | | 21 | |
