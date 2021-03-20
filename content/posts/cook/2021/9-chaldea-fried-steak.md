@@ -94,11 +94,11 @@ Emiya 手邊剛好有一塊龍肉，就決定拿它來料理了
 
 奶油放入平底鍋加熱溶解
 
-![asparagus-step-2]({static}/images/post-images/2021-chaldea-fried-steak/asparagus-step-1.jpeg)
+![asparagus-step-2]({static}/images/post-images/2021-chaldea-fried-steak/asparagus-step-2.jpeg)
 
 將蘆筍放進去炒，最後撒上鹽和胡椒
 
-![asparagus-step-3]({static}/images/post-images/2021-chaldea-fried-steak/asparagus-step-1.jpeg)
+![asparagus-step-3]({static}/images/post-images/2021-chaldea-fried-steak/asparagus-step-3.jpeg)
 
 ### 燉煮紅蘿蔔
 紅蘿蔔可以切成橄欖形（但我切不太出來就亂切了）
