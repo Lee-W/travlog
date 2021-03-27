@@ -31,4 +31,4 @@ Hi, 我是 Wei
 | [放滿配料的豬肉味噌湯]({filename}/posts/cook/2021/7-emiya-s-pork-miso-soup.md) | | 29 | |
 | [衛宮家的暖呼呼烏龍麵]({filename}/posts/cook/2021/8-emiya-s-warn-udon.md) | | 30 | |
 | [要吃嗎？ 令人愉悅的香辣辣子雞]({filename}/posts/cook/2020/8-wanna-eat-yorokobe-spicy-chicken.md) | 5 | 31 | |
-| 沖繩風苦瓜雜炒 |  | 33 | |
+| [沖繩風苦瓜雜炒]({filename}/posts/cook/2021/10-okinawa-style-bitter-gourd.md) |  | 33 | |
