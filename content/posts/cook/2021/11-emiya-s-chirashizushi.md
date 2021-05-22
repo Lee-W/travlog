@@ -6,7 +6,7 @@ Slug: emiya-s-chirashizushi
 Authors: Lee-W
 Cover: /images/post-images/2021-emiya-s-chirashizushi/finish-5.jpeg
 
-這次重現的事動畫、漫畫都是第三集的[春天的散壽司](https://ani.gamer.com.tw/animeVideo.php?sn=16729)
+這次重現的是動畫、漫畫都是第三集的[春天的散壽司](https://ani.gamer.com.tw/animeVideo.php?sn=16729)
 
 <!--more-->
 
@@ -87,8 +87,6 @@ Cover: /images/post-images/2021-emiya-s-chirashizushi/finish-5.jpeg
 蓮藕為了去除澀味，切完要馬上泡水
 
 ![rice-step-2]({static}/images/post-images/2021-emiya-s-chirashizushi/rice-step-2.jpeg)
-
-
 
 洗好米之後，用篩子瀝乾水放入鍋子中
 

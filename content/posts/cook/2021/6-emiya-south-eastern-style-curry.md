@@ -7,7 +7,7 @@ Authors: Lee-W
 Cover: /images/post-images/2021-emiya-south-eastern-style-curry/finish.jpeg
 
 這次重現第 17 話「使用大量夏季蔬菜的南洋風咖哩」
-英雄王 吉爾伽美什第一次在這和平的故事中登場
+英雄王吉爾伽美什第一次在這和平的故事中登場
 
 <!--more-->
 

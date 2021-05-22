@@ -26,7 +26,7 @@ Hi, 我是 Wei
 | 春意盎然，高雅的櫻餅 | | 22 | |
 | [衛宮家的馬鈴薯燉肉]({filename}/posts/cook/2020/4-emiya-s-potato-stew.md) | | 23 | |
 | [衛宮家的玉子燒]({filename}/posts/cook/2021/2-emiya-s-omelet.md) | | 21 | |
-| 梅杜莎的沙拉丼 | 4 | 25 | |
+| [輕鬆好做的的沙拉丼]({filename}/posts/cook/2021/12-medusa-s-salad-don.md) | 4 | 25 | |
 | [Caster 的軟嫩薑燒豬肉]({filename}/posts/cook/2021/3-caster-s-syogayaki.md) | | 26 | |
 | [走到森林裡，然後去找核桃 - 核桃布朗尼]({filename}/posts/cook/2021/4-sara-s-walnut-brownie.md) | | 28 | |
 | [放滿配料的豬肉味噌湯]({filename}/posts/cook/2021/7-emiya-s-pork-miso-soup.md) | | 29 | |
