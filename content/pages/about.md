@@ -23,7 +23,7 @@ Hi, 我是 Wei
 | [不輸給高級食材的南洋風咖哩]({filename}/posts/cook/2021/6-emiya-south-eastern-style-curry.md) | | 17 | |
 | [誒不是，龍肉什麼的是找不到的啊]({filename}/posts/cook/2021/9-chaldea-fried-steak.md) | | 番外2| |
 | [明年也請多多指教 - 跨年蕎麥麵]({filename}/posts/cook/2021/1-new-year-soba-noodles.md) | 3 | 20 | 1 |
-| 春意盎然，高雅的櫻餅 | | 22 | |
+| [春意盎然，高雅的櫻餅]({filename}/posts/cook/2021/13-saegusa-s-sakura-mochi.md) | | 22 | |
 | [衛宮家的馬鈴薯燉肉]({filename}/posts/cook/2020/4-emiya-s-potato-stew.md) | | 23 | |
 | [衛宮家的玉子燒]({filename}/posts/cook/2021/2-emiya-s-omelet.md) | | 21 | |
 | [輕鬆好做的的沙拉丼]({filename}/posts/cook/2021/12-medusa-s-salad-don.md) | 4 | 25 | |
