@@ -33,3 +33,4 @@ Hi, 我是 Wei
 | [衛宮家的暖呼呼烏龍麵]({filename}/posts/cook/2021/8-emiya-s-warn-udon.md) | | 30 | |
 | [要吃嗎？ 令人愉悅的香辣辣子雞]({filename}/posts/cook/2020/8-wanna-eat-yorokobe-spicy-chicken.md) | 5 | 31 | |
 | [沖繩風苦瓜雜炒]({filename}/posts/cook/2021/10-okinawa-style-bitter-gourd.md) |  | 33 | |
+| [夏天買不太到草莓，那就做巧克力奇異果千層吧]({filename}/posts/cook/2021/14-saber-s-mille-crepes.md) | 7 (?) | 48 | |
