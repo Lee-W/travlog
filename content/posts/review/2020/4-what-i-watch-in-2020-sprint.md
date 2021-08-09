@@ -1,4 +1,4 @@
-Title: 2020 春季看什麼
+Title: 2020 春季看什麼2020
 Date: 2020-07-06 12:50
 Category: Review
 Tags: Animate, Movie, 當季看什麼
@@ -34,7 +34,7 @@ Authors: Lee-W
 每集都一定會在週日 12:00 上線就先追
 第一集剛上線的時候，巴哈動畫瘋還一時連不進去
 
-![kaguya]({static}/images/post-images/20200706-what-i-watch-in-2020-spring/kaguya.jpeg)
+![kaguya]({static}/images/post-images/2020-what-i-watch-in-2020-spring/kaguya.jpeg)
 
 比起第一季，製作組在第二季又投入了更多的愛
 嘗試了更多不同的呈現手法
@@ -225,7 +225,7 @@ Fate Zero 也好好的解釋了，為何救下士郎的切嗣當時的表情，�
 ### 聲之形 （重映）
 * 觀看平台: 大直美麗華 3 廳、京站威秀 10 廳、林口威秀 6 廳
 
-![koe-no-katachi]({static}/images/post-images/20200706-what-i-watch-in-2020-spring/koe-no-katachi.jpeg)
+![koe-no-katachi]({static}/images/post-images/2020-what-i-watch-in-2020-spring/koe-no-katachi.jpeg)
 
 列了三間電影院，就是我真的在短期內刷了三次 XD
 最後一次跑到聲光效果最好的林口威秀
@@ -250,8 +250,8 @@ Read More 👉 [「聲之形」原畫集開箱](https://lee-w.github.io/travlog/
 ### 吹響吧！上低音號～想傳達的旋律～ （重映）
 * 觀看平台: 信義威秀 17 廳
 
-![sound-euphonium-1]({static}/images/post-images/20200706-what-i-watch-in-2020-spring/sound-euphonium-1.jpeg)
-![sound-euphonium-1]({static}/images/post-images/20200706-what-i-watch-in-2020-spring/sound-euphonium-2.jpeg)
+![sound-euphonium-1]({static}/images/post-images/2020-what-i-watch-in-2020-spring/sound-euphonium-1.jpeg)
+![sound-euphonium-1]({static}/images/post-images/2020-what-i-watch-in-2020-spring/sound-euphonium-2.jpeg)
 
 > 明日香前輩也不過就只是高中生啊！
 
@@ -295,12 +295,12 @@ Read More 👉 [「聲之形」原畫集開箱](https://lee-w.github.io/travlog/
 劇場版時間有先，不太可能把每個人的故事、心境都完整的描寫
 必須要有 TV 版白箱先前對每個角色的朔造，才有辦法在劇場版很短的描寫依然能感受到他們內心的掙扎
 
-![shirobako]({static}/images/post-images/20200706-what-i-watch-in-2020-spring/shirobako.jpeg)
+![shirobako]({static}/images/post-images/2020-what-i-watch-in-2020-spring/shirobako.jpeg)
 
 ### 來自深淵劇場版：深沉靈魂的黎明
 * 觀看平台: 京站威秀 1 廳
 
-![subalashii]({static}/images/post-images/20200706-what-i-watch-in-2020-spring/subalashii.jpeg)
+![subalashii]({static}/images/post-images/2020-what-i-watch-in-2020-spring/subalashii.jpeg)
 
 看完來自深淵已經很久了，稍微花了一點時間才想起相關的設定
 故事緊接著 TV 版結束後，來到深淵的第五層
@@ -331,7 +331,7 @@ Read More 👉 [「聲之形」原畫集開箱](https://lee-w.github.io/travlog/
 ### 為美好的世界獻上祝福！紅傳說 (4DX)
 * 觀看平台: 信義威秀 2 廳
 
-![konosuba]({static}/images/post-images/20200706-what-i-watch-in-2020-spring/konosuba.jpeg)
+![konosuba]({static}/images/post-images/2020-what-i-watch-in-2020-spring/konosuba.jpeg)
 
 「美好世界」就是一部反套路的搞笑作品
 紅傳說在後期劇情有一些設定有點奇怪，但畢竟是搞笑作品，就這樣帶過去好像也沒什麼不行 XD
@@ -351,7 +351,7 @@ Read More 👉 [「聲之形」原畫集開箱](https://lee-w.github.io/travlog/
 ### Hello World （重映）
 * 觀看平台: 京站威秀 2 廳
 
-![hello-world]({static}/images/post-images/20200706-what-i-watch-in-2020-spring/hello-world.jpeg)
+![hello-world]({static}/images/post-images/2020-what-i-watch-in-2020-spring/hello-world.jpeg)
 
 當初很多人推薦，既然車庫又讓他重新上映
 想說這次就不要錯過了
