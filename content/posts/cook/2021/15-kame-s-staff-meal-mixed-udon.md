@@ -21,7 +21,7 @@ Cover: /images/post-images/2021-kame-s-staff-meal-mixed-udon/finish-1.jpeg
 
 | 食材 | 份量 |
 | --- | --- |
-| 苦瓜 | 0.5 根 |
+| 山苦瓜 | 0.5 根 |
 | 紅蘿蔔  | 0.5 根 |
 | 蛋 | 1 顆 |
 | 肉片 | 6 片 |
@@ -37,8 +37,10 @@ Cover: /images/post-images/2021-kame-s-staff-meal-mixed-udon/finish-1.jpeg
 ## 步驟
 * 估計時間： 20 分鐘
 
-苦瓜、紅蘿蔔、豬肉切片
-苦瓜泡水
+將山苦瓜對半切開，用湯匙把瓜瓢刮除，切成薄片後泡水
+如果怕苦的話可以泡鹽水
+
+紅蘿蔔、豬肉切片
 打一顆蛋起來備用，但不用打散
 
 ![step-1]({static}/images/post-images/2021-kame-s-staff-meal-mixed-udon/step-1.jpeg)
@@ -47,7 +49,7 @@ Cover: /images/post-images/2021-kame-s-staff-meal-mixed-udon/finish-1.jpeg
 
 ![step-2]({static}/images/post-images/2021-kame-s-staff-meal-mixed-udon/step-2.jpeg)
 
-燒肉加上一點烤肉醬開中小火炒
+燒肉開中小火炒，加一點烤肉醬調味
 炒熟後放到一旁備用
 
 ![step-3]({static}/images/post-images/2021-kame-s-staff-meal-mixed-udon/step-3.jpeg)
