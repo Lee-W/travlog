@@ -34,7 +34,7 @@ DIRECT_TEMPLATES = ("index", "categories", "authors", "archives", "tags")
 DEFAULT_CATEGORY = "Travel"
 ARTICLE_URL = "posts/{category}/{date:%Y}/{date:%m}/{slug}"
 ARTICLE_SAVE_AS = "posts/{category}/{date:%Y}/{date:%m}/{slug}/index.html"
-STATIC_PATHS = ["images", "static"]
+STATIC_PATHS = ["images", "static", "extra"]
 
 # Theme Setting
 THEME = "theme/attila"
