@@ -4,6 +4,7 @@ Category: Cook
 Tags: yuru-camp
 Slug: yuru-camp-dan-dan-dumplings-pot
 Authors: Lee-W
+Cover: /images/post-images/2021-yuru-camp-dan-dan-dumplings-pot/finish.jpeg
 
 這次就來挑戰上一篇提到的的擔擔餃子鍋
 
