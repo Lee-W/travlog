@@ -58,7 +58,7 @@ SOCIAL = (
     ("linkedin", "http://tw.linkedin.com/in/clleew"),
     ("github", "http://github.com/Lee-W"),
     ("twitter", "https://twitter.com/clleew"),
-    ("rss", "//lee-w.github.io/travlog/feeds/all.atom.xml"),
+    ("rss", "//travlog.wei-lee.me/feeds/all.atom.xml"),
 )
 
 # Markdown extension

@@ -128,7 +128,7 @@ DECA - DENCE 是我這季新番中每週最期待的作品
     * 邂逅: 巴哈動畫瘋 （已下架）
     * 星亂: [bilibili](https://www.bilibili.com/bangumi/media/md28222814/?from=search&seid=13350780938726595613)
 
-這是我發[2020春季看什麼](https://lee-w.github.io/travlog/posts/review/2020/07/what-i-watch-in-2020-sprint/)的時候，有大大推薦我的作品
+這是我發[2020春季看什麼]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md)的時候，有大大推薦我的作品
 趁著巴哈快下架就一口氣把它看完
 因為第一季卡在一個很精彩的地方，忍不住就把第二季也一起補完了（笑
 一般來說我不是特別喜歡這種太空戰爭的動畫作品，但這部整體看下來的感覺還不錯

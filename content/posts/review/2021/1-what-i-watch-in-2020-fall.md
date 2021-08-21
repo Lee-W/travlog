@@ -148,7 +148,7 @@ BGM 有時也會以 8 bits 的方式呈現
 Fate / Stay Night 敘述著英靈與御主們爭奪萬能的許願器的聖杯戰爭
 在不同的故事線中，富有魅力的角色們在殘酷的爭鬥中掙扎和絕望
 正因為如此，「衛宮家今天的餐桌風景」的溫馨所帶來的反差更提升了這部作品的魅力
-光憑我重現過它的多少料理 (👉 [Tag 衛宮家今天的餐桌風景](https://lee-w.github.io/travlog/tag/wei-gong-jia-jin-tian-de-can-zhuo-feng-jing.html)），就可以知道我真的很喜歡這部做品
+光憑我重現過它的多少料理 (👉 [Tag 衛宮家今天的餐桌風景](/tag/wei-gong-jia-jin-tian-de-can-zhuo-feng-jing.html)），就可以知道我真的很喜歡這部做品
 
 幽浮社證明了，他們不是只會做戰鬥，日常料理作品也難不倒他們
 而且品質一點都不輸他們的戰鬥作品

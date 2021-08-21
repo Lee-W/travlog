@@ -14,6 +14,9 @@ Cover: /images/post-images/2021-yuru-camp-dan-dan-dumplings-pot/finish.jpeg
 這又比[土鍋蒜味蝦和鯛魚義大利麵 =U=]({filename}/posts/cook/2021/16-yuru-camp-ajillo.md)更簡單
 幾乎只要把東西切一切丟下去悶就好了 😆
 
+這篇的做法和食材準備參考了 [【心得】擔擔餃子鍋實作](https://forum.gamer.com.tw/C.php?bsn=47411&snA=713) 內的各種內容
+除了我的作法，也可以看看大家的作法～
+
 ## 食材 （兩人份）
 * 估計成本： 250 元
 
