@@ -57,6 +57,12 @@ AI、歌唱、原創
 甚至說是「約定的影宅島」
 可是動畫的魔改還是蠻棒的
 
+### 給不滅的你
+* 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=22300)
+
+雖然有失望，但好看的作品就是好看
+好看，但沒打到點
+
 ### 本田小狼與我
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=22236)
 
@@ -116,9 +122,12 @@ A part 是
     * [第一季](https://ani.gamer.com.tw/animeVideo.php?sn=6271)
     * [第二季](https://ani.gamer.com.tw/animeVideo.php?sn=6923)
 
-走了
-
+替身系統
 很奇妙
+
+看完有種像是 K-ON 結束的感覺
+
+> 這趟旅程真的很開心
 
 ### 愛在雨過天晴時
 * 觀看平台： [Amazon Prime Video](https://www.primevideo.com/detail/0L47GCG67NWW8ALEGQN8QO38KY/ref=atv_hm_hom_c_8pZiqd_2_5?language=zh_TW)
@@ -180,6 +189,9 @@ A part 是
 ### 攻殼機動隊
 * 觀看平台： [myVideo](https://www.myvideo.net.tw/details/0/184116)
 
+有一些有趣的地方
+但 Cyberpunk 真的不是我的菜
+
 ### STAND BY ME 哆啦A夢
 * 觀看平台： myVideo (已下架)
 
@@ -197,35 +209,79 @@ A part 是
 ### 無聲
 * 觀看平台： [myVideo](https://www.myvideo.net.tw/details/0/324812)
 
+比我想像的不抑鬱很多
+
 ### 每天回家老婆都在裝死
 * 觀看平台： [myVideo](https://www.myvideo.net.tw/details/0/199951)
+
+可愛的日常小品
 
 ## 真人影集
 ### 天橋上的魔術師
 * 觀看平台： [myVideo](https://www.myvideo.net.tw/details/3/14461)
+
+其實還蠻不錯的
+但我還是比較喜歡上一季看「做工的人」
 
 ## 漫畫
 
 ### 魔法少女小圓 [新篇] 叛逆物語
 * 觀看平台： [Bookwalker](https://www.bookwalker.com.tw/product/109414)
 
+這是同名劇場版動畫的改編漫畫，內容完全沒有改動
+但因為它是小圓，即使再沒有什麼新東西可以期待，只是重看一次
+它還是足以被排到我這段時間看到最愛的作品
+
 ### 進擊的巨人 LOST GIRLS
 * 觀看平台： [Bookwalker](https://www.bookwalker.com.tw/product/81164)
+
+分為亞妮跟米卡莎的兩篇小短篇
+
+在故事後期，我們更理解亞妮這個人之前
+這是讀者少數可以從亞妮視角看到她在想什麼的故事
+同時也有跟「故鄉」等待著她的父親有所呼應
+算是蠻不錯的故事
+
+米卡莎篇則是比較奇幻（？）一點
+跟結尾的氛圍比較接近，我也還蠻喜歡的
+但一切都還未明朗的時候，應該會看得一頭霧水（但又覺得很有趣）
 
 ### 我在詐騙公司上班
 * 觀看平台： [Bookwalker](https://www.bookwalker.com.tw/product/80117)
 
+看到 Bookwalker 特價就買了
+雖然除了書裡才有的特別篇外，我在謝東霖的粉專都看過了
+但他的作品就是很有趣，讓人想用更方便的方式再刷一次
+而且台灣的作者就是要支持一下啊！
+
 ### 這個美術社大有問題!
 * 觀看平台： [HyRead ebook](https://tpml.ebook.hyread.com.tw/bookDetail.jsp?id=135440)
+
+跟[高木同學](https://zh.wikipedia.org/zh-tw/%E6%93%85%E9%95%B7%E6%8D%89%E5%BC%84%E4%BA%BA%E7%9A%84%E9%AB%98%E6%9C%A8%E5%90%8C%E5%AD%B8)相似的戀愛喜劇
+甜度微甜，不會太膩
+也不會甜得欲罷不能讓人想一直看下去
+讓人看得很舒服的輕鬆小品
 
 ### CITY
 * 觀看平台： [Bookwalker](https://www.bookwalker.com.tw/product/80391)
 
+[日常](https://zh.wikipedia.org/wiki/%E6%97%A5%E5%B8%B8)作者的新作品，風格蠻接近的，但有種比較新的感覺（？
+在日常生活中穿插著各種莫名其妙的超展開
+常常讓人覺得作者到底嗑了什麼，總是能讓人笑得很開心
+
 ### Fate/Grand Order:Epic of Remnant:亞種特異點. I, 惡性隔絕魔境 新宿 新宿幻靈事件
 * 觀看平台： [HyRead ebook](https://tpml.ebook.hyread.com.tw/bookDetail.jsp?id=232988)
 
+只是因為圖書館
+FGO 1-1 的漫畫話，老實說還蠻不錯的，
+
 ### 老夫老妻重返青春
 * 觀看平台： [HyRead ebook](https://tpml.ebook.hyread.com.tw/bookDetail.jsp?id=233022)
+
+最有趣的地方大概就只有試看的部分
+後面雖然也不會無聊
+但就
+恩..還好
 
 ### 進擊！巨人高校 ～青春！ 隔壁的瑪雷學園～
 * 觀看平台： [Bookwalker](https://www.bookwalker.com.tw/search?series=13731)
