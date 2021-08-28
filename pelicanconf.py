@@ -6,10 +6,10 @@ PATH = "content"
 # Blog Conf
 AUTHOR = "Lee-W"
 SITENAME = "Meet people around the world"
+SITETITLE = SITENAME
 SITEURL = "http://localhost:8000"
-DISQUS_SITENAME = "lee-w-travlog"
-SITETITLE = AUTHOR
 SITELOGO = "/images/avatar.jpg"
+DISQUS_SITENAME = "lee-w-travlog"
 BROWSER_COLOR = "#333333"
 HEADER_COVER = "/images/cover.jpeg"
 
@@ -24,10 +24,15 @@ MAIN_MENU = True
 DEFAULT_PAGINATION = 10
 MENUITEMS = (
     ("About", "/pages/about.html"),
-    ("Archives", "/archives.html"),
-    ("Categories", "/categories.html"),
-    ("Tags", "/tags.html"),
+    ("🍿 Review", "category/review.html"),
+    ("✈️  Travel", "category/travel.html"),
+    ("🥘 Cook", "category/cook.html"),
+    ("衛宮家料理總覽", "emiya-toc.html"),
+    ("🏷️ Tags", "/tags.html"),
+    ("🗄️  Archives", "archives.html"),
 )
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
 DIRECT_TEMPLATES = ("index", "categories", "authors", "archives", "tags")
 
 # Content Setting
@@ -40,6 +45,8 @@ STATIC_PATHS = ["images", "static", "extra"]
 THEME = "theme/attila"
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
 PYGMENTS_STYLE = "default"
+
+# License
 CC_LICENSE = {
     "name": "Creative Commons Attribution-ShareAlike",
     "version": "4.0",
@@ -68,7 +75,7 @@ MARKDOWN = {
         "markdown.extensions.codehilite": {"css_class": "highlight"},
         "markdown.extensions.nl2br": {},
         "toc": {},
-        "markdown_del_ins": {}
+        "markdown_del_ins": {},
     },
     "output_format": "html5",
 }
