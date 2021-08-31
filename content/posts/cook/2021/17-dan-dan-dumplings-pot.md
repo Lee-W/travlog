@@ -50,7 +50,7 @@ Cover: /images/post-images/2021-yuru-camp-dan-dan-dumplings-pot/finish.jpeg
 雖然是不會難吃，但原本乾吃的東西泡湯就是有點微妙
 
 ## 步驟
-* 估計成本： 50 分鐘
+* 估計時間： 50 分鐘
 
 將大蔥、韭菜切段，其他食材洗過
 
