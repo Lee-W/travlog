@@ -27,7 +27,7 @@ MENUITEMS = (
     ("🍿 Review", "category/review.html"),
     ("✈️  Travel", "category/travel.html"),
     ("🥘 Cook", "category/cook.html"),
-    ("衛宮家料理總覽", "emiya-toc.html"),
+    ("衛宮家料理總覽", "/pages/emiya-toc.html"),
     ("🏷️ Tags", "/tags.html"),
     ("🗄️  Archives", "archives.html"),
 )
