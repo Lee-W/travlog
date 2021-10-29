@@ -12,6 +12,7 @@ Date: 2021-08-28 16:48
 | [遠坂流什錦炒飯]({filename}/posts/cook/2020/3-tohsaka-fired-rice.md) | | 8 | [8](https://ani.gamer.com.tw/animeVideo.php?sn=16734) |
 | [Saber 今天的點心]({filename}/posts/cook/2020/6-saber-s-snack.md) | | 番外 2 | |
 | [愛因茲貝倫城的聖誕烤牛肉]({filename}/posts/cook/2020/7-roast-beef-in-einzbern-castle.md) | 2 | 11 | [12](https://ani.gamer.com.tw/animeVideo.php?sn=16738) |
+| [冬季必吃的關東煮]({filename}/posts/cook/2021/19-emiya-s-oden.md) | | 12 | |
 | [間桐家的海藻吻仔魚義大利麵]({filename}/posts/cook/2020/5-matou-s-seaweed-whitebait-pasta.md) | | 13 | |
 | [不輸給高級食材的南洋風咖哩]({filename}/posts/cook/2021/6-emiya-south-eastern-style-curry.md) | | 17 | |
 | [誒不是，龍肉什麼的是找不到的啊]({filename}/posts/cook/2021/9-chaldea-fried-steak.md) | | 番外2| |
