@@ -24,12 +24,12 @@ MAIN_MENU = True
 DEFAULT_PAGINATION = 10
 MENUITEMS = (
     ("About", "/pages/about.html"),
-    ("🍿 Review", "category/review.html"),
-    ("✈️  Travel", "category/travel.html"),
-    ("🥘 Cook", "category/cook.html"),
+    ("🍿 Review", "/category/review.html"),
+    ("✈️  Travel", "/category/travel.html"),
+    ("🥘 Cook", "/category/cook.html"),
     ("衛宮家料理總覽", "/pages/emiya-toc.html"),
     ("🏷️ Tags", "/tags.html"),
-    ("🗄️  Archives", "archives.html"),
+    ("🗄️  Archives", "/archives.html"),
 )
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
