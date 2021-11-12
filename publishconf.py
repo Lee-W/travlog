@@ -16,15 +16,6 @@ SITEURL = "https://travlog.wei-lee.me/"
 SITELOGO = "/images/avatar.jpg"
 RELATIVE_URLS = False
 
-
-MENUITEMS = (
-    ("About", "/pages/about.html"),
-    ("Archives", "/archives.html"),
-    ("Categories", "/categories.html"),
-    ("Tags", "/tags.html"),
-)
-
-
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
