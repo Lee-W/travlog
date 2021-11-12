@@ -318,9 +318,10 @@ ED 則由 ReoNa 演唱的 [ないない](https://www.youtube.com/watch?v=M8LwhRk
 * 觀看平台： [myVideo](https://www.myvideo.net.tw/details/0/184116)
 
 看完攻殼機動隊，覺得 Cyberpunk 好像真的很不對我的胃口
-跟看完「阿基拉」有同樣的感想
+跟看完阿基拉有同樣的感想
 作畫很棒，故事中有很多有趣的元素，是個好作品
-但我沒有很看懂，也沒有到很喜歡
+但我沒有很看懂，也只能算是普通喜歡
+不過裡面有個植入記憶的橋段倒是讓我很驚艷
 
 ### STAND BY ME 哆啦A夢
 * 觀看平台： myVideo (已下架)
