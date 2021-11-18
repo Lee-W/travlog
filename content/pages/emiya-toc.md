@@ -7,7 +7,8 @@ Date: 2021-08-28 16:48
 | [衛宮家的暖呼呼火鍋和雜炊粥]({filename}/posts/cook/2021/5-emyia-s-hotpot-and-zousui.md) | 1 | 1 | [13](https://ani.gamer.com.tw/animeVideo.php?sn=16739) |
 | [衛宮家的鋁箔悶燒鮭魚]({filename}/posts/cook/2020/1-emiya-s-salmon.md) |  | 2 | [2](https://ani.gamer.com.tw/animeVideo.php?sn=16728) |
 | [伊莉雅的女兒節 - 春季散壽司]({filename}/posts/cook/2021/11-emiya-s-chirashizushi.md) | | 3 | [3](https://ani.gamer.com.tw/animeVideo.php?sn=16729) |
-| [佐佐木小次郎認證的油菜三明治]({filename}/posts/cook/2021/18-rapeseed-sandwich.md) | | 4 | [4](18-rapeseed-sandwich.md) |
+| [佐佐木小次郎認證的油菜三明治]({filename}/posts/cook/2021/18-rapeseed-sandwich.md) | | 4 | [4](https://ani.gamer.com.tw/animeVideo.php?sn=16730) |
+| [竹筍焗烤麵 - 我需要大一點的烤箱]({filename}/posts/cook/2021/22-emiya-bambo-pasta-gratin.md) | | 5 | [5](https://ani.gamer.com.tw/animeVideo.php?sn=16731) |
 | [衛宮家的漢堡排]({filename}/posts/cook/2020/2-emiya-s-hamburger.md) | | 6 | [6](https://ani.gamer.com.tw/animeVideo.php?sn=16732) |
 | [遠坂流什錦炒飯]({filename}/posts/cook/2020/3-tohsaka-fired-rice.md) | | 8 | [8](https://ani.gamer.com.tw/animeVideo.php?sn=16734) |
 | [Saber 今天的點心]({filename}/posts/cook/2020/6-saber-s-snack.md) | | 番外 2 | |
