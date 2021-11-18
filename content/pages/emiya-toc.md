@@ -2,7 +2,7 @@ Title: 衛宮家料理總覽
 Slug: emiya-toc
 Date: 2021-08-28 16:48
 
-| | 漫畫單行本 | 回數 | 動畫集數 |
+| | 漫畫<br>單行本 | 回數 | 動畫<br>集數 |
 | --- | --- | --- | --- |
 | [衛宮家的暖呼呼火鍋和雜炊粥]({filename}/posts/cook/2021/5-emyia-s-hotpot-and-zousui.md) | 1 | 1 | [13](https://ani.gamer.com.tw/animeVideo.php?sn=16739) |
 | [衛宮家的鋁箔悶燒鮭魚]({filename}/posts/cook/2020/1-emiya-s-salmon.md) |  | 2 | [2](https://ani.gamer.com.tw/animeVideo.php?sn=16728) |
@@ -28,3 +28,4 @@ Date: 2021-08-28 16:48
 | [要吃嗎？ 令人愉悅的香辣辣子雞]({filename}/posts/cook/2020/8-wanna-eat-yorokobe-spicy-chicken.md) | 5 | 31 | |
 | [沖繩風苦瓜雜炒]({filename}/posts/cook/2021/10-okinawa-style-bitter-gourd.md) |  | 33 | |
 | [夏天買不太到草莓，那就做巧克力奇異果千層吧]({filename}/posts/cook/2021/14-saber-s-mille-crepes.md) | 7 (?) | 48 | |
+| [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | 8 (?) | 52 | |
