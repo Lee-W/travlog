@@ -1,4 +1,4 @@
-Title: 2021 秋季看什麼 - 動畫/影集/漫畫/電影
+Title: 2021 秋季看什麼 - 書讀不夠多，作品都看不懂惹
 Date: 2021-01-01 12:50
 Category: Review
 Tags: Animate, 當季看什麼
@@ -47,6 +47,8 @@ Status: draft
 ### PSYCHO-PASS 心靈判官 Season 1
 * 觀看平台： [Netflix](https://www.netflix.com/tw/title/80006146)
 
+### 進擊的巨人：Wall Sina,Goodbye #巴哈動畫瘋
+
 ### Fate/Stay Night
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=24346)
 
@@ -81,10 +83,36 @@ Status: draft
 ### 心靈遊戲
 * 觀看平台： 信義威秀 5 廳
 
+### 虐殺器官
+* 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=14492)
+
+### 刀劍神域劇場版 PROGRESSIVE 無星夜的詠嘆調
+* 觀看平台： 京站威秀 10 廳
+![SAO](/images/post-images/2021-what-i-watch-in-2021-fall/SAO.jpeg)
+
+
+
+SAO 新手
+我還以為會有「幫我撐十秒」
+
+梶浦由記
+
+真的還不錯
+很適合進戲院看
+武器的效果，梶浦由記的音樂
+
+劇本普通，但如果放到十年前，應該是真的蠻有意思的
+
+但演出很棒，配上梶浦由記，真的很棒
+雖然沒有讓我倒有興趣回去看 TV 版動畫
+但下一部劇場版應該會看
+
 ### 手塚治虫之大都會
 * 觀看平台： 京站威秀 3 廳
 
 ![metropolis](/images/post-images/2021-what-i-watch-in-2021-fall/metropolis.jpeg)
+
+### ---
 
 ### 龍與雀斑公主
 * 觀看平台： 京站威秀 9 廳
