@@ -11,6 +11,7 @@ Date: 2021-08-28 16:48
 | [竹筍焗烤麵 - 我需要大一點的烤箱]({filename}/posts/cook/2021/22-emiya-bambo-pasta-gratin.md) | | 5 | [5](https://ani.gamer.com.tw/animeVideo.php?sn=16731) |
 | [衛宮家的漢堡排]({filename}/posts/cook/2020/2-emiya-s-hamburger.md) | | 6 | [6](https://ani.gamer.com.tw/animeVideo.php?sn=16732) |
 | [遠坂流什錦炒飯]({filename}/posts/cook/2020/3-tohsaka-fired-rice.md) | | 8 | [8](https://ani.gamer.com.tw/animeVideo.php?sn=16734) |
+| [秋日味覺 - Caster 和風料理修行]({filename}/posts/cook/2021/23-caster-s-washoku.md) | | 9 | [9](https://ani.gamer.com.tw/animeVideo.php?sn=16735) |
 | [Saber 今天的點心]({filename}/posts/cook/2020/6-saber-s-snack.md) | | 番外 2 | |
 | [愛因茲貝倫城的聖誕烤牛肉]({filename}/posts/cook/2020/7-roast-beef-in-einzbern-castle.md) | 2 | 11 | [12](https://ani.gamer.com.tw/animeVideo.php?sn=16738) |
 | [冬季必吃的關東煮]({filename}/posts/cook/2021/19-emiya-s-oden.md) | | 12 | |
