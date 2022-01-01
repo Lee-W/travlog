@@ -1,12 +1,12 @@
 Title: 狼的孩子雨和雪 - 平淡，卻又無比感人
-Date: 2021-10-10 16:30
+Date: 2022-10-10 16:30
 Category: Review
 Tags: Animate, Movie
 Slug: wolf-children
 Authors: Lee-W
 Status: draft
 
-![wolf-childern](/images/post-images/2021-wolf-children/wolf-childern.jpeg)
+![wolf-childern](/images/post-images/2022-wolf-children/wolf-childern.jpeg)
 
 真的好好看
 還好被朋友推坑，前一天去看了一場包場的

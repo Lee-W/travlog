@@ -1,4 +1,4 @@
-Title: JOJO 的奇妙冒險（幻影血脈 ～ 黃金之風）
+Title: JOJO 的奇妙冒險
 Date: 2021-01-01 12:50
 Category: Review
 Tags: Animate, JOJO

@@ -1,5 +1,5 @@
 Title: 龍與雀斑公主 - 視覺與聽覺的饗宴，但劇情 0 分
-Date: 2021-10-10 16:30
+Date: 2022-10-10 16:30
 Category: Review
 Tags: Animate, Movie
 Slug: belle
@@ -7,7 +7,7 @@ Authors: Lee-W
 Status: draft
 <!--more-->
 
-![belle](/images/post-images/2021-belle/belle.jpeg)
+![belle](/images/post-images/2022-belle/belle.jpeg)
 
 也許是我見識淺薄，一直沒有機會去挑戰四大名作這類的「神作」
 但單就劇情來說，這是我目前看過最糟糕的動畫作品

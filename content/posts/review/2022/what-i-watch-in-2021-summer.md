@@ -1,5 +1,5 @@
 Title: 2021 夏季看什麼 - 動畫/影集/漫畫/電影
-Date: 2021-01-01 12:50
+Date: 2022-01-01 12:50
 Category: Review
 Tags: Animate, 當季看什麼
 Slug: what-i-watch-in-2021-summer
@@ -50,6 +50,8 @@ Status: draft
 
 話說回來預告打很大的新角色伊露露，戲份其實沒有很多
 是不是這樣可以期待第三季了 🤔
+
+補充一下 crunchyroll 跟監督的訪談 [[翻譯] 從女僕龍二期看見京阿尼的重生：監督訪談](https://www.ptt.cc/bbs/C_Chat/M.1637229080.A.B35.html) (原文： [INTERVIEW: Miss Kobayashi's Dragon Maid and the Directors' Legacy](https://www.crunchyroll.com/anime-feature/2021/09/22/interview-miss-kobayashis-dragon-maid-and-the-directors-legacy))
 
 ### 漂流少年
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=23345)
@@ -237,7 +239,7 @@ Status: draft
 還蠻常看到有人推薦不想從頭看 JOJO 的人從這邊看起
 
 出場的 JOJO 是歷代最多
-也是我最喜歡的 JOJO Joseph Jostar 最後一次正式登場
+也是我最喜歡的 Joseph Joestar 最後一次正式登場
 沒錯，即使到了第四部，我還是在看二喬秀
 他跟主角仗助的互動也讓我很感動
 我尤其喜歡結尾仗助跟二喬最後的互動，在惡趣味的橋段內藏著他們之間的感情
@@ -250,7 +252,7 @@ Status: draft
 他實在太有任性、太有個性了
 他甚至還有自己的外傳呢
 
-![daga kotowaru](/images/post-images/2021-what-i-watch-in-2021-summer/daga-kotowaru.png)
+![daga kotowaru](/images/post-images/2022-what-i-watch-in-2021-summer/daga-kotowaru.png)
 
 關於最終 Boss 的描繪也是相當的獨樹一格
 應該是我看過的作品中算是很特殊的一位
@@ -259,88 +261,169 @@ Status: draft
 如果真的要說這部的缺點，就是作畫相對不穩定
 但在緊湊的節奏跟精采的劇情下，對我來說是完全可忽略就是了
 
-### JOJO 的奇妙冒險 黃金之風
+### JOJO 的奇妙冒險 黃金之風 (TODO)
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=10922)
 
-~~progress line~~
+
+第五部是跟其他部最無關聯，最能分開看的一部
+這次的故事發生在義大利的黑幫
+觀看前我一直很疑惑這樣的主題要怎麼彰顯黃金精神
+最後還是不得不佩服荒木老師的設計
+
+這代的 Gio Gio 喬魯諾的替身跟其他部主角主要都是用揍人攻擊不同
+（因為義大利文的 ジョジョ 是 Gio Gio 不是 JOJO）
+而是用各種小手段
+雖然能力其實超 OP 的
+戲份也相對少
+以前看到片段絕對不會注意到喬魯諾才是主角
+主角團不管是布加拉提、納蘭迦還是米斯達戲份都不輸給喬魯諾
+大概就只有阿帕基最影薄
 
 命定論
 回甘
 
-### 四疊半神話大系
+### 四疊半神話大系 (TODO)
 * 觀看平台： [Netflix](https://www.netflix.com/tw/title/80169679)
 
-剛看完覺得好好看，想看一下我到底能把他排在本季補番第幾，才發現前面都被 JOJO 霸榜了
-美術風格很有趣，依然的湯淺政明
+這部跟[春宵苦短，少女前進吧]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_20)同樣是改編自森見登美彥的小說
+一樣是大學生的奇幻青春喜劇
+主角沒有名字，主角就是「我」
+看著最佳損友小津如何帶「我」度過大學的四年
+算是相對非主流的作品
+而導演也是最適合製作非主流作品的湯淺政明
+
+觀看體驗稍微會有點像涼宮春日的憂鬱中的「漫無止盡的八月」
+
+它是部最後 2 集講完 80% 故事的作品
+所以如果看到前面就因為不耐煩而沒看完是相當可惜的
+但又不能跳過前面的 9 集的故事
+最後 2 集的精彩也是建構在前面的鋪成
+一開始看 OP / ED 還傻傻的以為沒有特別的設計
+真相揭露時才發現這都是精心設計的啊！
+真的是好看，剛看完真的好驚艷
+以為這會是我這季補番最喜歡的作品，忘記前面還有兩部 JOJO
+
 結尾不算是很有爆點，但我會覺得這很符合這一個故事
 平凡的人、平凡的願望，雖然是奇妙的旅程，但收在平凡的結尾
 
-### 輕拍翻轉小魔女
+### 輕拍翻轉小魔女 (TODO)
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=8294)
 
-充滿創意
-作畫超精美，像是錢花不完一樣
-非主流
-超棒
+要不是它要下架了，我還真的不會注意到這部作品
+看到西洽上有人大力推薦，想說試個幾集看看
+沒想到這麼令人驚艷 😲
 
+整部作品充滿著創意和活力
+作畫超乎水準地精細，配樂也配得恰到好處
+ED "Flip Flap Flip Flap" 的畫面跟音樂更是完全契合作品的風格
+看到的第一眼就會被深深吸引
 
-### 寶石之國
+故事的細節跟隱喻超多，一一去挖掘會更加倍的享受這部作品
+即使不去了解細節，順著他的主線走，也不至於看不懂
+
+不過劇情稍微有點難理解，題材也不算主流
+我相信製作組也知道這很難成為一部成功的商業作品
+但他們依然投注了這麼多的心力在做
+不禁還以為是哪家老牌動畫公司的火力展示
+意外發現是間蠻新的動畫公司 [Studio 3Hz](https://zh.wikipedia.org/wiki/3Hz) 🤔
+
+### 寶石之國 (TODO)
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=8786)
 
-愉悅的言峰
-後期劇情越來越愉悅
+之前就一直有聽說這部很神，看完真的很被驚艷
+
+如同片名，這是圍繞著一群永生不死的寶石人的故事
+eyecatch 也會出現這些寶石的化學式
+除了各自會有不同的硬度外
+另外很有趣的設定是，它們的記憶也會隨著身體的碎裂而遺失
+
+最讓我驚豔的是氛圍的營造
+大部分的場景都很日常，也許有一些戰鬥
+但在這後面就是有什麼被藏著
+一直給人一種微微的不安感
+尤其大家的老師金剛又是由中田讓治配音
+這種令人愉悅的不安感又被昇華到另一個層次
+
+
 OP / ED 都好棒， OP 有種高分少女感
+
+動畫化的部份給我的感覺大概只在故事剛開幕而已
+但又一直遲遲沒有第二季的消息...
+雖然漫畫也還沒完結就是了
 
 ### 岸邊露伴一動也不動
 * 觀看平台： [Netflix](https://www.netflix.com/tw/title/81280998)
 
-怪談作品
-只有四集，大概重現了漫畫一半的故事
-每一集都很棒
-但要跟一整季說完的故事比，還是稍嫌有點太短
+整季只有四集，彼此沒什麼關聯性
+是可以很輕鬆觀看的小品
+故事就只是岸邊露伴到處取材遇到的各種怪事
+但中間發生的事很有趣，演出也很棒
+每一幕都讓你好奇接下來會發生什麼事
 
+不得不佩服荒木飛呂彥真的畫什麼像什麼
+原本 JOJO 就每部都有點不同的風格
+這次還為岸邊露伴畫了出了一系列的怪談短篇
 
 ### 虎與龍 TIGER×DRAGON! 特別篇
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=24452)
 
 看完本篇的虎與龍好一段時間後回來看特別篇還是覺得很棒
-這次的故事 scope 收的很剛好，用一集說完剛剛好
-整集看下來我笑得蠻開心的 😆
+作為單集特別篇，剛好說了一集的長度能講完的份量
+整集看下來也笑得蠻開心的 😆
+不過不是後日談讓我有點小失望就是了
 
 ### 咒術迴戰
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=18626)
 
-就...恩...
-什麼都很好，但沒有什麼地方突出到讓我印象深刻
+果然跟之前其他朋友說的一樣，咒術可能題材真的不太適合我
+製作得很好，也沒有什麼能挑惕的地方
+是部相當不錯的作品
+但就沒有太突出的地方讓我驚艷
+到寫這篇的時候，印象最深刻的可能只剩下沒用的三輪 😆
 
 ### 小長門有希的消失
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=9966)
 
-明明就很好看，不知道為什麼在巴哈的分數很低
-看完馬上再補一次「涼宮春日的消失」
+因為快下架了趕快來補
+整體的觀看體驗很棒，不知道為什麼巴哈上的分數那麼低
+確實後期有一些安排不是很好 👈 排在咒術後主要是因為這段
+但大部分的內容都還不錯
+尤其我又看過涼宮春日的憂鬱/消失，就覺得這樣的 if 線還蠻有趣的
+給我的感覺大概像是衛宮家今天的餐桌風景之於 Fate/Stay Night 吧
+雖然沒做到衛宮飯那麼精緻，但也算是相當不錯了
+看完這部還讓我馬上回去複習涼宮春日的消失
 
 ### ReLIFE 重返 17 歲
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=10175)
 
-有點太年輕了......
+我覺得這部作品有點太過年輕了...
+尤其是排球的那個橋段，怎麼看怎麼尷尬，我真的是老了
+不過除了那段以外的故事還是蠻不錯的
+只是這個作畫崩壞的程度真的是嚴重到影響觀影體驗了...
+另外有一個有意思的點是 ED 幾乎每一集都會換
+而且每一首的選擇都跟當下的故事有關
+但我對那些歌沒那麼深的理解，所以沒有被這個設計打到
 
 ## 動畫電影
 
 ### 涼宮春日的消失
 * 觀看平台： 自購藍光
 
+~~progress line~~
 真沒想到
 
 ### Fate/stay night [Heaven's Feel]：III. 春櫻之歌
 * 觀看平台： [Netflix](https://www.netflix.com/tw/title/81399559)
 
 既然 Netflix 上還是要來推坑一下室友在看一次
-這樣我好像就看五次了呢 🤔
-直逼心目中的神作聲之形，雖然聲之形不會因為看的次數被比下去就是了
+這樣算下來我也已經看了 5 次了 🤔
+直逼心目中的神作聲之形，雖然聲之形的神不會因為看的次數被比下去就是了
+
+在 [2020 夏季看什麼]({filename}/posts/review/2020/5-what-i-watch-in-2020-summer.md#fatestay-night-heavens-feel-iii) 跟 [Fate/stay night Heaven's Feel 馬拉松]({filename}/posts/review/2020/9-fate-stay-night-heaven-s-feel-trilogy.md) 都有聊過我對它的想法，就不再重複了 😆
 
 ### 隱瞞之事 秘密之事是什麼？
 * 觀看平台： 京站威秀 1 廳
-![kakusigoto](/images/post-images/2021-what-i-watch-in-2021-summer/kakusigoto.jpeg)
+![kakusigoto](/images/post-images/2022-what-i-watch-in-2021-summer/kakusigoto.jpeg)
 
 節奏不錯
 動畫版是日常搞笑為重，溫馨為輔，主線慢慢走
@@ -353,10 +436,11 @@ OP / ED 都好棒， OP 有種高分少女感
 
 👉 [回憶三部曲 - 經得起時間考驗的好作品]({filename}/posts/review/2021/4-memories.md))
 
-### Fate Grand Order-神聖圓桌領域卡美洛- Paladin; Agateram #theatre
+### Fate Grand Order-神聖圓桌領域卡美洛- Paladin; Agateram
 * 觀看平台： 京站威秀 7 廳
 
-![IMG_7549](/images/post-images/2021-what-i-watch-in-2021-summer/fate-grand-order-1-6-ep-2.jpeg)
+
+![IMG_7549](/images/post-images/2022-what-i-watch-in-2021-summer/fate-grand-order-1-6-ep-2.jpeg)
 
 
 演出很棒
@@ -390,7 +474,7 @@ OP / ED 都好棒， OP 有種高分少女感
 ### 沙丘
 * 觀看平台： 板橋大遠百威秀 6 廳
 
-![IMG_7555](/images/post-images/2021-what-i-watch-in-2021-summer/dune.jpeg)
+![IMG_7555](/images/post-images/2022-what-i-watch-in-2021-summer/dune.jpeg)
 
 
 ## 漫畫

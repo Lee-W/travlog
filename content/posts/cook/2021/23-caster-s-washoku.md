@@ -47,7 +47,7 @@ Cover: /images/post-images/2021-caster-s-washoku/finish-anime-1.jpeg
 
 | 食材 | 份量|
 | --- | --- |
-| 秋刀魚 | 3 條 | 
+| 秋刀魚 | 3 條 |
 | 白蘿蔔 | 1/2 根 |
 | 鹽、味醂 | 適量 |
 
@@ -195,5 +195,3 @@ Cover: /images/post-images/2021-caster-s-washoku/finish-anime-1.jpeg
 ![finish-anime-2](/images/post-images/2021-caster-s-washoku/finish-anime-2.jpeg)
 ![finish-comic-1](/images/post-images/2021-caster-s-washoku/finish-comic-1.jpeg)
 ![finish-comic-2](/images/post-images/2021-caster-s-washoku/finish-comic-2.jpeg)
-
-

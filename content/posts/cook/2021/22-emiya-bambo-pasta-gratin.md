@@ -96,4 +96,3 @@ Cover: /images/post-images/2021-emiya-bambo-pasta-gratin/finish-anime-1.jpeg
 
 ![finish-comic-1](/images/post-images/2021-emiya-bambo-pasta-gratin/finish-comic-1.jpeg)
 ![finish-comic-2](/images/post-images/2021-emiya-bambo-pasta-gratin/finish-comic-2.jpeg)
-
