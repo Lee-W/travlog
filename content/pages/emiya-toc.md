@@ -30,5 +30,6 @@ Date: 2021-08-28 16:48
 | [要吃嗎？ 令人愉悅的香辣辣子雞]({filename}/posts/cook/2020/8-wanna-eat-yorokobe-spicy-chicken.md) | 5 | 31 | |
 | [沖繩風苦瓜雜炒]({filename}/posts/cook/2021/10-okinawa-style-bitter-gourd.md) |  | 33 | |
 | [溺死在培根蛋奶義大利麵的美味中吧！]({filename}/posts/cook/2021/21-archer-s-bacon-pasta.md) | | 番外 | |
+| [衛宮家的新年賀歲年糕湯]({filename}/posts/cook/2022/1-emiya-s-new-year-rice-cake-soup.md) | 6 | 37 | |
 | [夏天買不太到草莓，那就做巧克力奇異果千層吧]({filename}/posts/cook/2021/14-saber-s-mille-crepes.md) | 7 (?) | 48 | |
 | [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | 8 (?) | 52 | |
