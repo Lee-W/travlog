@@ -57,7 +57,7 @@ Cover: /images/post-images/2022-emiya-s-new-year-rice-cake-soup/finish-2.jpeg
 
 開火加熱，水快煮沸的時候將昆布取出
 放入 25 g 的柴魚片，用小～中火燉煮
-燉出味道後把雜質率掉就可以了
+燉出味道後把雜質濾掉就可以了
 
 ![step-2](/images/post-images/2022-emiya-s-new-year-rice-cake-soup/step-2.jpeg)
 
@@ -147,8 +147,7 @@ Cover: /images/post-images/2022-emiya-s-new-year-rice-cake-soup/finish-2.jpeg
 
 這個湯意外的超好喝 😋
 果然高湯腳踏實地的泡，還是有成果的！
-紅甘魚也很好吃，聽說味道有點腥，但我對魚腥味完全無感
-香菇泡開來很有嚼勁
+紅甘魚很好吃，香菇泡開來很有嚼勁
 年糕原本以為是甜的，不過實際吃起來比較像是沒味道的麻糬
 不過應該我對它的味道有錯誤的期待就是了 😆
 
