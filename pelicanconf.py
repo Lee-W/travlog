@@ -87,5 +87,6 @@ PLUGINS = [
     "share_post",
     "i18n_subsites",
     "post_stats",
+    "render_math",
 ]
 ANOTHER_READ_MORE_LINK = ""

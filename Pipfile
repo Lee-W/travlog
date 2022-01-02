@@ -15,6 +15,7 @@ ghp-import = "*"
 typogrify = "*"
 invoke = "*"
 markdown-del-ins = "*"
+pelican-render-math = "*"
 
 [requires]
 python_version = "3.7"
