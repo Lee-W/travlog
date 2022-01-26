@@ -132,19 +132,22 @@ jQuery(function($) {
 	   Initialize and load Disqus
 	   ========================================================================== */
 
-	if (typeof disqus === 'undefined') {
+	if (typeof disqus === 'undefined' && typeof use_utterance === 'undefined') {
 		$('.post-comments').css({
 			'display' : 'none'
 		});
-	} else {
-		$('#show-disqus').on('click', function() {
-			$.ajax({
-				type: "GET",
-				url: "//" + disqus + ".disqus.com/embed.js",
-				dataType: "script",
-				cache: true
-			});
-			$(this).parent().addClass('activated');
-		});
-	}
+	} else if (typeof use_utterance === 'undefined') {
+		$('#show-comments').on(
+			'click',
+			function() {
+				$.ajax({
+					type: "GET",
+					url: "//" + disqus + ".disqus.com/embed.js",
+					dataType: "script",
+					cache: true
+				});
+				$(this).parent().addClass('activated');
+			}
+		);
+	} 
 });
