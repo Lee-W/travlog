@@ -1,4 +1,5 @@
-Title: 正義夥伴的起點 - 來自遙遠記憶的煎蛋
+Title: 遙遠記憶的荷包單
+Subtitle: 正義夥伴的起點
 Date: 2022-01-27 22:55
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景

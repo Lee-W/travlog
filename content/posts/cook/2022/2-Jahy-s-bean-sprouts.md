@@ -1,4 +1,5 @@
-Title: 賈希大人的三分鐘烹飪食堂 - 豆芽菜全集
+Title: 賈希大人的三分鐘烹飪食堂
+Subtitle: 豆芽菜全集
 Date: 2022-01-03 22:58
 Category: Cook
 Tags: 賈希大人不氣餒！

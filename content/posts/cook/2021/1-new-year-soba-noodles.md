@@ -1,4 +1,5 @@
-Title: 明年也請多多指教 - 跨年蕎麥麵
+Title: 跨年蕎麥麵
+Subtitle: 明年也請多多指教
 Date: 2021-01-02 17:56
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
