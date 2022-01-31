@@ -1,4 +1,4 @@
-Title: 2021 夏季看什麼 - 動畫/影集/漫畫/電影
+Title: 2021 夏季看什麼 - 熟悉的京阿尼回來了！
 Date: 2022-01-01 12:50
 Category: Review
 Tags: Animate, 當季看什麼
@@ -51,7 +51,7 @@ Status: draft
 話說回來預告打很大的新角色伊露露，戲份其實沒有很多
 是不是這樣可以期待第三季了 🤔
 
-補充一下 crunchyroll 跟監督的訪談 [[翻譯] 從女僕龍二期看見京阿尼的重生：監督訪談](https://www.ptt.cc/bbs/C_Chat/M.1637229080.A.B35.html) (原文： [INTERVIEW: Miss Kobayashi's Dragon Maid and the Directors' Legacy](https://www.crunchyroll.com/anime-feature/2021/09/22/interview-miss-kobayashis-dragon-maid-and-the-directors-legacy))
+補充一下 Crunchyroll 跟監督的訪談 [[翻譯] 從女僕龍二期看見京阿尼的重生：監督訪談](https://www.ptt.cc/bbs/C_Chat/M.1637229080.A.B35.html) (原文： [INTERVIEW: Miss Kobayashi's Dragon Maid and the Directors' Legacy](https://www.crunchyroll.com/anime-feature/2021/09/22/interview-miss-kobayashis-dragon-maid-and-the-directors-legacy))
 
 ### 漂流少年
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=23345)
@@ -409,8 +409,26 @@ OP / ED 都好棒， OP 有種高分少女感
 ### 涼宮春日的消失
 * 觀看平台： 自購藍光
 
-~~progress line~~
-真沒想到
+如果追朔到我最初的入宅作，想必就是涼宮春日了吧
+雖然在那之後要隔了快十年的聲之形才讓我認真接觸動畫
+想想都是京阿尼的作品呢 🤔
+
+當初買藍光只是逛購物網站時看到便宜的二手，覺得不買對不起自己
+現在看來真的買對了
+因為要參加「第5回京阿尼粉絲感謝祭 KYOANI MUSIC FESTIVAL」
+為了增進參加演唱會的體感才把它翻出來補
+
+重新看過消失又被京阿尼的製作驚艷了
+現在已經少見動畫作品可以做到快三個小時
+光是做到兩個小時，就已經算是很長的作品了
+更難得的是三個小時的劇情毫無冷場
+前期的慢節奏完全是後期劇情鋪成的必須
+節奏跟音樂的掌控之優異，讓我後悔當初上映的時候竟然沒進戲院看
+尤其全劇的高潮 - 阿虛的自我問答，更是完美的被呈現出來
+不過我以為在第一次找到真相時就有這段問答，不知道是不是我記錯了
+但當初的小說是買實體的，不在手邊也沒辦法翻
+
+雖然是偏粉絲向的作品，但優秀的呈現還是足以讓第一次接觸的人看懂這次的故事
 
 ### Fate/stay night [Heaven's Feel]：III. 春櫻之歌
 * 觀看平台： [Netflix](https://www.netflix.com/tw/title/81399559)
@@ -419,17 +437,24 @@ OP / ED 都好棒， OP 有種高分少女感
 這樣算下來我也已經看了 5 次了 🤔
 直逼心目中的神作聲之形，雖然聲之形的神不會因為看的次數被比下去就是了
 
-在 [2020 夏季看什麼]({filename}/posts/review/2020/5-what-i-watch-in-2020-summer.md#fatestay-night-heavens-feel-iii) 跟 [Fate/stay night Heaven's Feel 馬拉松]({filename}/posts/review/2020/9-fate-stay-night-heaven-s-feel-trilogy.md) 都有聊過我對它的想法，就不再重複了 😆
+在 [2020 夏季看什麼]({filename}/posts/review/2020/5-what-i-watch-in-2020-summer.md#fatestay-night-heavens-feel-iii) 跟 [Fate/stay night Heaven's Feel 馬拉松]({filename}/posts/review/2020/9-fate-stay-night-heaven-s-feel-trilogy.md) 都有聊過我對它的想法，就不再贅述了 😆
 
 ### 隱瞞之事 秘密之事是什麼？
 * 觀看平台： 京站威秀 1 廳
+
 ![kakusigoto](/images/post-images/2022-what-i-watch-in-2021-summer/kakusigoto.jpeg)
 
-節奏不錯
-動畫版是日常搞笑為重，溫馨為輔，主線慢慢走
-劇場版則是反過來，主要走主線，加強溫馨的部分，但重要的日常搞笑還是有足夠的份量
-沒什麼新畫面，但還是蠻好看的
-說明了媽媽為什麼不在了
+有點意外台灣竟然會代理這部，不過竟然搞了個限定上映......
+它就真的只是隱滿之事 TV 版的總集篇
+如果期待有很多新畫面，可能會感到失望
+不過如果是想要重新回味這個故事，我相信會很享受這部
+相比於 TV 版以日常搞笑為主、溫馨為輔、主線慢慢推進的節奏
+劇場版則因為時間的因素，將重點放在走主線和可久士跟姬相處的溫馨日常
+但重要的搞笑依然佔有足夠的份量
+新畫面的部分則是加了一小段來說明為什麼媽媽不在了
+OP ちいさな日々 跟 ED 君は天然色 也都會在適合的時機點出現在劇場版
+以總集篇劇場版來說，節奏跟比例都抓得相當的優秀
+當初看到我差點就要哭了呢
 
 ### 回憶三部曲
 * 觀看平台： 京站威秀 1 廳
@@ -438,7 +463,7 @@ OP / ED 都好棒， OP 有種高分少女感
 
 ### Fate Grand Order-神聖圓桌領域卡美洛- Paladin; Agateram
 * 觀看平台： 京站威秀 7 廳
-
+~~progress line~~
 
 ![IMG_7549](/images/post-images/2022-what-i-watch-in-2021-summer/fate-grand-order-1-6-ep-2.jpeg)
 
@@ -452,15 +477,18 @@ OP / ED 都好棒， OP 有種高分少女感
 大家都在找著一個救贖
 
 ### 和諧
-* 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=12163)
+* 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=12163)（已下架）
 
-一樣是趁著下架快點看完
-有點 EVA 感
+趁著下架快點看完
+是蠻好看的
+但不是很容易理解，有一種 EVA 感
+
 
 ### 屍者的帝國
-* 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=11858)
+* 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=11858)（已下架）
 
-趁著要下架快點看完
+
+同樣是趁著要下架快點看完
 在巴哈姆特上的評分非常低
 好像是在說科學怪人、靈魂之類的事
 雖然沒到真的很難看，但說真的也不知道在說什麼＠＠
@@ -468,6 +496,7 @@ OP / ED 都好棒， OP 有種高分少女感
 ## 真人電影
 ### 波斯語課
 * 觀看平台： [myVideo](https://www.myvideo.net.tw/details/0/330239)
+
 
 算是我近期看過的真人電影中，前幾名的
 
