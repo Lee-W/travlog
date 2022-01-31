@@ -39,6 +39,9 @@ Status: draft
 我想過它會好看，我聽說它很好看
 但我還真的沒想到它會這麼好看
 
+
+音樂跟節奏抓的點超級精確，即使像自由落體般的情緒轉折，也毫無突兀感
+
 ### 藍色時期
 * 觀看平台： [Netflix](https://www.netflix.com/tw/title/81318842)
 
@@ -47,6 +50,8 @@ Status: draft
 其實漫畫老早就買到最新了，但有這個聲音害我一直不敢看
 怕影響到我的觀影體驗
 等這季播完再說
+
+吉田玲子猛
 
 ### 國王排名 第一季
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=25489)
@@ -153,6 +158,7 @@ Crosshead 的矛盾也很棒，尤其是他跟 Tech 最後的那段對話
 
 ### 星際大戰：視界
 * 觀看平台： [Disney+](https://www.disneyplus.com/zh-hant/series/star-wars-visions/5AiiTRJ7OaKg)
+
 
 ### PSYCHO-PASS 心靈判官 Season 2
 * 觀看平台： [Netflix](https://www.netflix.com/tw/title/80006146)
