@@ -1,7 +1,7 @@
 Title: 土鍋蒜味蝦和鯛魚義大利麵 =U=
 Date: 2021-08-18 22:32
 Category: Cook
-Tags: yuru-camp
+Tags: 搖曳露營△
 Slug: yuru-camp-ajillo
 Authors: Lee-W
 Cover: /images/post-images/2021-yuru-camp-ajillo/ajillo-finish.jpeg
