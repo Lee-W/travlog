@@ -250,7 +250,7 @@ Cover: /images/post-images/2022-first-yuru-camp-at-buyuan/main-tent.jpg
 
 ## Lessons learned
 
-記錄一下，這次錄下來覺得少了的東西
+記錄一下，這次露下來覺得少了的東西
 
 * 椅子 matters
     * 好坐的椅子真的差很多
