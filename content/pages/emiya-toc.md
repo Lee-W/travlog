@@ -2,7 +2,7 @@ Title: 衛宮家料理總覽
 Slug: emiya-toc
 Date: 2021-08-28 16:48
 
-* 重現進度： `31 / 54 + ?` （動畫： `10 / 13`）
+* 重現進度： `32 / 54 + ?` （動畫： `10 / 13`）
     * 單行本 1: `10 / 12`
     * 單行本 2: `5 / 12`
     * 單行本 3: `4 / 8`
@@ -41,6 +41,7 @@ Date: 2021-08-28 16:48
 | [沖繩風苦瓜雜炒]({filename}/posts/cook/2021/10-okinawa-style-bitter-gourd.md) |  | 33 | |
 | [溺死在培根蛋奶義大利麵的美味中吧！]({filename}/posts/cook/2021/21-archer-s-bacon-pasta.md) | | 番外 | |
 | [衛宮家的新年賀歲年糕湯]({filename}/posts/cook/2022/1-emiya-s-new-year-rice-cake-soup.md) | 6 | 37 | |
+| [衛宮家的 ふわふわ 丼]({filename}/posts/cook/2022/5-emiya-s-oyakodon.md) | 6 | 40 | |
 | [夏天買不太到草莓，那就做巧克力奇異果千層吧]({filename}/posts/cook/2021/14-saber-s-mille-crepes.md) | 7 (?) | 48 | |
 | [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | 8 (?) | 52 | |
 | [遙遠記憶的荷包蛋 - 正義夥伴的起點]({filename}/posts/cook/2022/4-fried-egss-from-memories.md) | 8 (?) | 53 |
