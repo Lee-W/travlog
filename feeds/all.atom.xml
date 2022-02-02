@@ -1,5 +1,172 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Meet people around the world</title><link href="https://travlog.wei-lee.me/" rel="alternate"></link><link href="https://travlog.wei-lee.me/feeds/all.atom.xml" rel="self"></link><id>https://travlog.wei-lee.me/</id><updated>2022-01-31T22:20:00+08:00</updated><entry><title>ゆる 露營初體驗 =U=</title><link href="https://travlog.wei-lee.me/posts/travel/2022/01/first-yuru-camp-at-buyuan" rel="alternate"></link><published>2022-01-31T22:20:00+08:00</published><updated>2022-01-31T22:20:00+08:00</updated><author><name>Lee-W</name></author><id>tag:travlog.wei-lee.me,2022-01-31:/posts/travel/2022/01/first-yuru-camp-at-buyuan</id><summary type="html">&lt;p&gt;繼料理跟弓道之後，又一件因為看動畫嘗試的新活動 - 露營&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Meet people around the world</title><link href="https://travlog.wei-lee.me/" rel="alternate"></link><link href="https://travlog.wei-lee.me/feeds/all.atom.xml" rel="self"></link><id>https://travlog.wei-lee.me/</id><updated>2022-02-02T22:55:00+08:00</updated><entry><title>衛宮家的 ふわふわ 丼</title><link href="https://travlog.wei-lee.me/posts/cook/2022/02/emiya-s-oyakodon" rel="alternate"></link><published>2022-02-02T22:55:00+08:00</published><updated>2022-02-02T22:55:00+08:00</updated><author><name>Lee-W</name></author><id>tag:travlog.wei-lee.me,2022-02-02:/posts/cook/2022/02/emiya-s-oyakodon</id><summary type="html">&lt;p&gt;最近覺得「哇，真是好吃又方便」的料理之一&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;最近覺得「哇，真是好吃又方便」的料理之一&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;這次重現的是 40 話的濃稠滑嫩的親子丼&lt;br&gt;
+標題會這樣下是因為士郎這次教了怎麼樣才能做出蓬鬆柔軟的口感&lt;br&gt;
+N87 的我想 ふわふわ 應該也可以這樣用吧&lt;/p&gt;
+&lt;h2 id="2"&gt;食材 (2 人份)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;估計成本： 100 元&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;食材&lt;/th&gt;
+&lt;th&gt;份量&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;雞腿肉&lt;/td&gt;
+&lt;td&gt;250 g&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;洋蔥&lt;/td&gt;
+&lt;td&gt;0.5 個&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;蛋&lt;/td&gt;
+&lt;td&gt;3 個&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;水&lt;/td&gt;
+&lt;td&gt;125 ml&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;鰹魚高湯粉&lt;/td&gt;
+&lt;td&gt;1/4 小匙&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;白飯&lt;/td&gt;
+&lt;td&gt;適量&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;七味粉&lt;/td&gt;
+&lt;td&gt;適量&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;原本應該還要再加個鴨兒芹，但聽說在台灣不太容易買到&lt;br&gt;
+而且沒有它，其實吃起來好像也真的沒什麼差＠＠&lt;/p&gt;
+&lt;p&gt;白飯可以稍微煮得硬一點，反正會吸收湯汁&lt;/p&gt;
+&lt;h3 id="_1"&gt;醃料&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;食材&lt;/th&gt;
+&lt;th&gt;份量&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;醬油&lt;/td&gt;
+&lt;td&gt;2 大匙&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;味醂&lt;/td&gt;
+&lt;td&gt;1.5 大匙&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;酒&lt;/td&gt;
+&lt;td&gt;0.5 大匙&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;砂糖&lt;/td&gt;
+&lt;td&gt;0.5 大匙&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img alt="material" src="/images/post-images/2022-emiya-s-oyakodon/material.jpeg"&gt;&lt;/p&gt;
+&lt;h2 id="_2"&gt;步驟&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;估計時間： 30 分鐘&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;去掉雞腿肉上的筋跟軟骨，並切成約 2 &lt;span class="math"&gt;\(cm^2\)&lt;/span&gt; 的大小&lt;br&gt;
+用 2 大匙醬油、1.5 大匙味醂、分別 0.5 大匙的酒和砂糖醃製 5 ~ 10 分鐘&lt;/p&gt;
+&lt;p&gt;洋蔥切成薄片&lt;br&gt;
+&lt;strong&gt;蛋打入碗中稍微打散，但不要太散&lt;/strong&gt;，這樣才能做出蓬鬆滑柔的口感&lt;br&gt;
+最近看 TP 推薦的&lt;a href="https://ani.gamer.com.tw/animeVideo.php?sn=22158"&gt;舞伎家的料理人&lt;/a&gt;也有提到這點&lt;/p&gt;
+&lt;p&gt;&lt;img alt="step-1" src="/images/post-images/2022-emiya-s-oyakodon/step-1.jpeg"&gt;&lt;/p&gt;
+&lt;p&gt;將醃好的雞肉連同醃料、洋蔥、水、鰹魚高湯粉加入鍋中，開大火燉煮&lt;br&gt;
+待醃料煮沸後，轉中火繼續燉煮 3 ～ 4 分鐘&lt;/p&gt;
+&lt;p&gt;&lt;img alt="step-2" src="/images/post-images/2022-emiya-s-oyakodon/step-2.jpeg"&gt;&lt;/p&gt;
+&lt;p&gt;肉和洋蔥都熟透後，把打散的蛋液分三次加入&lt;br&gt;
+每次都是由心中往外繞圈加入&lt;br&gt;
+待前一批凝固後，再加入下一批&lt;br&gt;
+最後一批下去後，稍微再加熱一下下就可以關火了&lt;/p&gt;
+&lt;p&gt;&lt;img alt="step-3" src="/images/post-images/2022-emiya-s-oyakodon/step-3.jpeg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="step-4" src="/images/post-images/2022-emiya-s-oyakodon/step-4.jpeg"&gt;&lt;/p&gt;
+&lt;h2 id="_3"&gt;完成&lt;/h2&gt;
+&lt;p&gt;之前也有嘗試做過親子丼，但一直都覺得成品好像哪裡怪怪的&lt;br&gt;
+但這次照士郎說的「不要把蛋打太散」，就真的弄出很成功的親子丼&lt;br&gt;
+而且製作時間不長、備料又容易，是個想到就可以弄來吃的料理 😋&lt;/p&gt;
+&lt;p&gt;&lt;img alt="finish-1" src="/images/post-images/2022-emiya-s-oyakodon/finish-1.jpeg"&gt;&lt;/p&gt;
+&lt;p&gt;士郎與他的快樂後宮們（不過狗哥應該不算？ 🤔）&lt;/p&gt;
+&lt;p&gt;&lt;img alt="finish-2" src="/images/post-images/2022-emiya-s-oyakodon/finish-2.jpeg"&gt;&lt;/p&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+
+    var configscript = document.createElement('script');
+    configscript.type = 'text/x-mathjax-config';
+    configscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        availableFonts: ['STIX', 'TeX']," +
+        "        preferredFont: 'STIX'," +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="Cook"></category><category term="Fate"></category><category term="衛宮家今天的餐桌風景"></category></entry><entry><title>ゆる 露營初體驗 =U=</title><link href="https://travlog.wei-lee.me/posts/travel/2022/01/first-yuru-camp-at-buyuan" rel="alternate"></link><published>2022-01-31T22:20:00+08:00</published><updated>2022-01-31T22:20:00+08:00</updated><author><name>Lee-W</name></author><id>tag:travlog.wei-lee.me,2022-01-31:/posts/travel/2022/01/first-yuru-camp-at-buyuan</id><summary type="html">&lt;p&gt;繼料理跟弓道之後，又一件因為看動畫嘗試的新活動 - 露營&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;繼料理跟弓道之後，又一件因為看動畫嘗試的新活動 - 露營&lt;/p&gt;
 &lt;!--more--&gt;
 
