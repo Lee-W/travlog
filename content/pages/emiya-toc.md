@@ -28,10 +28,10 @@ Date: 2021-08-28 16:48
 | [間桐家的海藻吻仔魚義大利麵]({filename}/posts/cook/2020/5-matou-s-seaweed-whitebait-pasta.md) | | 13 | |
 | [不輸給高級食材的南洋風咖哩]({filename}/posts/cook/2021/6-emiya-south-eastern-style-curry.md) | | 17 | |
 | [迦勒底特製 - 香煎龍排]({filename}/posts/cook/2021/9-chaldea-fried-steak.md) | | 番外2| |
-| [跨年蕎麥麵 - 明年也請多多指教]({filename}/posts/cook/2021/1-new-year-soba-noodles.md) | 3 | 20 | [1](https://ani.gamer.com.tw/animeVideo.php?sn=16727) |
+| [跨年蕎麥麵 - 明年也請多多指教]({filename}/posts/cook/2021/1-new-year-soba-noodles.md) | 3 | 20 | [1](https://ani.gamer.com.tw/animeVideo.php?sn=16727) | |
+| [衛宮家的玉子燒]({filename}/posts/cook/2021/2-emiya-s-omelet.md) | | 21 | |
 | [春意盎然，高雅的櫻餅]({filename}/posts/cook/2021/13-saegusa-s-sakura-mochi.md) | | 22 | |
 | [衛宮家的馬鈴薯燉肉]({filename}/posts/cook/2020/4-emiya-s-potato-stew.md) | | 23 | |
-| [衛宮家的玉子燒]({filename}/posts/cook/2021/2-emiya-s-omelet.md) | | 21 | |
 | [輕鬆好做的的沙拉丼]({filename}/posts/cook/2021/12-medusa-s-salad-don.md) | 4 | 25 | |
 | [Caster 的軟嫩薑燒豬肉]({filename}/posts/cook/2021/3-caster-s-syogayaki.md) | | 26 | |
 | [核桃布朗尼 - 走到森林裡，然後去找核桃]({filename}/posts/cook/2021/4-sara-s-walnut-brownie.md) | | 28 | |
@@ -41,7 +41,7 @@ Date: 2021-08-28 16:48
 | [沖繩風苦瓜雜炒]({filename}/posts/cook/2021/10-okinawa-style-bitter-gourd.md) |  | 33 | |
 | [溺死在培根蛋奶義大利麵的美味中吧！]({filename}/posts/cook/2021/21-archer-s-bacon-pasta.md) | | 番外 | |
 | [衛宮家的新年賀歲年糕湯]({filename}/posts/cook/2022/1-emiya-s-new-year-rice-cake-soup.md) | 6 | 37 | |
-| [衛宮家的 ふわふわ 丼]({filename}/posts/cook/2022/5-emiya-s-oyakodon.md) | 6 | 40 | |
-| [夏天買不太到草莓，那就做巧克力奇異果千層吧]({filename}/posts/cook/2021/14-saber-s-mille-crepes.md) | 7 (?) | 48 | |
-| [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | 8 (?) | 52 | |
-| [遙遠記憶的荷包蛋 - 正義夥伴的起點]({filename}/posts/cook/2022/4-fried-egss-from-memories.md) | 8 (?) | 53 |
+| [衛宮家的 ふわふわ 丼]({filename}/posts/cook/2022/5-emiya-s-oyakodon.md) | | 40 | |
+| [夏天買不太到草莓，那就做巧克力奇異果千層吧]({filename}/posts/cook/2021/14-saber-s-mille-crepes.md) | 8 (?) | 48 | |
+| [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | | 52 | |
+| [遙遠記憶的荷包蛋 - 正義夥伴的起點]({filename}/posts/cook/2022/4-fried-egss-from-memories.md) | | 53 |
