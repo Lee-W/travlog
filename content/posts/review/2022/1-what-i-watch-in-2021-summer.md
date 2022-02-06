@@ -223,7 +223,7 @@ Authors: Lee-W
 還有杉田智和（JOJO 中二喬的聲優）被 Overdrive 攻擊
 其他我都不太有印象
 
-### 轉生成女性向遊戲只有毀滅END的壞人大小姐X
+### 轉生成女性向遊戲只有毀滅 END 的壞人大小姐X
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=23350)
 
 這一季給人比較後日談的感覺

@@ -65,7 +65,7 @@ Authors: Lee-W
 沒特別推薦，但也不覺得難看
 
 ## 補番
-### 路人超能
+### 路人超能 100
 * 觀看平台: 巴哈姆特動畫瘋
     * [第一季](https://ani.gamer.com.tw/animeVideo.php?sn=5863)
     * [路人超能100 REIGEN ～不為人知的奇蹟靈能力者～](https://ani.gamer.com.tw/animeVideo.php?sn=9737)

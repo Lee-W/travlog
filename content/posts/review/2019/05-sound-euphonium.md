@@ -1,4 +1,4 @@
-Title: 吹響吧！上低音號 三部曲
+Title: 吹響吧！上低音號 劇場版 三部曲
 Date: 2019-10-25 11:38
 Modified: 2019-11-04 12:38
 Category: Review
