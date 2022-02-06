@@ -31,6 +31,7 @@ DEFAULT_PAGINATION = 10
 MENUITEMS = (
     ("About", "/pages/about.html"),
     ("🍿 Review", "/category/review.html"),
+    ("Story Ranking", "/pages/story-ranking.html"),
     ("✈️  Travel", "/category/travel.html"),
     ("🥘 Cook", "/category/cook.html"),
     ("衛宮家料理總覽", "/pages/emiya-toc.html"),
