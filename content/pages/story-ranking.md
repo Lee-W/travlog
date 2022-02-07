@@ -1,11 +1,11 @@
 Title: 絕對主觀的作品排名
 Slug: story-ranking
-Date: 2019-06-19 06:48
-Modified: 2021-08-28 18:48
+Date: 2022-02-06 18:48
+Modified: 2022-02-07 22:30
 
 啟發自[kaze的日本留學&不務正業ACG](https://aurakaze.blog/list_anime/)跟之前推特有人分享的[TierMaker](https://tiermaker.com/create/anime-tier-list-300-anime-17194)
 
-不過更重要的功用其實是給我自己的索引，之前要找某部作品的心得找不到
+不過更重要的功用是給我自己的索引
 原本想用 stork, luar.js 這類的工具來作站內搜尋
 但發現它們都需要斷詞，要搜尋中文就很困難
 之後有時間再來研究其他工具
