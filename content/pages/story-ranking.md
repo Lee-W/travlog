@@ -1,7 +1,7 @@
 Title: 絕對主觀的作品排名
 Slug: story-ranking
 Date: 2022-02-06 18:48
-Modified: 2022-02-13 11:30
+Modified: 2022-02-13 11:38
 
 啟發自[kaze的日本留學&不務正業ACG](https://aurakaze.blog/list_anime/)跟在推特看到的[TierMaker](https://tiermaker.com/create/anime-tier-list-300-anime-17194)
 才做了這個給自己的作品排名/索引
@@ -11,19 +11,19 @@ Modified: 2022-02-13 11:30
 另一個問題是早期看過的作品，我沒有寫成文章
 以前有短暫使用過 [filmarks](https://filmarks.com/) ，但很快就放棄了...
 平時我會用 Wunderlist / Microsoft To Do 紀錄想看的作品
-這份名單就是透過它的 API 抓下這些紀錄製作，有寫過心得的會附上連結
+這份名單就是透過 API 抓下這些紀錄製作，寫過心得的會附上連結
 
-因為動畫作品看得比較多，我分成幾個 tier
+因為動畫作品看得比較多，分成了幾個 tier
 每個 tier 中的前後順序完全沒有意義
 只要隔季品質沒有差太多，就會放在同個 tier，不會把每季都列出來
 
 其他類型的作品，前後擺放的順序大致上就是我的喜好程度
 如果一連串都差不多（e.g., 一連串的漫威系列），我就不會細排
 暫且先把迪士尼跟皮克斯的動畫電影都丟到真人電影那邊
-它們屬於我認真看日式動畫前就可能進戲院看的作品
-給我的感覺跟看真人電影比較接近
+它們是我看日本動畫前就會看的，給我的感覺跟看真人電影比較接近
+星際大戰也是拉出來獨立，有信仰加持跟其他作品實在很難比
 
-這篇單純是紀錄我對作品喜好程度
+這篇單純是紀錄**我對作品喜好程度**
 跟作品本身的品質、製作一點關係都沒有
 有幾部公認的神作/佳作，沒對到我的胃口，也是被我放到很後面
 我的神作你也可能不喜歡
@@ -267,7 +267,7 @@ Modified: 2022-02-13 11:30
     * [THE END OF EVANGELION - AIR / 真心為你]({filename}/posts/review/2020/5-what-i-watch-in-2020-summer.md#the-end-of-evangelion-air)
     * [EVANGELION: DEATH (TRUE)²]({filename}/posts/review/2020/5-what-i-watch-in-2020-summer.md#evangelion-death-true2)
 
-### C Tier（普通，或是優點缺點相抵）
+### C Tier（普通，或優缺點相抵）
 * [成群結伴！西頓學園]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_11)
 * [燒窯的話也要馬克杯]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_8)
 * [ReLIFE 重返 17 歲]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#relife-17)
@@ -356,6 +356,30 @@ Modified: 2022-02-13 11:30
 * 好想大聲說出心底的話 真人版
 * 冰雪奇緣 2
 * 名偵探皮卡丘
+
+---
+
+## 星際大戰
+* Movie
+    * Rogue One: A Star Wars Story
+    * Star Wars: Episode V - The Empire Strikes Back
+    * Star Wars: Episode IV - A New Hope
+    * Star Wars: Episode III – Revenge of the Sith
+    * Star Wars: Episode VI - Return of the Jedi
+    * Star Wars: Episode II - Attack of the Clones
+    * Star Wars: Episode I - The Phantom Menace
+    * Solo: A Star Wars Story
+    * Star Wars: Episode VII - The Force Awakens
+    * Star Wars: Episode VIII - The Last Jedi
+    * Star Wars: The Rise of Skywalker
+* Animation
+    * Star Wars: The Clone Wars
+    * Star Wars: Rebels
+    * Star Wars: Resistance
+* Other
+    * 頭盔下的波巴費特
+    * Star Wars: 探秘飛航
+    * Star Wars: 星球之旅
 
 ---
 
