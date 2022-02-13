@@ -1,32 +1,32 @@
 Title: 絕對主觀的作品排名
 Slug: story-ranking
 Date: 2022-02-06 18:48
-Modified: 2022-02-13 00:22
+Modified: 2022-02-13 11:30
 
-啟發自[kaze的日本留學&不務正業ACG](https://aurakaze.blog/list_anime/)跟之前推特分享的[TierMaker](https://tiermaker.com/create/anime-tier-list-300-anime-17194)
+啟發自[kaze的日本留學&不務正業ACG](https://aurakaze.blog/list_anime/)跟在推特看到的[TierMaker](https://tiermaker.com/create/anime-tier-list-300-anime-17194)
+才做了這個給自己的作品排名/索引
 
-不過更重要的功用是給我自己的索引
-原本想用 stork, luar.js 這類的工具來作站內搜尋
-但發現它們都需要斷詞，要搜尋中文就很困難
-之後有時間再來研究其他工具
-
----
-
-我平時會用 Wunderlist / Microsoft To Do 紀錄想看的作品
-這份名單是用 Microsoft To Do 的 API 抓下所有的紀錄製作
-有寫過心得的會附上連結
+原本想用 [stork](https://stork-search.net/), [luar.js](https://lunrjs.com/) 這類的工具來作站內搜尋
+但發現它們都需要先斷詞，搜尋中文的效果不太好
+另一個問題是早期看過的作品，我沒有寫成文章
+以前有短暫使用過 [filmarks](https://filmarks.com/) ，但很快就放棄了...
+平時我會用 Wunderlist / Microsoft To Do 紀錄想看的作品
+這份名單就是透過它的 API 抓下這些紀錄製作，有寫過心得的會附上連結
 
 因為動畫作品看得比較多，我分成幾個 tier
 每個 tier 中的前後順序完全沒有意義
 只要隔季品質沒有差太多，就會放在同個 tier，不會把每季都列出來
 
 其他類型的作品，前後擺放的順序大致上就是我的喜好程度
-如果一連串都是差不多喜歡，就不會特別排這串的前後
+如果一連串都差不多（e.g., 一連串的漫威系列），我就不會細排
+暫且先把迪士尼跟皮克斯的動畫電影都丟到真人電影那邊
+它們屬於我認真看日式動畫前就可能進戲院看的作品
+給我的感覺跟看真人電影比較接近
 
-這單純是紀錄我對作品喜好程度
+這篇單純是紀錄我對作品喜好程度
 跟作品本身的品質、製作一點關係都沒有
 有幾部公認的神作/佳作，沒對到我的胃口，也是被我放到很後面
-我的神作你可能不喜歡
+我的神作你也可能不喜歡
 我覺得無聊的作品，可能是你的神作（可能是我看不懂...）
 
 如果你發現有這份名單上完全沒提到的好作品，歡迎推坑 😆
@@ -36,7 +36,7 @@ Modified: 2022-02-13 00:22
 [TOC]
 
 ## 動畫
-### SSS （無可撼動的最神作，沒有之一）
+### SSS （無可撼動的神作，沒有之一）
 [聲之形]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_13)
 
 ### SS （神作）
@@ -332,29 +332,29 @@ Modified: 2022-02-13 00:22
 * 可可夜總會
 * [全面啟動]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_36)
 * [每天回家老婆都在裝死]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_19)
-* 明天，我要和昨天的妳約會
 * 阿拉丁
 * 返校
 * [無聲]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_18)
+* 明天，我要和昨天的妳約會
 * [約定的夢幻島 真人版]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_20)
 * 朵拉與失落的黃金城
-* [天能]({filename}/posts/review/2020/5-what-i-watch-in-2020-summer.md#_16)
-* 新殺戮戰警 Shaft
-* 超人特攻隊 2
 * 海底總動員 2
+* 超人特攻隊 2
+* 新殺戮戰警 Shaft
+* [天能]({filename}/posts/review/2020/5-what-i-watch-in-2020-summer.md#_16)
 * 死侍 2
 * 國定殺戮日：大選之年
-* 美國隊長
-* 星際異攻隊
 * 蜘蛛人：離家日
 * 蜘蛛人：返校日
+* 星際異攻隊
 * 黑豹
-* 復仇者聯盟2：奧創紀元
-* 驚奇隊長
 * 猛毒
-* 鋼鐵人2
+* 美國隊長
+* 復仇者聯盟 2：奧創紀元
+* 鋼鐵人 2
+* 驚奇隊長
 * 好想大聲說出心底的話 真人版
-* 冰雪奇緣2
+* 冰雪奇緣 2
 * 名偵探皮卡丘
 
 ---
