@@ -318,8 +318,11 @@ Modified: 2022-02-13 11:38
 ---
 
 ## 真人電影（含美式動畫電影）
+
+
 * 婚姻故事
 * 王牌冤家
+* [波斯語課]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#24)
 * 腦經急轉彎
 * [記憶拼圖：20週年數位修復]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#20)
 * [歡迎來到布達佩斯大飯店]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_35)
@@ -353,6 +356,7 @@ Modified: 2022-02-13 11:38
 * 復仇者聯盟 2：奧創紀元
 * 鋼鐵人 2
 * 驚奇隊長
+* [沙丘]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#25)
 * 好想大聲說出心底的話 真人版
 * 冰雪奇緣 2
 * 名偵探皮卡丘
@@ -388,14 +392,17 @@ Modified: 2022-02-13 11:38
 * [魔法少女小圓~The different story~]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#the-different-story)
 * [路人超能 100]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#100_1)
 * [Fate/Zero]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#fatezero)
+* [葬送的芙莉蓮]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#27)
 * [徒然喜歡你]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_25)
 * [衛宮家今天的餐桌風景]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#_21)
 * [擅長捉弄人的高木同學]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_26)
 * [擅長捉弄人的(前)高木同學]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_29)
 * [進擊的巨人 LOST GIRLS]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#lost-girls)
+* [影宅]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#28)
 * [Fate/stay night]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#fatestay-night)
 * [輝夜姬想讓人告白~天才們的戀愛頭腦戰~]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_27)
 * [進擊的巨人番外篇~無悔的選擇]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_28)
+* [日常]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#29)
 * [我在詐騙公司上班]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_24)
 * [這個美術社大有問題!]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_25)
 * [CITY]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#city)
