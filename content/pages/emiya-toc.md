@@ -2,13 +2,13 @@ Title: 衛宮家料理總覽
 Slug: emiya-toc
 Date: 2021-08-28 16:48
 
-* 重現進度： `32 / 54 + ?` （動畫： `10 / 13`）
+* 重現進度： `33 / 54 + ?` （動畫： `10 / 13`）
     * 單行本 1: `10 / 12`
     * 單行本 2: `5 / 12`
     * 單行本 3: `4 / 8`
     * 單行本 4: `5 / 7`
     * 單行本 5: `3 / 7`
-    * 單行本 6: `2 / 8`
+    * 單行本 6: `3 / 8`
     * 單行本尚未發行： `3 / ?`
 
 | | 漫畫<br>單行本 | 回數 | 動畫<br>集數 |
@@ -42,6 +42,7 @@ Date: 2021-08-28 16:48
 | [溺死在培根蛋奶義大利麵的美味中吧！]({filename}/posts/cook/2021/21-archer-s-bacon-pasta.md) | | 番外 | |
 | [衛宮家的新年賀歲年糕湯]({filename}/posts/cook/2022/1-emiya-s-new-year-rice-cake-soup.md) | 6 | 37 | |
 | [衛宮家的 ふわふわ 丼]({filename}/posts/cook/2022/5-emiya-s-oyakodon.md) | | 40 | |
+| [前一晚就得準備的拿坡里義大利麵]({filename}/posts/cook/2022/6-Spaghetti-alla-napoletana-in-the-cafe) | | 番外2 | |
 | [夏天買不太到草莓，那就做巧克力奇異果千層吧]({filename}/posts/cook/2021/14-saber-s-mille-crepes.md) | 8 (?) | 48 | |
 | [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | | 52 | |
 | [遙遠記憶的荷包蛋 - 正義夥伴的起點]({filename}/posts/cook/2022/4-fried-egss-from-memories.md) | | 53 |
