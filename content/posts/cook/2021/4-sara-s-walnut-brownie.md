@@ -31,7 +31,7 @@ Cover: /images/post-images/2021-sara-s-walnut-brownie/finish-comic-1.jpeg
 | 食材 | 份量 |
 |---|---|
 | 巧克力 | 150 g |
-| 無鹽奶油 | 100 cc |
+| 無鹽奶油 | 100 g |
 | 細砂糖 | 70 g|
 | 蛋 | 2個 |
 | 蘭姆酒 | 10 ~ 15 cc |
