@@ -1,5 +1,6 @@
 Title: 沖繩風苦瓜雜炒
 Date: 2021-03-27 12:37
+Modified: 2022-04-20 11:06
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: okinawa-style-bitter-gourd
@@ -91,6 +92,7 @@ Cover: images/post-images/2021-okinawa-style-bitter-groud/finish.jpeg
 ![step-10]({static}/images/post-images/2021-okinawa-style-bitter-groud/step-10.jpeg)
 
 放入豆芽菜、砂糖、鰹魚粉，快速的拌炒混合
+沿著鍋邊倒入的醬油
 這一步要在 2 分鐘內完成，豆芽菜才會脆脆的
 
 ![step-11]({static}/images/post-images/2021-okinawa-style-bitter-groud/step-11.jpeg)
@@ -108,7 +110,7 @@ Cover: images/post-images/2021-okinawa-style-bitter-groud/finish.jpeg
 
 ![step-14]({static}/images/post-images/2021-okinawa-style-bitter-groud/step-14.jpeg)
 
-最後再撒上柴魚粉就完成了
+最後再撒上柴魚片就完成了
 
 ![step-15]({static}/images/post-images/2021-okinawa-style-bitter-groud/step-15.jpeg)
 
