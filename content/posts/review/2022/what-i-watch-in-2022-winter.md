@@ -83,7 +83,6 @@ starting the case 填詞版的[君が見た夢の物語](https://www.youtube.com
 後來瓦尼塔斯跟諾雅那段又更香
 瓦尼塔斯真是貪吃
 
-
 ### 秘密內幕 ～女警的反擊～
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=27357)
 
