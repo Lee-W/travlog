@@ -26,6 +26,7 @@ Date: 2021-08-28 16:48
 | [愛因茲貝倫城的聖誕烤牛肉]({filename}/posts/cook/2020/7-roast-beef-in-einzbern-castle.md) | 2 | 11 | [12](https://ani.gamer.com.tw/animeVideo.php?sn=16738) |
 | [冬季必吃的關東煮]({filename}/posts/cook/2021/19-emiya-s-oden.md) | | 12 | |
 | [間桐家的海藻吻仔魚義大利麵]({filename}/posts/cook/2020/5-matou-s-seaweed-whitebait-pasta.md) | | 13 | |
+| [凜醬與快樂夥伴的茶會司康]({filename}/posts/cook/2022/8-mitsuzuri-s-scone.md) | |  15 | |
 | [不輸給高級食材的南洋風咖哩]({filename}/posts/cook/2021/6-emiya-south-eastern-style-curry.md) | | 17 | |
 | [迦勒底特製 - 香煎龍排]({filename}/posts/cook/2021/9-chaldea-fried-steak.md) | | 番外2| |
 | [跨年蕎麥麵 - 明年也請多多指教]({filename}/posts/cook/2021/1-new-year-soba-noodles.md) | 3 | 20 | [1](https://ani.gamer.com.tw/animeVideo.php?sn=16727) | |
