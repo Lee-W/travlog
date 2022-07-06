@@ -55,7 +55,7 @@ Modified: 2022-02-13 11:38
 * [魔法少女小圓]({filename}/posts/review/2020/2-what-i-watch-in-2020-winter.md#_10)
 * 吹響吧！上低音號～莉茲與青鳥
     * [莉茲與青鳥]({filename}/posts/review/2020/2-what-i-watch-in-2020-winter.md#_14)
-    * [吹響吧！上低音號～莉茲與青鳥]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_15)
+    * [吹響吧！上低音號～莉茲與青鳥]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_14)
 * 路人超能
     * [路人超能 100]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_6)
     * [路人超能 100 （二刷）]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#100)
