@@ -119,7 +119,7 @@ Cover: /images/post-images/2021-emiya-s-chirashizushi/finish-5.jpeg
 
 將一層一層的蛋疊起來
 
-![egg-step-4]({static}/images/post-images/2021-emiya-s-chirashizushi/egg-step-4-1.jpeg)
+![egg-step-4]({static}/images/post-images/2021-emiya-s-chirashizushi/egg-step-4.jpeg)
 
 切成細絲
 
