@@ -36,8 +36,15 @@ ED [小喋日和](https://www.youtube.com/watch?v=Ovz1K5ieNCQ) 真的好聽到�
 ### 輝夜姬想讓人告白？～天才們的戀愛頭腦戰～ 第二季 OVA
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=28921)
 
+放福利的同時，嘴放福利這件事
+
 ### 相合之物
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=28794)
+
+暖，這部作品的敘述大概就是這樣
+玉子市場 + 隱瞞之事 (溫馨) / 2 的感覺
+修羅場很棒
+
 
 ### 小太郎一個人生活
 * 觀看平台： [Netflix](https://www.netflix.com/tw/title/81275353)
@@ -71,8 +78,14 @@ ED [小喋日和](https://www.youtube.com/watch?v=Ovz1K5ieNCQ) 真的好聽到�
 ### 這個僧侶有夠煩
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=28804)
 
+後面變成這個僧侶有夠甜，搞什麼
+我就愛看這味
+
 ### 式守同學不只可愛而已
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=28802)
+
+OP 很棒
+第八集以為要修羅場了
 
 ### 魔法紀錄 魔法少女小圓外傳 FINAL SEASON - 淺夢的黎明
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=28779)
@@ -171,6 +184,8 @@ ED [小喋日和](https://www.youtube.com/watch?v=Ovz1K5ieNCQ) 真的好聽到�
 ### 捍衛戰士：獨行俠
 * 觀看平台： 林口威秀 1 廳 4DX
 
+為 4DX 而生的作品
+
 ![top-gun-2](/images/post-images/2022-what-i-watch-in-2022-sprint/top-gun-2.jpeg)
 
 就是爽
@@ -188,6 +203,16 @@ ED [小喋日和](https://www.youtube.com/watch?v=Ovz1K5ieNCQ) 真的好聽到�
 
 ### 嬰兒轉運站
 * 觀看平台： 松仁威秀 2 廳
+
+有幾幕很棒
+
+摩天輪很棒
+
+但就覺得比較無感一點
+跟寄生上流一樣，是好看的，但沒有打到我
+不過寄生上流又再多好看一些
+
+這才發現我看的每部大叔作品，他都在跑路
 
 ![broker](/images/post-images/2022-what-i-watch-in-2022-sprint/broker.jpeg)
 
