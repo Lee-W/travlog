@@ -2,13 +2,11 @@ Title: Star Wars Movies - In Concert
 Date: 2019-09-29 16:26
 Category: Review
 Tags: Star Wars, Concert
-Slug: star-wars-movies-in-conert
+Slug: star-wars-movies-in-concert
 Authors: Lee-W
-Summary:
-Series:
 
 今年總共參加了三場 Star Wars 的音樂會
-就差了我最想看的 "Empire Strikes Back" QQ
+就差了我最想看的 Empire Strikes Back QQ
 想說今年可能也沒下一場了，就來回顧一下參加過的這幾場
 
 <!--more-->
@@ -17,7 +15,7 @@ Series:
 
 ## Star Wars: A New Hope - In Concert (2019/1/12)
 
-![a-new-hope]({static}/images/post-images/2019-09-29-star-wars-movies-in-conert/a-new-hope.jpg)
+![a-new-hope](/images/post-images/2019-09-29-star-wars-movies-in-conert/a-new-hope.jpg)
 
 這場是 Star Wars 第一場來到台灣辦的音樂會
 第一次來到國家音樂廳
@@ -40,7 +38,7 @@ Series:
 中間也會有機會跟 cosers 拍照（我猜應該是 501 軍團？）
 要去她拍照的時候我還很直覺的就脫口問了 “Can I hold your blaster?”
 
-![storm-trooper]({static}/images/post-images/2019-09-29-star-wars-movies-in-conert/storm-trooper.jpeg)
+![storm-trooper](/images/post-images/2019-09-29-star-wars-movies-in-conert/storm-trooper.jpeg)
 
 整個音樂會，最精彩的部分還是攻擊 the Death Star 的部分
 能在大螢幕看到真的很熱血，還有最後頒獎典禮那段也很感人！
@@ -51,7 +49,7 @@ Series:
 
 ## Star Wars: Return of The Jedi - In Concert (2019/9/7)
 
-![return-of-the-jedi]({static}/images/post-images/2019-09-29-star-wars-movies-in-conert/return-of-the-jedi.jpeg)
+![return-of-the-jedi](/images/post-images/2019-09-29-star-wars-movies-in-conert/return-of-the-jedi.jpeg)
 
 有了上次的經驗，我知道不需要買到最前面的座位
 其實在二樓後面看就已經差不多了
@@ -67,13 +65,13 @@ Series:
 台下帶光劍的觀眾也一起跟著揮舞
 這才讓我有些後悔沒把光劍帶來，少參與了這一個部分
 
-![posters.jpeg]({static}/images/post-images/2019-09-29-star-wars-movies-in-conert/posters.jpeg)
+![posters.jpeg](/images/post-images/2019-09-29-star-wars-movies-in-conert/posters.jpeg)
 
-![sand-people.jpeg]({static}/images/post-images/2019-09-29-star-wars-movies-in-conert/sand-people.jpeg)
+![sand-people.jpeg](/images/post-images/2019-09-29-star-wars-movies-in-conert/sand-people.jpeg)
 
 ## Star Wars: The Force Awakens - In Concert (2019/9/8)
 
-![the-force-awakens]({static}/images/post-images/2019-09-29-star-wars-movies-in-conert/the-force-awakens.jpeg)
+![the-force-awakens](/images/post-images/2019-09-29-star-wars-movies-in-conert/the-force-awakens.jpeg)
 
 當初要不要來看 The Force Awakens 的音樂會，我其實猶豫了很久
 畢竟我真的在大螢幕看過了 XD
@@ -89,9 +87,9 @@ Series:
 還拍了幾張不錯的照片
 馬可多的光劍真的很厲害，在白天拍照還是亮成這樣......
 
-![empire]({static}/images/post-images/2019-09-29-star-wars-movies-in-conert/empire.jpeg)
+![empire](/images/post-images/2019-09-29-star-wars-movies-in-conert/empire.jpeg)
 
-![jedi-fight.jpeg]({static}/images/post-images/2019-09-29-star-wars-movies-in-conert/jedi-fight.jpeg)
+![jedi-fight.jpeg](/images/post-images/2019-09-29-star-wars-movies-in-conert/jedi-fight.jpeg)
 
 我覺得帶光劍來真的是一個很正確的決定
 帶著光劍的時候，就會有人好奇的來問
