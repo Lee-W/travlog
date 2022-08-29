@@ -6,12 +6,17 @@ Slug: fgo-solomon
 Authors: Lee-W
 Status: draft
 
-電影院開放飲食真的是暴政
+去年就看完，結果拖了快一年好好的寫這篇文章
+連[巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=31045)都上了...
+
+<!--more-->
+
+當初幹的時候電影院開放飲食的時候
+覺得這項政策實在是暴政
 後面的人一直在搖飲料的冰塊不知道是在搖什麼意思的
 但除此之外這部電影真的很好看
 有玩 FGO 或對 Fate 系列大致了解都很推薦去看
 
-<!--more-->
 
 人權圖防雷
 
