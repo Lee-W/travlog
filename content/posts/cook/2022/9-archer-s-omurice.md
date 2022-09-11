@@ -107,7 +107,7 @@ Cover: /images/post-images/2022-archer-s-omurice/finish-3.jpeg
 ![step-8](/images/post-images/2022-archer-s-omurice/step-8.jpeg)
 
 等到飯全部都沾到醬汁變得紅紅的就可以起鍋
-印為這是兩人份，所以可以先分成一半
+因為這是兩人份，所以可以先分成一半
 
 ![step-9](/images/post-images/2022-archer-s-omurice/step-9.jpeg)
 
