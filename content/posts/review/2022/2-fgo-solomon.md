@@ -1,9 +1,11 @@
 Title: Fate/Grand Order 終局特異點冠位時間神殿所羅門
 Subtitle: FGO 終局之戰（？）
 Date: 2022-09-10 23:18
+Modified: 2022-09-16 23:52
 Category: Review
 Tags: Animate, Fate, Movie
 Slug: fgo-solomon
+Cover: /images/post-images/2022-fgo-solomon/fgo-solomon-ticket-special.jpeg
 Authors: Lee-W
 
 去年就看完，結果拖了快一年好好的寫這篇文章
