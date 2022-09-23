@@ -5,7 +5,7 @@ PATH = "content"
 
 # Blog Conf
 AUTHOR = "Lee-W"
-SITENAME = "Meet people around the world"
+SITENAME = "Those things no one cares about"
 SITETITLE = SITENAME
 SITEURL = "http://localhost:8000"
 SITELOGO = "/images/avatar.jpg"
