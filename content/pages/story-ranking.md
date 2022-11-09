@@ -437,7 +437,7 @@ Modified: 2022-02-13 11:38
     * Star Wars: Episode VIII - The Last Jedi
     * Star Wars: The Rise of Skywalker
 * Series
-    * [曼達洛人](filename/posts/review/2022/3-what-i-watch-in-2020-winter.md#_28)
+    * [曼達洛人]({filename}/posts/review/2022/3-what-i-watch-in-2020-winter.md#_28)
 * Animation
     * Star Wars: The Clone Wars
     * Star Wars: Rebels
