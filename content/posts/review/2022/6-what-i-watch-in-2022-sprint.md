@@ -1,10 +1,17 @@
 Title: 2022 春季看什麼
+Subtitle: 太好聽了吧，簡直是天籟
 Date: 2022-01-01 12:50
 Category: Review
 Tags: Animate, 當季看什麼
 Slug: what-i-watch-in-2022-sprint
 Authors: Lee-W
 Status: draft
+
+我有次突然被問「你不是最喜歡異世界嗎」
+這時
+我根本就是異世界先扣十分的人啊ＸＤ
+日常系加十分
+梶浦由記加三十分
 
 [TOC]
 
@@ -145,6 +152,8 @@ OP 很棒
 ### Loki
 * 觀看平台： [Disney+](https://www.disneyplus.com/zh-hant/series/loki/6pARMvILBGzF)
 
+整體來說沒有什麼太大的缺點
+
 ### Wanda Vision
 * 觀看平台： [Disney+](https://www.disneyplus.com/zh-hant/series/wandavision/4SrN28ZjDLwH)
 
@@ -160,6 +169,8 @@ OP 很棒
 演出（如果真的存在）是一場更大的災難
 除了 Ewan McGregor 跟 Haden 登場能撐得上是優點外
 只能說是太多太大的瑕疵們把所有優點（如果真的存在）都蓋過了
+真的是令人難以置信的難看
+觀看體驗就像是把人的腦袋挖出來按在地上摩擦
 
 ## 真人電影
 ### 媽的多重宇宙
@@ -239,6 +250,9 @@ OP 很棒
 ### 餘命10年
 * 觀看平台： 信義威秀
 
+就
+蠻無聊的
+
 ![the-last-10-years](/images/post-images/2022-what-i-watch-in-2022-sprint/the-last-10-years.jpg)
 
 
@@ -250,6 +264,13 @@ OP 很棒
 我記得原作小說還不錯啊，怎麼劇本改成這樣
 前面還不能說是糟得太絕望，但結尾一口氣毀滅一切
 看得腦袋很痛
+
+## 漫畫
+### 海波追尋的終幕
+* 觀看平台： [KOBO](https://www.kobo.com/tw/zh/ebook/aBY55p22Az6LaIF81jvW9g)
+
+### 即使如此依舊步步進逼
+* 觀看平台： [KOBO](https://www.kobo.com/tw/zh/ebook/_TKojDijXD2TyzYQ3C5WHg)
 
 ## 紀錄片
 ### 飄浪人生
