@@ -3,13 +3,13 @@ Slug: emiya-toc
 Date: 2021-08-28 16:48
 Modified: 2022-09-17 11:12
 
-* 重現進度： 漫畫： `36 / 61 + ?` /  動畫： `11 / 13`
+* 重現進度： 漫畫： `37 / 61 + ?` /  動畫： `11 / 13`
     * 單行本 1: `10 / 12`
     * 單行本 2: `6 / 12`
     * 單行本 3: `4 / 8`
     * 單行本 4: `5 / 7`
     * 單行本 5: `3 / 7`
-    * 單行本 6: `5 / 8`
+    * 單行本 6: `6 / 8`
     * 單行本 7: `1 / 7`
     * 單行本尚未發行： `2 / ?`
     * 動畫原創: `1 / 1`
@@ -47,6 +47,7 @@ Modified: 2022-09-17 11:12
 | [衛宮家的新年賀歲年糕湯]({filename}/posts/cook/2022/1-emiya-s-new-year-rice-cake-soup.md) | 6 | 37 | |
 | [柔滑軟嫩的滑蛋蟹肉]({filename}/posts/cook/2022/7-crab-meat-with-egg.md) | | 38 | |
 | [衛宮家的 ふわふわ 丼]({filename}/posts/cook/2022/5-emiya-s-oyakodon.md) | | 40 | |
+| [鮭魚鏘鏘燒]({filename}/posts/cook/2022/11-salmon-chan-chan-yaki.md) | | 42 | |
 | [來做南瓜布丁吧！ ]({filename}/posts/cook/2022/10-archer-and-caster-s-pumpkin-pudding.md) | | 番外 1 | |
 | [拿坡里義大利麵]({filename}/posts/cook/2022/6-Spaghetti-alla-napoletana-in-the-cafe.md) | | 番外2 | |
 | [夏天買不太到草莓，那就做巧克力奇異果千層吧]({filename}/posts/cook/2021/14-saber-s-mille-crepes.md) | 7 | 48 | |
