@@ -71,6 +71,7 @@ Modified: 2022-02-13 11:38
     * [路人超能 100 （二刷）]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#100)
 * 進擊的巨人
    * [進撃的巨人 The Final Season]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#the-final-season)
+   * [「進撃的巨人」The Final Season]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#the-final-season)
    * [進擊的巨人 劇場版 CHRONICLE]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#chronicle)
 * Fate 系列
     * [Fate Zero]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#fate-zero)
@@ -84,6 +85,9 @@ Modified: 2022-02-13 11:38
     * [JOJO 的奇妙冒險]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#jojo)
     * [JOJO 的奇妙冒險 不滅鑽石]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#jojo)
     * [JOJO 的奇妙冒險 黃金之風]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#jojo_1)
+* [擅長捉弄人的高木同學 第三季]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_2)
+* [海盜戰記]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_12)
+* [福音戰士新劇場版]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_21)
 
 ### S Tier
 * [JOJO 的奇妙冒險 星塵遠征軍]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#jojo_1)
@@ -151,6 +155,7 @@ Modified: 2022-02-13 11:38
     * [Fate/stay night [Unlimited Blade Works]]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#fatestay-night-unlimited-blade-works)
     * [Fate/stay night [Unlimited Blade Works]]({filename}/posts/review/2020/5-what-i-watch-in-2020-summer.md#fatestay-night-unlimited-blade-works)
     * [艾梅洛閣下II世事件簿 魔眼蒐集列車Grace note]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#ii-grace-note)
+    * [艾梅洛閣下II世事件簿 -魔眼蒐集列車 Grace note- 特別篇]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#ii-grace-note-)
 * 暮蟬鳴泣時
     * [暮蟬鳴泣時]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#_11)
     * [暮蟬悲鳴時 業]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_3)
@@ -170,12 +175,18 @@ Modified: 2022-02-13 11:38
 * [藍色時期]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_4)
 * [前輩有夠煩]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_5)
 * [PSYCHO-PASS 心靈判官 Season 1]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#psycho-pass-season-1)
-* [進擊的巨人：Wall Sina,Goodbye]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#wall-sinagoodbye)
+* 進擊的巨人
+    * [進擊的巨人：Wall Sina,Goodbye]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#wall-sinagoodbye)
+    * [進擊的巨人：Lost Girls Lost in the Cruel World]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#lost-girls-lost-in-the-cruel-world)
 * [狼的孩子雨和雪](filename/posts/review/2022/3-what-i-watch-in-2020-winter.md#_16)
 * [心靈遊戲](filename/posts/review/2022/3-what-i-watch-in-2020-winter.md#_17)
 * 來自深淵
     * 來自深淵 第一季
     * [來自深淵劇場版：深沉靈魂的黎明]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_18)
+* [86－不存在的戰區－]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#86-)
+* [瓦尼塔斯的手札 後半]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_3)
+* [秘密內幕 ～女警的反擊～]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_4)
+* [明日同學的水手服]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_5)
 
 ### A Tier
 * [岸邊露伴一動也不動]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#_14)
@@ -240,6 +251,16 @@ Modified: 2022-02-13 11:38
 * [無限可能：假如...？]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_11)
 * [虐殺器官](filename/posts/review/2022/3-what-i-watch-in-2020-winter.md#_18)
 * [刀劍神域劇場版 PROGRESSIVE 無星夜的詠嘆調](filename/posts/review/2022/3-what-i-watch-in-2020-winter.md#progressive)
+* [戀上換裝娃娃]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_6)
+* [鬼滅之刃 遊郭篇]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_7)
+* [怪人開發部的黑井津小姐]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_8)
+* [讓我聽見愛的歌聲]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_22)
+* [劇場版 咒術迴戰0]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#0)
+* [言語如汽水般湧現]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_23)
+* 進擊的巨人
+    * [進擊的巨人：突然的來訪者]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_13)
+    * [進擊的巨人：伊爾澤的筆記]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_14)
+* [煙草]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_15)
 
 ### B Tier
 * 飛翔的魔女
@@ -298,7 +319,12 @@ Modified: 2022-02-13 11:38
 * [宿命迴響: 命運節拍]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_7)
 * [賈希大人不氣餒！]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_8)
 * [Fate/Stay Night]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#fatestay-night)
-* [PSYCHO-PASS 心靈判官 Season 2]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#psycho-pass-season-2)
+* [白領羽球部]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_9)
+* [進擊的巨人：無悔的選擇]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_16)
+* [關於完全聽不懂老公在說什麼的事 第一季]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_17)
+* PSYCHO-PASS 心靈判官
+    * [PSYCHO-PASS 心靈判官 Season 2]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#psycho-pass-season-2)
+    * [PSYCHO-PASS 3 心靈判官3　FIRST INSPECTOR]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#psycho-pass-3-3-first-inspector)
 
 ### C Tier
 * [成群結伴！西頓學園]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_11)
@@ -318,6 +344,8 @@ Modified: 2022-02-13 11:38
 * [Re:從零開始的異世界生活 外傳集]({filename}/posts/review/2020/2-what-i-watch-in-2020-winter.md#re_1)
 * [手塚治虫之大都會](filename/posts/review/2022/3-what-i-watch-in-2020-winter.md#_19)
 * [PSYCHO-PASS 心靈判官 Sinners of the System](filename/posts/review/2022/3-what-i-watch-in-2020-winter.md#psycho-pass-sinners-of-the-system)
+* [奧術]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_18)
+* [來自繽紛世界的明日]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_19)
 * 燒窯的話也要馬克杯
     * [燒窯的話也要馬克杯]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_8)
     * [燒窯的話也要馬克杯 二號窯]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_9)
@@ -340,6 +368,7 @@ Modified: 2022-02-13 11:38
 * [BEASTARS 第二季]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#beastars)
 * [叫我，對大哥 （TV 版）]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#tv)
 * [魔法阿媽](filename/posts/review/2022/3-what-i-watch-in-2020-winter.md#_21)
+* [國王排名]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_10)
 
 ### E Tier
 
@@ -371,6 +400,7 @@ Modified: 2022-02-13 11:38
 * 腦筋急轉彎
 * [記憶拼圖：20週年數位修復]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#20)
 * [法蘭西特派週報](filename/posts/review/2022/3-what-i-watch-in-2020-winter.md#_24)
+* [綠洲：數位經典版]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_25)
 
 ### S Tier
 * [歡迎來到布達佩斯大飯店]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_35)
@@ -401,6 +431,7 @@ Modified: 2022-02-13 11:38
 
 ### C Tier
 * [天能]({filename}/posts/review/2020/5-what-i-watch-in-2020-summer.md#_16)
+* [素還真]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_26)
 * 死侍 2
 * 國定殺戮日：大選之年
 * 蜘蛛人：離家日
@@ -420,6 +451,14 @@ Modified: 2022-02-13 11:38
 
 ### E Tier
 * 名偵探皮卡丘
+
+---
+
+## 紀錄片
+* [今敏：造夢魔術師]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_28)
+* [時代革命]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_29)
+* [智能社會：進退兩難]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_30)
+
 
 ---
 
@@ -476,6 +515,7 @@ Modified: 2022-02-13 11:38
 
 ### A Tier
 * [岸邊露伴一動也不動](filename/posts/review/2022/3-what-i-watch-in-2020-winter.md#_31)
+* [岸邊露伴完全不嬉鬧]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_32)
 * [日常]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#29)
 * [我在詐騙公司上班]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_24)
 * [這個美術社大有問題!]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_25)
