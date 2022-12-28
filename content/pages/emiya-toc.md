@@ -11,7 +11,8 @@ Modified: 2022-09-17 11:12
     * 單行本 5: `3 / 7`
     * 單行本 6: `6 / 8`
     * 單行本 7: `1 / 7`
-    * 單行本尚未發行： `2 / ?`
+    * 單行本 8: `3 / 7`
+    * 單行本尚未發行： `0 / ?`
     * 動畫原創: `1 / 1`
 
 | | 漫畫<br>單行本 | 回數 | 動畫<br>集數 |
@@ -51,6 +52,7 @@ Modified: 2022-09-17 11:12
 | [來做南瓜布丁吧！ ]({filename}/posts/cook/2022/10-archer-and-caster-s-pumpkin-pudding.md) | | 番外 1 | |
 | [拿坡里義大利麵]({filename}/posts/cook/2022/6-Spaghetti-alla-napoletana-in-the-cafe.md) | | 番外2 | |
 | [夏天買不太到草莓，那就做巧克力奇異果千層吧]({filename}/posts/cook/2021/14-saber-s-mille-crepes.md) | 7 | 48 | |
-| [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | ? | 52 | |
-| [遙遠記憶的荷包蛋 - 正義夥伴的起點]({filename}/posts/cook/2022/4-fried-egss-from-memories.md) | ? | 53 |
+| [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | 8 | 52 | |
+| [遙遠記憶的荷包蛋 - 正義夥伴的起點]({filename}/posts/cook/2022/4-fried-egss-from-memories.md) |  | 53 |
+| [巧克力香蕉磅蛋糕]({filename}/posts/cook/2022/12-choco-banana-pound-cake.md) | | 55 |
 | [想像著永遠是最好吃的蛋包飯]({filename}/posts/cook/2022/9-archer-s-omurice.md) | - | - | [11](https://ani.gamer.com.tw/animeVideo.php?sn=16737) |
