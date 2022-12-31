@@ -13,7 +13,7 @@ BROWSER_COLOR = "#333333"
 HEADER_COVER = "/images/cover.jpeg"
 
 # comment system
-UTTERANCES_REPO = "Lee-W/Lee-W.github.io"
+UTTERANCES_REPO = "Lee-W/travlog"
 UTTERANCES_LABEL = "blog-comment"
 COMMENTS_INTRO = (
     "Do you like this article? What do your tink about it? Leave you comment below"
