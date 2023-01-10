@@ -3,7 +3,7 @@ Date: 2019-09-29 16:26
 Category: Review
 Tags: Star Wars, Concert
 Slug: star-wars-movies-in-concert
-Authors: Lee-W
+Authors: Wei Lee
 
 今年總共參加了三場 Star Wars 的音樂會
 就差了我最想看的 Empire Strikes Back QQ

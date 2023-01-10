@@ -3,7 +3,7 @@ Date: 2020-06-23 18:37
 Category: Review
 Tags: Animate, Movie, Kyoto Animation
 Slug: koe-no-katachi-original-painting-unboxing
-Authors: Lee-W
+Authors: Wei Lee
 
 今年三月的時候，突然看到京阿尼 Shop 重新販售「聲之形」的原畫集
 [「聲の形」「Free!ES」「リズと青い鳥」書籍4点の再販予約受付を開始！](http://kyoanishop.com/new/2020-03-19-170228.html)

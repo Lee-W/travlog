@@ -3,7 +3,7 @@ Date: 2020-12-24 18:15
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: saber-s-pancake
-Authors: Lee-W
+Authors: Wei Lee
 Cover:
 
 這次要重現的是單行本第 1 本番外篇 2 的 Saber 的點心

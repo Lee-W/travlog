@@ -3,7 +3,7 @@ Date: 2021-01-28 17:17
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: caster-s-syogayaki
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2021-caster-s-syogayaki/finish.jpeg
 
 自從 Caster 從 Lancer 那邊聽到士郎的廚藝

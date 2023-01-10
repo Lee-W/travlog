@@ -6,7 +6,7 @@ Category: Review
 Tags: Animate, Fate, Movie
 Slug: fgo-solomon
 Cover: /images/post-images/2022-fgo-solomon/fgo-solomon-ticket-special.jpeg
-Authors: Lee-W
+Authors: Wei Lee
 
 去年就看完，結果拖了快一年好好的寫這篇文章
 連[巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=31045)都上了...

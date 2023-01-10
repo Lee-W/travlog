@@ -3,7 +3,7 @@ Date: 2020-12-30 15:52
 Category: Review
 Tags: Animate, Movie, Fate
 Slug: fate-stay-night-heaven-s-feel
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2020-fsn-hf/ticket-3.jpg
 
 剛好看馬拉松的前一天，才看完鬼滅之刃劇場版

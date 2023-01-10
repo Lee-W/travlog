@@ -5,7 +5,7 @@ Modified: 2021-12-15 9:36
 Category: Review
 Tags: Animate, JOJO, Novel
 Slug: purple-haze-feedback
-Authors: Lee-W
+Authors: Wei Lee
 
 看完黃金之風一個意猶未盡
 意外的看到有人推薦這本小說，趁著要買其他書就一起買了

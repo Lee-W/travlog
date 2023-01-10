@@ -3,7 +3,7 @@ Date: 2021-02-12 15:03
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-south-eastern-style-curry
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2021-emiya-south-eastern-style-curry/finish.jpeg
 
 這次重現第 17 話「使用大量夏季蔬菜的南洋風咖哩」

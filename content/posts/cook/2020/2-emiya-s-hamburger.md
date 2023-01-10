@@ -3,7 +3,7 @@ Date: 2020-11-24 22:26
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-hamburger
-Authors: Lee-W
+Authors: Wei Lee
 Cover: {static}/images/post-images/2020-emiya-s-hamburger/anime-finish.png
 
 「衛宮家今天的餐桌風景」[第六集](https://ani.gamer.com.tw/animeVideo.php?sn=16732) 「第一次的漢堡排」出現了切嗣爸爸

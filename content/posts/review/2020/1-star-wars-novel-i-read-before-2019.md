@@ -3,7 +3,7 @@ Date: 2020-01-05 11:37
 Category: Review
 Tags: Star Wars, Novel
 Slug: star-wars-novels-i-read-before-2019
-Authors: Lee-W
+Authors: Wei Lee
 Summary:
 Series:
 

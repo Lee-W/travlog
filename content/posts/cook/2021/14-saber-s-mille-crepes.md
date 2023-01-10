@@ -3,7 +3,7 @@ Date: 2021-06-13 16:57
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: saber-s-mille-crepes
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2021-saber-s-mille-crepes/finish-comic-1.jpeg
 
 這次來重現第 48 話[イチゴのミルクレープ](https://web-ace.jp/youngaceup/contents/1000010/episode/5346/)

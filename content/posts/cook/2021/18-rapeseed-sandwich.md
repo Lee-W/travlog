@@ -3,7 +3,7 @@ Date: 2021-08-31 22:55
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: rapeseed-sandwich
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2021-rapeseed-sandwich/finish-4.jpeg
 
 隔了幾次重現其他作品的料理後，最終還是回來衛宮家的料理

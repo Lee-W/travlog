@@ -4,7 +4,7 @@ Date: 2019-12-10 11:27
 Category: Travel
 Tags: Star Wars, Galaxy's Edge
 Slug: rise-of-the-resistance
-Authors: Lee-W
+Authors: Wei Lee
 
 **防雷通知**
 

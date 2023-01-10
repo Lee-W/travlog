@@ -3,7 +3,7 @@ Date: 2022-07-06 23:51
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: mitsuzuri-s-scone
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2022-mitsuzuri-s-scone/finish-1.jpeg
 
 司康真的是我怎麼做都做不太好的甜點...

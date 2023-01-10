@@ -4,7 +4,7 @@ Date: 2021-09-04 13:10
 Category: Review
 Tags: Animate
 Slug: memories
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2021-memories/memories.jpeg
 
 每次看這種畫風非主流的老作品重映

@@ -5,7 +5,7 @@ Modified: 2021-11-20 19:44
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: sara-s-walnut-brownie
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2021-sara-s-walnut-brownie/finish-comic-1.jpeg
 
 在這之前，我做夢也想不到這輩子會做甜點吧（笑

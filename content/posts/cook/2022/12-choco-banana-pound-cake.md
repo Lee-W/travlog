@@ -4,7 +4,7 @@ Date: 2022-12-28 22:55
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: choco-banana-pound-cake
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2022-choco-banana-pound-cake/finish-1.jpeg
 
 身為一個邊緣人，在生日的時候做蛋糕給自己是個必備的技能

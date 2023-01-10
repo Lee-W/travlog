@@ -3,7 +3,7 @@ Date: 2021-01-18 16:17
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-omelet
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2021-emiya-s-omelet/finish.jpeg
 
 看著室友做了好多次的蛋料理

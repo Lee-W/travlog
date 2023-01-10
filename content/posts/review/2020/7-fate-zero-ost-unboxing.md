@@ -3,7 +3,7 @@ Date: 2020-11-22 15:21
 Category: Review
 Tags: Animate, Fate, Unboxing
 Slug: fate-zero-ost-unboxing
-Authors: Lee-W
+Authors: Wei Lee
 
 大概九月的時候 Fate/Zero 的原聲帶上架了台灣的 iTunes
 沒想到我一下定決心要買，它就下架了...

@@ -4,7 +4,7 @@ Date: 2021-01-02 17:56
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: new-year-soba-noodles
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2021-new-year-soba-noodles/finish-with-saber.jpeg
 
 說到跨年，當然也只能重現第 20 話的跨年夜來晚熱呼呼的跨年蕎麥麵了

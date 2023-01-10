@@ -3,7 +3,7 @@ Date: 2021-02-20 16:06
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-pork-miso-soup
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2021-emiya-s-pork-miso-soup/finish.jpeg
 
 這次來重現第 29 回的「放滿配料的豬肉味噌湯」

@@ -4,7 +4,7 @@ Date: 2022-01-27 22:55
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: fried-eggs-from-memories
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2022-fried-eggs-from-memories/finish-2.jpeg
 
 最近連載中的回數們，意外的都是我很有興趣的料理

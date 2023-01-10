@@ -3,7 +3,7 @@ Date: 2021-11-19 17:50
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: archer-s-bacon-pasta
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2021-archer-s-bacon-pasta/finish-powder-1.jpeg
 
 這次終於輪到理想的盡頭 - 英靈衛宮了

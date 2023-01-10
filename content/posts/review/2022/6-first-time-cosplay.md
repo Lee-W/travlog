@@ -4,7 +4,7 @@ Date: 2022-12-31 17:41
 Category: Review
 Tags: Animate, Cosplay
 Slug: first-time-cosplay
-Authors: Lee-W
+Authors: Wei Lee
 
 說到今年最讓自己錯愕的嘗試應該就是開始 Cosplay 吧
 而且還都是出女角 0.0

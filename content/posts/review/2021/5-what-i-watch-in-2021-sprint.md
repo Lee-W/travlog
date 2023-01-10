@@ -4,7 +4,7 @@ Date: 2021-10-10 16:30
 Category: Review
 Tags: Animate, Movie, Series,當季看什麼
 Slug: what-i-watch-in-2021-sprint
-Authors: Lee-W
+Authors: Wei Lee
 
 原本春季沒什麼感興趣的作品，想多花點時間補番
 沒想到被推坑推到看不完

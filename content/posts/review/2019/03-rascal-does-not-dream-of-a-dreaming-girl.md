@@ -3,7 +3,7 @@ Date: 2019-10-02 22:39
 Category: Review
 Tags: Animate, Movie
 Slug: rascal-does-not-dream-of-a-dreaming-girl
-Authors: Lee-W
+Authors: Wei Lee
 Status:
 Summary:
 

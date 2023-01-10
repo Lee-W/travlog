@@ -3,7 +3,7 @@ Date: 2020-12-20 16:30
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-potato-stew
-Authors: Lee-W
+Authors: Wei Lee
 Cover:
 
 這是我第一次重現只出現在漫畫的料理

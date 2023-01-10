@@ -3,7 +3,7 @@ Date: 2019-11-05 19:00
 Category: Review
 Tags: Animate, Movie, Kyoto Animation
 Slug: violet-evergarden-movie
-Authors: Lee-W
+Authors: Wei Lee
 Summary:
 Series:
 

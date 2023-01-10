@@ -3,7 +3,7 @@ Date: 2019-07-30 16:27
 Category: Review
 Tags: Animate, Kyoto Animation
 Slug: violet-evergarden
-Authors: Lee-W
+Authors: Wei Lee
 Summary:
 
 這是我第一篇的追番心得文

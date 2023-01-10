@@ -5,7 +5,7 @@ Modified: 2022-09-16 22:46
 Category: Review
 Tags: Animate, 當季看什麼
 Slug: what-i-watch-in-2021-fall
-Authors: Lee-W
+Authors: Wei Lee
 
 這季出現了不少出乎意料的作品
 大多是正向意義上的出乎意料

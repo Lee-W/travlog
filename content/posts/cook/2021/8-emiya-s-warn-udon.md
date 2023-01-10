@@ -3,7 +3,7 @@ Date: 2021-02-27 18:08
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-warn-udon
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2021-emiya-s-warn-udon/finish.jpeg
 
 在第 33 回「暖呼呼烏龍麵」中，士郎病倒了 😱

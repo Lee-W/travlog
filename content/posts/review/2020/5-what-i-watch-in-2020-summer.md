@@ -4,7 +4,7 @@ Modified: 2020-10-27 15:50
 Category: Review
 Tags: Animate, Movie, 當季看什麼
 Slug: what-i-watch-in-2020-summer
-Authors: Lee-W
+Authors: Wei Lee
 
 又到了一季一更的追番心得了 XD
 

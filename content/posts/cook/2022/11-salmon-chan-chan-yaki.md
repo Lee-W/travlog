@@ -4,7 +4,7 @@ Date: 2022-11-28 12:08
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: salmon-chan-chan-yaki
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2022-salmon-chan-chan-yaki/finish-3.jpeg
 
 當初看到鏘鏘燒，還想說是不是衛宮家的原創料理

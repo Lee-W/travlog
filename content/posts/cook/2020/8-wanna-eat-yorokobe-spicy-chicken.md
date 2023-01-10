@@ -4,7 +4,7 @@ Modified: 2021-01-07 16:04
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: wanna-eat-yorokobe-spicy-chicken
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2020-wanna-eat-yorokobe-spicy-chicken/finish.jpeg
 
 昨天（12/28）剛好是愉悅神父言峰綺禮的生日

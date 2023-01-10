@@ -4,7 +4,7 @@ Modified: 2022-04-20 11:06
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: okinawa-style-bitter-gourd
-Authors: Lee-W
+Authors: Wei Lee
 Cover: images/post-images/2021-okinawa-style-bitter-groud/finish.jpeg
 
 這次 Caster 收到鄰居送的山苦瓜

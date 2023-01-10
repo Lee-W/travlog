@@ -4,7 +4,7 @@ Modified: 2020-12-31 12:21
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: tohsaka-fired-rice
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2020-tohsaka-fired-rice/anime-finish.png
 
 剛好昨天要看 Aimer Live at Anywhere 2020

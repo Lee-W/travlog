@@ -4,7 +4,7 @@ Modified: 2019-11-04 12:38
 Category: Review
 Tags: Animate, Movie, Kyoto Animation
 Slug: sound-euphonium
-Authors: Lee-W
+Authors: Wei Lee
 Summary:
 Series:
 

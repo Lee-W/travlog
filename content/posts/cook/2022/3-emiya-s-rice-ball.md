@@ -3,7 +3,7 @@ Date: 2022-01-14 23:25
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-rice-ball
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2022-emiya-s-rice-ball/finish-3.jpeg
 
 製作前室友建議我準備飯糰的模具

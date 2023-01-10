@@ -4,7 +4,7 @@ Date: 2022-01-03 22:58
 Category: Cook
 Tags: 賈希大人不氣餒！
 Slug: Jahy-s-bean-sprouts
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2022-Jahy-s-bean-sprouts/a-bit-luxury-finish.jpeg
 
 出自 2022 夏番賈希大人不氣餒！第六集的最後

@@ -3,7 +3,7 @@ Date: 2022-09-10 17:19
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: archer-s-omurice
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2022-archer-s-omurice/finish-3.jpeg
 
 > 想像的永遠都是最強的自己

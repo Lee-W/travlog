@@ -4,7 +4,7 @@ Modified: 2020-12-24 15:35
 Category: Review
 Tags: Star Wars, Novel
 Slug: star-wars-novels-i-read-in-2020
-Authors: Lee-W
+Authors: Wei Lee
 
 今年看星戰小說的速度有稍微慢下來
 除了因為訂閱 Marvel Unlimited 分掉了時間

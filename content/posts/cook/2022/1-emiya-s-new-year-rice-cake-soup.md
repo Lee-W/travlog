@@ -3,7 +3,7 @@ Date: 2022-01-02 12:08
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-new-year-rice-cake-soup
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2022-emiya-s-new-year-rice-cake-soup/finish-2.jpeg
 
 台版衛宮家今天的餐桌風景（6）終於上啦！

@@ -4,7 +4,7 @@ Date: 2022-01-01 12:50
 Category: Review
 Tags: Animate, 當季看什麼
 Slug: what-i-watch-in-2022-sprint
-Authors: Lee-W
+Authors: Wei Lee
 Status: draft
 
 我有次突然被問「你不是最喜歡異世界嗎」

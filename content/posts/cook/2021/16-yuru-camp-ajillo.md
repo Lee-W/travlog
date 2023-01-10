@@ -3,7 +3,7 @@ Date: 2021-08-18 22:32
 Category: Cook
 Tags: 搖曳露營△
 Slug: yuru-camp-ajillo
-Authors: Lee-W
+Authors: Wei Lee
 Cover: /images/post-images/2021-yuru-camp-ajillo/ajillo-finish.jpeg
 
 這次重現出自[搖曳露營△ 第二季 第 11 集](https://ani.gamer.com.tw/animeVideo.php?sn=21752)的土鍋蒜味蝦跟鯛魚義大利麵

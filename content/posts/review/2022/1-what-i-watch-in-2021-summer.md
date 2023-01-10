@@ -4,7 +4,7 @@ Date: 2022-02-06 17:50
 Category: Review
 Tags: Animate, 當季看什麼
 Slug: what-i-watch-in-2021-summer
-Authors: Lee-W
+Authors: Wei Lee
 
 這季新番給我的感覺是每一部都不錯，但又沒到很驚艷
 倒是補番遇到比較多驚艷的作品

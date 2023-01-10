@@ -3,7 +3,7 @@ Date: 2021-07-28 18:42
 Category: Review
 Tags: Animate
 Slug: odd-taxi
-Authors: Lee-W
+Authors: Wei Lee
 
 是該來寫「2021 夏季看什麼」的時候
 但寫著寫著就發現有幾部作品會寫得太長 😆

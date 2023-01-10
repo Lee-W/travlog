@@ -3,7 +3,7 @@ Date: 2021-04-24 16:27
 Category: Review
 Tags: Animate, 當季看什麼
 Slug: what-i-watch-in-2021-winter
-Authors: Lee-W
+Authors: Wei Lee
 
 這一季得看的新番實在太多了
 都沒時間把原本的舊番清單清一清

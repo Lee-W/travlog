@@ -3,7 +3,7 @@ Date: 2019-11-10 22:44
 Category: Review
 Tags: Animate, Kyoto Animation
 Slug: miss-kobayashi-s-dragon-maid
-Authors: Lee-W
+Authors: Wei Lee
 Summary:
 Series:
 
