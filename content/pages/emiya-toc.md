@@ -1,16 +1,16 @@
 Title: 衛宮家料理總覽
 Slug: emiya-toc
 Date: 2021-08-28 16:48
-Modified: 2022-09-17 11:12
+Modified: 2021-01-10 17:55
 
-* 重現進度： 漫畫： `37 / 61 + ?` /  動畫： `11 / 13`
+* 重現進度： 漫畫： `39 / 61 + ?` /  動畫： `11 / 13` (10 道重複)
     * 單行本 1: `10 / 12`
     * 單行本 2: `6 / 12`
     * 單行本 3: `4 / 8`
     * 單行本 4: `5 / 7`
     * 單行本 5: `3 / 7`
     * 單行本 6: `6 / 8`
-    * 單行本 7: `1 / 7`
+    * 單行本 7: `2 / 7`
     * 單行本 8: `3 / 7`
     * 單行本尚未發行： `0 / ?`
     * 動畫原創: `1 / 1`
@@ -51,7 +51,8 @@ Modified: 2022-09-17 11:12
 | [鮭魚鏘鏘燒]({filename}/posts/cook/2022/11-salmon-chan-chan-yaki.md) | | 42 | |
 | [來做南瓜布丁吧！ ]({filename}/posts/cook/2022/10-archer-and-caster-s-pumpkin-pudding.md) | | 番外 1 | |
 | [拿坡里義大利麵]({filename}/posts/cook/2022/6-Spaghetti-alla-napoletana-in-the-cafe.md) | | 番外2 | |
-| [夏天買不太到草莓，那就做巧克力奇異果千層吧]({filename}/posts/cook/2021/14-saber-s-mille-crepes.md) | 7 | 48 | |
+| [雪見鍋]({filename}/posts/cook/2023/1-misorenabe.md) | 7 | 44 | |
+| [夏天買不太到草莓，那就做巧克力奇異果千層吧]({filename}/posts/cook/2021/14-saber-s-mille-crepes.md) |  | 48 | |
 | [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | 8 | 52 | |
 | [遙遠記憶的荷包蛋 - 正義夥伴的起點]({filename}/posts/cook/2022/4-fried-egss-from-memories.md) |  | 53 |
 | [巧克力香蕉磅蛋糕]({filename}/posts/cook/2022/12-choco-banana-pound-cake.md) | | 55 |
