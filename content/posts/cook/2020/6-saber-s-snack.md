@@ -72,3 +72,7 @@ Cover:
 ## 完成
 
 ![finish]({static}/images/post-images/2020-saber-s-pancake/finish.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

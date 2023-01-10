@@ -100,3 +100,7 @@ Cover: /images/post-images/2020-emiya-s-salmon/anime 2.png
 ![finish 1]({static}/images/post-images/2020-emiya-s-salmon/finish 1.jpg)
 
 ![finish 2]({static}/images/post-images/2020-emiya-s-salmon/finish 2.jpg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

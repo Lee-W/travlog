@@ -101,3 +101,7 @@ Cover: /images/post-images/2021-saegusa-s-sakura-mochi/finish-1.jpeg
 最後讓 8 個櫻餅一起合照 📷
 
 ![finish-3]({static}/images/post-images/2021-saegusa-s-sakura-mochi/finish-3.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

@@ -161,3 +161,7 @@ Cover: /images/post-images/2021-sara-s-walnut-brownie/finish-comic-1.jpeg
 
 我後來在 PyCon TW 籌備會的時候帶給大家吃，得到了好評
 重現核桃布朗尼，大成功 🎉
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

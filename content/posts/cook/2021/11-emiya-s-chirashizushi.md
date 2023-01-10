@@ -206,3 +206,7 @@ Cover: /images/post-images/2021-emiya-s-chirashizushi/finish-5.jpeg
 
 雖然是真的很好吃，但這次重現完就不會再做了（應該啦...）
 不得不說上引水產的生魚片跟鮭魚卵雖然不便宜，但真的很好吃、很值得
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

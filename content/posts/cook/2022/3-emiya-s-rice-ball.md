@@ -79,3 +79,7 @@ Cover: /images/post-images/2022-emiya-s-rice-ball/finish-3.jpeg
 ![finish-2](/images/post-images/2022-emiya-s-rice-ball/finish-2.jpeg)
 
 ![finish-3](/images/post-images/2022-emiya-s-rice-ball/finish-3.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

@@ -83,3 +83,7 @@ Cover: /images/post-images/2021-emiya-s-warn-udon/finish.jpeg
 平常味道吃得比較重的話，可能需要再加一些調味料
 
 ![finish]({static}/images/post-images/2021-emiya-s-warn-udon/finish.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

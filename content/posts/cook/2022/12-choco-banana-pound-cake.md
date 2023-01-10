@@ -99,3 +99,7 @@ Cover: /images/post-images/2022-choco-banana-pound-cake/finish-1.jpeg
 但也可能就是我不是太懂磅蛋糕
 
 ![finish-2](/images/post-images/2022-choco-banana-pound-cake/finish-2.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

@@ -159,3 +159,7 @@ Cover: /images/post-images/2022-emiya-s-new-year-rice-cake-soup/finish-2.jpeg
 ![finish-3](/images/post-images/2022-emiya-s-new-year-rice-cake-soup/finish-3.jpeg)
 
 明けましておめでとうございます 🎉
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

@@ -156,3 +156,7 @@ Cover: /images/post-images/2022-archer-s-omurice/finish-3.jpeg
 不過你看，吾王吃得津津有味啊！
 
 ![finish-3](/images/post-images/2022-archer-s-omurice/finish-3.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

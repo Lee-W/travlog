@@ -93,3 +93,7 @@ Cover: /images/post-images/2021-emiya-s-omelet/finish.jpeg
 第二次嘗試就有比較好看一點了 🥘
 
 ![finish]({static}/images/post-images/2021-emiya-s-omelet/finish.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

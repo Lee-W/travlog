@@ -124,3 +124,7 @@ Cover: {static}/images/post-images/2020-emiya-s-hamburger/anime-finish.png
 > 一直...
 
 ![kiritsuku-3]({static}/images/post-images/2020-emiya-s-hamburger/kiritsuku-3.png)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

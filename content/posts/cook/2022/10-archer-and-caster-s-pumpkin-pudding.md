@@ -125,3 +125,7 @@ G 哥直接準備了整盆的薄荷
 大概不會再做了吧 😆
 
 ![finish-2](/images/post-images/2022-archer-and-caster-s-pumpkin-pudding/finish-2.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

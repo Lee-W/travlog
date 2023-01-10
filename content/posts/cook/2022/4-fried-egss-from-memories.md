@@ -86,3 +86,7 @@ Cover: /images/post-images/2022-fried-eggs-from-memories/finish-2.jpeg
 果然還是別打什麼聖杯戰爭，大家好好吃飯吧 🍚
 
 ![finish-2](/images/post-images/2022-fried-eggs-from-memories/finish-2.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

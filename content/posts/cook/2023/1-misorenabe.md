@@ -182,3 +182,7 @@ Cover: /images/post-images/2023-misorenabe/finish-4.jpeg
 除了雞肉丸稍微偏鹹，但搭個菜一起吃就可以了
 肉都是買最便宜的肉，但吃下來也是大受好評
 是以後想吃火鍋時可以再來做的料理
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

@@ -115,3 +115,7 @@ Cover: /images/post-images/2022-mitsuzuri-s-scone/finish-1.jpeg
 凜醬跟他的快樂夥伴也是配著茶吃的 😆
 
 ![finish-2](/images/post-images/2022-mitsuzuri-s-scone/finish-2.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

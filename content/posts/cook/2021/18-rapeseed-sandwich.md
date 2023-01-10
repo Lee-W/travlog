@@ -165,3 +165,7 @@ Cover: /images/post-images/2021-rapeseed-sandwich/finish-4.jpeg
 就連他都說還不錯呢 👍
 
 ![finish-4](/images/post-images/2021-rapeseed-sandwich/finish-4.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

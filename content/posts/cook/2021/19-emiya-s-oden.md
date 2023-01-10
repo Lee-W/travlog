@@ -164,3 +164,7 @@ Cover: /images/post-images/2021-emiya-s-oden/finish-1.jpeg
 而且這個調味很符合我的胃口 😋
 
 ![finish-3](/images/post-images/2021-emiya-s-oden/finish-3.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

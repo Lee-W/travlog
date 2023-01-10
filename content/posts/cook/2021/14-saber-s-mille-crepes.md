@@ -234,3 +234,7 @@ Cover: /images/post-images/2021-saber-s-mille-crepes/finish-comic-1.jpeg
 所以我最前面才說會覺得再加 1 顆奇異果更好
 但室友們倒是對這個味道倒是很滿意
 不過整體來說還是蠻好吃的，就是要配個茶解膩一下 🍵
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

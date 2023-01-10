@@ -122,3 +122,7 @@ Cover: /images/post-images/2020-wanna-eat-yorokobe-spicy-chicken/finish.jpeg
 覺得雞肉好像可以再煎久一點
 因為室友不吃辣，我的辣椒籽有加的比食譜再少一點
 導致最後沒什麼辣味，感覺可以加多一點 🤔
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

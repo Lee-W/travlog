@@ -98,3 +98,7 @@ Cover: /images/post-images/2020-tohsaka-fired-rice/anime-finish.png
 ![finish-with-comic]({static}/images/post-images/2020-tohsaka-fired-rice/finish-with-comic.jpeg)
 
 ![finish-with-anime]({static}/images/post-images/2020-tohsaka-fired-rice/finish-with-anime.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

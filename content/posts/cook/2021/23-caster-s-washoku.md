@@ -195,3 +195,7 @@ Cover: /images/post-images/2021-caster-s-washoku/finish-anime-1.jpeg
 ![finish-anime-2](/images/post-images/2021-caster-s-washoku/finish-anime-2.jpeg)
 ![finish-comic-1](/images/post-images/2021-caster-s-washoku/finish-comic-1.jpeg)
 ![finish-comic-2](/images/post-images/2021-caster-s-washoku/finish-comic-2.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

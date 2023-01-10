@@ -100,3 +100,7 @@ Cover: /images/post-images/2021-mitsuzuri-s-sweet-potato//finish-1.jpeg
 ![finish-1](/images/post-images/2021-mitsuzuri-s-sweet-potato//finish-1.jpeg)
 
 ![finish-2](/images/post-images/2021-mitsuzuri-s-sweet-potato/finish-2.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

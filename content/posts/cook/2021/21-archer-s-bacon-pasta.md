@@ -103,3 +103,7 @@ Cover: /images/post-images/2021-archer-s-bacon-pasta/finish-powder-1.jpeg
 
 ![finish-powder-1](/images/post-images/2021-archer-s-bacon-pasta/finish-powder-1.jpeg)
 ![finish-powder-2](/images/post-images/2021-archer-s-bacon-pasta/finish-powder-2.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

@@ -99,3 +99,7 @@ Rider 出門幫小櫻買菜，剛好遇到了士郎
 最後發現是 10:1 所以就多了 70 g 的海澡，留待晚上煮味增湯
 
 ![too-much]({static}/images/post-images/2020-matou-s-seaweed-whitebait-pasta/too-much.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

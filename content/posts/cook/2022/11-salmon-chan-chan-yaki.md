@@ -157,3 +157,7 @@ Cover: /images/post-images/2022-salmon-chan-chan-yaki/finish-3.jpeg
 對我來說偏鹹，但就真的還是很好吃
 
 ![finish-3](/images/post-images/2022-salmon-chan-chan-yaki/finish-3.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

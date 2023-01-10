@@ -132,3 +132,7 @@ Fate/HA 的芭潔特終於也出現在衛宮飯的故事中了
 ![finish-1](/images/post-images/2022-Spaghetti-alla-napoletana-in-the-cafe/finish-1.jpeg)
 
 ![finish-2](/images/post-images/2022-Spaghetti-alla-napoletana-in-the-cafe/finish-2.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

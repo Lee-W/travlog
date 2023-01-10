@@ -117,3 +117,7 @@ Cover: /images/post-images/2021-emiya-s-hotpot-and-zousui/finish-anime-1.jpeg
 
 不過雜炊粥真的是有夠好吃 🤩
 但有人提醒我這個很胖就是了 😢
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)

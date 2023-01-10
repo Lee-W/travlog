@@ -101,3 +101,7 @@ Cover: /images/post-images/2021-emiya-south-eastern-style-curry/finish.jpeg
 不過煮這道最大的好處是接下來幾天可以不煮飯，很方便 😆
 
 ![finish]({static}/images/post-images/2021-emiya-south-eastern-style-curry/finish.jpeg)
+
+---
+
+更多衛宮家料理 👉 [衛宮家料理總覽]({filename}/pages/emiya-toc.md)
