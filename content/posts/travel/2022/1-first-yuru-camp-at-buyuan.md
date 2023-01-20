@@ -2,7 +2,7 @@ Title: ゆる 露營初體驗 =U=
 Subtitle: 台灣野外活動部▲不遠山莊露營
 Date: 2022-1-31 22:20
 Category: Travel
-Tags: 搖曳露營△
+Tags: 搖曳露營△, 台灣野外活動部
 Slug: first-yuru-camp-at-buyuan
 Authors: Wei Lee
 Cover: /images/post-images/2022-first-yuru-camp-at-buyuan/main-tent.jpg
