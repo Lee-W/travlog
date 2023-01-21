@@ -47,7 +47,7 @@ Mandalorian 確實是蠻有趣的，它給我的感覺比較像是精緻的小�
 不過身為在乎 Andor 少數人，意外的同時，也感到很開心
 
 近幾年來我最滿意的星戰電影就是 Rogue One
-其[改編小說]({filename}/posts/2020/1-star-wars-novel-i-read-before-2019.md#rogue-one-a-star-wars-story)跟前傳小說 [Catalyst]({filename}/posts/2020/1-star-wars-novel-i-read-before-2019.md#catalyst-a-rogue-one-novel)都是我心中相當優秀的作品
+其[改編小說]({filename}/posts/review/2020/1-star-wars-novel-i-read-before-2019.md#rogue-one-a-star-wars-story.md)跟前傳小說 [Catalyst]({filename}/posts/review/2020/1-star-wars-novel-i-read-before-2019.md#catalyst-a-rogue-one-novel.md)都是我心中相當優秀的作品
 幾乎每一個登場的角色我都很愛
 戲份前幾重的 Andor 自然也不例外
 
