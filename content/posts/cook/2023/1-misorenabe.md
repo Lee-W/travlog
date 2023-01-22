@@ -1,5 +1,5 @@
 Title: 雪見鍋
-Subtiile: 2023 年依然要從衛宮家的料理開始
+Subtitle: 2023 年依然要從衛宮家的料理開始
 Date: 2023-01-10 17:55
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
