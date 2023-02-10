@@ -16,6 +16,7 @@ typogrify = "*"
 invoke = "*"
 markdown-del-ins = "*"
 pelican-render-math = "*"
+pelican-seo = "*"
 
 [requires]
 python_version = "3.7"

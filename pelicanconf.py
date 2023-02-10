@@ -95,5 +95,10 @@ PLUGINS = [
     "i18n_subsites",
     "post_stats",
     "render_math",
+    "pelican.plugins.seo",
 ]
 ANOTHER_READ_MORE_LINK = ""
+SEO_REPORT = True  # SEO report is enabled by default
+SEO_ENHANCER = True  # SEO enhancer is disabled by default
+SEO_ENHANCER_OPEN_GRAPH = True  # Subfeature of SEO enhancer
+SEO_ENHANCER_TWITTER_CARDS = True  # Subfeature of SEO enhancer
