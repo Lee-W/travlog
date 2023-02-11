@@ -20,7 +20,7 @@ CONFIG = {
 }
 
 
-PELICAN_CMD = "pipenv run pelican"
+PELICAN_CMD = "pipenv run pelican content"
 
 
 @task
@@ -34,7 +34,7 @@ def clean(c):
 @task
 def build(c):
     """Build local version of site"""
-    c.run(f"{PELICAN_CMD} -s pelicanconf.py")
+    c.run(f"{PELICAN_CMD} content -s pelicanconf.py")
 
 
 @task
