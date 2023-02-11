@@ -9,6 +9,7 @@ Cover: /images/post-images/2023-yuru-camp-inu-yama-s-sukiyaki/finish-2.jpeg
 
 教主歡送尾牙的重頭戲就是[搖曳露營△ [11]](https://ani.gamer.com.tw/animeVideo.php?sn=21681)的壽喜燒啦！
 ~~雖然我們只有買超市的牛肉，並沒有抽到什麼厲害的和牛~~
+
 <!--more-->
 
 ## 食材 (4人份)
