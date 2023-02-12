@@ -1,6 +1,7 @@
 Title: 凜、千明、惠那生日派對
 Subtitle: 台灣野外活動部▲2022 秋季團露
 Date: 2023-02-10 12:40
+Modified: 2023-02-12 16:07
 Category: Travel
 Tags: 搖曳露營△, 台灣野外活動部
 Slug: 2022-autumn-group-camping-rin-hbd
@@ -128,7 +129,7 @@ PyCamping 的時候，買了 `| _ |` 的衣服當作我們的戰隊服
 
 ### 晚餐
 
-晚餐做的是第一季結尾的 ajilo
+晚餐做的是第一季結尾的 ajillo
 之前有自己在家裡先做過 👉 [ 土鍋蒜味蝦和鯛魚義大利麵 =U= ]({filename}/posts/cook/2021/16-yuru-camp-ajillo.md)
 不過要帶土鍋來露營還是有點太重了...
 我們只把食材分幾個小鍋分匹煮，反正大家也沒吃那麼快
