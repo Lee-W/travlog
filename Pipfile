@@ -3,20 +3,26 @@ name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
 
-[dev-packages]
-commitizen = "*"
-
 [packages]
-markdown = "*"
-pelican = "*"
+pelican = {extras = ["markdown"], version = "*"}
+markdown-del-ins = "*"
+pelican-seo = "*"
+pelican-render-math = "*"
 bs4 = "*"
 python-gettext = "*"
 ghp-import = "*"
 typogrify = "*"
 invoke = "*"
-markdown-del-ins = "*"
-pelican-render-math = "*"
-pelican-seo = "*"
+
+[dev-packages]
+commitizen = "*"
+livereload = "*"
+black = ">=22.8.0"
+flake8 = ">=3.8.3"
+pre-commit-hooks = ">=3.2.0"
+invoke = ">=1.4.1"
+isort = ">=5.0.0"
+pip-audit = "*"
 
 [requires]
-python_version = "3.7"
+python_version = ">=3.11.1"
