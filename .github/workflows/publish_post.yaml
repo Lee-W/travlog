@@ -35,11 +35,13 @@ jobs:
       - name: Build
         run: |
           export GOOGLE_ANALYTICS=${{ secrets.GOOGLE_ANALYTICS }}
-          pipenv run inv publish
+          pipenv run inv build-publish
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v2
-        env:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: ./output
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./output
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
