@@ -13,6 +13,7 @@ python-gettext = "*"
 ghp-import = "*"
 typogrify = "*"
 invoke = "*"
+pelican-share-post = "*"
 
 [dev-packages]
 commitizen = "*"
@@ -25,4 +26,4 @@ isort = ">=5.0.0"
 pip-audit = "*"
 
 [requires]
-python_version = ">=3.11.1"
+python_version = "3.11"
