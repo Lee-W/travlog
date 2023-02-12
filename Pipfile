@@ -5,15 +5,15 @@ verify_ssl = true
 
 [packages]
 pelican = {extras = ["markdown"], version = "*"}
-markdown-del-ins = "*"
 pelican-seo = "*"
 pelican-render-math = "*"
+pelican-share-post = "*"
+markdown-del-ins = "*"
 bs4 = "*"
 python-gettext = "*"
 ghp-import = "*"
 typogrify = "*"
 invoke = "*"
-pelican-share-post = "*"
 
 [dev-packages]
 commitizen = "*"
