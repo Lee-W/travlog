@@ -190,7 +190,7 @@ OP 很棒
 一刷的時候只能到達「看山不是山」
 二刷才到達「看山還是山」的境界
 
-![everything_everywhere_all_at_once.](/images/post-images/2022-what-i-watch-in-2022-sprint/everything_everywhere_all_at_once..jpeg)
+![everything_everywhere_all_at_once](/images/post-images/2022-what-i-watch-in-2022-sprint/everything_everywhere_all_at_once..jpeg)
 
 ### 捍衛戰士：獨行俠
 * 觀看平台： 林口威秀 1 廳 4DX
