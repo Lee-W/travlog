@@ -31,7 +31,6 @@ Cover: /images/post-images/2023-yuru-camp-rin-s-tomato-pasta/finish.jpeg
 
 ![material](/images/post-images/2023-yuru-camp-rin-s-tomato-pasta/material.jpeg)
 
-
 ## 步驟
 * 估計時間： 20 分鐘
 

@@ -7,7 +7,6 @@ Slug: marushiru-hometown-Cuisine
 Authors: Wei Lee
 Cover: /images/post-images/2023-marushiru-hometown-Cuisine/finish-4.jpeg
 
-
 自從重現衛宮家今天的餐桌風景後，陸續有人希望我能挑戰奇幻料理
 誒不是，我才剛開始學煮飯沒多久
 而且這些食材實在是弄不到啊 🤯
