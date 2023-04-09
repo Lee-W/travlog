@@ -3,8 +3,8 @@ Slug: emiya-toc
 Date: 2021-08-28 16:48
 Modified: 2021-01-10 17:55
 
-* 重現進度： 漫畫： `39 / 61 + ?` /  動畫： `11 / 13` (10 道重複)
-    * 單行本 1: `10 / 12`
+* 重現進度： 漫畫： `40 / 61 + ?` /  動畫： `12 / 13` (11 道重複)
+    * 單行本 1: `11 / 12`
     * 單行本 2: `6 / 12`
     * 單行本 3: `4 / 8`
     * 單行本 4: `5 / 7`
@@ -23,6 +23,7 @@ Modified: 2021-01-10 17:55
 | [佐佐木小次郎認證的油菜三明治]({filename}/posts/cook/2021/18-rapeseed-sandwich.md) | | 4 | [4](https://ani.gamer.com.tw/animeVideo.php?sn=16730) |
 | [竹筍焗烤麵 - 我需要大一點的烤箱]({filename}/posts/cook/2021/22-emiya-bambo-pasta-gratin.md) | | 5 | [5](https://ani.gamer.com.tw/animeVideo.php?sn=16731) |
 | [衛宮家的漢堡排]({filename}/posts/cook/2020/2-emiya-s-hamburger.md) | | 6 | [6](https://ani.gamer.com.tw/animeVideo.php?sn=16732) |
+| [清爽順口的冷茶泡飯]({filename}/posts/cook/2023/6-emiya-s-ochazuke.md) | | 7 | [7](https://ani.gamer.com.tw/animeVideo.php?sn=16733) |
 | [遠坂流什錦炒飯]({filename}/posts/cook/2020/3-tohsaka-fired-rice.md) | | 8 | [8](https://ani.gamer.com.tw/animeVideo.php?sn=16734) |
 | [秋日味覺 - Caster 和風料理修行]({filename}/posts/cook/2021/23-caster-s-washoku.md) | | 9 | [9](https://ani.gamer.com.tw/animeVideo.php?sn=16735) |
 | [士郎特製飽滿飯糰]({filename}/posts/cook/2022/3-emiya-s-rice-ball.md) | | 番外 1 | |
