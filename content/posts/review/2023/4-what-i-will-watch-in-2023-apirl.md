@@ -118,10 +118,16 @@ ED [Jump In](https://www.youtube.com/watch?v=WrSqD9ArWjo) 很輕快又有點莫�
 不過第二集就修正了
 
 一樣是因為[尼爾喝牛奶](https://open.firstory.me/story/clc8fwx34000g01wq2z21b3tu)有推才來看的作品
+三月中去東京的時候，到處都是地獄樂的廣告
+
 雖然稱不上驚艷，但體感還是相當不錯
 給我的第一印象是比較好看的鬼滅之刃
 目前看到第三集，也是越來越期待了
 應該會是很不錯的冒險故事
+
+不過話說回來，既然是要去蓬萊仙島找仙藥
+這好像也能算是部以台灣為場景的作品
+直接聖地巡禮
 
 ### 肌肉魔法使-MASHLE-
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=33285)
