@@ -1,10 +1,14 @@
 Title: 小太郎一個人生活
-Date: 2023-05-05 18:45
+Subtitle: 身旁的人都是天使
+Date: 2023-05-05 22:57
 Category: Review
 Tags: Animate, 2022 春番
 Slug: kotaro-lives-alone
 Authors: Wei Lee
 Cover: /images/post-images/2023-kotaro-lives-alone/kotaro-lives-alone.png
+
+
+<!--more-->
 
 * 觀看平台： [Netflix](https://www.netflix.com/tw/title/81275353)
 
