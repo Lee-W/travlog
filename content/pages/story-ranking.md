@@ -569,7 +569,7 @@ Modified: 2023-05-08 22:38
     * Star Wars: Episode VIII - The Last Jedi
     * Star Wars: Episode IX - The Rise of Skywalker
 * Series
-    * [Star Wars: Andor]({filename}/posts/review/2023/what-i-watch-in-2022-fall#star-wars-andor)
+    * [Star Wars: Andor]({filename}/posts/review/2023/what-i-watch-in-2022-fall.md#star-wars-andor)
     * --
     * [曼達洛人]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_28)
     * [The Book of Boba Fett]({filename}/posts/review/2023/what-i-watch-in-2022-summer#the-book-of-boba-fett)
