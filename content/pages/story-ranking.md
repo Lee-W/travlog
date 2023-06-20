@@ -567,7 +567,7 @@ Modified: 2023-05-08 22:38
     * Solo: A Star Wars Story
     * Star Wars: Episode VII - The Force Awakens
     * Star Wars: Episode VIII - The Last Jedi
-    * Star Wars: The Rise of Skywalker
+    * Star Wars: Episode IX - The Rise of Skywalker
 * Series
     * [Star Wars: Andor]({filename}/posts/review/2023/what-i-watch-in-2022-fall#star-wars-andor)
     * --
