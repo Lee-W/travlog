@@ -580,9 +580,9 @@ Modified: 2023-05-08 22:38
     * Star Wars: Rebels
     * [Star Wars: Tale of Jedi]({filename}/posts/review/2023/what-i-watch-in-2022-fall#star-wars-tale-of-jedi)
     * Star Wars: Resistance
+    * [星際大戰：視界]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_13)
     * [星際大戰：瑕疵小隊]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_12)
     * [Star Wars: The Bad Batch Season 2]({filename}/posts/review/2023/what-i-watch-in-2023-winter#star-wars-the-bad-batch-season-2)
-    * [星際大戰：視界]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_13)
 * Other
     * 頭盔下的波巴費特
     * Star Wars: 探秘飛航
