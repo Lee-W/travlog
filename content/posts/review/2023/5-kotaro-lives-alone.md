@@ -7,7 +7,6 @@ Slug: kotaro-lives-alone
 Authors: Wei Lee
 Cover: /images/post-images/2023-kotaro-lives-alone/kotaro-lives-alone.png
 
-
 <!--more-->
 
 * 觀看平台： [Netflix](https://www.netflix.com/tw/title/81275353)
