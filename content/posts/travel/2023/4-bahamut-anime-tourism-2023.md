@@ -34,13 +34,13 @@ Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 
 第一天是自由活動，我跟著天國大魔境團到處收集活動的明信片
 
-![](/images/post-images/2023-bahamut-anime-tourism-2023/16859543495719.jpg)
+![food](/images/post-images/2023-bahamut-anime-tourism-2023/16859543495719.jpg)
 
 
 不得不說第二間去的 [肉×日本酒 Fukuyaバル](https://goo.gl/maps/dxG1CkmT5r6cMcmW7) 真的是有夠好吃
 而且價格也很實在
 
-![](/images/post-images/2023-bahamut-anime-tourism-2023/16876022175203.jpg)
+![beef](/images/post-images/2023-bahamut-anime-tourism-2023/16876022175203.jpg)
 
 
 ## Day 2
@@ -52,7 +52,7 @@ Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 不過我還沒看，所以它對我還只是個很漂亮的咖啡廳而已
 倒是看了地圖才知道這個突發行程真的是有一段距離
 
-![](/images/post-images/2023-bahamut-anime-tourism-2023/16875990571658.jpg)
+![breakfast](/images/post-images/2023-bahamut-anime-tourism-2023/16875990571658.jpg)
 
 雖然離上次來下北澤才兩個月
 但這次拍到上次忘記拍的本多劇場
@@ -60,12 +60,12 @@ Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 還是覺得有來一趟很開心
 這一帶真的就是在這散步就令人感到舒服的地方呢
 
-![](/images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg)
+![bocchi](/images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg)
 
 下一站就要前往搖曳露營的聖地 - 山梨縣了
 晚上看到劇場版鳥籠本體的時候還真的是蠻感動的
 
-![](/images/post-images/2023-bahamut-anime-tourism-2023/16874349927579.jpg)
+![yuru](/images/post-images/2023-bahamut-anime-tourism-2023/16874349927579.jpg)
 
 ## Day 3
 * [旧下部小学校](https://goo.gl/maps/cFVb2xDeBn5KBH8B6)
@@ -80,7 +80,7 @@ Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 圖多，之後補第 3 天行程的時候再來放
 先放上一張 b6 君上拿著 b6 君的凜醬
 
-![](/images/post-images/2023-bahamut-anime-tourism-2023/16875992903731.jpg)
+![yuru](/images/post-images/2023-bahamut-anime-tourism-2023/16875992903731.jpg)
 
 
 沒記錯久遠寺應該是犬山等人新年參拜的地方
@@ -89,7 +89,7 @@ Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 外面的觀景台可以很清楚地看到富士山
 這次學習到要拍立牌、黏土人，光圈可以縮小到 11 ~ 16 左右
 
-![](/images/post-images/2023-bahamut-anime-tourism-2023/16875994358243.jpg)
+![fujiyama](/images/post-images/2023-bahamut-anime-tourism-2023/16875994358243.jpg)
 
 這趟意外讓我最有感的劇場版犬山老師的廢校
 可能是出發前又再補了一次
@@ -104,7 +104,7 @@ Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 完全是小菜一碟 😆
 圖片右下角是我這次最喜歡的戰利品之 - 本栖高校學生證
 
-![](/images/post-images/2023-bahamut-anime-tourism-2023/16875995876052.jpg)
+![yuruhebi](/images/post-images/2023-bahamut-anime-tourism-2023/16875995876052.jpg)
 
 離開藤義後，就一路開回東京市區離開山梨縣了
 剛抵達池袋的時候，突然感到「哎，又回到市區了，真想念山梨」
@@ -114,10 +114,9 @@ Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 * `12:00 ~ 13:00` [「モブサイコ100」原作＆アニメ展覧会～軌跡～](https://mobpsycho100ten-kiseki.com/) @ [animate 池袋總店](https://goo.gl/maps/qi2fzay9uGQGHbRV9)
 * 🥘 `19:00` [ディナー＆いちご スイーツブッフェ ～『ゆるキャン△』と楽しむグランピングパーティ～](https://www.keioplaza.co.jp/hachioji/event/spring-sweets/dinner-sweets.html) @ [京王廣場飯店 八王子](https://goo.gl/maps/2k5QbWfjsMT77Z5B6)
 
-墨田水族館是莉可莉絲最香的 嬉しい…嬉しい嬉しい… 場景
-都來到這了，不可能不さかな一下吧
+都來到墨田水族館了，不可能不さかな一下吧
 
-![](/images/post-images/2023-bahamut-anime-tourism-2023/16874357918299.jpg)
+![sakana](/images/post-images/2023-bahamut-anime-tourism-2023/16874357918299.jpg)
 
 確實如 h 大所說，是個非常療癒的地方
 花園鰻、企鵝還有各種魚都很療癒
@@ -140,7 +139,7 @@ Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 原本還想說可以看完展，敢去金澤八景呢（哈
 一樣之後會找機會寫一篇路人展的文章
 
-![](/images/post-images/2023-bahamut-anime-tourism-2023/16875999507551.jpg)
+![mob](/images/post-images/2023-bahamut-anime-tourism-2023/16875999507551.jpg)
 
 
 看完展就出發八王子跟搖曳露營聯名 buffet 團會合了
@@ -151,7 +150,7 @@ Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 不過話說回來一般的合作，說不定也會亂點點到這個價位
 還是這個 buffet 值得多了
 
-![](/images/post-images/2023-bahamut-anime-tourism-2023/16876000615850.jpg)
+![yuru-buffet](/images/post-images/2023-bahamut-anime-tourism-2023/16876000615850.jpg)
 
 ## Day 5
 * [唐吉訶德 秋葉原店](https://goo.gl/maps/4cDFYZrSehTF4GgN6)
@@ -162,7 +161,7 @@ Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 也見識到通勤時間要等幾班車才上得了車的社畜日常（笑
 再來就是搭飛機回台灣囉～
 
-![](/images/post-images/2023-bahamut-anime-tourism-2023/16876007117707.jpg)
+![group](/images/post-images/2023-bahamut-anime-tourism-2023/16876007117707.jpg)
 
 ## 回到溫暖的家
 （以往旅行社行程好像很喜歡用這個當作結尾 🤔）
@@ -188,9 +187,9 @@ Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 這趟玩下來真的很開心，也交到不少宅友
 希望明年還能順利跟到 2024 巴哈動漫朝聖團 🤩
 
-## 本次戰利品
+## 戰利品
 
-![](/images/post-images/2023-bahamut-anime-tourism-2023/16876002137558.jpg)
+![purchasing](/images/post-images/2023-bahamut-anime-tourism-2023/16876002137558.jpg)
 
 ## 看看大家怎麼說
 
