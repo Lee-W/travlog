@@ -5,14 +5,14 @@ Tags: Animate, 2023 春番
 Slug: demon-slayer-to-the-swordsmith-village
 Authors: Wei Lee
 
-<!--more-->
-
-![demon-slayer-to-the-swordsmith-village](/images/post-images/2023-demon-slayer-to-the-swordsmith-village/demon-slayer-to-the-swordsmith-village.jpg)
-
 鬼滅之刃 刀匠村篇就...嗯，鬼滅之刃
 雖然不會太期待
 但每季還是需要幾部累的時候輕鬆看的作品
 不然沒次都看文戲很強的作品，腦袋也會有點受不了
+
+<!--more-->
+
+![demon-slayer-to-the-swordsmith-village](/images/post-images/2023-demon-slayer-to-the-swordsmith-village/demon-slayer-to-the-swordsmith-village.jpg)
 
 這季的節奏又算是鬼滅的節奏中特別微妙的
 之前幾季也是有人在抱怨節奏不好，但我完全無感
