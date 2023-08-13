@@ -94,8 +94,9 @@ Cover: /images/post-images/2023-btr-stage/home-page.jpg
 跟隨著劇情跑下來很有融入故事內的感覺
 跟之前看的[結束バンドLIVE-恒星-](https://bocchi.rocks/special/live_kousei/)稍微不同
 上次氛圍比較是看一場演唱會
-而舞台劇有把 live house 的感覺搭出來，且表演者就是結束バンド
+舞台劇則有把 live house 的感覺搭出來，而且表演者就是結束バンド
 （結束バンドLIVE-恒星- 演奏部分主要是由專業樂團負責，不是聲優）
+甚至還有朋友帶著螢光棒來打 call，有夠專業
 
 總之這次的舞台劇真的很棒啊
 快趁還有機會看的時候，買票觀看吧！
