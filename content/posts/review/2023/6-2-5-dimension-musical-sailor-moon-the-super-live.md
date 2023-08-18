@@ -1,7 +1,7 @@
 Title: 2.5次元音樂劇《美少女戰士》The Super Live
 Date: 2023-06-26 23:00
 Category: Review
-Tags: Musical
+Tags: Musical, 美少女戰士, 2.5次元
 Slug: 2-5-dimension-musical-sailor-moon-the-super-live
 Authors: Wei Lee
 Cover: /images/post-images/2023-2-5-dimension-musical-sailor-moon-the-super-live/16809691259639.jpg
