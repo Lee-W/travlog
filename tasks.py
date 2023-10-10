@@ -4,6 +4,7 @@ import datetime
 import os
 import shlex
 import shutil
+import subprocess
 import sys
 
 from invoke import task
@@ -41,15 +42,25 @@ def clean(c):
         os.makedirs(CONFIG["deploy_path"])
 
 
-@task
-def build(c):
+@task(optional=["--build-pagefind"])
+def build(c, build_pagefind=False):
     """Build local version of site"""
+    if (
+        build_pagefind
+        and subprocess.call(["npx", "-y", "pagefind", "--site", "output"]) == 1
+    ):
+        print("failed to call 'npx -y pagefind --site output'")
     pelican_run("-s {settings_base}".format(**CONFIG))
 
 
-@task
-def rebuild(c):
+@task(optional=["--build-pagefind"])
+def rebuild(c, build_pagefind=False):
     """`build` with the delete switch"""
+    if (
+        build_pagefind
+        and subprocess.call(["npx", "-y", "pagefind", "--site", "output"]) == 1
+    ):
+        print("failed to call 'npx -y pagefind --site output'")
     pelican_run("-d -s {settings_base}".format(**CONFIG))
 
 
@@ -85,7 +96,7 @@ def serve(c):
 @task
 def reserve(c):
     """`build`, then `serve`"""
-    build(c)
+    build(c, build_pagefind=False)
     serve(c)
 
 
@@ -134,9 +145,14 @@ def livereload(c):
     server.serve(host=CONFIG["host"], port=CONFIG["port"], root=CONFIG["deploy_path"])
 
 
-@task
-def build_publish(c):
+@task(optional=["--build-pagefind"])
+def build_publish(c, build_pagefind=False):
     """Build pages with publishconf.py"""
+    if (
+        build_pagefind
+        and subprocess.call(["npx", "-y", "pagefind", "--site", "output"]) == 1
+    ):
+        print("failed to call 'npx -y pagefind --site output'")
     pelican_run("-s {settings_publish}".format(**CONFIG))
 
 

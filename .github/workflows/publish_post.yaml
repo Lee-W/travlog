@@ -1,5 +1,4 @@
 ---
-
 name: publish post
 
 on:
@@ -24,7 +23,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
@@ -36,6 +35,13 @@ jobs:
         run: |
           export GOOGLE_ANALYTICS=${{ secrets.GOOGLE_ANALYTICS }}
           pipenv run inv build-publish
+
+      - name: GitHub Action for npx
+        uses: mikeal/npx@1.0.0
+
+      - name: Build search index
+        run: |
+          npx -y pagefind --site output
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
