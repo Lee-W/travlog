@@ -29,6 +29,7 @@ DEFAULT_DATE_FORMAT = "%Y/%m/%d - %a"
 MAIN_MENU = True
 DEFAULT_PAGINATION = 10
 MENUITEMS = (
+    ("Home", "/"),
     ("About", "/pages/about.html"),
     ("🍿 Review", "/category/review.html"),
     ("Story Ranking", "/pages/story-ranking.html"),
@@ -36,17 +37,21 @@ MENUITEMS = (
     ("🥘 Cook", "/category/cook.html"),
     ("衛宮家料理總覽", "/pages/emiya-toc.html"),
     ("🏷️ Tags", "/tags.html"),
-    ("🗄️  Archives", "/archives.html"),
+    ("🗄️ Archives", "/archives.html"),
+    ("🔍 Search", "/pages/search.html"),
 )
-DISPLAY_PAGES_ON_MENU = False
-DISPLAY_CATEGORIES_ON_MENU = False
+SHOW_PAGES_ON_MENU = False
+SHOW_CATEGORIES_ON_MENU = False
+SHOW_TAGS_IN_ARTICLE_SUMMARY = True
 DIRECT_TEMPLATES = ("index", "categories", "authors", "archives", "tags")
+PAGEFIND_ENABLED = True
+CSS_OVERRIDE = ["statics/css/blog.css"]
 
 # Content Setting
 DEFAULT_CATEGORY = "Travel"
 ARTICLE_URL = "posts/{category}/{date:%Y}/{date:%m}/{slug}"
 ARTICLE_SAVE_AS = "posts/{category}/{date:%Y}/{date:%m}/{slug}/index.html"
-STATIC_PATHS = ["images", "extra"]
+STATIC_PATHS = ["images", "extra", "statics"]
 
 # Theme Setting
 THEME = "theme/attila"
