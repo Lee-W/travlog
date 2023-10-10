@@ -14,19 +14,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="referrer" content="origin" />
   <meta name="generator" content="Pelican" />
-<link href="https://travlog.wei-lee.me/" rel="canonical" />
+<link href="https://travlog.wei-lee.me/author/wei-lee.html" rel="canonical" />
   <!-- Feed -->
-      <link href="//travlog.wei-lee.me/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Those things no one cares about Full Atom Feed" />
+  <link href="//travlog.wei-lee.me/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Those things no one cares about Full Atom Feed" />
 
   <link href="https://travlog.wei-lee.me/theme/css/style.css" type="text/css" rel="stylesheet" />
 
-  <!-- Code highlight color scheme -->
-      <link href="https://travlog.wei-lee.me/theme/css/code_blocks/github.css" rel="stylesheet">
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 
+  <!-- CSS specified by the user -->
+
+
+  <link href="https://travlog.wei-lee.me/statics/css/blog.css" type="text/css" rel="stylesheet" />
 
   <!-- Custom fonts -->
   <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
+
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -35,88 +39,152 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
 
+  <script>
+    var siteUrl = 'https://travlog.wei-lee.me';
+  </script>
+
+  <script>
+    var localTheme = localStorage.getItem('attila_theme');
+    switch (localTheme) {
+      case 'dark':
+        document.documentElement.classList.add('theme-dark');
+        break;
+      case 'light':
+        document.documentElement.classList.add('theme-light');
+        break;
+      default:
+        break;
+    }
+  </script>
+
+
+
+
+
 </head>
-<!-- TODO : Body class -->
-<body class="home-template">
-
-<nav id="menu">
-  <a class="close-button">Close</a>
-  <div class="nav-wrapper">
-    <p class="nav-label">Menu</p>
-    <ul>
-          <li><a href="/pages/about.html" role="presentation">About</a></li>
-          <li><a href="/category/review.html" role="presentation">🍿 Review</a></li>
-          <li><a href="/pages/story-ranking.html" role="presentation">Story Ranking</a></li>
-          <li><a href="/category/travel.html" role="presentation">✈️  Travel</a></li>
-          <li><a href="/category/cook.html" role="presentation">🥘 Cook</a></li>
-          <li><a href="/pages/emiya-toc.html" role="presentation">衛宮家料理總覽</a></li>
-          <li><a href="/tags.html" role="presentation">🏷️ Tags</a></li>
-          <li><a href="/archives.html" role="presentation">🗄️  Archives</a></li>
 
 
-        <li class="nav-rss"><a href="//travlog.wei-lee.me/feeds/all.atom.xml"><i class="ic ic-rss"></i> Subscribe</a></li>
-    </ul>
+
+
+
+
+
+<body class="author-template">
+
+<div class="nav-header">
+  <nav class="nav-wrapper" aria-label="Main">
+<ul>
+
+    <li class="nav-Home " role="presentation"><a href="/"><span>Home</span></a></li>
+    <li class="nav-About " role="presentation"><a href="/pages/about.html"><span>About</span></a></li>
+    <li class="nav-🍿 Review " role="presentation"><a href="/category/review.html"><span>🍿 Review</span></a></li>
+    <li class="nav-Story Ranking " role="presentation"><a href="/pages/story-ranking.html"><span>Story Ranking</span></a></li>
+    <li class="nav-✈️  Travel " role="presentation"><a href="/category/travel.html"><span>✈️  Travel</span></a></li>
+    <li class="nav-🥘 Cook " role="presentation"><a href="/category/cook.html"><span>🥘 Cook</span></a></li>
+    <li class="nav-衛宮家料理總覽 " role="presentation"><a href="/pages/emiya-toc.html"><span>衛宮家料理總覽</span></a></li>
+    <li class="nav-🏷️ Tags " role="presentation"><a href="/tags.html"><span>🏷️ Tags</span></a></li>
+    <li class="nav-🗄️ Archives " role="presentation"><a href="/archives.html"><span>🗄️ Archives</span></a></li>
+    <li class="nav-🔍 Search " role="presentation"><a href="/pages/search.html"><span>🔍 Search</span></a></li>
+
+</ul>
+<ul class="nav-meta">
+    <li class="nav-linkedin"><a aria-label="Linkedin" href="http://tw.linkedin.com/in/clleew" target="_blank"><i class="icon icon-linkedin" aria-hidden="true"></i>
+    <span>linkedin</span>
+    </a></li>
+    <li class="nav-github"><a aria-label="Github" href="http://github.com/Lee-W" target="_blank"><i class="icon icon-github" aria-hidden="true"></i>
+    <span>github</span>
+    </a></li>
+    <li class="nav-twitter"><a aria-label="Twitter" href="https://twitter.com/clleew" target="_blank"><i class="icon icon-twitter" aria-hidden="true"></i>
+    <span>twitter</span>
+    </a></li>
+  <li class="nav-search" style="display: none;">
+    <a title="Search">
+      <i class="icon icon-search" aria-hidden="true"></i>
+      <span>Search</span>
+    </a>
+  </li>
+</ul>  </nav>
+
+  <div class="nav-wrapper-control">
+    <div class="inner">
+      <a class="nav-menu" role="button"><i class="icon icon-menu" aria-hidden="true"></i>Menu</a>
+      <a class="nav-search" title="Search" role="button" style="display: none;"><i class="icon icon-search" aria-hidden="true"></i></a>
+    </div>
   </div>
-</nav>
+</div>
+<div class="nav-close" role="button" aria-label="Close"></div>
+  <section id="wrapper" class="page-wrapper">
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header id="blog-header" class="has-cover">
+    <header class="blog-header  has-cover">
       <div class="inner">
-        <nav id="navigation">
-            <span id="home-button" class="nav-button">
-                <a class="home-button" href="https://travlog.wei-lee.me/" title="Home"><i class="ic ic-arrow-left"></i> Home</a>
-            </span>
-          <span id="menu-button" class="nav-button">
-            <a class="menu-button"><i class="ic ic-menu"></i> Menu</a>
+        <div class="archive archive-author box archive-box">
+          <span class="archive-info">
+            <span class="archive-type">Author</span>
+            <span class="archive-count">103  posts </span>
           </span>
-        </nav>
-            <div class="blog-cover cover" style="background-image: url('https://travlog.wei-lee.me//images/cover.jpeg')">
+          <figure class="archive-avatar avatar">
+          </figure>
+          <h2 class="archive-title">Wei Lee</h2>
+          <span class="archive-links">
+          <!-- Social linkes in alphabet order. -->
+          </span>
+        </div>
+          <div class="blog-cover cover">
+            <img src="https://travlog.wei-lee.me//images/cover.jpeg" alt="Author Wei Lee" />
+          </div>
       </div>
     </header>
-
-
-
-  <section id="wrapper">
-    <a class="hidden-close"></a>
 
 <div id="index" class="container">
   <main class="content" role="main">
     <div class="extra-pagination">
-<nav class="pagination" role="pagination">
+<nav class="pagination" aria-label="Pagination" role="pagination">
   <div class="inner">
-    <a class="pagination-next" href="https://travlog.wei-lee.me/author/wei-lee7.html"><i class="ic ic-arrow-left"></i> <span class="pagination-label">Newer Posts</span></a>
-    <span class="pagination-info">Page 8 / 11</span>
-    <a class="pagination-prev" href="https://travlog.wei-lee.me/author/wei-lee9.html"><span class="pagination-label">Older Posts</span> <i class="ic ic-arrow-right"></i></a>
-    <div class="clear"></div>
+    <div class="box pagination-box">
+      <a title="Newer Posts" class="pagination-next" href="https://travlog.wei-lee.me/author/wei-lee7.html"><i class="icon icon-arrow-left"></i> <span class="pagination-label">Newer Posts</span></a>
+      <span class="pagination-info">Page 8 of 11</span>
+      <a title="Older Posts" class="pagination-prev" href="https://travlog.wei-lee.me/author/wei-lee9.html"><span class="pagination-label">Older Posts</span> <i class="icon icon-arrow-right"></i></a>
+    </div>
   </div>
 </nav>
     </div>
 
-        <article class="post">
+
+
+    <article class="post">
         <div class="inner">
-            <header class="post-header">
+            <div class="box post-box">
                 <h2 class="post-title">
                     <a href="https://travlog.wei-lee.me/posts/cook/2021/02/emiya-s-hotpot-and-zousui" rel="bookmark" title="Permalink to 衛宮家的暖呼呼火鍋和雜炊粥 ">
                         衛宮家的暖呼呼火鍋和雜炊粥
                     </a>
                 </h2>
                 <span class="post-meta">
-                        <a href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
-                     | <time datetime="2021/02/07 - Sun">2021/02/07 - Sun</time>
+                    By 
+                        <a class="post-meta-tag" href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
+                     in 
+                    <a class="post-meta-tag" href="https://travlog.wei-lee.me/category/cook.html">Cook</a>
+                      on <time datetime="2021/02/07 - Sun">2021/02/07 - Sun</time>
                 </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
+                <p class="post-excerpt">
                         <p>這次重現的是漫畫第 1 集的同時也動畫<a href="https://ani.gamer.com.tw/animeVideo.php?sn=16739">最後一集</a>的「暖呼呼火鍋」</p>
 
-                    </p>
-                </section>
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="https://travlog.wei-lee.me/tag/fate.html">Fate</a><a href="https://travlog.wei-lee.me/tag/wei-gong-jia-jin-tian-de-can-zhuo-feng-jing.html">衛宮家今天的餐桌風景</a>                    </aside>
+                </div>
             </div>
-        </article>
-        <article class="post">
+        </div>
+    </article>
+
+
+    <article class="post">
         <div class="inner">
-            <header class="post-header">
+            <div class="box post-box">
                 <h2 class="post-title">
                     <a href="https://travlog.wei-lee.me/posts/cook/2021/02/sara-s-walnut-brownie" rel="bookmark" title="Permalink to 核桃布朗尼  - 走到森林裡，然後去找核桃">
                         核桃布朗尼
@@ -125,92 +193,124 @@
                     </a>
                 </h2>
                 <span class="post-meta">
-                        <a href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
-                     | <time datetime="2021/02/02 - Tue">2021/02/02 - Tue</time>
+                    By 
+                        <a class="post-meta-tag" href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
+                     in 
+                    <a class="post-meta-tag" href="https://travlog.wei-lee.me/category/cook.html">Cook</a>
+                      on <time datetime="2021/02/02 - Tue">2021/02/02 - Tue</time>
                 </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
+                <p class="post-excerpt">
                         <p>在這之前，我做夢也想不到這輩子會做甜點吧（笑</p>
 
-                    </p>
-                </section>
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="https://travlog.wei-lee.me/tag/fate.html">Fate</a><a href="https://travlog.wei-lee.me/tag/wei-gong-jia-jin-tian-de-can-zhuo-feng-jing.html">衛宮家今天的餐桌風景</a>                    </aside>
+                </div>
             </div>
-        </article>
-        <article class="post">
+        </div>
+    </article>
+
+
+    <article class="post">
         <div class="inner">
-            <header class="post-header">
+            <div class="box post-box">
                 <h2 class="post-title">
                     <a href="https://travlog.wei-lee.me/posts/cook/2021/01/caster-s-syogayaki" rel="bookmark" title="Permalink to Caster 的軟嫩薑燒豬肉 ">
                         Caster 的軟嫩薑燒豬肉
                     </a>
                 </h2>
                 <span class="post-meta">
-                        <a href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
-                     | <time datetime="2021/01/28 - Thu">2021/01/28 - Thu</time>
+                    By 
+                        <a class="post-meta-tag" href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
+                     in 
+                    <a class="post-meta-tag" href="https://travlog.wei-lee.me/category/cook.html">Cook</a>
+                      on <time datetime="2021/01/28 - Thu">2021/01/28 - Thu</time>
                 </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
+                <p class="post-excerpt">
                         <p>自從 Caster 從 Lancer 那邊聽到士郎的廚藝<br>
 她三不五時就會來士郎家學料理</p>
 
-                    </p>
-                </section>
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="https://travlog.wei-lee.me/tag/fate.html">Fate</a><a href="https://travlog.wei-lee.me/tag/wei-gong-jia-jin-tian-de-can-zhuo-feng-jing.html">衛宮家今天的餐桌風景</a>                    </aside>
+                </div>
             </div>
-        </article>
-        <article class="post">
+        </div>
+    </article>
+
+
+    <article class="post">
         <div class="inner">
-            <header class="post-header">
+            <div class="box post-box">
                 <h2 class="post-title">
                     <a href="https://travlog.wei-lee.me/posts/cook/2021/01/emiya-s-omelet" rel="bookmark" title="Permalink to 衛宮家的玉子燒 ">
                         衛宮家的玉子燒
                     </a>
                 </h2>
                 <span class="post-meta">
-                        <a href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
-                     | <time datetime="2021/01/18 - Mon">2021/01/18 - Mon</time>
+                    By 
+                        <a class="post-meta-tag" href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
+                     in 
+                    <a class="post-meta-tag" href="https://travlog.wei-lee.me/category/cook.html">Cook</a>
+                      on <time datetime="2021/01/18 - Mon">2021/01/18 - Mon</time>
                 </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
+                <p class="post-excerpt">
                         <p>看著室友做了好多次的蛋料理<br>
 這次要來重現的是第 21 話「便當必備菜色 煎蛋捲」</p>
 
-                    </p>
-                </section>
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="https://travlog.wei-lee.me/tag/fate.html">Fate</a><a href="https://travlog.wei-lee.me/tag/wei-gong-jia-jin-tian-de-can-zhuo-feng-jing.html">衛宮家今天的餐桌風景</a>                    </aside>
+                </div>
             </div>
-        </article>
-        <article class="post">
+        </div>
+    </article>
+
+
+    <article class="post">
         <div class="inner">
-            <header class="post-header">
+            <div class="box post-box">
                 <h2 class="post-title">
                     <a href="https://travlog.wei-lee.me/posts/review/2021/01/what-i-watch-in-2020-fall" rel="bookmark" title="Permalink to 2020 秋季看什麼 - 新番/舊番/電影 ">
                         2020 秋季看什麼 - 新番/舊番/電影
                     </a>
                 </h2>
                 <span class="post-meta">
-                        <a href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
-                     | <time datetime="2021/01/07 - Thu">2021/01/07 - Thu</time>
+                    By 
+                        <a class="post-meta-tag" href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
+                     in 
+                    <a class="post-meta-tag" href="https://travlog.wei-lee.me/category/review.html">Review</a>
+                      on <time datetime="2021/01/07 - Thu">2021/01/07 - Thu</time>
                 </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
+                <p class="post-excerpt">
                         <p>這季新番比起前幾季沒有太多能每週帶給我期待的作品<br>
 除了到十二月才上的「進擊的巨人 Final Season」外<br>
 只剩下令人愉悅的「暮蟬悲鳴時 業」</p>
 
-                    </p>
-                </section>
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="https://travlog.wei-lee.me/tag/animate.html">Animate</a><a href="https://travlog.wei-lee.me/tag/dang-ji-kan-shi-mo.html">當季看什麼</a>                    </aside>
+                </div>
             </div>
-        </article>
-        <article class="post">
+        </div>
+    </article>
+
+
+    <article class="post">
         <div class="inner">
-            <header class="post-header">
+            <div class="box post-box">
                 <h2 class="post-title">
                     <a href="https://travlog.wei-lee.me/posts/cook/2021/01/new-year-soba-noodles" rel="bookmark" title="Permalink to 跨年蕎麥麵  - 明年也請多多指教">
                         跨年蕎麥麵
@@ -219,142 +319,187 @@
                     </a>
                 </h2>
                 <span class="post-meta">
-                        <a href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
-                     | <time datetime="2021/01/02 - Sat">2021/01/02 - Sat</time>
+                    By 
+                        <a class="post-meta-tag" href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
+                     in 
+                    <a class="post-meta-tag" href="https://travlog.wei-lee.me/category/cook.html">Cook</a>
+                      on <time datetime="2021/01/02 - Sat">2021/01/02 - Sat</time>
                 </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
+                <p class="post-excerpt">
                         <p>說到跨年，當然也只能重現第 20 話的跨年夜來晚熱呼呼的跨年蕎麥麵了<br>
 這同時也是動畫版的<a href="https://ani.gamer.com.tw/animeVideo.php?sn=16727">第一集</a></p>
 
-                    </p>
-                </section>
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="https://travlog.wei-lee.me/tag/fate.html">Fate</a><a href="https://travlog.wei-lee.me/tag/wei-gong-jia-jin-tian-de-can-zhuo-feng-jing.html">衛宮家今天的餐桌風景</a>                    </aside>
+                </div>
             </div>
-        </article>
-        <article class="post">
+        </div>
+    </article>
+
+
+    <article class="post">
         <div class="inner">
-            <header class="post-header">
+            <div class="box post-box">
                 <h2 class="post-title">
                     <a href="https://travlog.wei-lee.me/posts/review/2020/12/fate-stay-night-heaven-s-feel" rel="bookmark" title="Permalink to Fate/stay night Heaven&#39;s Feel 馬拉松 ">
                         Fate/stay night Heaven&#39;s Feel 馬拉松
                     </a>
                 </h2>
                 <span class="post-meta">
-                        <a href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
-                     | <time datetime="2020/12/30 - Wed">2020/12/30 - Wed</time>
+                    By 
+                        <a class="post-meta-tag" href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
+                     in 
+                    <a class="post-meta-tag" href="https://travlog.wei-lee.me/category/review.html">Review</a>
+                      on <time datetime="2020/12/30 - Wed">2020/12/30 - Wed</time>
                 </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
+                <p class="post-excerpt">
                         <p>剛好看馬拉松的前一天，才看完鬼滅之刃劇場版<br>
 所以會有我連續兩天看幽浮桌大作的感想<br>
 我雖然不覺得我很鬼滅黑，但還是建議鬼滅粉可以迴避 🤫</p>
 
-                    </p>
-                </section>
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="https://travlog.wei-lee.me/tag/animate.html">Animate</a><a href="https://travlog.wei-lee.me/tag/movie.html">Movie</a><a href="https://travlog.wei-lee.me/tag/fate.html">Fate</a>                    </aside>
+                </div>
             </div>
-        </article>
-        <article class="post">
+        </div>
+    </article>
+
+
+    <article class="post">
         <div class="inner">
-            <header class="post-header">
+            <div class="box post-box">
                 <h2 class="post-title">
                     <a href="https://travlog.wei-lee.me/posts/cook/2020/12/wanna-eat-yorokobe-spicy-chicken" rel="bookmark" title="Permalink to 要吃嗎？ 令人愉悅的香辣辣子雞 ">
                         要吃嗎？ 令人愉悅的香辣辣子雞
                     </a>
                 </h2>
                 <span class="post-meta">
-                        <a href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
-                     | <time datetime="2020/12/29 - Tue">2020/12/29 - Tue</time>
+                    By 
+                        <a class="post-meta-tag" href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
+                     in 
+                    <a class="post-meta-tag" href="https://travlog.wei-lee.me/category/cook.html">Cook</a>
+                      on <time datetime="2020/12/29 - Tue">2020/12/29 - Tue</time>
                 </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
+                <p class="post-excerpt">
                         <p>昨天（12/28）剛好是愉悅神父言峰綺禮的生日<br>
 麻婆豆腐已經做過幾次了，該來嘗試點新料理<br>
 所以就決定重現第33話「滿滿的辣椒！香辣辣子雞」</p>
 
-                    </p>
-                </section>
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="https://travlog.wei-lee.me/tag/fate.html">Fate</a><a href="https://travlog.wei-lee.me/tag/wei-gong-jia-jin-tian-de-can-zhuo-feng-jing.html">衛宮家今天的餐桌風景</a>                    </aside>
+                </div>
             </div>
-        </article>
-        <article class="post">
+        </div>
+    </article>
+
+
+    <article class="post">
         <div class="inner">
-            <header class="post-header">
+            <div class="box post-box">
                 <h2 class="post-title">
                     <a href="https://travlog.wei-lee.me/posts/cook/2020/12/roast-beef-in-einzbern-castle" rel="bookmark" title="Permalink to 愛因茲貝倫城的聖誕烤牛肉 ">
                         愛因茲貝倫城的聖誕烤牛肉
                     </a>
                 </h2>
                 <span class="post-meta">
-                        <a href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
-                     | <time datetime="2020/12/28 - Mon">2020/12/28 - Mon</time>
+                    By 
+                        <a class="post-meta-tag" href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
+                     in 
+                    <a class="post-meta-tag" href="https://travlog.wei-lee.me/category/cook.html">Cook</a>
+                      on <time datetime="2020/12/28 - Mon">2020/12/28 - Mon</time>
                 </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
+                <p class="post-excerpt">
                         <p>說到聖誕節，要重現的當然是第 11 話的用平底鍋就能做的烤牛肉<br>
 (<a href="https://ani.gamer.com.tw/animeVideo.php?sn=16738">動畫第 12 話</a>)</p>
 
-                    </p>
-                </section>
+                </p>
+
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="https://travlog.wei-lee.me/tag/fate.html">Fate</a><a href="https://travlog.wei-lee.me/tag/wei-gong-jia-jin-tian-de-can-zhuo-feng-jing.html">衛宮家今天的餐桌風景</a>                    </aside>
+                </div>
             </div>
-        </article>
-        <article class="post">
+        </div>
+    </article>
+
+
+    <article class="post">
         <div class="inner">
-            <header class="post-header">
+            <div class="box post-box">
                 <h2 class="post-title">
                     <a href="https://travlog.wei-lee.me/posts/cook/2020/12/saber-s-pancake" rel="bookmark" title="Permalink to Saber 今天的點心 ">
                         Saber 今天的點心
                     </a>
                 </h2>
                 <span class="post-meta">
-                        <a href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
-                     | <time datetime="2020/12/24 - Thu">2020/12/24 - Thu</time>
+                    By 
+                        <a class="post-meta-tag" href="https://travlog.wei-lee.me/author/wei-lee.html">Wei Lee</a>
+                     in 
+                    <a class="post-meta-tag" href="https://travlog.wei-lee.me/category/cook.html">Cook</a>
+                      on <time datetime="2020/12/24 - Thu">2020/12/24 - Thu</time>
                 </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
+                <p class="post-excerpt">
                         <p>這次要重現的是單行本第 1 本番外篇 2 的 Saber 的點心<br>
 大推「衛宮家今天的餐桌風景」<br>
 簡直是買食譜送漫畫，超划算 😍 （？？？？？</p>
 
-                    </p>
-                </section>
-            </div>
-        </article>
+                </p>
 
-<nav class="pagination" role="pagination">
+                <div class="post-excerpt">
+
+                    <aside class="post-tags">
+<a href="https://travlog.wei-lee.me/tag/fate.html">Fate</a><a href="https://travlog.wei-lee.me/tag/wei-gong-jia-jin-tian-de-can-zhuo-feng-jing.html">衛宮家今天的餐桌風景</a>                    </aside>
+                </div>
+            </div>
+        </div>
+    </article>
+
+<nav class="pagination" aria-label="Pagination" role="pagination">
   <div class="inner">
-    <a class="pagination-next" href="https://travlog.wei-lee.me/author/wei-lee7.html"><i class="ic ic-arrow-left"></i> <span class="pagination-label">Newer Posts</span></a>
-    <span class="pagination-info">Page 8 / 11</span>
-    <a class="pagination-prev" href="https://travlog.wei-lee.me/author/wei-lee9.html"><span class="pagination-label">Older Posts</span> <i class="ic ic-arrow-right"></i></a>
-    <div class="clear"></div>
+    <div class="box pagination-box">
+      <a title="Newer Posts" class="pagination-next" href="https://travlog.wei-lee.me/author/wei-lee7.html"><i class="icon icon-arrow-left"></i> <span class="pagination-label">Newer Posts</span></a>
+      <span class="pagination-info">Page 8 of 11</span>
+      <a title="Older Posts" class="pagination-prev" href="https://travlog.wei-lee.me/author/wei-lee9.html"><span class="pagination-label">Older Posts</span> <i class="icon icon-arrow-right"></i></a>
+    </div>
   </div>
 </nav>
   </main>
 </div>
-      <!-- TODO : Body class -->
-    <div id="body-class" style="display: none;" class=""></div>
+    <div class="nav-footer">
+      <nav class="nav-wrapper" aria-label="Footer">
+        <span class="nav-copy">Those things no one cares about &copy; 2023
+          <a class="nav-rss" title="RSS" href="//travlog.wei-lee.me/feeds/all.atom.xml" target="_blank"><i class="icon icon-rss"></i></a>
+        </span>
+        <span class="nav-credits">
 
-    <footer id="footer">
-      <div class="inner">
-        <section class="credits">
 
 
-          <span class="credits-theme">Theme <a href="https://github.com/arulrajnet/attila" rel="nofollow">Attila</a></span>
-          <span class="credits-software">Published with <a href="https://github.com/getpelican/pelican" rel="nofollow">Pelican</a></span>
-        </section>
-      </div>
-    </footer>
+          Published with <a href="https://github.com/getpelican/pelican" rel="nofollow">Pelican</a> &bull; Theme <a href="https://github.com/arulrajnet/attila" rel="nofollow">Attila</a> &bull;
+          <a class="menu-item js-theme" href="#" data-system="System theme" data-dark="Dark theme" data-light="Light theme">
+            <span class="theme-icon"></span><span class="theme-text">System theme</span>
+          </a>
+        </span>
+      </nav>
+    </div>
+
   </section>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+  <script type="text/javascript" src="https://travlog.wei-lee.me/theme/js/jquery.fitvids.js"></script>
   <script type="text/javascript" src="https://travlog.wei-lee.me/theme/js/script.js"></script>
 
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
@@ -366,5 +511,17 @@
         gtag('config', 'G-1K01E03YPD', { 'anonymize_ip': true });
     </script>
 
+  <script src="/pagefind/pagefind-ui.js"></script>
+  <script>
+      window.addEventListener('DOMContentLoaded', (event) => {
+          new PagefindUI({
+              element: "#search",
+              showImages: false,
+          });
+      });
+  </script>
+
+  <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
 </body>
+
 </html>

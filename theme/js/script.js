@@ -1,137 +1,150 @@
 jQuery(function($) {
 
-	var body = $('body');
-	var html = $('html');
-	var viewport = $(window);
+  var html = $('html');
+  var viewport = $(window);
 
-	/* ==========================================================================
-	   Menu
-	   ========================================================================== */
+/* ==========================================================================
+   Menu
+   ========================================================================== */
 
-	function menu() {
-		html.toggleClass('menu-active');
-	};
+  function menu() {
+    html.toggleClass('menu-active');
+  };
 
-	$('#menu').on({
-		'click': function() {
-			menu();
-		}
-	});
+  $('#menu').on({
+    'click': function() {
+      menu();
+    }
+  });
 
-	$('.menu-button').on({
-		'click': function() {
-			menu();
-		}
-	});
+  $('.nav-menu').on({
+    'click': function() {
+      menu();
+    }
+  });
 
-	$('.hidden-close').on({
-		'click': function() {
-			menu();
-		}
-	});
+  $('.nav-close').on({
+    'click': function() {
+      menu();
+    }
+  });
 
-	/* ==========================================================================
-	   Parallax cover
-	   ========================================================================== */
+  viewport.on({
+    'resize': function() {
+      html.removeClass('menu-active');
+    },
+    'orientationchange': function() {
+      html.removeClass('menu-active');
+    }
+  });
 
-	var cover = $('.cover');
-	var coverPosition = 0;
+/* ==========================================================================
+   Parallax cover
+   ========================================================================== */
 
-	function prlx() {
-		if(cover.length >= 1) {
-			var windowPosition = viewport.scrollTop();
-			(windowPosition > 0) ? coverPosition = Math.floor(windowPosition * 0.25) : coverPosition = 0;
-			cover.css({
-				'-webkit-transform' : 'translate3d(0, ' + coverPosition + 'px, 0)',
-				'transform' : 'translate3d(0, ' + coverPosition + 'px, 0)'
-			});
-			(viewport.scrollTop() < cover.height()) ? html.addClass('cover-active') : html.removeClass('cover-active');
-		}
-	}
-	prlx();
+  var cover = $('.cover');
+  var coverPosition = 0;
 
-	viewport.on({
-		'scroll': function() {
-			prlx();
-		},
-		'resize': function() {
-			prlx();
-		},
-		'orientationchange': function() {
-			prlx();
-		}
-	});
+  function prlx() {
+    if (cover.length >= 1) {
+      var windowPosition = viewport.scrollTop();
+      (windowPosition > 0) ? coverPosition = Math.floor(windowPosition * 0.25): coverPosition = 0;
+      cover.css({
+        '-webkit-transform': 'translate3d(0, ' + coverPosition + 'px, 0)',
+        'transform': 'translate3d(0, ' + coverPosition + 'px, 0)'
+      });
+      (viewport.scrollTop() < cover.height()) ? html.addClass('cover-active'): html.removeClass('cover-active');
+    }
+  }
+  prlx();
 
-	/* ==========================================================================
-	   Reading Progress
-	   ========================================================================== */
+  viewport.on({
+    'scroll': function() {
+      prlx();
+    },
+    'resize': function() {
+      prlx();
+    },
+    'orientationchange': function() {
+      prlx();
+    }
+  });
 
-	var post = $('.post-content');
+/* ==========================================================================
+   Gallery
+   ========================================================================== */
 
-	function readingProgress() {
-		if(post.length >= 1) {
-			var postBottom = post.offset().top + post.height();
-			var windowBottom = viewport.scrollTop() + viewport.height();
-			var progress = 100 - (((postBottom - windowBottom) / (postBottom - viewport.height())) * 100);
-			$('.progress-bar').css('width', progress + '%');
-			(progress > 100) ? $('.progress-container').addClass('ready') : $('.progress-container').removeClass('ready');
-		}
-	}
-	readingProgress();
+  function gallery() {
+    'use strict';
+    var images = document.querySelectorAll('.kg-gallery-image img');
+    images.forEach(function(image) {
+      var container = image.closest('.kg-gallery-image');
+      var width = image.attributes.width.value;
+      var height = image.attributes.height.value;
+      var ratio = width / height;
+      container.style.flex = ratio + ' 1 0%';
+    });
+  }
+  gallery();
 
-	viewport.on({
-		'scroll': function() {
-			readingProgress();
-		},
-		'resize': function() {
-			readingProgress();
-		},
-		'orientationchange': function() {
-			readingProgress();
-		}
-	});
 
-	/* ==========================================================================
-	   Gallery
-	   ========================================================================== */
+/* ==========================================================================
+   Theme
+   ========================================================================== */
 
-	function gallery() {
-		var images = document.querySelectorAll('.kg-gallery-image img');
-		images.forEach(function (image) {
-			var container = image.closest('.kg-gallery-image');
-			var width = image.attributes.width.value;
-			var height = image.attributes.height.value;
-			var ratio = width / height;
-			container.style.flex = ratio + ' 1 0%';
-		});
-	}
-	gallery();
+  function theme() {
+    'use strict';
+    var toggle = $('.js-theme');
+    var toggleText = toggle.find('.theme-text');
 
-	/* ==========================================================================
-	   Style code blocks with highlight and numbered lines
-	   ========================================================================== */
+    function system() {
+      html.removeClass(['theme-dark', 'theme-light']);
+      localStorage.removeItem('attila_theme');
+      toggleText.text(toggle.attr('data-system'));
+    }
 
-	function codestyling() {
-		$('pre code').each(function(i, e) {
-			hljs.highlightBlock(e);
+    function dark() {
+      html.removeClass('theme-light').addClass('theme-dark');
+      localStorage.setItem('attila_theme', 'dark');
+      toggleText.text(toggle.attr('data-dark'));
+    }
 
-			if(!$(this).hasClass('language-text')) {
-				var code = $(this);
-				var lines = code.html().split(/\n/).length;
-				var numbers = [];
-				for (i = 1; i < lines; i++) {
-					numbers += '<span class="line">' + i + '</span>';
-				}
-				code.parent().append('<div class="lines">' + numbers + '</div>');
-			}
-		});
-	}
-	codestyling();
+    function light() {
+      html.removeClass('theme-dark').addClass('theme-light');
+      localStorage.setItem('attila_theme', 'light');
+      toggleText.text(toggle.attr('data-light'));
+    }
 
-	/* ==========================================================================
-	   Initialize and load Disqus
-	   ========================================================================== */
+    switch (localStorage.getItem('attila_theme')) {
+      case 'dark':
+        dark();
+      break;
+      case 'light':
+        light();
+      break;
+      default:
+        system();
+      break;
+    }
 
+    toggle.on('click', function (e) {
+      e.preventDefault();
+
+      if (!html.hasClass('theme-dark') && !html.hasClass('theme-light')) {
+        dark();
+      } else if (html.hasClass('theme-dark')) {
+        light();
+      } else {
+        system();
+      }
+    });
+  }
+  theme();
+
+/* ==========================================================================
+   Comments
+   ========================================================================== */
+  function comments() {
 	if (typeof disqus === 'undefined' && typeof use_utterance === 'undefined') {
 		$('.post-comments').css({
 			'display' : 'none'
@@ -149,5 +162,7 @@ jQuery(function($) {
 				$(this).parent().addClass('activated');
 			}
 		);
-	} 
+	}
+  }
+  comments();
 });
