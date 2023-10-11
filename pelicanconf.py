@@ -32,12 +32,11 @@ MENUITEMS = (
     ("Home", "/"),
     ("About", "/pages/about.html"),
     ("🍿 Review", "/category/review.html"),
-    ("Story Ranking", "/pages/story-ranking.html"),
     ("✈️  Travel", "/category/travel.html"),
     ("🥘 Cook", "/category/cook.html"),
-    ("衛宮家料理總覽", "/pages/emiya-toc.html"),
     ("🏷️ Tags", "/tags.html"),
     ("🗄️ Archives", "/archives.html"),
+    ("📚 Pages", "/pages/pages.html"),
     ("🔍 Search", "/pages/search.html"),
 )
 SHOW_PAGES_ON_MENU = False
