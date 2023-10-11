@@ -5,6 +5,7 @@ name = "cz_customize"
 message_template = "{{change_type}}: {{message}}"
 example = "post: this is my first post"
 schema = "<type>: <body>"
+schema_pattern = "^((new post|post update|new draft|draft update|post metadata|typo|config|theme|dependency|static page)): .*"
 bump_pattern = "^(break|new|fix|hotfix)"
 bump_map = {"break" = "MAJOR", "new" = "MINOR", "fix" = "PATCH", "hotfix" = "PATCH"}
 info = "This is commit convention for my blog post"
@@ -19,3 +20,18 @@ message = "What type of commit is it?"
 type = "input"
 name = "message"
 message = "Message body: \n"
+
+
+[tool.ruff]
+line-length = 88
+ignore = [
+    "E501",
+    "D1",
+    "D415",
+]
+
+[tool.ruff.isort]
+known-first-party = ["commitizen", "tests"]
+
+[tool.ruff.pydocstyle]
+convention = "google"

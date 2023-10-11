@@ -18,11 +18,10 @@ invoke = "*"
 [dev-packages]
 commitizen = "*"
 livereload = "*"
+ruff = "*"
 black = ">=22.8.0"
-flake8 = ">=3.8.3"
 pre-commit-hooks = ">=3.2.0"
 invoke = ">=1.4.1"
-isort = ">=5.0.0"
 pip-audit = "*"
 
 [requires]
