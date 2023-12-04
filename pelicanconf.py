@@ -4,13 +4,19 @@ from __future__ import unicode_literals
 PATH = "content"
 
 # Blog Conf
-AUTHOR = "Lee-W"
+AUTHOR = "Wei Lee"
 SITENAME = "Those things no one cares about"
 SITETITLE = SITENAME
 SITEURL = "http://localhost:8000"
 SITELOGO = "/images/avatar.jpg"
 BROWSER_COLOR = "#333333"
 HEADER_COVER = "/images/cover.jpeg"
+
+AUTHOR_META = {
+    "wei lee": {
+        "image": "/images/avatar.jpg",
+    }
+}
 
 # comment system
 UTTERANCES_REPO = "Lee-W/travlog"
