@@ -100,8 +100,7 @@ Cover: /images/post-images/2023-yuru-camp-salmon-pot/finish-5.jpeg
 
 ![finish-1](/images/post-images/2023-yuru-camp-salmon-pot/finish-1.jpeg)
 
-
-但是也活部的鮭魚量就是比我的多很多
+但是野活部的鮭魚量就是比我的多很多
 而且還浮得起來
 我就還得要特別撈起來拍
 
