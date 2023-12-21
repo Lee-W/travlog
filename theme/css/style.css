@@ -202,7 +202,12 @@ td,th {
     --color-background-overlay: rgba(9,10,13,0.9);
     --color-content-lead: #FFF;
     --color-content-main: #E1E3E6;
-    --color-content-secondary: #909499
+    --color-content-secondary: #909499;
+    --pagefind-ui-primary: #eeeeee;
+    --pagefind-ui-text: #eeeeee;
+    --pagefind-ui-background: #152028;
+    --pagefind-ui-border: #152028;
+    --pagefind-ui-tag: #152028;
 }
 
 @media (prefers-color-scheme: dark) {

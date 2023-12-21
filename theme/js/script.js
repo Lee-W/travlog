@@ -98,9 +98,12 @@ jQuery(function($) {
     var toggleText = toggle.find('.theme-text');
 
     function system() {
-      html.removeClass(['theme-dark', 'theme-light']);
-      localStorage.removeItem('attila_theme');
-      toggleText.text(toggle.attr('data-system'));
+        const isDarkMode = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+        if (isDarkMode) {
+          dark();
+        } else {
+          light();
+        }
     }
 
     function dark() {
