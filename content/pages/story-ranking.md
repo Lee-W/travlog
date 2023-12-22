@@ -1,7 +1,7 @@
 Title: 絕對主觀的作品排名
 Slug: story-ranking
 Date: 2022-02-06 18:48
-Modified: 2023-05-08 22:38
+Modified: 2023-12-22 19:30
 
 啟發自[kaze的日本留學&不務正業ACG](https://aurakaze.blog/list_anime/)跟在推特看到的[TierMaker](https://tiermaker.com/create/anime-tier-list-300-anime-17194)
 才做了這個給自己的作品排名/索引
@@ -44,7 +44,6 @@ Modified: 2023-05-08 22:38
 
 [TOC]
 
-
 ## 動畫
 ### SSS Tier
 [聲之形]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_13)
@@ -71,12 +70,12 @@ Modified: 2023-05-08 22:38
 * 路人超能
     * [路人超能 100]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_6)
     * [路人超能 100 （二刷）]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#100)
-    * [路人超能 100 第三季]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall#100)
+    * [路人超能 100 第三季]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#100)
 * 進擊的巨人
     * [進撃的巨人 The Final Season]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#the-final-season)
     * [「進撃的巨人」The Final Season]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#the-final-season)
     * [進擊的巨人 劇場版 CHRONICLE]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#chronicle)
-    * [進擊的巨人 The Final Season 完結篇 前篇]({filename}/posts/review/2023/what-i-watch-in-2023-winter#the-final-season)
+    * [進擊的巨人 The Final Season 完結篇 前篇]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#the-final-season)
 * Fate 系列
     * [Fate Zero]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#fate-zero)
     * [Fate/stay night Heaven's Feel 三部曲]({filename}/posts/review/2020/9-fate-stay-night-heaven-s-feel-trilogy.md)
@@ -89,17 +88,17 @@ Modified: 2023-05-08 22:38
     * [JOJO 的奇妙冒險]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#jojo)
     * [JOJO 的奇妙冒險 不滅鑽石]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#jojo)
     * [JOJO 的奇妙冒險 黃金之風]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#jojo_1)
-    * [JoJo 的奇妙冒險 石之海]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall#jojo)
+    * [JoJo 的奇妙冒險 石之海]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#jojo)
 * 新世紀福音戰士 新劇場版
     * [福音戰士新劇場版]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_21)
-    * [新世紀福音戰士新劇場版：終]({filename}/posts/review/2023/what-i-watch-in-2023-winter#_11)
+    * [新世紀福音戰士新劇場版：終]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#_11)
 * [擅長捉弄人的高木同學 第三季]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_2)
 * [海盜戰記]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_12)
 * [來自深淵 烈日的黃金鄉]({filename}/posts/review/2023/19-19-what-i-watch-in-2022-summer.md.md#_2)
 * [電影版 搖曳露營△]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_11)
 * [孤獨搖滾！]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall#_2)
 * [輝夜姬想讓人告白－永不結束的初吻]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall#-)
-* [灌籃高手]({filename}/posts/review/2023/what-i-watch-in-2023-winter#_12)
+* [灌籃高手]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#_12)
 
 ### S Tier
 * [JOJO 的奇妙冒險 星塵遠征軍]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#jojo_1)
@@ -216,8 +215,8 @@ Modified: 2023-05-08 22:38
 * [少女終末旅行]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_7)
 * [POP TEAM EPIC]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall#pop-team-epic)
 * [天才狂歡派對：首部曲]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall#_11)
-* [夏日時光]({filename}/posts/review/2023/what-i-watch-in-2023-winter#_9)
-* [劇場版 異世界四重奏 ～Another World～]({filename}/posts/review/2023/what-i-watch-in-2023-winter#another-world)
+* [夏日時光]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#_9)
+* [劇場版 異世界四重奏 ～Another World～]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#another-world)
 
 ### A Tier
 * [岸邊露伴一動也不動]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#_14)
@@ -241,7 +240,7 @@ Modified: 2023-05-08 22:38
 * 極道主夫
     * [極道主夫]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#_8)
     * [極道主夫 Part 2]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#part-2)
-    * [極主夫道 第二季]({filename}/posts/review/2023/what-i-watch-in-2023-winter#_5)
+    * [極主夫道 第二季]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#_5)
 * [月刊少女野崎同學]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_9)
 * [男子高校生的日常]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_10)
 * [這美術社大有問題]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_8)
@@ -313,10 +312,10 @@ Modified: 2023-05-08 22:38
 * [舞伎家的料理人]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall#_8)
 * [犬王]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall#_12)
 * [天才狂歡派對：最終章]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall#_13)
-* [小智是女孩啦！]({filename}/posts/review/2023/what-i-watch-in-2023-winter#_2)
-* [再得一勝！]({filename}/posts/review/2023/what-i-watch-in-2023-winter#_3)
-* [不要欺負我，長瀞同學 2nd Attack]({filename}/posts/review/2023/what-i-watch-in-2023-winter#2nd-attack)
-* [冰屬性男子與無表情女子]({filename}/posts/review/2023/what-i-watch-in-2023-winter#_4)
+* [小智是女孩啦！]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#_2)
+* [再得一勝！]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#_3)
+* [不要欺負我，長瀞同學 2nd Attack]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#2nd-attack)
+* [冰屬性男子與無表情女子]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#_4)
 
 ### B Tier
 * 飛翔的魔女
@@ -388,10 +387,10 @@ Modified: 2023-05-08 22:38
 * [我家師傅沒有尾巴]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall#_6)
 * [暗殺教室 第一季]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall#_9)
 * [刀劍神域劇場版 -Progressive- 陰沉薄暮的詼諧曲]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall#-progressive-)
-* [不當哥哥了！]({filename}/posts/review/2023/what-i-watch-in-2023-winter#_6)
-* [弦音 -風舞高中弓道部-]({filename}/posts/review/2023/what-i-watch-in-2023-winter#-)
-* [鈴芽之旅]({filename}/posts/review/2023/what-i-watch-in-2023-winter#_13)
-* [劇場版弦音-初始的一射–]({filename}/posts/review/2023/what-i-watch-in-2023-winter#-_1)
+* [不當哥哥了！]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#_6)
+* [弦音 -風舞高中弓道部-]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#-)
+* [鈴芽之旅]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#_13)
+* [劇場版弦音-初始的一射–]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#-_1)
 
 ### C Tier
 * [成群結伴！西頓學園]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_11)
@@ -429,8 +428,8 @@ Modified: 2023-05-08 22:38
 * [劇場版～超時空要塞 虛空歌姬～]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_17)
 * [兒時的點點滴滴]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_18)
 * [PUI PUI 天竺鼠車車 駕訓班篇]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall#pui-pui)
-* [給不滅的你 第二季]({filename}/posts/review/2023/what-i-watch-in-2023-winter#_7)
-* [「鬼滅之刃」上弦集結，前進刀匠村]({filename}/posts/review/2023/what-i-watch-in-2023-winter#_14)
+* [給不滅的你 第二季]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#_7)
+* [「鬼滅之刃」上弦集結，前進刀匠村]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#_14)
 
 ### D Tier
 * 庫洛魔法使 透明牌篇
@@ -505,7 +504,7 @@ Modified: 2023-05-08 22:38
 * [奇異博士2：失控多重宇宙]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint#2)
 * [重慶森林]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint#_20)
 * [嬰兒轉運站]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint#_21)
-* [悲情城市]({filename}/posts/review/2023/what-i-watch-in-2023-winter#_16)
+* [悲情城市]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#_16)
 
 ### B Tier
 * [全面啟動]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_36)
@@ -583,7 +582,7 @@ Modified: 2023-05-08 22:38
     * Star Wars: Resistance
     * [星際大戰：視界]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_13)
     * [星際大戰：瑕疵小隊]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_12)
-    * [Star Wars: The Bad Batch Season 2]({filename}/posts/review/2023/what-i-watch-in-2023-winter#star-wars-the-bad-batch-season-2)
+    * [Star Wars: The Bad Batch Season 2]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter#star-wars-the-bad-batch-season-2)
 * Other
     * 頭盔下的波巴費特
     * Star Wars: 探秘飛航
