@@ -21,7 +21,7 @@ Authors: Wei Lee
 
 ## 新番
 
-### 「進撃的巨人」The Final Season - Part 2
+### 進撃的巨人 The Final Season - Part 2
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=27443)
 
 真沒想到 part 2 的演出能比 part 1 提升這麼多
