@@ -3134,6 +3134,10 @@ button,input,select,textarea {
     color: inherit
 }
 
+p a {
+    color: inherit;
+}
+
 .post-author-bio a {
     color: inherit;
     text-decoration: none;
