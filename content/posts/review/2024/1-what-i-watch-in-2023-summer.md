@@ -5,6 +5,7 @@ Category: Review
 Tags: Animate, 當季看什麼
 Slug: what-i-watch-in-2023-summer
 Authors: Wei Lee
+Cover: /images/post-images/2024-what-i-watch-in-2023-summer/are-you-my-master-cat.png
 
 不知道這季為什麼碰巧都有畫面很像是「試問。你是我的御主嗎？」
 
