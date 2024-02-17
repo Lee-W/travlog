@@ -132,7 +132,7 @@ The circle is now complete.
 好幾集在巴哈上是直接標 18 禁
 有幾幕甚至不輸給暮蟬的大腸麵線
 果然寶可夢對戰還是要讓寶可夢來才精彩啊
-不能都是訓練室拿著鋤頭去敲啊
+不能都是訓練師拿著鋤頭去敲啊
 
 ![dark-gather](/images/post-images/2024-what-i-watch-in-2023-fall/dark-gather.jpeg)
 
