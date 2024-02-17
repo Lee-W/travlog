@@ -262,3 +262,7 @@ Ahsoka 有一點吃書，但大致上還是好看的
 * 觀看平台： [Disney+](https://www.disneyplus.com/series/star-wars-andor/3xsQKWG00GL5)
 
 👉 [Star Wars: Andor - 星戰影集只接受菁英, 絕對不會接受垃圾]({filename}/posts/review/2023/1-star-wars-andor.md)
+
+-----
+
+如果喜歡我寫的作品心得，我把所有的心得全都整理在[Story Ranking](/pages/story-ranking.html)中

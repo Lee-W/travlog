@@ -82,6 +82,7 @@ Modified: 2023-12-22 19:30
     * [進撃的巨人 The Final Season - Part 2]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#the-final-season-part-2)
     * [進擊的巨人 劇場版 CHRONICLE]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#chronicle)
     * [進擊的巨人 The Final Season 完結篇 前篇]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#the-final-season)
+    * [進擊的巨人 The Final Season 完結篇 後篇]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#the-final-season)
 * Fate 系列
     * [Fate Zero]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#fate-zero)
     * [Fate/stay night Heaven's Feel 三部曲]({filename}/posts/review/2020/9-fate-stay-night-heaven-s-feel-trilogy.md)
@@ -142,7 +143,6 @@ Modified: 2023-12-22 19:30
 * [明日同學的水手服]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_5)
 * [相合之物]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_4)
 * [小太郎一個人生活]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_5)
-* [酷愛電影的龐波小姐]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_15)
 * [電馭叛客 邊緣行者]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_3)
 * [舞動不止]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_6)
 * [少女終末旅行]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_7)
@@ -153,9 +153,16 @@ Modified: 2023-12-22 19:30
 * [來自深淵劇場版：深沉靈魂的黎明]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_18)
 * [不死少女的謀殺鬧劇]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_2)
 * [尼爾：自動人形 Ver1.1a]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#ver11a)
+* [地下忍者]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_2)
+* [SPY x FAMILY 間諜家家酒 Season 2]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#spy-x-family-season-2)
+* [ACCA13 區監察課]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#acca13)
+* 酷愛電影的龐波小姐
+    * [酷愛電影的龐波小姐]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_15)
+    * [酷愛電影的龐波小姐]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_12)
 * 藍色巨星
     * [藍色巨星]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_22)
     * [藍色巨星（ATMOS）]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#atmos)
+    * [藍色巨星]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_11)
 * 超時空甩尾 Redline
     * [超時空甩尾 Redline]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#redline)
     * [超時空甩尾 Redline]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#redline)
@@ -213,7 +220,9 @@ Modified: 2023-12-22 19:30
     * [盜夢偵探]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_14)
     * [千年女優]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_17)
     * [妄想代理人]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_21)
-    * [東京教父]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#_16)
+    * 東京教父
+        * [東京教父]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#_16)
+        * [東京教父]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_10)
 * 古見同學有交流障礙症
     * [古見同學有交流障礙症]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_3)
     * [古見同學有交流障礙症 第二季]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_3)
@@ -314,6 +323,16 @@ Modified: 2023-12-22 19:30
 * [百姓貴族]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_5)
 * [江戶前精靈]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_9)
 * [劇場版 PSYCHO PASS 心靈判官 PROVIDENCE]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#psycho-pass-providence)
+* [16bit 的感動 ANOTHER LAYER]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#16bit-another-layer)
+* [勇者赫魯庫]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_3)
+* [神劍闖江湖 ―明治劍客浪漫譚―]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_4)
+* [黑暗集會]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_5)
+* [我內心的糟糕念頭 - 特別篇]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#-)
+* [ACCA13 區監察課 Regards]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#acca13-regards)
+* [歡迎來到駒田蒸餾所]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_13)
+* [青春豬頭少年不會夢到紅書包女孩]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_14)
+* [特別篇 吹響吧！上低音號～合奏團競賽篇～]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_15)
+* [搖滾吧！中二樂團]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_16)
 * 星際牛仔
     * [星際牛仔]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_10)
     * [星際牛仔：天國之門]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_13)
@@ -369,7 +388,6 @@ Modified: 2023-12-22 19:30
 * [來自風平浪靜的明日]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_11)
 * [小長門有希的消失]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#_16)
 * [攻殼機動隊]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_16)
-* [咒術迴戰]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#_15)
 * [昨日之歌]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_4)
 * [果然我的青春戀愛喜劇搞錯了。完]({filename}/posts/review/2020/5-what-i-watch-in-2020-summer.md#_2)
 * [魔女之旅]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#_5)
@@ -401,6 +419,12 @@ Modified: 2023-12-22 19:30
 * [知道天空有多藍的人啊]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_22)
 * [Hello World]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#hello-world)
 * [鏡之孤城]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_24)
+* [戽斗星球]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_6)
+* [蒼鷺與少年]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_17)
+* [銀河鐵道之夜]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_18)
+* 咒術迴戰
+    * [咒術迴戰]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#_15)
+    * [咒術迴戰 澀谷事變篇]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_7)
 * 弦音
     * [弦音 -風舞高中弓道部-]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#-)
     * [劇場版弦音-初始的一射–]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#-_1)
@@ -456,6 +480,7 @@ Modified: 2023-12-22 19:30
 * [給不滅的你 第二季]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#_7)
 * [肌肉魔法使-MASHLE-]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#-mashle-)
 * [我喜歡的女孩忘記戴眼鏡]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_7)
+* [殭屍 100～在成為殭屍前要做的 100 件事～]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#100-100)
 * 鬼滅之刃
     * [「鬼滅之刃」上弦集結，前進刀匠村]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#_14)
     * [鬼滅之刃 刀匠村篇]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_13)
@@ -483,6 +508,9 @@ Modified: 2023-12-22 19:30
 * [魔法阿媽](filename/posts/review/2022/3-what-i-watch-in-2020-winter.md#_21)
 * [國王排名]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_10)
 * [勇者死了！]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_14)
+* 天元突破
+    * [天元突破劇場版 紅蓮螺巖 螺巖篇]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_19)
+    * [天元突破劇場版 紅蓮螺巖 紅蓮篇]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_20)
 
 ### E Tier
 
@@ -540,6 +568,7 @@ Modified: 2023-12-22 19:30
 * [捍衛戰士：獨行俠]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_19)
 * [奧本海默]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_18)
 * [怪物]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_19)
+* [無間道]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_22)
 
 ### A Tier
 * 無敵破壞王2：網路大暴走
@@ -558,6 +587,7 @@ Modified: 2023-12-22 19:30
 * [超級瑪利歐兄弟電影版]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_23)
 * [亨利·休格的神奇故事]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_20)
 * [岸邊露伴在羅浮]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_21)
+* [旺卡]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_23)
 
 ### B Tier
 * [全面啟動]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_36)
@@ -673,6 +703,7 @@ Modified: 2023-12-22 19:30
 * [輝夜姬想讓人告白~天才們的戀愛頭腦戰~]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_27)
 * [進擊的巨人番外篇~無悔的選擇]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_28)
 * [酷愛電影的龐波小姐]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_27)
+* [愛在雨過天晴]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_25)
 
 ### A Tier
 * [岸邊露伴一動也不動](filename/posts/review/2022/3-what-i-watch-in-2020-winter.md#_31)

@@ -218,3 +218,7 @@ ED [Jump In](https://www.youtube.com/watch?v=WrSqD9ArWjo) 很輕快又有點莫�
 開局的奇怪情節當初是蠻感興趣的，但演出就也很普
 作畫也很普通，福利的話是不少
 但我覺得男 2 的福利還比較香，女主就...真的不太香...
+
+-----
+
+如果喜歡我寫的作品心得，我把所有的心得全都整理在[Story Ranking](/pages/story-ranking.html)中

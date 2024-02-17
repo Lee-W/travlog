@@ -224,3 +224,7 @@ EVA 能在台灣上映還是令人蠻開心的
 應該就是我書讀得不夠吧嗚嗚嗚
 
 ![A-City-of-Sadness](/images/post-images/2023-what-i-watch-in-2023-winter/A-City-of-Sadness.jpeg)
+
+-----
+
+如果喜歡我寫的作品心得，我把所有的心得全都整理在[Story Ranking](/pages/story-ranking.html)中

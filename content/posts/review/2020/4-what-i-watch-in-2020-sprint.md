@@ -389,3 +389,7 @@ Read More 👉 [「聲之形」原畫集開箱]({filename}/posts/review/2020/3-k
 結果來說我蠻失望的
 故事的節奏、角色的情感改變，我都看不太懂
 雖然能抓到「魔法公主」想傳遞的內容，但劇情上我真的抓不到
+
+-----
+
+如果喜歡我寫的作品心得，我把所有的心得全都整理在[Story Ranking](/pages/story-ranking.html)中

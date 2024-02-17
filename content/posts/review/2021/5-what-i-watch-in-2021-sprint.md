@@ -432,3 +432,7 @@ ED 則由 ReoNa 演唱的 [ないない](https://www.youtube.com/watch?v=M8LwhRk
 我記得動畫版的巨人高校我笑得還蠻開心的
 尤其是那個變奏版的 OP
 但漫畫版的真的不太合我胃口，不知道是不是只有瑪雷篇是這樣
+
+-----
+
+如果喜歡我寫的作品心得，我把所有的心得全都整理在[Story Ranking](/pages/story-ranking.html)中

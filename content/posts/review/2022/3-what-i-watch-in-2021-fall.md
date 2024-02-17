@@ -641,3 +641,7 @@ whydunit
 兩本要推一本的話，我會推薦先看 The Book
 
 ![the-book-3](/images/post-images/2022-what-i-watch-in-2021-fall/the-book-3.jpeg)
+
+-----
+
+如果喜歡我寫的作品心得，我把所有的心得全都整理在[Story Ranking](/pages/story-ranking.html)中
