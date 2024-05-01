@@ -33,3 +33,16 @@ button.pagefind-ui__search-clear {
     line-height: 1.333em;
     opacity: 0.5
 }
+
+.series {
+    font-size: 1.75em;
+}
+
+a {
+    color: black
+}
+@media (prefers-color-scheme: dark) {
+    a {
+        color: #ffb9b9
+    }
+}
