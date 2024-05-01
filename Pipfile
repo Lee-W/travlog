@@ -14,6 +14,7 @@ python-gettext = "*"
 ghp-import = "*"
 typogrify = "*"
 invoke = "*"
+pelican-series = "*"
 
 [dev-packages]
 commitizen = "*"

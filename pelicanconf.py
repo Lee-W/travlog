@@ -62,6 +62,7 @@ STATIC_PATHS = ["images", "extra", "statics"]
 THEME = "theme/attila"
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
 PYGMENTS_STYLE = "default"
+SHOW_ARTICLE_MODIFIED_TIME = True
 
 # License
 CC_LICENSE = {
@@ -106,6 +107,7 @@ PLUGINS = [
     "pelican.plugins.render_math",
     "pelican.plugins.share_post",
     "pelican.plugins.seo",
+    "series",
 ]
 ANOTHER_READ_MORE_LINK = ""
 SEO_REPORT = True  # SEO report is enabled by default
