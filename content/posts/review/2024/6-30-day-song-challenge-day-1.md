@@ -1,6 +1,7 @@
 Title: 30 天歌挑戰 - Day 1
 Subtitle: A song you like with a color in the title
 Date: 2024-04-22 12:00
+Modified: 2024-05-08 12:45
 Category: Review
 Tags: Animate, Music
 Slug: 30-day-song-challenge-day-1
@@ -23,6 +24,6 @@ Series: 30 DAY SONG CHALLENGE
 ---
 
 第一天的挑戰是一首我喜歡且歌名有顏色的歌
-馬上想到的就是「咒術迴戰 懷玉・玉折篇」 的 OP *青のすみか*
+馬上想到的就是[咒術迴戰 懷玉・玉折篇](https://ani.gamer.com.tw/animeVideo.php?sn=34074)的 OP *青のすみか*
 很喜歡它帶出的青春感
 這篇可能也是咒術迴戰中唯一我真的有喜歡的橋段了

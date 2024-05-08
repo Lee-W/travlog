@@ -1,6 +1,7 @@
 Title: 30 天歌挑戰 - Day 4
 Subtitle: A song that minds you of someone
 Date: 2024-04-25 12:00
+Modified: 2024-05-08 12:45
 Category: Review
 Tags: Animate, Music
 Slug: 30-day-song-challenge-day-4
@@ -14,5 +15,5 @@ Series: 30 DAY SONG CHALLENGE
 第四天的題目是想到誰的一首歌
 這個題目選角色歌好像就可以輕鬆解決
 但一個奇怪的想法突然經過，**我是羅大佑，看著我**
-這首出自 「JOJO 的奇妙冒險 黃金之風」的 *裏切り者のレクイエム* 馬上就會讓人想到羅大佑呢！
+這首出自[JOJO 的奇妙冒險 黃金之風](https://ani.gamer.com.tw/animeVideo.php?sn=10922)的 *裏切り者のレクイエム* 馬上就會讓人想到羅大佑呢！
 都上了第 12 屆金音獎，看來是不能不選它了

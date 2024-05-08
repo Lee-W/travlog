@@ -1,6 +1,7 @@
 Title: 30 天歌挑戰 - Day 16
 Subtitle: A Song That’s a Classic Favorite
 Date: 2024-05-07 18:30
+Modified: 2024-05-08 12:45
 Category: Review
 Tags: Animate, Music
 Slug: 30-day-song-challenge-day-16
@@ -12,5 +13,5 @@ Series: 30 DAY SONG CHALLENGE
 <!--more-->
 
 一首深受喜愛的經典歌曲
-出自「新世紀福音戰士」的*残酷な天使のテーゼ*
+出自[新世紀福音戰士](https://www.netflix.com/title/81033445)的*残酷な天使のテーゼ*
 第一個想到的就是這首，好像也想不到其他選擇了 🤔

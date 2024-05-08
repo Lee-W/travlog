@@ -1,6 +1,7 @@
 Title: 30 天歌挑戰 - Day 13
 Subtitle: A Song You Like From the ‘70s
 Date: 2024-05-04 12:08
+Modified: 2024-05-08 12:45
 Category: Review
 Tags: Animate, Music
 Slug: 30-day-song-challenge-day-13
@@ -16,6 +17,7 @@ Series: 30 DAY SONG CHALLENGE
 差點以為要在這題落敗，沒辦法推薦動畫歌了
 好幾首我以為夠老了的歌，其實都還是 90 年代的...
 最後才想到這首上次在 Bang！ACG 聽到的歌
+出自「宇宙戰艦大和號」的*宇宙戦艦ヤマト*
 ~~Bang！ACG 因為初音的是真的 Bang！了就又是另外一個故事了~~
 我應該是在之前就聽過了，不知道為什麼
 但上次聽現場真的很過癮，佐佐木大叔真是寶刀未老
