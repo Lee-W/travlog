@@ -14,7 +14,8 @@ Series: 30 DAY SONG CHALLENGE
 一首我想在卡拉 OK 對唱的歌
 出自[流汗吧！健身少女](https://ani.gamer.com.tw/animeVideo.php?sn=12644)的*お願いマッスル*
 畢竟有ひびき跟街雄教練
-有問題嗎？沒問題吧xD
+有問題嗎？沒問題吧 😆
+而且我很喜歡的 Lockers 也要跳過這首歌 [ 【Hilty & Bosch】お願いマッスルを踊ってみた【＆筋肉弁護士】 ](https://www.youtube.com/watch?v=p_e0HQNhI4g)
 
 說到要去卡拉 OK 唱歌
 比起我喜歡聽的歌，我更喜歡唱奇奇怪怪的歌
