@@ -9,3 +9,15 @@ Series: 30 DAY SONG CHALLENGE
 Status: Draft
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2BxHcK2q5xnkuHqHDEuYB9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<!--more-->
+
+一首讓你想起童年的歌
+不知道為什麼看到這題就會往不一樣的方向去想
+就想到了這首出自「陰晴不定的~~泛~~體操哥哥」的*ABC体操*
+補上[真人版](https://www.youtube.com/watch?v=maOHlVuSjNI)
+順帶一提，這是我去唱日卡很喜歡點的歌 🎤
+
+之所以會想到童年
+其實也很簡單就是會因為這個想到小時候的 yoyo 點點名
+雖然印象中沒什麼看過，但就還是會轉到
