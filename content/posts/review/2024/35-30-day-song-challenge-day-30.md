@@ -14,3 +14,5 @@ Status: Draft
 
 一首讓你想到你自己的歌
 出自[BanG Dream! It's MyGO!!!!!](https://ani.gamer.com.tw/animeVideo.php?sn=34030)的*栞*
+
+**“普通”とか”あたりまえ”ってなんだろう**
