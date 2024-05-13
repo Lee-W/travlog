@@ -1,9 +1,9 @@
 Title: 衛宮家料理總覽
 Slug: emiya-toc
 Date: 2021-08-28 16:48
-Modified: 2021-01-10 17:55
+Modified: 2024-05-13 19:20
 
-* 重現進度： 漫畫： `40 / 61 + ?` /  動畫： `12 / 13` (11 道重複)
+* 重現進度： 漫畫： `42 / 61 + ?` /  動畫： `12 / 13` (11 道重複)
     * 單行本 1: `11 / 12`
     * 單行本 2: `6 / 12`
     * 單行本 3: `4 / 8`
@@ -11,7 +11,7 @@ Modified: 2021-01-10 17:55
     * 單行本 5: `3 / 7`
     * 單行本 6: `6 / 8`
     * 單行本 7: `2 / 7`
-    * 單行本 8: `3 / 7`
+    * 單行本 8: `4 / 7`
     * 單行本尚未發行： `0 / ?`
     * 動畫原創: `1 / 1`
 
@@ -54,7 +54,8 @@ Modified: 2021-01-10 17:55
 | [拿坡里義大利麵]({filename}/posts/cook/2022/6-Spaghetti-alla-napoletana-in-the-cafe.md) | | 番外2 | |
 | [雪見鍋]({filename}/posts/cook/2023/1-misorenabe.md) | 7 | 44 | |
 | [夏天買不太到草莓，那就做巧克力奇異果千層吧]({filename}/posts/cook/2021/14-saber-s-mille-crepes.md) |  | 48 | |
-| [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | 8 | 52 | |
+| [玉米炊飯及玉米天婦羅]({filename}/posts/cook/2024/2-rider-s-corn-set.md) | 8 | 51 | |
+| [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | | 52 | |
 | [遙遠記憶的荷包蛋 - 正義夥伴的起點]({filename}/posts/cook/2022/4-fried-egss-from-memories.md) |  | 53 |
 | [巧克力香蕉磅蛋糕]({filename}/posts/cook/2022/12-choco-banana-pound-cake.md) | | 55 |
 | [想像著永遠是最好吃的蛋包飯]({filename}/posts/cook/2022/9-archer-s-omurice.md) | - | - | [11](https://ani.gamer.com.tw/animeVideo.php?sn=16737) |
