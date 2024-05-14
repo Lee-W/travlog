@@ -1,12 +1,11 @@
 Title: 30 天歌挑戰 - Day 24
 Subtitle: A Song You Like by a Band You Wish were Still together
-Date: 2024-05-15 18:30
+Date: 2024-05-15 12:12
 Category: Review
 Tags: Animate, Music
 Slug: 30-day-song-challenge-day-24
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE
-Status: Draft
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3VrY5AUgxJJsmw9HMP4w6W?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -27,4 +26,4 @@ Status: Draft
 
 倒是上次 Yo 哥去武道館，我才知道她們的中譯華麗菲娜
 啊...說到這個就想到 Yo 哥去看她們的限時合體
-真是令人嫉妒
+真是令人羨慕嫉妒
