@@ -18,7 +18,7 @@ Status: Draft
 當初聽尼爾喝牛奶[EP134：能「看」見音樂的漫畫《BLUE GIANT 藍色巨星》](https://open.firstory.me/story/clbhksxr700xt01ql8ziagwev)就有注意到這部作品了
 很好奇看得見音樂的漫畫到底是怎麼回事
 
-去年五月去[巴哈團]({filename}/posts/travel/2022/4-bahamut-anime-tourism-2023.md)的時候，剛好日本 Blue Giant 上映
+去年五月去[巴哈團]({filename}/posts/travel/2023/4-bahamut-anime-tourism-2023.md)的時候，剛好日本 Blue Giant 上映
 有同團的夥伴就跑去很厲害的極音廳看了這部作品
 現在想起來真的覺得我沒去實在太可惜了
 但我也不可能放下搖曳露營的聯名 buffet
