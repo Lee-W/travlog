@@ -23,7 +23,7 @@ Authors: Wei Lee
 明明是芙莉蓮先來的，本該是雙倍的快樂（？）
 啊，難道這就是 NTR 嗎（不，並不是
 
-原本以為今年冬番是休息、補番的季度
+原本以為今年冬番是休息、補番的季度
 沒想到依然有很多很喜歡的新番呢
 
 ![Cerya](/images/post-images/2024-what-i-watched-in-2024-winter/Cerya.jpg)
