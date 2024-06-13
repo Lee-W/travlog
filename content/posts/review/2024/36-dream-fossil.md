@@ -6,12 +6,13 @@ Tags: Comic
 Slug: dream-fossil
 Authors: Wei Lee
 
-![dream-fossil](/images/post-images/2024-dream-fossil/dream-fossil.jpg)
+這本漫畫是今敏的短篇作品集，每篇故事幾乎都跟彼此無關
+但這些故事中都能看到今敏的影子
 
 <!--more-->
 
-這本漫畫是今敏的短篇作品集，每篇故事幾乎都跟彼此無關
-但這些故事中都能看到今敏的影子
+![dream-fossil](/images/post-images/2024-dream-fossil/dream-fossil.jpg)
+
 跟他的電影一樣，相比於市面上主流的漫畫，也是走了相當寫實的畫風
 最後還有平澤進對於今敏想法的訪談
 看到他談到今敏生前無法完成的夢想機械，就感到悲傷

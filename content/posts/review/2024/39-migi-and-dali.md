@@ -6,13 +6,14 @@ Tags: Animate
 Slug: migi-and-dali
 Authors: Wei Lee
 
-![migi-and-dali](/images/post-images/2024-migi-and-dali/migi-and-dali.jpg)
-
 謝謝你，佐野菜見老師
 希望你真的去到了更自由的世界
 
-
 <!--more-->
+
+![migi-and-dali](/images/post-images/2024-migi-and-dali/migi-and-dali.jpg)
+
+* 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=35359)
 
 看完動畫後，我馬上就決定要買原作漫畫了
 看漫畫的時候會在腦中響起動畫的配樂

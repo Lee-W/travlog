@@ -6,16 +6,17 @@ Tags: Animate
 Slug: basue
 Authors: Wei Lee
 
-![basue](/images/post-images/2024-basue/basue.png)
-
-
-* 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=36957)
 
 在性別意識上應該是不太 OK 的作品
 彈幕常常會有「你們到底都讓聲優說了什麼」
 對這點在意的話，建議避開
 
 <!--more-->
+
+![basue](/images/post-images/2024-basue/basue.png)
+
+
+* 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=36957)
 
 與其說是男性向，不如說是大叔向
 我並不是因為我自己很喜歡它才寫這篇文章
