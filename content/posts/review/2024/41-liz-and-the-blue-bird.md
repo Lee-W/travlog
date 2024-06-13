@@ -1,31 +1,30 @@
 Title: 莉茲與青鳥
-Subtitle:
-Date: 2024-06-02 12:50
+Subtitle: あぁ、神様、どうして私にカゴの開け方を教えたのですか。
+Date: 2024-06-15 09:00
 Category: Review
 Tags: Animate, Movie
 Slug: liz-and-the-blue-bird
 Authors: Wei Lee
+Cover: /images/post-images/2024-liz/liz.jpeg
 Status: Draft
 
-![liz](/images/post-images/2024-liz/liz.jpeg)
-
-
-<!--more-->
-
-
-
-* 觀看平台： 桃園新光影城 杜比影院
 
 謝謝包場的主辦方，能讓我們在這麼美好的影廳，觀賞這麼美好的作品
 印象中這是我第 3 次進戲院看，加上藍光可能有看 5 次
 每次都還是覺得這部作品很厲害
 
+<!--more-->
+
+![liz](/images/post-images/2024-liz/liz.jpeg)
+
+* 觀看平台： 桃園新光影城 杜比影院
+
 第 1 次還在台南看的時候，實在大受驚艷
 京阿尼，你怎麼敢
 光是走路進教室就走了 10 分鐘
-但是我好喜歡啊
-隨著觀影的經驗多了，慢慢能一步一步解析
-為什麼這裡的音樂、節奏、小動作要這樣子設計
+你不怕大家看到睡著嗎？
+但是我好喜歡啊！
+隨著觀影的經驗增加，每一次再刷都能多解析一點音樂、節奏和小動作設計
 
 即便已經是第 5 次看了，我還是覺得好像多在一些小表情多發現了一些細節
 中間高潮處也是一度要哭出來了

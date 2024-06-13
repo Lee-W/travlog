@@ -1,11 +1,11 @@
 Title: 藍色巨星 Blue Giant
 Subtitle: こいつ、かっこいいな。
-Date: 2024-06-04 12:50
+Date: 2024-06-17 08:30
 Category: Review
 Tags: Movie, Animate
 Slug: blue-giant
 Authors: Wei Lee
-Cover:
+Cover: /images/post-images/2024-blue-giant/fourth-1.jpg
 Status: Draft
 
 都已經電影下架許久，連串流都上了
@@ -15,7 +15,7 @@ Status: Draft
 
 <!--more-->
 
-當初聽尼爾喝牛奶[EP134：能「看」見音樂的漫畫《BLUE GIANT 藍色巨星》](https://open.firstory.me/story/clbhksxr700xt01ql8ziagwev)就有注意到這部作品了
+當初聽尼爾喝牛奶[EP134：能「看」見音樂的漫畫《BLUE GIANT 藍色巨星》](https://open.firstory.me/story/clbhksxr700xt01ql8ziagwev)就注意到這部作品了
 很好奇看得見音樂的漫畫到底是怎麼回事
 
 去年五月去[巴哈團]({filename}/posts/travel/2023/4-bahamut-anime-tourism-2023.md)的時候，剛好日本 Blue Giant 上映
@@ -66,7 +66,7 @@ Status: Draft
 相信也能被這部充滿熱情的電影所感動
 
 這次二刷我是先補完了原作漫畫
-果韓藍色巨星的故事深度真的不只電影演的這樣
+果然藍色巨星的故事深度真的不只電影演的這樣
 但兩小時的電影能放進的內容太有限了
 立川讓監督已經盡力做到最好了
 
@@ -106,9 +106,9 @@ Status: Draft
 能在音響好的影廳，看音樂特化版本的好的音樂電影
 啊，真是太好了呢
 
-## 五刷： 立川
+## 五刷： 立川 Cinema City Two
 
-![fifth](/images/post-images/17168225816688.jpg)
+![fifth](/images/post-images/2024-blue-giant/fifth.jpg)
 
 還記得巴哈團的時候，同團的朋友跟我說
 
@@ -117,7 +117,6 @@ Status: Draft
 我想說也太扯了吧
 松仁的音響已經很好了耶，極音是能好到哪
 剛好藍色巨星重映的時候我在日本
-
 就決定要特別跑立川一趟去看
 讓我這木耳來會會你這音響到底多厲害！
 
@@ -127,7 +126,7 @@ Status: Draft
 
 前幾刷說了那麼多稱讚的話
 影廳音響多好，觀影體驗多好多享受
-在立川的極音面前，都不值一提
+在立川的極上音響面前，都不值一提
 這不是一個誇飾，而是我實際的感受
 那音樂的震撼真的是進去就出不來了
 太令人驚艷了
