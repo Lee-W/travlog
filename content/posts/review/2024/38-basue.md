@@ -6,7 +6,6 @@ Tags: Animate
 Slug: basue
 Authors: Wei Lee
 
-
 在性別意識上應該是不太 OK 的作品
 彈幕常常會有「你們到底都讓聲優說了什麼」
 對這點在意的話，建議避開
