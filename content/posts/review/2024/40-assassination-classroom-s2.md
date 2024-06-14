@@ -1,10 +1,9 @@
 Title: 暗殺教室 第二季
-Date: 2024-06-14 08:30
+Date: 2024-06-14 10:45
 Category: Review
 Tags: Animate
 Slug: assassination-classroom-s2
 Authors: Wei Lee
-Status: Draft
 
 感謝室友推薦，確實是部相當厲害的作品
 也是好久沒看這樣一部給人畢業感這麼重的中長篇作品
