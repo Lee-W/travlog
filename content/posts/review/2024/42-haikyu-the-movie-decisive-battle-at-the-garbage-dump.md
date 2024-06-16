@@ -1,10 +1,9 @@
 Title: 劇場版 排球少年!!垃圾場的決戰
-Date: 2024-06-16 09:00
+Date: 2024-06-16 13:44
 Category: Review
 Tags: Animate, Movie
 Slug: haikyu-the-movie-decisive-battle-at-the-garbage-dump
 Authors: Wei Lee
-Status: Draft
 
 我先承認我不是排民，我就只是跟風仔嗚嗚嗚
 
