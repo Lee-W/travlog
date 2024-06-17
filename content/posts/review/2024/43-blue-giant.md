@@ -1,12 +1,11 @@
 Title: 藍色巨星 Blue Giant
 Subtitle: こいつ、かっこいいな。
-Date: 2024-06-17 08:30
+Date: 2024-06-17 08:10
 Category: Review
 Tags: Movie, Animate
 Slug: blue-giant
 Authors: Wei Lee
 Cover: /images/post-images/2024-blue-giant/fourth-1.jpg
-Status: Draft
 
 都已經電影下架許久，連串流都上了
 躺在這裡的文字才終於要甦醒
