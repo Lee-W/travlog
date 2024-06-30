@@ -63,6 +63,8 @@ THEME = "theme/attila"
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
 PYGMENTS_STYLE = "default"
 SHOW_ARTICLE_MODIFIED_TIME = True
+CATEGORIES_URL = "category"
+TAGS_URL = "tag"
 
 # License
 CC_LICENSE = {
