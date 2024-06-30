@@ -39,7 +39,7 @@ Modified: 2023-12-22 19:30
 ### SSS Tier
 * 聲之形
     * [聲之形]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_13)
-    * [聲之形]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_15)
+    * [聲之形]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_15)
 
 ### SS Tier
 * 中二病也想談戀愛
@@ -56,10 +56,10 @@ Modified: 2023-12-22 19:30
 * [擅長捉弄人的高木同學 第三季]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_2)
 * [來自深淵 烈日的黃金鄉]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_2)
 * [孤獨搖滾！]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#_2)
-* [葬送的芙莉蓮]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_3)
+* [葬送的芙莉蓮]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_3)
 * 我內心的糟糕念頭
     * [我內心的糟糕念頭]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_3)
-    * [我內心的糟糕念頭 第二季]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_2)
+    * [我內心的糟糕念頭 第二季]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_2)
 * 電影版 搖曳露營△
     * [電影版 搖曳露營△]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_11)
     * [電影版 搖曳露營△]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_19)
@@ -161,9 +161,9 @@ Modified: 2023-12-22 19:30
 * [地下忍者]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_2)
 * [SPY x FAMILY 間諜家家酒 Season 2]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#spy-x-family-season-2)
 * [ACCA13 區監察課]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#acca13)
-* [迷宮飯 第一季]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_4)
-* [勇氣爆發 BANG BRAVERN]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#bang-bravern)
-* [BanG Dream! It's MyGO!!!!!]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#bang-dream-its-mygo)
+* [迷宮飯 第一季]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_4)
+* [勇氣爆發 BANG BRAVERN]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#bang-bravern)
+* [BanG Dream! It's MyGO!!!!!]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#bang-dream-its-mygo)
 * 酷愛電影的龐波小姐
     * [酷愛電影的龐波小姐]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_15)
     * [酷愛電影的龐波小姐]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_12)
@@ -341,16 +341,16 @@ Modified: 2023-12-22 19:30
 * [青春豬頭少年不會夢到紅書包女孩]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_14)
 * [特別篇 吹響吧！上低音號～合奏團競賽篇～]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_15)
 * [搖滾吧！中二樂團]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_16)
-* [公主殿下，「拷問」的時間到了]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_5)
-* [休假的壞人先生]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_6)
-* [藥師少女的獨語]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_7)
-* [夢想成為魔法少女]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_8)
-* [排球少年！！]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_12)
-* [星靈感應]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_13)
-* [女朋友 and 女朋友 第二季]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#and)
-* [SPY x FAMILY CODE：WHITE]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#spy-x-family-codewhite)
-* [再見機器人]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_16)
-* [北極百貨的秋乃小姐]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_17)
+* [公主殿下，「拷問」的時間到了]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_5)
+* [休假的壞人先生]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_6)
+* [藥師少女的獨語]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_7)
+* [夢想成為魔法少女]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_8)
+* [排球少年！！]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_12)
+* [星靈感應]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_13)
+* [女朋友 and 女朋友 第二季]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#and)
+* [SPY x FAMILY CODE：WHITE]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#spy-x-family-codewhite)
+* [再見機器人]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_16)
+* [北極百貨的秋乃小姐]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_17)
 * 星際牛仔
     * [星際牛仔]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_10)
     * [星際牛仔：天國之門]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_13)
@@ -438,7 +438,7 @@ Modified: 2023-12-22 19:30
 * [Hello World]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#hello-world)
 * [鏡之孤城]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_24)
 * [戽斗星球]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_6)
-* [烈焰先鋒 救國的橘衣消防員]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_9)
+* [烈焰先鋒 救國的橘衣消防員]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_9)
 * 咒術迴戰
     * [咒術迴戰]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#_15)
     * [咒術迴戰 澀谷事變篇]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_7)
@@ -500,7 +500,7 @@ Modified: 2023-12-22 19:30
 * [殭屍 100～在成為殭屍前要做的 100 件事～]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#100-100)
 * [蒼鷺與少年]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_17)
 * [銀河鐵道之夜]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_18)
-* [指尖相觸，戀戀不捨]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_10)
+* [指尖相觸，戀戀不捨]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_10)
 * 鬼滅之刃
     * [「鬼滅之刃」上弦集結，前進刀匠村]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#_14)
     * [鬼滅之刃 刀匠村篇]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_13)
@@ -528,7 +528,7 @@ Modified: 2023-12-22 19:30
 * [魔法阿媽](filename/posts/review/2022/3-what-i-watch-in-2020-winter.md#_21)
 * [國王排名]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_10)
 * [勇者死了！]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_14)
-* [肌肉魔法使-MASHLE- 神覺者候補選拔試驗篇]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#-mashle-)
+* [肌肉魔法使-MASHLE- 神覺者候補選拔試驗篇]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#-mashle-)
 * 天元突破
     * [天元突破劇場版 紅蓮螺巖 螺巖篇]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_19)
     * [天元突破劇場版 紅蓮螺巖 紅蓮篇]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_20)
@@ -557,7 +557,7 @@ Modified: 2023-12-22 19:30
 * 麻醉風暴 2
 * [天橋上的魔術師]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_21)
 * [Wanda Vision]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#wanda-vision)
-* [人選之人 - 造浪者]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#-)
+* [人選之人 - 造浪者]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#-)
 
 ### C Tier
 * [舞伎家的料理人]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_16)
@@ -590,7 +590,7 @@ Modified: 2023-12-22 19:30
 * [奧本海默]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_18)
 * [怪物]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_19)
 * [無間道]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_22)
-* [坂本龍一：OPUS]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#opus)
+* [坂本龍一：OPUS]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#opus)
 
 ### A Tier
 * 無敵破壞王2：網路大暴走
@@ -610,7 +610,7 @@ Modified: 2023-12-22 19:30
 * [亨利·休格的神奇故事]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_20)
 * [岸邊露伴在羅浮]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_21)
 * [旺卡]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_23)
-* [富都青年]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_19)
+* [富都青年]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_19)
 
 
 ### B Tier
@@ -626,7 +626,7 @@ Modified: 2023-12-22 19:30
 * [Adam by Eve：動畫現場演唱會]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#adam-by-eve)
 * [燃燒的劍]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_22)
 * [芭比]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_22)
-* [老狐狸]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_20)
+* [老狐狸]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_20)
 
 
 ### C Tier
@@ -645,7 +645,7 @@ Modified: 2023-12-22 19:30
 * [餘命10年]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#10)
 * 沙丘
     * [沙丘]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#25)
-    * [沙丘： 第二部]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_21)
+    * [沙丘： 第二部]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_21)
 
 ### D Tier
 * [天能]({filename}/posts/review/2020/5-what-i-watch-in-2020-summer.md#_16)
@@ -718,7 +718,7 @@ Modified: 2023-12-22 19:30
 * [徒然喜歡你]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_25)
 * [衛宮家今天的餐桌風景]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#_21)
 * [海波追尋的終幕]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_25)
-* [海盜戰記]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_24)
+* [海盜戰記]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_24)
 * 藍色巨星
     * [藍色巨星]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_28)
     * [藍色巨星：歐洲篇]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_24)
@@ -733,8 +733,8 @@ Modified: 2023-12-22 19:30
 * [進擊的巨人番外篇~無悔的選擇]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_28)
 * [酷愛電影的龐波小姐]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_27)
 * [愛在雨過天晴]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_25)
-* [躍動青春]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_25)
-* [勇者赫魯庫]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_26)
+* [躍動青春]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_25)
+* [勇者赫魯庫]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_26)
 
 ### A Tier
 * [岸邊露伴一動也不動](filename/posts/review/2022/3-what-i-watch-in-2020-winter.md#_31)
@@ -745,10 +745,10 @@ Modified: 2023-12-22 19:30
 * [即使如此依舊步步進逼]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_26)
 * [孤獨搖滾]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_29)
 * [魔法少年賈修]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_25)
-* [海歸線]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_27)
-* [地下忍者]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_28)
-* [輝夜姬讓人想八卦]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_29)
-* [嗶伊～不思議的生物]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#_30)
+* [海歸線]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_27)
+* [地下忍者]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_28)
+* [輝夜姬讓人想八卦]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_29)
+* [嗶伊～不思議的生物]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_30)
 
 ### B Tier
 * [這個美術社大有問題!]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_25)
@@ -758,7 +758,7 @@ Modified: 2023-12-22 19:30
 ### C Tier
 * [老夫老妻重返青春]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_26)
 * [進擊！巨人高校 ～青春！ 隔壁的瑪雷學園～]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_27)
-* [魔法少年賈修II]({filename}/posts/review/2024/05/what-i-watched-in-2024-winter#ii)
+* [魔法少年賈修II]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#ii)
 
 ---
 
