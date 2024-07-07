@@ -11,25 +11,19 @@ SITEURL = "http://localhost:8000"
 SITELOGO = "/images/avatar.jpg"
 BROWSER_COLOR = "#333333"
 HEADER_COVER = "/images/cover.jpeg"
-
-AUTHOR_META = {
-    "wei lee": {
-        "image": "/images/avatar.jpg",
-    }
-}
-
-# comment system
-UTTERANCES_REPO = "Lee-W/travlog"
-UTTERANCES_LABEL = "blog-comment"
-COMMENTS_INTRO = (
-    "Do you like this article? What do your tink about it? Leave you comment below"
-)
+DEFAULT_DATE_FORMAT = "%Y/%m/%d - %a"
 
 # Locale
 TIMEZONE = "Asia/Taipei"
 DEFAULT_LANG = "zh-tw"
 OG_LOCALE = "zh-tw"
-DEFAULT_DATE_FORMAT = "%Y/%m/%d - %a"
+
+# utterance (comment system)
+UTTERANCES_REPO = "Lee-W/travlog"
+UTTERANCES_LABEL = "blog-comment"
+COMMENTS_INTRO = (
+    "Do you like this article? What do your tink about it? Leave you comment below"
+)
 
 # Page Setting
 MAIN_MENU = True
@@ -65,6 +59,11 @@ PYGMENTS_STYLE = "default"
 SHOW_ARTICLE_MODIFIED_TIME = True
 CATEGORIES_URL = "category"
 TAGS_URL = "tag"
+AUTHOR_META = {
+    "wei lee": {
+        "image": "/images/avatar.jpg",
+    }
+}
 
 # License
 CC_LICENSE = {
@@ -94,7 +93,7 @@ MARKDOWN = {
         "markdown.extensions.extra": {},
         "markdown.extensions.codehilite": {"css_class": "highlight"},
         "markdown.extensions.nl2br": {},
-        "toc": {},
+        "markdown.extensions.toc": {"toc_depth": "1-3"},
         "markdown_del_ins": {},
     },
     "output_format": "html5",
