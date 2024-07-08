@@ -2,7 +2,7 @@ Title: (日劇) 擅長捉弄人的高木同學
 Subtitle: 我詛咒你，高木同學
 Date: 2024-07-08 23:13
 Category: Review
-Tags: Animate
+Tags: Drama
 Slug: drama-teasing-master-takagi-san
 Authors: Wei Lee
 Cover: /images/post-images/2024-drama-teasing-master-takagi-san/drama-teasing-master-takagi-san.png
