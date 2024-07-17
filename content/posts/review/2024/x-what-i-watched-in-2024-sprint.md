@@ -229,32 +229,15 @@ Status: Draft
 
 👉 [【推しの子】 Mother and Children]({filename}/posts/review/2024/49-oshi-no-ko-mother-and-children.md)
 
+### 腦筋急轉彎 2
+* 觀看平台： 美麗華 IMAX 廳
+
+👉 [腦筋急轉彎 2 - Zero to One 總是讓人比較印象深刻]({filename}/posts/review/2024/52-inside-out-2md)
+
 ### 劇場版 排球少年!!垃圾場的決戰
 * 觀看平台： 桃園新光影城 杜比影院
 
 👉 [劇場版 排球少年!!垃圾場的決戰]({filename}/posts/review/2024/42-haikyu-the-movie-decisive-battle-at-the-garbage-dump.md)
-
-### 腦筋急轉彎 2
-* 觀看平台： 美麗華 IMAX 廳
-
-在觀影前，我看到的評價大多是中庸
-有少數朋友很喜歡，給了大好評
-
-我觀影體驗大概介於之間
-很不錯的作品，非常的好看，我看得很爽
-買完票原本還想，這部有必要看 IMAX 嗎？
-看完覺得看 IMAX 其實也是蠻不錯的
-劇情也出乎意料還蠻不錯的
-有認真多討論一些現代人更容易遇到的問題
-也有不少新嘗試
-那個米奇妙妙屋室的角色真的有夠煩，我真的好喜歡
-
-但我不認為我會記住這部片很久
-至少不會像前作那樣深刻記住
-也許這就是續集的原罪吧
-
-![75C28736-3E34-4518-A1CD-D5B18F4DFEF7_1_105_c](/images/post-images/2024-what-i-watched-in-2024-sprint/75C28736-3E34-4518-A1CD-D5B18F4DFEF7_1_105_c.jpeg)
-
 
 ## 真人電影
 ### 孤獨搖滾！團結Band LIVE-恆星-
