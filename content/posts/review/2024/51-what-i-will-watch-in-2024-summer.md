@@ -5,6 +5,7 @@ Category: Review
 Tags: Animate
 Slug: what-i-will-watch-in-2024-summer
 Authors: Wei Lee
+Cover: /images/post-images/2024-what-i-will-watch-in-2024-summer/shika.png
 
 六月底開始排要看什麼的時候
 原本想看的有三分之一沒被代理，還有些難過...
