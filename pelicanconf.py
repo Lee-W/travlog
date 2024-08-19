@@ -44,13 +44,13 @@ SHOW_CATEGORIES_ON_MENU = False
 SHOW_TAGS_IN_ARTICLE_SUMMARY = True
 DIRECT_TEMPLATES = ("index", "categories", "authors", "archives", "tags")
 PAGEFIND_ENABLED = True
-CSS_OVERRIDE = ["statics/css/blog.css"]
+CSS_OVERRIDE = ["static/css/blog.css"]
 
 # Content Setting
 DEFAULT_CATEGORY = "Travel"
 ARTICLE_URL = "posts/{category}/{date:%Y}/{date:%m}/{slug}"
 ARTICLE_SAVE_AS = "posts/{category}/{date:%Y}/{date:%m}/{slug}/index.html"
-STATIC_PATHS = ["images", "extra", "statics"]
+STATIC_PATHS = ["images", "extra", "static"]
 
 # Theme Setting
 THEME = "theme/attila"
@@ -103,12 +103,11 @@ MARKDOWN = {
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = [
     "another_read_more_link",
-    "i18n_subsites",
     "post_stats",
+    "series",
     "pelican.plugins.render_math",
     "pelican.plugins.share_post",
     "pelican.plugins.seo",
-    "series",
 ]
 ANOTHER_READ_MORE_LINK = ""
 SEO_REPORT = True  # SEO report is enabled by default

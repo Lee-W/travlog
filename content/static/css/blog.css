@@ -46,3 +46,7 @@ a {
         color: #ffb9b9
     }
 }
+
+.post-content > dl > dt {
+  margin-top: 20px;
+}
