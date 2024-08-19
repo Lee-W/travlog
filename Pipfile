@@ -8,13 +8,13 @@ pelican = {extras = ["markdown"], version = "*"}
 pelican-seo = "*"
 pelican-render-math = "*"
 pelican-share-post = "*"
+pelican-series = "*"
 markdown-del-ins = "*"
-bs4 = "*"
+beautifulsoup4 = "*"
 python-gettext = "*"
 ghp-import = "*"
 typogrify = "*"
 invoke = "*"
-pelican-series = "*"
 
 [dev-packages]
 commitizen = "*"
@@ -22,7 +22,7 @@ livereload = "*"
 ruff = "*"
 black = ">=22.8.0"
 pre-commit-hooks = ">=3.2.0"
-invoke = ">=1.4.1"
+invoke = "*"
 pip-audit = "*"
 
 [requires]
