@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+HOST = "travlog.wei-lee.me"
+
+# ----common between blogs----
 PATH = "content"
 
 # Blog Conf
 AUTHOR = "Wei Lee"
-SITENAME = "Those things no one cares about"
-SITETITLE = SITENAME
 SITEURL = "http://localhost:8000"
 SITELOGO = "/images/avatar.jpg"
 BROWSER_COLOR = "#333333"
@@ -18,8 +19,7 @@ TIMEZONE = "Asia/Taipei"
 DEFAULT_LANG = "zh-tw"
 OG_LOCALE = "zh-tw"
 
-# utterance (comment system)
-UTTERANCES_REPO = "Lee-W/travlog"
+# Utterance (comment system)
 UTTERANCES_LABEL = "blog-comment"
 COMMENTS_INTRO = (
     "Do you like this article? What do your tink about it? Leave you comment below"
@@ -28,26 +28,11 @@ COMMENTS_INTRO = (
 # Page Setting
 MAIN_MENU = True
 DEFAULT_PAGINATION = 10
-MENUITEMS = (
-    ("Home", "/"),
-    ("About", "/pages/about.html"),
-    ("🍿 Review", "/category/review.html"),
-    ("✈️  Travel", "/category/travel.html"),
-    ("🥘 Cook", "/category/cook.html"),
-    ("🏷️ Tags", "/tags.html"),
-    ("🗄️ Archives", "/archives.html"),
-    ("📚 Pages", "/pages/pages.html"),
-    ("🔍 Search", "/pages/search.html"),
-)
 SHOW_PAGES_ON_MENU = False
-SHOW_CATEGORIES_ON_MENU = False
 SHOW_TAGS_IN_ARTICLE_SUMMARY = True
 DIRECT_TEMPLATES = ("index", "categories", "authors", "archives", "tags")
-PAGEFIND_ENABLED = True
-CSS_OVERRIDE = ["static/css/blog.css"]
 
 # Content Setting
-DEFAULT_CATEGORY = "Travel"
 ARTICLE_URL = "posts/{category}/{date:%Y}/{date:%m}/{slug}"
 ARTICLE_SAVE_AS = "posts/{category}/{date:%Y}/{date:%m}/{slug}/index.html"
 STATIC_PATHS = ["images", "extra", "static"]
@@ -55,15 +40,9 @@ STATIC_PATHS = ["images", "extra", "static"]
 # Theme Setting
 THEME = "theme/attila"
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
-PYGMENTS_STYLE = "default"
 SHOW_ARTICLE_MODIFIED_TIME = True
 CATEGORIES_URL = "category"
 TAGS_URL = "tag"
-AUTHOR_META = {
-    "wei lee": {
-        "image": "/images/avatar.jpg",
-    }
-}
 
 # License
 CC_LICENSE = {
@@ -80,11 +59,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
+SOCIAL_PROFILE_LABEL = "Keep In Touch"
 SOCIAL = (
-    ("linkedin", "http://tw.linkedin.com/in/clleew"),
-    ("github", "http://github.com/Lee-W"),
-    ("twitter", "https://twitter.com/clleew"),
-    ("rss", "//travlog.wei-lee.me/feeds/all.atom.xml"),
+    ("Linkedin", "https://tw.linkedin.com/in/clleew"),
+    ("GitHub", "https://github.com/Lee-W"),
+    ("Twitter", "https://twitter.com/clleew"),
+    ("RSS", f"https://{HOST}/feeds/all.atom.xml"),
 )
 
 # Markdown extension
@@ -110,7 +90,44 @@ PLUGINS = [
     "pelican.plugins.seo",
 ]
 ANOTHER_READ_MORE_LINK = ""
+PAGEFIND_ENABLED = True
+
+# pelican-seo settings
 SEO_REPORT = True  # SEO report is enabled by default
 SEO_ENHANCER = True  # SEO enhancer is disabled by default
 SEO_ENHANCER_OPEN_GRAPH = True  # Subfeature of SEO enhancer
 SEO_ENHANCER_TWITTER_CARDS = True  # Subfeature of SEO enhancer
+
+
+# ----this blog only----
+# Blog Conf
+SITENAME = "Those things no one cares about"
+SITETITLE = SITENAME
+
+# Utterance (comment system)
+UTTERANCES_REPO = "Lee-W/travlog"
+
+# Page Setting
+MENUITEMS = (
+    ("Home", "/"),
+    ("About", "/pages/about.html"),
+    ("🍿 Review", "/category/review.html"),
+    ("✈️  Travel", "/category/travel.html"),
+    ("🥘 Cook", "/category/cook.html"),
+    ("🏷️ Tags", "/tags.html"),
+    ("🗄️ Archives", "/archives.html"),
+    ("📚 Pages", "/pages/pages.html"),
+    ("🔍 Search", "/pages/search.html"),
+)
+SHOW_CATEGORIES_ON_MENU = False
+
+# Content Setting
+DEFAULT_CATEGORY = "Travel"
+
+# Theme Setting
+PYGMENTS_STYLE = "default"
+AUTHOR_META = {
+    "wei lee": {
+        "image": "/images/avatar.jpg",
+    }
+}
