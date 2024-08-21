@@ -1,0 +1,50 @@
+.tag-weight-1  { font-size: 1.5em; }
+.tag-weight-2  { font-size: 1.7em; }
+.tag-weight-3  { font-size: 1.9em; }
+.tag-weight-4  { font-size: 2.1em; }
+.tag-weight-5  { font-size: 2.3em; }
+.tag-weight-6  { font-size: 2.5em; }
+.tag-weight-7  { font-size: 2.7em; }
+.tag-weight-8  { font-size: 2.9em; }
+.tag-weight-9  { font-size: 3.1em; }
+.tag-weight-10 { font-size: 3.3em; }
+
+.post-meta {
+  position: relative;
+  z-index: 10;
+  display: block;
+  margin-bottom: 1.333em;
+  font-family: 'Fira Sans', sans-serif;
+  /* font-size: 0.75em; */
+  font-weight: 400;
+  line-height: 1.333em;
+  opacity: 0.5
+}
+
+.post-content > dl > dt {
+  margin-top: 20px;
+}
+
+.box > p {
+  font-size: 1.75em;
+  line-height: 1.5em;
+}
+
+a {
+  color: black
+}
+
+@media (prefers-color-scheme: dark) {
+  a {
+    color: #ffb9b9
+  }
+}
+
+.series {
+  font-size: 2em;
+  line-height: 1.5em;
+}
+
+.mermaid {
+  background-color: #F7F8FA;
+}

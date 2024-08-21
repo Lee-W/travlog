@@ -1,0 +1,8 @@
+input[type="text"].pagefind-ui__search-input {
+  padding-left: 50px;
+}
+
+button.pagefind-ui__search-clear {
+  text-align: center;
+  width: fit-content;
+}
