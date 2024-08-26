@@ -30,7 +30,15 @@ MAIN_MENU = True
 DEFAULT_PAGINATION = 10
 SHOW_PAGES_ON_MENU = False
 SHOW_TAGS_IN_ARTICLE_SUMMARY = True
-DIRECT_TEMPLATES = ("index", "categories", "authors", "archives", "tags")
+DIRECT_TEMPLATES = (
+    "index",
+    "categories",
+    "authors",
+    "archives",
+    "tags",
+    "series_list",
+    "search",
+)
 
 # Content Setting
 ARTICLE_URL = "posts/{category}/{date:%Y}/{date:%m}/{slug}"
@@ -117,7 +125,7 @@ MENUITEMS = (
     ("🏷️ Tags", "/tags.html"),
     ("🗄️ Archives", "/archives.html"),
     ("📚 Pages", "/pages/pages.html"),
-    ("🔍 Search", "/pages/search.html"),
+    ("🔍 Search", "/search.html"),
 )
 SHOW_CATEGORIES_ON_MENU = False
 
