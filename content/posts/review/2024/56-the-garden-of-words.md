@@ -14,7 +14,7 @@ Cover: /images/post-images/2024-what-i-watched-in-2024-summer/the-garden-of-word
 
 * 觀看平台： 京站威秀 5 廳
 
- ![17238661670022](/images/post-images/2024-what-i-watched-in-2024-summer/the-garden-of-words.jpg)
+ ![the-garden-of-words](/images/post-images/2024-what-i-watched-in-2024-summer/the-garden-of-words.jpg)
 
 這海報真的有夠精美，看完電影再看一次又特別有感
 
