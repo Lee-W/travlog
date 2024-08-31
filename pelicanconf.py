@@ -29,6 +29,7 @@ COMMENTS_INTRO = (
 MAIN_MENU = True
 DEFAULT_PAGINATION = 10
 SHOW_PAGES_ON_MENU = False
+SHOW_CATEGORIES_ON_MENU = False
 SHOW_TAGS_IN_ARTICLE_SUMMARY = True
 DIRECT_TEMPLATES = (
     "index",
@@ -127,7 +128,6 @@ MENUITEMS = (
     ("📚 Pages", "/pages/pages.html"),
     ("🔍 Search", "/search.html"),
 )
-SHOW_CATEGORIES_ON_MENU = False
 
 # Content Setting
 DEFAULT_CATEGORY = "Travel"
