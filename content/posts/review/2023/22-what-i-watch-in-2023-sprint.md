@@ -163,7 +163,7 @@ Authors: Wei Lee
 ### 放學後失眠的你
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=33717)
 
-跟我在[ 2023 春番嚐百草 ]({filename}/posts/review/2023/4-what-i-will-watch-in-2023-apirl.md#_6)的想法差不多
+跟我在[2023 春番嚐百草]({filename}/posts/review/2023/4-what-i-will-watch-in-2023-apirl.md#_6)的想法差不多
 就是看得很舒服
 中間有一度讓人以為要出事了
 （指劇中出事，製作品質一直都很高，不用擔心）

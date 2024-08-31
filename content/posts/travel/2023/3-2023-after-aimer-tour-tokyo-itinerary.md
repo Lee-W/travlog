@@ -69,7 +69,7 @@ Cover: /images/post-images/2023-after-aimer-tour-tokyo-itinerary/yuru-camp.jpg
     * さかなーつ！チンアナゴ〜！かしー
 * [Animate 池袋本店](https://goo.gl/maps/wTP9R9AMySwPnUcW7)
 * 東京一番街
-* [ 『機動戦士ガンダム 水星の魔女』スレッタ＆ミオリネ日本周遊ツアー](https://g-witch.net/news/detail.php?id=20558) @ [千代田区丸の内1-9-1 東京駅一番街 B1F](https://goo.gl/maps/inshwEgKucj3oF6d9)
+* [『機動戦士ガンダム 水星の魔女』スレッタ＆ミオリネ日本周遊ツアー](https://g-witch.net/news/detail.php?id=20558) @ [千代田区丸の内1-9-1 東京駅一番街 B1F](https://goo.gl/maps/inshwEgKucj3oF6d9)
 * 💻 [.andwork](https://www.xandwork.com/en/shibuya/)
 * 🥘[やきとん大地](https://goo.gl/maps/XSGEGaJQe1gqhjdC8)
 * 代代木公園

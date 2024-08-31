@@ -10,7 +10,7 @@ Cover: /images/post-images/2024-a-jie-do-not-do-it/17067967403146.jpg
 去年年底看完「吼呦～杰哥不要啦」
 一直想寫篇文章推薦這部帶給我很多快樂的音樂劇
 最近剛好快要到台中場，我想這時推薦正是時候
-購票連結 👉 [臺灣首部迷因音樂劇《吼呦～杰哥不要啦！！》 ](https://www.opentix.life/event/1697167981154205697)
+購票連結 👉 [臺灣首部迷因音樂劇《吼呦～杰哥不要啦！！》](https://www.opentix.life/event/1697167981154205697)
 
 <!--more-->
 
@@ -45,7 +45,7 @@ Cover: /images/post-images/2024-a-jie-do-not-do-it/17067967403146.jpg
 
 最後再貼一次購票連結，先要買再考慮好
 
-* [臺灣首部迷因音樂劇《吼呦～杰哥不要啦！！》 ](https://www.opentix.life/event/1697167981154205697)
+* [臺灣首部迷因音樂劇《吼呦～杰哥不要啦！！》](https://www.opentix.life/event/1697167981154205697)
 * [果陀劇場《我在詐騙公司上班》2024好評加演](https://tixfun.com/UTK0201_?PRODUCT_ID=Q015T9ZQ))
 
 ### Podcast

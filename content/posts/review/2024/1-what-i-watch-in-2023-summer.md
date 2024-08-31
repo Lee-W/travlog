@@ -18,7 +18,7 @@ Cover: /images/post-images/2024-what-i-watch-in-2023-summer/are-you-my-master-ca
 ### Fate/strange Fake -Whispers of Dawn-
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=34048)
 
-跟[ 2023 夏番嚐百草 ]({filename}/posts/review/2023/11-what-i-will-watch-in-2023-summer.md#fatestrange-fake-whispers-of-dawn-)的心得一樣
+跟[2023 夏番嚐百草]({filename}/posts/review/2023/11-what-i-will-watch-in-2023-summer.md#fatestrange-fake-whispers-of-dawn-)的心得一樣
 嗯...畢竟是只有一集的特別篇
 
 > 問おう、汝が俺のマスターか

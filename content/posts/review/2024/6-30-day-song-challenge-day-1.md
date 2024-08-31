@@ -12,7 +12,7 @@ Series: 30 DAY SONG CHALLENGE
 
 <!--more-->
 
-最近在 Instagram 上看到 30 Day Song Chanllenge
+最近在 Instagram 上看到 30 Day Song Challenge
 覺得蠻有趣的就來挑戰一下
 
 ![ig-challenge](/images/post-images/2024-30-day-song-challenge/ig-challenge.jpeg)

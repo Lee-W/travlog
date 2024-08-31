@@ -230,7 +230,7 @@ Authors: Wei Lee
 ### 劇場總集篇 孤獨搖滾！ Re:
 * 觀看平台： Cinema City Studio B（極音）
 
-👉 [劇場總集篇 孤獨搖滾！ Re: - ぼっちちゃんのロック！ ]({filename}/posts/review/2024/48-bocchi-the-rock-movie-1.md)
+👉 [劇場總集篇 孤獨搖滾！ Re: - ぼっちちゃんのロック！]({filename}/posts/review/2024/48-bocchi-the-rock-movie-1.md)
 
 ### 【推しの子】 Mother and Children
 * 觀看平台： Cinema City Studio B（極音）

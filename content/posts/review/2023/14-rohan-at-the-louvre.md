@@ -11,7 +11,7 @@ Cover: /images/post-images/2023-rohan-at-the-louvre/Rohan-at-the-Louvre.jpeg
 
 <!--more-->
 
-不過[ 日劇版的 PV ](https://www.youtube.com/watch?v=0R-T9ua9bIQ)有就是了
+不過[日劇版的 PV](https://www.youtube.com/watch?v=0R-T9ua9bIQ)有就是了
 台灣到現在好像一直沒正版管道可以看這部日劇，實在很可惜
 希望 KKTV 能跟著這一波電影進岸邊露伴一動也不動的日劇
 我願意為此訂閱 KKTV

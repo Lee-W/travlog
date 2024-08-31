@@ -34,7 +34,7 @@ Modified: 2024-05-13 19:20
 | [凜醬與快樂夥伴的茶會司康]({filename}/posts/cook/2022/8-mitsuzuri-s-scone.md) | |  15 | |
 | [不輸給高級食材的南洋風咖哩]({filename}/posts/cook/2021/6-emiya-south-eastern-style-curry.md) | | 17 | |
 | [迦勒底特製 - 香煎龍排]({filename}/posts/cook/2021/9-chaldea-fried-steak.md) | | 番外2| |
-| [跨年蕎麥麵 - 明年也請多多指教]({filename}/posts/cook/2021/1-new-year-soba-noodles.md) | 3 | 20 | [1](https://ani.gamer.com.tw/animeVideo.php?sn=16727) | |
+| [跨年蕎麥麵 - 明年也請多多指教]({filename}/posts/cook/2021/1-new-year-soba-noodles.md) | 3 | 20 | [1](https://ani.gamer.com.tw/animeVideo.php?sn=16727) |
 | [衛宮家的玉子燒]({filename}/posts/cook/2021/2-emiya-s-omelet.md) | | 21 | |
 | [春意盎然，高雅的櫻餅]({filename}/posts/cook/2021/13-saegusa-s-sakura-mochi.md) | | 22 | |
 | [衛宮家的馬鈴薯燉肉]({filename}/posts/cook/2020/4-emiya-s-potato-stew.md) | | 23 | |
@@ -50,12 +50,12 @@ Modified: 2024-05-13 19:20
 | [柔滑軟嫩的滑蛋蟹肉]({filename}/posts/cook/2022/7-crab-meat-with-egg.md) | | 38 | |
 | [衛宮家的 ふわふわ 丼]({filename}/posts/cook/2022/5-emiya-s-oyakodon.md) | | 40 | |
 | [鮭魚鏘鏘燒]({filename}/posts/cook/2022/11-salmon-chan-chan-yaki.md) | | 42 | |
-| [來做南瓜布丁吧！ ]({filename}/posts/cook/2022/10-archer-and-caster-s-pumpkin-pudding.md) | | 番外 1 | |
+| [來做南瓜布丁吧！]({filename}/posts/cook/2022/10-archer-and-caster-s-pumpkin-pudding.md) | | 番外 1 | |
 | [拿坡里義大利麵]({filename}/posts/cook/2022/6-Spaghetti-alla-napoletana-in-the-cafe.md) | | 番外2 | |
 | [雪見鍋]({filename}/posts/cook/2023/1-misorenabe.md) | 7 | 44 | |
 | [夏天買不太到草莓，那就做巧克力奇異果千層吧]({filename}/posts/cook/2021/14-saber-s-mille-crepes.md) |  | 48 | |
 | [玉米炊飯及玉米天婦羅]({filename}/posts/cook/2024/2-rider-s-corn-set.md) | 8 | 51 | |
 | [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | | 52 | |
-| [遙遠記憶的荷包蛋 - 正義夥伴的起點]({filename}/posts/cook/2022/4-fried-egss-from-memories.md) |  | 53 |
-| [巧克力香蕉磅蛋糕]({filename}/posts/cook/2022/12-choco-banana-pound-cake.md) | | 55 |
+| [遙遠記憶的荷包蛋 - 正義夥伴的起點]({filename}/posts/cook/2022/4-fried-egss-from-memories.md) |  | 53 | |
+| [巧克力香蕉磅蛋糕]({filename}/posts/cook/2022/12-choco-banana-pound-cake.md) | | 55 | |
 | [想像著永遠是最好吃的蛋包飯]({filename}/posts/cook/2022/9-archer-s-omurice.md) | - | - | [11](https://ani.gamer.com.tw/animeVideo.php?sn=16737) |

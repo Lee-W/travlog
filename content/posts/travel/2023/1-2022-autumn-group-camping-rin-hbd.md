@@ -27,7 +27,7 @@ Cover: /images/post-images/2023-2022-autumn-group-camping-rin-hbd/group-photo.jp
 ## Day 0 夜衝
 
 上次團露玩得很開心，這次禮拜五大家就請假夜衝上不遠山莊
-（上次的遊記 👉 [ ゆる 露營初體驗 =U= ]({filename}/posts/travel/2022/1-first-yuru-camp-at-buyuan.md)）
+（上次的遊記 👉 [ゆる 露營初體驗 =U=]({filename}/posts/travel/2022/1-first-yuru-camp-at-buyuan.md)）
 這麼說來，這已經是 2022 第三次去不遠山莊 🤔
 
 週五下午稍微塞車，抵達不遠山莊後就已經很晚了
@@ -130,7 +130,7 @@ PyCamping 的時候，買了 `| _ |` 的衣服當作我們的戰隊服
 ### 晚餐
 
 晚餐做的是第一季結尾的 ajillo
-之前有自己在家裡先做過 👉 [ 土鍋蒜味蝦和鯛魚義大利麵 =U= ]({filename}/posts/cook/2021/16-yuru-camp-ajillo.md)
+之前有自己在家裡先做過 👉 [土鍋蒜味蝦和鯛魚義大利麵 =U=]({filename}/posts/cook/2021/16-yuru-camp-ajillo.md)
 不過要帶土鍋來露營還是有點太重了...
 我們只把食材分幾個小鍋分匹煮，反正大家也沒吃那麼快
 
@@ -224,5 +224,5 @@ Luke 好像是抽到了 L 夾
     * [震驚！今秋動漫界最狂宅潮《搖曳露營△》全臺最強粉絲群的團露戰！（上篇）](https://home.gamer.com.tw/artwork.php?sn=5600238)
     * [《搖曳露營△》遊記分享 / 台灣野外活動部▲秋季團露 in 不遠山莊](https://home.gamer.com.tw/artwork.php?sn=5588995)
 * 影片
-    * [ 第二屆!搖曳露營同好都給我出來露營啦!!台灣野外活動部▲台湾野クル▲大團露(日篇) in不遠山莊【輪子亂滾/RW Tv】 ](https://www.youtube.com/watch?v=u3l5jksO2Lo)
-    * [ 有多愛搖曳露營?鐵粉大挑戰!精選20題問答，你能答對幾題呢?台灣野外活動部▲台湾野クル▲第二屆線下大團露(夜篇) in不遠山莊【輪子亂滾/RW Tv】 ](https://www.youtube.com/watch?v=z8kMsfnkP7U)
+    * [第二屆!搖曳露營同好都給我出來露營啦!!台灣野外活動部▲台湾野クル▲大團露(日篇) in不遠山莊【輪子亂滾/RW Tv】](https://www.youtube.com/watch?v=u3l5jksO2Lo)
+    * [有多愛搖曳露營?鐵粉大挑戰!精選20題問答，你能答對幾題呢?台灣野外活動部▲台湾野クル▲第二屆線下大團露(夜篇) in不遠山莊【輪子亂滾/RW Tv】](https://www.youtube.com/watch?v=z8kMsfnkP7U)

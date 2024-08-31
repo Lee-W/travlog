@@ -25,7 +25,7 @@ Cover: /images/post-images/2023-emiya-s-ochazuke/finish-2.jpeg
 總之它就被我換成櫛瓜了，反正看起來很像
 
 這道料理完成後，動畫版就只剩下第十集還沒重現了 💪
-順便附上官方的教學影片 [ 【公式】アニメ「衛宮さんちの今日のごはん」3分で分かる！衛宮さんちの今日のごはん～第七話 さらりと頂く冷やし茶漬け～ ](https://www.youtube.com/watch?v=yf5lsfqTkW8&list=PLxIl-d3dBU9OTr-KSC6UPGxbCpbsWoBlC&index=5)
+順便附上官方的教學影片 [【公式】アニメ「衛宮さんちの今日のごはん」3分で分かる！衛宮さんちの今日のごはん～第七話 さらりと頂く冷やし茶漬け～](https://www.youtube.com/watch?v=yf5lsfqTkW8&list=PLxIl-d3dBU9OTr-KSC6UPGxbCpbsWoBlC&index=5)
 
 ## 食材 (3 人份)
 * 估計成本： 200 元

@@ -246,7 +246,7 @@ Authors: Wei Lee
 這段直接因為櫻志拉高了我對逸臣的好感度
 不要理雪了，直接拿下櫻志吧，逸臣先生
 
-![slience](/images/post-images/2024-what-i-watched-in-2024-winter/slience.jpeg)
+![silence](/images/post-images/2024-what-i-watched-in-2024-winter/silence.jpeg)
 
 ### 肌肉魔法使-MASHLE- 神覺者候補選拔試驗篇
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=36879)
