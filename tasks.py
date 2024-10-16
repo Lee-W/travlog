@@ -200,7 +200,7 @@ def security_check(c):
     """Run pip-autid on dependencies"""
     c.run(
         """
-        uv requirements > requirements.txt && \
+        uv pip compile pyproject.toml -o requirements.txt && \
         uv run pip-audit -r requirements.txt && \
         rm -rf requirements.txt
         """
