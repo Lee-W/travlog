@@ -178,10 +178,10 @@ def style(c):
     python_targets = "pelicanconf.py publishconf.py tasks.py"
     c.run(
         f"""
-        pipenv run flake8 {python_targets} && \
-        pipenv run black --check {python_targets} && \
-        pipenv run isort --check-only {python_targets} && \
-        pipenv run cz check --rev-range origin/master..
+        uv run flake8 {python_targets} && \
+        uv run black --check {python_targets} && \
+        uv run isort --check-only {python_targets} && \
+        uv run cz check --rev-range origin/master..
         """
     )
 
@@ -192,8 +192,8 @@ def format(c):
     python_targets = "pelicanconf.py publishconf.py tasks.py"
     c.run(
         f"""
-        pipenv run black {python_targets} && \
-        pipenv run isort {python_targets}
+        uv run black {python_targets} && \
+        uv run isort {python_targets}
         """
     )
 
@@ -203,8 +203,8 @@ def security_check(c):
     """Run pip-autid on dependencies"""
     c.run(
         """
-        pipenv requirements > requirements.txt && \
-        pipenv run pip-audit -r requirements.txt && \
+        uv requirements > requirements.txt && \
+        uv run pip-audit -r requirements.txt && \
         rm -rf requirements.txt
         """
     )
