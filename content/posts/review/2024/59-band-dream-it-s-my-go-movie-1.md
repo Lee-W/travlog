@@ -5,6 +5,7 @@ Category: Review
 Tags: Movie, Animate
 Slug: band-dream-it-s-my-go-movie-1
 Authors: Wei Lee
+Cover: /images/post-images/2024-band-dream-it-s-my-go-movie-1/mygo.jpg
 
 剛好又對到電影上映的時候人在日本
 然後又是音樂作品
