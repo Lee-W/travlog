@@ -1,8 +1,8 @@
-Title: 2024 秋季嚐百草
+Title: 2024 秋番嚐百草
 Subtitle: 我是不是要餓死了
 Date: 2024-11-05 23:15
 Category: Review
-Tags: Animate
+Tags: Animate, 新番嚐百草
 Slug: what-i-will-watch-in-2024-fall
 Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-will-watch-in-2024-fall/what-should-i-do.jpg
