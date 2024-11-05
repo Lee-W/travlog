@@ -14,6 +14,7 @@ dependencies = [
     "pelican-series>=3.0.0",
     "pelican-share-post>=1.1.0",
     "pelican[markdown]>=4.10.1",
+    "pillow>=11.0.0",
     "python-gettext>=5.0",
     "typogrify>=2.0.7",
 ]

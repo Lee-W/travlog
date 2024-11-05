@@ -5,10 +5,12 @@ repos:
       - id: end-of-file-fixer
       - id: trailing-whitespace
         args: [--markdown-linebreak-ext=md]
+
   - repo: https://github.com/DavidAnson/markdownlint-cli2
     rev: v0.13.0
     hooks:
     - id: markdownlint-cli2
+
   - repo: https://github.com/codespell-project/codespell
     rev: v2.3.0
     hooks:
@@ -18,3 +20,12 @@ repos:
         files: "content/posts/|content/pages/"
         types: [text]
         args: ["--write-changes", "--ignore-words", "spelling_wordlist.txt"]
+
+  - repo: local
+    hooks:
+      - id: remove-gps-from-image-exif
+        name: Remove GPS Info from image exif
+        language: system
+        pass_filenames: false
+        entry: uv run inv check-and-remove-image-exif-gps-info
+        types: [ python ]

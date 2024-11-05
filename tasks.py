@@ -12,6 +12,11 @@ from invoke.main import program
 from pelican import main as pelican_main
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
+from collections.abc import Sequence
+import glob
+
+from PIL.Image import UnidentifiedImageError, open as pil_open
+from PIL.ExifTags import Base as ExifBase
 
 OPEN_BROWSER_ON_SERVE = True
 SETTINGS_FILE_BASE = "pelicanconf.py"
@@ -133,8 +138,8 @@ def livereload(c):
         static_file_glob = "{0}/static/**/*{1}".format(theme_path, extension)
         watched_globs.append(static_file_glob)
 
-    for glob in watched_globs:
-        server.watch(glob, cached_build)
+    for g in watched_globs:
+        server.watch(g, cached_build)
 
     if OPEN_BROWSER_ON_SERVE:
         # Open site in default browser
@@ -205,3 +210,32 @@ def security_check(c):
         rm -rf requirements.txt
         """
     )
+
+
+def _get_exif_tag_ids_by_names(names: Sequence[str]) -> set[int]:
+    return {getattr(ExifBase, name).value for name in names}
+
+
+@task
+def check_and_remove_image_exif_gps_info(_) -> None:
+    """Check and remove GPSInfo from image EXIF if exists."""
+    filenames = [
+        path
+        for path in glob.glob("content/images/**", recursive=True)
+        if os.path.isfile(path)
+    ]
+    exif_tags_to_remove = ["GPSInfo"]
+    for name in filenames:
+        try:
+            with pil_open(name) as im:
+                tag_ids = _get_exif_tag_ids_by_names(exif_tags_to_remove)
+                file_changed = False
+                for tag_id in tag_ids:
+                    if im.getexif().get(tag_id) and im._exif:
+                        file_changed = True
+                        im._exif[tag_id] = None
+
+                if file_changed:
+                    im.save(name)
+        except (FileNotFoundError, UnidentifiedImageError):
+            continue
