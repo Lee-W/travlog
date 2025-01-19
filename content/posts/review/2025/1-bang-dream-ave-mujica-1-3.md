@@ -6,7 +6,7 @@ Tags: Anime, Movie, Japan, BanG Dream
 Slug: bang-dream-ave-mujica-1-3
 Authors: Wei Lee
 Series: Aimer Tour 2024-25 之旅
-Cover: /images/post-images/2025-bang-dream-ave-mujica-1-3/P1260466.JPG
+Cover: /images/post-images/2025-bang-dream-ave-mujica-1-3/poster-2.JPG
 
 看到 [TVアニメ「BanG Dream! Ave Mujica」#1～#3 劇場先行上映が決定] 的消息
 馬上就決定得要去電影院看
