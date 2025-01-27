@@ -28,4 +28,3 @@ repos:
         language: system
         pass_filenames: false
         entry: uv run inv check-and-remove-image-exif-gps-info
-        types: [ python ]
