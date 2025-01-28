@@ -1,6 +1,7 @@
 Title: 始於 Aimer 終於 Aimer
 Subtitle: 逐 Aimer 而居
 Date: 2025-01-18 15:35
+Modified: 2025-01-28 13:20
 Category: Travel
 Tags: Japan
 Slug: start-with-aimer-and-end-with-aimer
@@ -78,8 +79,9 @@ Cover: /images/post-images/2025-aimer-2024-25-tour/fog-of-world.jpeg
 
 沒錯！
 前面的[富士山輕鬆（？）騎]都還沒什麼寫，就挖了新的坑
-但這趟實在太多有趣的事想，又遇到好多好棒的人
-實在很想想把它們都好好紀錄下來
+但這趟實在太多有趣的事情，又遇到好多好棒的人
+實在很想把它們都好好紀錄下來
+盡請期待系列文的後續！
 
 [企画展 アニメ『ゆるキャン△ SEASON３』展開催！]: https://sam.or.jp/kikaku
 [演劇【推しの子】2.5次元舞台編]: https://www.marv.jp/special/theater_lalalai/blade/
