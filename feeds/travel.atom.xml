@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Those things no one cares about - Travel</title><link href="https://travlog.wei-lee.me/" rel="alternate"></link><link href="https://travlog.wei-lee.me/feeds/travel.atom.xml" rel="self"></link><id>https://travlog.wei-lee.me/</id><updated>2025-01-26T18:23:00+08:00</updated><entry><title>Day 1 前往山中湖</title><link href="https://travlog.wei-lee.me/posts/travel/2025/01/2024-mt-fugi-biking-day-1" rel="alternate"></link><published>2025-01-26T18:23:00+08:00</published><updated>2025-01-26T18:23:00+08:00</updated><author><name>Wei Lee</name></author><id>tag:travlog.wei-lee.me,2025-01-26:/posts/travel/2025/01/2024-mt-fugi-biking-day-1</id><summary type="html">&lt;p&gt;第一天只有 20 km 應該是還好吧&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Those things no one cares about - Travel</title><link href="https://travlog.wei-lee.me/" rel="alternate"></link><link href="https://travlog.wei-lee.me/feeds/travel.atom.xml" rel="self"></link><id>https://travlog.wei-lee.me/</id><updated>2025-01-28T13:20:00+08:00</updated><entry><title>Day 1 前往山中湖</title><link href="https://travlog.wei-lee.me/posts/travel/2025/01/2024-mt-fugi-biking-day-1" rel="alternate"></link><published>2025-01-26T18:23:00+08:00</published><updated>2025-01-26T18:23:00+08:00</updated><author><name>Wei Lee</name></author><id>tag:travlog.wei-lee.me,2025-01-26:/posts/travel/2025/01/2024-mt-fugi-biking-day-1</id><summary type="html">&lt;p&gt;第一天只有 20 km 應該是還好吧&lt;br&gt;
 恩，這是確實 🤔&lt;br&gt;
 不還好的是上升 800 m 😱&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第一天只有 20 km 應該是還好吧&lt;br&gt;
@@ -55,7 +55,7 @@
 &lt;p&gt;&lt;img alt="d1-gpx-studio" src="/images/post-images/2024-mt-fugi-biking/d1-gpx-studio.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;但如果想自架的話，就需要去弄 &lt;a href="https://www.mapbox.com/"&gt;mapbox&lt;/a&gt; 的 API token&lt;br&gt;
 覺得有點麻煩，後來就沒用了&lt;br&gt;
-也許之後有空再研究一下&lt;/p&gt;</content><category term="Travel"></category><category term="Japan"></category><category term="Biking"></category><category term="富士山"></category></entry><entry><title>始於 Aimer 終於 Aimer</title><link href="https://travlog.wei-lee.me/posts/travel/2025/01/start-with-aimer-and-end-with-aimer" rel="alternate"></link><published>2025-01-18T15:35:00+08:00</published><updated>2025-01-18T15:35:00+08:00</updated><author><name>Wei Lee</name></author><id>tag:travlog.wei-lee.me,2025-01-18:/posts/travel/2025/01/start-with-aimer-and-end-with-aimer</id><summary type="html">&lt;p&gt;&lt;a href="https://www.aimer-web.jp/live/archive/?52129"&gt;Aimer 2024-25 Tour&lt;/a&gt; 剛開始抽票的時候&lt;br&gt;
+也許之後有空再研究一下&lt;/p&gt;</content><category term="Travel"></category><category term="Japan"></category><category term="Biking"></category><category term="富士山"></category></entry><entry><title>始於 Aimer 終於 Aimer</title><link href="https://travlog.wei-lee.me/posts/travel/2025/01/start-with-aimer-and-end-with-aimer" rel="alternate"></link><published>2025-01-18T15:35:00+08:00</published><updated>2025-01-28T13:20:00+08:00</updated><author><name>Wei Lee</name></author><id>tag:travlog.wei-lee.me,2025-01-18:/posts/travel/2025/01/start-with-aimer-and-end-with-aimer</id><summary type="html">&lt;p&gt;&lt;a href="https://www.aimer-web.jp/live/archive/?52129"&gt;Aimer 2024-25 Tour&lt;/a&gt; 剛開始抽票的時候&lt;br&gt;
 想說應該很難抽吧&lt;br&gt;
 就選了四場來抽，然後...&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;&lt;a href="https://www.aimer-web.jp/live/archive/?52129"&gt;Aimer 2024-25 Tour&lt;/a&gt; 剛開始抽票的時候&lt;br&gt;
@@ -121,8 +121,9 @@
 不知道有沒有漏掉，有缺的話之後繼續寫再補齊&lt;/p&gt;
 &lt;p&gt;沒錯！&lt;br&gt;
 前面的&lt;a href="https://travlog.wei-lee.me/posts/travel/2024/11/2024-mt-fugi-biking-day-0"&gt;富士山輕鬆（？）騎&lt;/a&gt;都還沒什麼寫，就挖了新的坑&lt;br&gt;
-但這趟實在太多有趣的事想，又遇到好多好棒的人&lt;br&gt;
-實在很想想把它們都好好紀錄下來&lt;/p&gt;
+但這趟實在太多有趣的事情，又遇到好多好棒的人&lt;br&gt;
+實在很想把它們都好好紀錄下來&lt;br&gt;
+盡請期待系列文的後續！&lt;/p&gt;
 &lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",
         indent = "0em",
