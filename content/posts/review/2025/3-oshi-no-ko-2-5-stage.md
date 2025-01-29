@@ -8,7 +8,7 @@ Authors: Wei Lee
 Series: Aimer Tour 2024-25 之旅
 Cover: /images/post-images/2025-aimer-2024-25-tour/IMG_2785.jpeg
 
-雖然看到這邊文要歐印陽明，人生可能來不及光明了
+雖然看到這篇文要歐印陽明，人生可能來不及光明了
 但現在還來得及買能看到 2025/01/31 的舞台劇 playback
 連結放在這了 👉 [演劇【推しの子】2.5次元舞台編](https://live.au.com/live/413/)
 真的超好看，真心推薦 👍
