@@ -1,7 +1,7 @@
 Title: 小林家的龍女僕
 Date: 2019-11-10 22:44
 Category: Review
-Tags: Animate, Kyoto Animation
+Tags: Animate, Kyoto Anime
 Slug: miss-kobayashi-s-dragon-maid
 Authors: Wei Lee
 Summary:
@@ -13,7 +13,7 @@ Series:
 <!--more-->
 
 會讓我想先從這部開始補，就只是他的歌很好聽
-Fonzi M 之前為京阿尼做了一首 [Kyoto Animation Tribute - Piano Medley (From 13 Anime) | 京都アニメーション火災 応援 ピアノメドレー // 13アニメ](https://www.youtube.com/watch?v=gXEUZP59BTM&list=RDgXEUZP59BTM&start_radio=1)
+Fonzi M 之前為京阿尼做了一首 [Kyoto Anime Tribute - Piano Medley (From 13 Anime) | 京都アニメーション火災 応援 ピアノメドレー // 13アニメ](https://www.youtube.com/watch?v=gXEUZP59BTM&list=RDgXEUZP59BTM&start_radio=1)
 其中就有龍女僕的 OP「青空のラプソディ」
 其他音樂很好聽的我都看過了，就從這部先補起了
 

@@ -711,7 +711,7 @@ Modified: 2024-08-18 20:00
     * [The Book of Boba Fett]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#the-book-of-boba-fett)
     * --
     * [Obi-Wan Kenobi]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#obi-wan-kenobi)
-* Animation
+* Anime
     * Star Wars: The Clone Wars
     * Star Wars: Rebels
     * [Star Wars: Tale of Jedi]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#star-wars-tale-of-jedi)
