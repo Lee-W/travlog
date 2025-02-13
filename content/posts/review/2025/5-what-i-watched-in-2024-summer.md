@@ -1,11 +1,11 @@
 Title: 2024 夏季看什麼
 Subtitle: 翻轉再翻轉
-Date: 2025-02-10 20:05
+Date: 2025-02-13 21:25
 Category: Review
 Tags: Animate, TODO
 Slug: what-i-watched-in-2024-summer
 Authors: Wei Lee
-Status: Draft
+Cover: /images/post-images/2024-what-i-watched-in-2024-summer/hamiaomiao.png
 
 並不是指劇情的翻轉再翻轉
 而是這季作品我心中的排名，不斷地改變
@@ -15,8 +15,8 @@ Status: Draft
 好多看完出乎我意料的作品
 原本我推憑藉著幾近完美的演出位居心中第一
 直到看完尼爾
-不行...，尼爾實在太好看
-它才是我這季的最愛
+不行......尼爾實在太好看.....
+它才是我 2024 夏季的最愛
 
 敗北女角、哎咕島、跟深夜Punch 三部都是我一開始沒看的
 他們都在最後爬到了很前面的地位
@@ -24,6 +24,9 @@ Status: Draft
 並不是敗北女角不好看或沒對到胃口
 我真的很喜歡敗北女角這部作品，然而前面的作品實在都太好看了
 這季實在是大豐收
+
+一樣是寫不完脫稿好久，先丟出心中的順序
+之後再來把沒寫完的拆成一篇篇文章慢慢補齊
 
 [TOC]
 
@@ -44,6 +47,13 @@ Status: Draft
 
 <!--TODO-->
 
+![hamiaomiao](/images/post-images/2024-what-i-watched-in-2024-summer/hamiaomiao.png)
+
+魔幻寫實這個字不知道是不是這樣用
+但我會想這樣敘述這部作品
+在魔幻的世界觀中，意外的有許多寫實的元素
+如果現實世界發生同樣的事件，大概只會發生更魔幻的事吧
+
 ### 小市民系列 <!--s-->
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=38882)
 
@@ -53,6 +63,12 @@ Status: Draft
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=38831)
 
 <!--TODO-->
+
+後來推薦我來看這部的人，反而被我推薦去看這部
+最後我們兩個都很喜歡
+是部找不太到缺點，就是很單純、很好看的偏小品的作品
+但就是真的很好看
+然後 OP 、ED 我都會一直重複播放
 
 ### 學姊是男孩 <!--s-->
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=38958)
@@ -77,7 +93,7 @@ Status: Draft
 <!--TODO-->
 
 <!--演出太強
-原本不看的，被推爆
+原本不看的，被推爆才去看
 真的是好看
 小鞠我推，老八你們去推
 雖然老八也棒-->
@@ -155,14 +171,12 @@ Status: Draft
 <!--TODO-->
 <!--👉 [失憶投捕 - 全都忘了吧]({filename})-->
 
-
 ### JOJO 的奇妙冒險 <!--ss-->
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=6107)
 
-這次是為了去看音樂劇才二刷
+這次是為了去看音樂劇才二刷的
 第一部給人的戲劇感確實很重，比較不像是一般的影視作品
-原本就蠻喜歡的
-第二次看整個體感又好上了不少
+原本就蠻喜歡的，第二次看整個體感又好上了不少
 
 到了第二部，又一次看到西薩醬
 眼淚就流下來了
@@ -173,8 +187,8 @@ Status: Draft
 
 <!--TODO-->
 
-劇情穩定療癒，畫面穩定崩壞
-可能因為是老作品了吧
+<!--劇情穩定療癒，畫面穩定崩壞-->
+<!--可能因為是老作品了吧-->
 
 ### 歡迎光臨，千歲醬 <!--b-->
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=17286)
@@ -240,7 +254,6 @@ Status: Draft
 * 觀看平台： 松仁威秀 8 廳
 
 👉 [藍色監獄 -EPISODE 凪- - Blue Lock 的 BL 指的是...]({filename}/posts/review/2025/5-blue-lock-episode-nagi.md)
-
 
 ### 時光沙漏 <!--b-->
 * [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=16665)
