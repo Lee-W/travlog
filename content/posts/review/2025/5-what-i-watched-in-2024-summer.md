@@ -101,8 +101,6 @@ Cover: /images/post-images/2024-what-i-watched-in-2024-summer/hamiaomiao.png
 ### 地下城中的人 <!--s-->
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=38859)
 
-<!--TODO-->
-
 每季總是需要一些純放鬆的作品，沒有勝者的早餐要如何獲得勝利
 原本是這樣想的
 但其實看下來劇情也是相當的有趣

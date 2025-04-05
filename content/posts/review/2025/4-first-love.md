@@ -15,7 +15,6 @@ Cover: /images/post-images/2025-what-i-watch-in-2025-winter/first-love.jpg
 
 ![first-love](/images/post-images/2025-what-i-watch-in-2025-winter/first-love.jpg)
 
-
 雖然也就只有在 Netflix 有，但還是要跟大家推廣正版觀看管道
 
 回顧下我的觀影歷程
@@ -48,7 +47,6 @@ Cover: /images/post-images/2025-what-i-watch-in-2025-winter/first-love.jpg
 至於突如其來的「又沒有死人，為什麼要哭」
 這真是個好問題
 ![idk](/images/meme/idk.jpg)
-
 
 接著就來到最後的第九集
 小綴線收得還不錯
