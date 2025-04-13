@@ -12,6 +12,8 @@ Authors: Wei Lee
 
 <!--more-->
 
+[TOC]
+
 ## 新番動畫
 
 ### 膽大黨 <!--a-->
@@ -240,7 +242,6 @@ Authors: Wei Lee
 
 ![blue-giant](/images/post-images/2025-what-i-watched-in-2024-fall/blue-giant.jpeg)
 
-
 宮本大的歐洲行終於到了尾聲
 
 藍色巨星實在是部令人困擾的作品
@@ -296,8 +297,9 @@ btw 上面的簽名是上週去聽謝東霖老師的講座簽到的，開心 �
 早餐相當勝利，吃起來很美味
 
 ## 設定集
-### 路人超能100 官方設定集 #kobo <!--a-->
+### 路人超能100 官方設定集 <!--a-->
 * 觀看平台： [KOBO](https://www.kobo.com/tw/zh/ebook/8KiDRr5tjjeaX9GD-dKgnw?sId=5e2ebd76-56e7-457c-9ba3-b5a38267dcac)
+
 ![mob-100](/images/post-images/2025-what-i-watched-in-2024-fall/mob-100.jpeg)
 
 看 ONE 老師的訪談還蠻有趣的
