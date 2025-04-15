@@ -213,7 +213,7 @@ DECA - DENCE 是我這季新番中每週最期待的作品
 但推敲過程中帶來的緊張感，倒是挺意猶未盡的
 看來是該找時間把今敏大師的其他作品補完了
 
-### Fate/stay night ［Heaven’s Feel］ II。迷途之蝶
+### Fate/stay night［Heaven’s Feel II. 迷途之蝶
 * 觀看平台: [friday 影音](https://video.friday.tw/movie/detail/41680)
 
 Fate / stay night 是一個分為三個攻略路線的遊戲
