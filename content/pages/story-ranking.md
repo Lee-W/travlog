@@ -43,6 +43,8 @@ Modified: 2025-04-15 09:04
 
 ### SS Tier
 * 中二病也想談戀愛
+* 乒乓
+* 遊戲 3 人娘
 * [白箱 SHIROBAKO]({filename}/posts/review/2020/2-what-i-watch-in-2020-winter.md#shirobako)
 * [別對映像研出手！]({filename}/posts/review/2020/2-what-i-watch-in-2020-winter.md#_2)
 * [比宇宙更遠的地方]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_7)
@@ -51,22 +53,20 @@ Modified: 2025-04-15 09:04
 * [奇巧計程車]({filename}/posts/review/2021/3-odd-taxi.md)
 * [涼宮春日的消失]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#_18)
 * [佐賀偶像是傳奇 捲土重來]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_3)
-* 乒乓
-* 遊戲 3 人娘
 * [擅長捉弄人的高木同學 第三季]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_2)
 * [來自深淵 烈日的黃金鄉]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_2)
 * [孤獨搖滾！]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#_2)
 * [葬送的芙莉蓮]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_3)
 * [迷宮飯 第一季下半]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_2)
 * [死神少爺與黑女僕 第三季]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_3)
-* [尼爾：自動人形 Ver1.1a 下半季](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#ver11a)
-* [【我推的孩子】 第二季](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_2)
-* [失憶投捕](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_16)
-* [驀然回首](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_20)
+* [尼爾：自動人形 Ver1.1a 下半季]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#ver11a)
+* [【我推的孩子】 第二季]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_2)
+* [失憶投捕]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_16)
+* [驀然回首]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_20)
 * DDDD 惡魔的破壞
-    * [DDDD 惡魔的破壞](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#dddd)
-    * [DDDD惡魔的破壞 後編](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#dddd_1)
-    * [DDDD惡魔的破壞 前編](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#dddd_2)
+    * [DDDD 惡魔的破壞]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#dddd)
+    * [DDDD惡魔的破壞 後編]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#dddd_1)
+    * [DDDD惡魔的破壞 前編]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#dddd_2)
 * 我內心的糟糕念頭
     * [我內心的糟糕念頭]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_3)
     * [我內心的糟糕念頭 第二季]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_2)
@@ -90,7 +90,7 @@ Modified: 2025-04-15 09:04
     * [莉茲與青鳥]({filename}/posts/review/2020/2-what-i-watch-in-2020-winter.md#_14)
     * [莉茲與青鳥]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_14)
     * [莉茲與青鳥]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_18)
-    * [吹響吧！上低音號 第三季](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_15)
+    * [吹響吧！上低音號 第三季]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_15)
 * 路人超能
     * [路人超能 100]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_6)
     * [路人超能 100 （二刷）]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#100)
@@ -114,7 +114,7 @@ Modified: 2025-04-15 09:04
     * [JOJO 的奇妙冒險 不滅鑽石]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#jojo)
     * [JOJO 的奇妙冒險 黃金之風]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#jojo_1)
     * [JOJO 的奇妙冒險 石之海]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#jojo)
-    * [JOJO 的奇妙冒險](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#jojo)
+    * [JOJO 的奇妙冒險]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#jojo)
 * 新世紀福音戰士 新劇場版
     * [福音戰士新劇場版]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_21)
     * [新世紀福音戰士新劇場版：終]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#_11)
@@ -123,15 +123,15 @@ Modified: 2025-04-15 09:04
     * [海盜戰記 第二季]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_2)
 
 ### S Tier
-* [JOJO 的奇妙冒險 星塵遠征軍]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#jojo_1)
 * 女高中生的虛度日常
-* 擅長捉弄人的高木同學
+* 擅長捉弄人的高木同學 (第一季、第二季)
 * 這個勇者明明超 TUEEE 卻過度謹慎
 * 死亡筆記本
 * 約定的夢幻島 第一季
 * 日常
 * 幸運星
 * 涼宮春日的憂鬱
+* [JOJO 的奇妙冒險 星塵遠征軍]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#jojo_1)
 * [四月是你的謊言]({filename}/posts/review/2020/2-what-i-watch-in-2020-winter.md#_11)
 * [SHADOWS HOUSE-影宅-]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#shadows-house-)
 * [愛在雨過天晴時]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_10)
@@ -145,7 +145,6 @@ Modified: 2025-04-15 09:04
 * [Vivy -Fluorite Eye's Song-]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#vivy-fluorite-eyes-song-)
 * [輕拍翻轉小魔女]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#_12)
 * [回憶三部曲]({filename}/posts/review/2021/4-memories.md)
-
 * [玉子愛情故事]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#_18)
 * [喬瑟與虎與魚群]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_15)
 * [劇場版 白箱]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_17)
@@ -178,19 +177,19 @@ Modified: 2025-04-15 09:04
 * [夜晚的水母不會游泳]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_4)
 * [米奇與達利]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_11)
 * [小酒館 Basue]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#basue)
-* [小市民系列](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_3)
-* [深夜 Punch](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#punch)
-* [學姊是男孩](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_4)
-* [哎咕島消失的舔甜歌姬](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_5)
-* [敗北女角太多了！](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_6)
-* [地下城中的人](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_7)
-* BanG Dream! It's MyGO!!!!!
-    * [BanG Dream! It's MyGO!!!!!]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#bang-dream-its-mygo)
-    * [BanG Dream! It's MyGO!!!!! 前編 春の陽だまり、迷い猫](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#bang-dream-its-mygo)
+* [小市民系列]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_3)
+* [深夜 Punch]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#punch)
+* [學姊是男孩]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_4)
+* [哎咕島消失的舔甜歌姬]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_5)
+* [敗北女角太多了！]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_6)
+* [地下城中的人]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_7)
 * 新海誠系列
     * [秒速五公分]({filename}/posts/review/2020/5-what-i-watch-in-2020-summer.md#_10)
-    * [秒速5公分](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#5)
-    * [言葉之庭](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_21)
+    * [秒速5公分]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#5)
+    * [言葉之庭]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_21)
+* BanG Dream! It's MyGO!!!!!
+    * [BanG Dream! It's MyGO!!!!!]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#bang-dream-its-mygo)
+    * [BanG Dream! It's MyGO!!!!! 前編 春の陽だまり、迷い猫]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#bang-dream-its-mygo)
 * 心靈遊戲
     * [心靈遊戲]({filename}/posts/review/2021/6-mind-game.md)
     * [心靈遊戲]({filename}/posts/review/2022/3-what-i-watch-in-2020-winter.md#_17)
@@ -208,7 +207,7 @@ Modified: 2025-04-15 09:04
     * [徒然喜歡你]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#_12)
     * [徒然喜歡你 （二刷）]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_10)
 * K-ON
-    * K-ON
+    * K-ON （第一季、第二季）
     * [電影版 K-ON]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#k-on)
 * 虎與龍
     * [虎與龍]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#_13)
@@ -394,12 +393,12 @@ Modified: 2025-04-15 09:04
 * [競速 overtake]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#overtake)
 * [請問您今天要來點兔子嗎？]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_7)
 * [吹響吧！上低音號～歡迎加入北宇治高中管樂社 （重映）]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_19)
-* [擅長逃跑的殿下](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_8)
-* [模擬後宮體驗](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_9)
-* [天穗之咲稻姬](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_10)
-* [狼與辛香料](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_11)
-* [鹿乃子乃子乃子虎視眈眈](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_12)
-* [夏目友人帳](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_17)
+* [擅長逃跑的殿下]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_8)
+* [模擬後宮體驗]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_9)
+* [天穗之咲稻姬]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_10)
+* [狼與辛香料]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_11)
+* [鹿乃子乃子乃子虎視眈眈]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_12)
+* [夏目友人帳]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_17)
 * 劇場總集篇 孤獨搖滾！
     * [劇場總集篇 孤獨搖滾！ Re:]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#re)
     * [劇場總集篇 孤獨搖滾！Re:]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#re)
@@ -499,11 +498,11 @@ Modified: 2025-04-15 09:04
 * [鏡之孤城]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_24)
 * [戽斗星球]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_6)
 * [烈焰先鋒 救國的橘衣消防員]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_9)
-* [異世界自殺突擊隊](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_13)
-* [歡迎光臨，千歲醬](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_18)
-* [王牌酒保 Glass of God](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#glass-of-god)
-* [藍色監獄 -EPISODE 凪-](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#-episode-)
-* [時光沙漏](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_22)
+* [異世界自殺突擊隊]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_13)
+* [歡迎光臨，千歲醬]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_18)
+* [王牌酒保 Glass of God]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#glass-of-god)
+* [藍色監獄 -EPISODE 凪-]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#-episode-)
+* [時光沙漏]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_22)
 * 咒術迴戰
     * [咒術迴戰]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#_15)
     * [咒術迴戰 澀谷事變篇]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_7)
@@ -535,16 +534,16 @@ Modified: 2025-04-15 09:04
     * [PSYCHO-PASS 3 心靈判官3　FIRST INSPECTOR]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#psycho-pass-3-3-first-inspector)
 
 ### C Tier
-* 金星人愛情故事
-* [清晨的兔子小姐]({filename}/posts/review/2022/3-what-i-watch-in-2020-winter.md#_20)
-* [成群結伴！西頓學園]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_11)
-* [ReLIFE 重返 17 歲]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#relife-17)
-* [一週的朋友。]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_9)
 * 同居人是貓
 * 放學後桌遊俱樂部
 * CAROLE & TUESDAY
 * 家有女友
 * 中二病也想談戀愛劇場版-小鳥遊六花．改
+* 金星人愛情故事
+* [清晨的兔子小姐]({filename}/posts/review/2022/3-what-i-watch-in-2020-winter.md#_20)
+* [成群結伴！西頓學園]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_11)
+* [ReLIFE 重返 17 歲]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#relife-17)
+* [一週的朋友。]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_9)
 * [和諧]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#_21)
 * [魔法公主]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_23)
 * [角落小夥伴電影版：魔法繪本裡的新朋友]({filename}/posts/review/2020/5-what-i-watch-in-2020-summer.md#_13)
@@ -682,7 +681,7 @@ Modified: 2025-04-15 09:04
 * [孤獨搖滾！團結Band LIVE-恆星-]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#band-live-)
 * [星際效應]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_12)
 * [藍色時期]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_14)
-* [異國日記](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_24)
+* [異國日記]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_24)
 * 擅長捉弄人的高木同學
     * [擅長捉弄人的高木同學]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_21)
     * [擅長捉弄人的高木同學]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_13)
@@ -788,8 +787,8 @@ Modified: 2025-04-15 09:04
 * [路人超能 100]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#100_1)
 * [Fate/Zero]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#fatezero)
 * [徒然喜歡你]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_25)
-* [迷宮飯](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_26)
-* [DDDD 惡魔的破壞](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#dddd_3)
+* [迷宮飯]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_26)
+* [DDDD 惡魔的破壞]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#dddd_3)
 * 藍色巨星
     * [藍色巨星]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_28)
     * [藍色巨星：歐洲篇]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_24) (連載)
@@ -807,7 +806,7 @@ Modified: 2025-04-15 09:04
 * [進擊的巨人番外篇~無悔的選擇]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_28)
 * [酷愛電影的龐波小姐]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_27)
 * [愛在雨過天晴]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_25)
-* [再見繪梨](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_27)
+* [再見繪梨]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_27)
 
 ## A Tier
 * [日常]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#29)
@@ -818,7 +817,7 @@ Modified: 2025-04-15 09:04
 * [魔法少年賈修]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_25)
 * [海歸線]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_27)
 * [嗶伊～不思議的生物]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_30)
-* [輝夜姬想讓人告白](filename/posts/review/2025/7-what-i-watched-in-2024-fall.md#_28)
+* [輝夜姬想讓人告白]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_28)
 
 ### B Tier
 * [四月是你的謊言 最後樂章]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_30)
