@@ -1,9 +1,9 @@
 Title: 2021 秋季看什麼
 Subtitle: 我書讀不夠多 😢
 Date: 2022-09-11 16:47
-Modified: 2022-09-16 22:46
+Modified: 2025-05-09 08:50
 Category: Review
-Tags: Animate, 當季看什麼
+Tags: Animate, 當季看什麼, TODO
 Slug: what-i-watch-in-2021-fall
 Authors: Wei Lee
 
@@ -411,6 +411,18 @@ Lucasfilm 找了日本幾間動畫公司來做與 Star Wars 本傳無關的故�
 但放到十年前 VR 還沒那麼盛行的時代，也許感受會不太一樣
 雖然沒有好看到讓我想回去看 TV 版動畫
 但下一部劇場版應該會繼續看
+
+### Fate/kaleid liner 魔法少女☆伊莉雅 Licht 無名的少女
+* 觀看平台： 信義威秀 1 廳
+
+![illya](/images/post-images/2022-what-i-watch-in-2021-fall/illya.JPEG)
+
+沒想到是四年後整理作品的時候
+發現怎麼沒有這部的紀錄，才補上.....
+細節早就忘了
+但我記得就是宗歸宗舉地把故事跑完的樣子
+有一些 3D 的部分不是做得很好
+剩下的故事印象中是連漫畫也都還沒做完
 
 ### 手塚治虫之大都會
 * 觀看平台： 京站威秀 3 廳
