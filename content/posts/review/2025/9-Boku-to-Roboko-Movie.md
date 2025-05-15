@@ -1,6 +1,6 @@
 Title: 劇場版 我與機器子
 Subtitle: 身為影迷，一定要體驗一下 Augmented Audio
-Date: 2025-05-14 11:10
+Date: 2025-05-14 23:10
 Category: Review
 Tags: Animate, Movie
 Slug: Boku-to-Roboko-Movie
