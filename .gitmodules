@@ -1,3 +1,6 @@
 [submodule "theme/attila"]
 	path = theme/attila
 	url = https://github.com/Lee-W/attila
+[submodule "pelican-plugins/another_read_more_link"]
+	path = pelican-plugins/another_read_more_link
+	url = https://github.com/Lee-W/another_read_more_link
