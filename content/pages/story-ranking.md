@@ -1,7 +1,7 @@
 Title: 絕對主觀的作品排名
 Slug: story-ranking
 Date: 2022-02-06 18:48
-Modified: 2025-04-15 09:04
+Modified: 2025-06-08 12:04
 
 啟發自[kaze的日本留學&不務正業ACG](https://aurakaze.blog/list_anime/)跟在推特看到的[TierMaker](https://tiermaker.com/create/anime-tier-list-300-anime-17194)
 才做了這個給自己的作品排名/索引
@@ -760,7 +760,6 @@ Modified: 2025-04-15 09:04
 ---
 
 ## 其他
-
 * [孤獨搖滾！團結Band LIVE-恆星-]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#band-live-)
 
 
@@ -808,6 +807,7 @@ Modified: 2025-04-15 09:04
 聲之形
 
 ### SS Tier
+* 進擊的巨人
 * [路人超能 100]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#100_1)
 * [Fate/Zero]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#fatezero)
 * [徒然喜歡你]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_25)
@@ -830,6 +830,7 @@ Modified: 2025-04-15 09:04
 * [進擊的巨人番外篇~無悔的選擇]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_28)
 * [酷愛電影的龐波小姐]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_27)
 * [愛在雨過天晴]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_25)
+* 驀然回首
 * [再見繪梨]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_27)
 
 ### A Tier
@@ -905,4 +906,4 @@ Modified: 2025-04-15 09:04
 ---
 
 ## 設定集
-* [路人超能100 官方設定集 #kobo]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#100-kobo)
+* [路人超能100 官方設定集]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#100-kobo)
