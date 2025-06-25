@@ -49,7 +49,7 @@
   </script>
 <meta content="" name="description"/>
 <meta content="Wei Lee" name="author"/>
-<meta content="Animate" name="tags"/>
+<meta content="Anime" name="tags"/>
 <meta content="Music" name="tags"/>
 <!-- Open Graph -->
 <meta content="Those things no one cares about" prefix="og: http://ogp.me/ns#" property="og:site_name">
@@ -62,15 +62,15 @@
 <meta content="2024-05-08 12:45:00+08:00" prefix="og: http://ogp.me/ns#" property="article:modified_time"/>
 <meta content="https://travlog.wei-lee.me/author/wei-lee.html" prefix="og: http://ogp.me/ns#" property="article:author"/>
 <meta content="Review" prefix="og: http://ogp.me/ns#" property="article:section">
-<meta content="Animate" prefix="og: http://ogp.me/ns#" property="article:tag"/>
+<meta content="Anime" prefix="og: http://ogp.me/ns#" property="article:tag"/>
 <meta content="Music" prefix="og: http://ogp.me/ns#" property="article:tag"/>
-<meta content="https://travlog.wei-lee.me//images/cover.jpeg" prefix="og: http://ogp.me/ns#" property="og:image"/>
+<meta content="https://travlog.wei-lee.me/images/cover.jpeg" prefix="og: http://ogp.me/ns#" property="og:image"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="@clleew" name="twitter:site"/>
 <meta content="30 天歌挑戰 - Day 5  - A song that needs to be played loud" name="twitter:title"/>
 <meta content="https://travlog.wei-lee.me/posts/review/2024/04/30-day-song-challenge-day-5" name="twitter:url"/>
-<meta content="https://travlog.wei-lee.me//images/cover.jpeg" name="twitter:image:src"/>
+<meta content="https://travlog.wei-lee.me/images/cover.jpeg" name="twitter:image:src"/>
 <meta content="" name="twitter:description"/>
 <script type="application/ld+json">
 {
@@ -164,7 +164,7 @@
           • 1 min read
         </div>
 <div class="post-cover cover">
-<img alt="Category Review" src="https://travlog.wei-lee.me//images/cover.jpeg"/>
+<img alt="Category Review" src="https://travlog.wei-lee.me/images/cover.jpeg"/>
 </div>
 </div>
 </header>
@@ -198,7 +198,7 @@
 <div class="clear"></div>
 </div>
 <aside class="post-tags">
-<a href="https://travlog.wei-lee.me/tag/animate.html">Animate</a><a href="https://travlog.wei-lee.me/tag/music.html">Music</a> </aside>
+<a href="https://travlog.wei-lee.me/tag/anime.html">Anime</a><a href="https://travlog.wei-lee.me/tag/music.html">Music</a> </aside>
 <div class="clear"></div>
 <div class="series">
 <p>This post is part 5 of the "30 DAY SONG CHALLENGE" series:</p>
@@ -324,7 +324,8 @@
 </nav>
 </div>
 </section>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
 <!-- TODO: minify -->
 <script src="https://travlog.wei-lee.me/theme/js/jquery.fitvids.js" type="text/javascript"></script>
 <script src="https://travlog.wei-lee.me/theme/js/script.js" type="text/javascript"></script>
@@ -348,6 +349,7 @@
       });
   </script>
 <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
+<!-- Add MathJax and FontAwesome for Asciidoc -->\
 <script>
   $(document).ready(function () {
     var viewport = $(window);
@@ -355,6 +357,42 @@
     // Responsive videos with fitVids
     post.fitVids();
 
+    var mdSelector=".highlight pre code";
+    var rstSelector=".highlight pre code";
+    // For ":source-highlighter: highlight.js`" in asciidoc
+    var adocSelector="pre.highlight > code[data-lang]"
+    var selector=mdSelector;
+    // Format code blocks and add line numbers
+    function codestyling() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+        // No lines for plain text blocks
+        if (!$(this).hasClass('language-text')) {
+          var code = $(this);
+          // Calculate amount of lines
+          var lines = code.html().split(/\n(?!$)/g).length;
+          var numbers = [];
+          if (lines > 1) {
+            lines++;
+          }
+          for (i = 1; i < lines; i++) {
+            numbers += '<span class="line" aria-hidden="true">' + i + '</span>';
+          }
+          code.parent().append('<div class="lines">' + numbers + '</div>');
+        }
+      });
+    }
+
+    // Format code blocks only
+    function codestylingWithoutLineNumbers() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+      });
+    }
+
+    codestylingWithoutLineNumbers();
     // Reading progress bar on window top
     function readingProgress() {
       var postBottom = post.offset().top + post.height();

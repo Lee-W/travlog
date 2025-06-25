@@ -50,7 +50,7 @@
 <meta content="官網的線上票販售到 2024/1/16 (Tue.) 04:59 TST 好像可以看到 1/16 22:59 上個週末被蜘蛛人 Yo 哥帶去抱石結束後，全身痠痛下大家一起看表演 度過一個很愉快的週末 ☺️ 趁現在來得及，快點把這次很棒的表演資訊分享出來" name="description"/>
 <meta content="Wei Lee" name="author"/>
 <meta content="Concert" name="tags"/>
-<meta content="Animate" name="tags"/>
+<meta content="Anime" name="tags"/>
 <!-- Open Graph -->
 <meta content="Those things no one cares about" prefix="og: http://ogp.me/ns#" property="og:site_name">
 <meta content="ANIPLEX 20th Anniversary Event-THANX-  - 音楽の貯蔵は充分か" prefix="og: http://ogp.me/ns#" property="og:title">
@@ -63,14 +63,14 @@
 <meta content="https://travlog.wei-lee.me/author/wei-lee.html" prefix="og: http://ogp.me/ns#" property="article:author"/>
 <meta content="Review" prefix="og: http://ogp.me/ns#" property="article:section">
 <meta content="Concert" prefix="og: http://ogp.me/ns#" property="article:tag"/>
-<meta content="Animate" prefix="og: http://ogp.me/ns#" property="article:tag"/>
-<meta content="https://travlog.wei-lee.me//images/cover.jpeg" prefix="og: http://ogp.me/ns#" property="og:image"/>
+<meta content="Anime" prefix="og: http://ogp.me/ns#" property="article:tag"/>
+<meta content="https://travlog.wei-lee.me/images/cover.jpeg" prefix="og: http://ogp.me/ns#" property="og:image"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="@clleew" name="twitter:site"/>
 <meta content="ANIPLEX 20th Anniversary Event-THANX-  - 音楽の貯蔵は充分か" name="twitter:title"/>
 <meta content="https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx" name="twitter:url"/>
-<meta content="https://travlog.wei-lee.me//images/cover.jpeg" name="twitter:image:src"/>
+<meta content="https://travlog.wei-lee.me/images/cover.jpeg" name="twitter:image:src"/>
 <meta content="官網的線上票販售到 2024/1/16 (Tue.) 04:59 TST 好像可以看到 1/16 22:59 上個週末被蜘蛛人 Yo 哥帶去抱石結束後，全身痠痛下大家一起看表演 度過一個很愉快的週末 ☺️ 趁現在來得及，快點把這次很棒的表演資訊分享出來" name="twitter:description"/>
 <script type="application/ld+json">
 {
@@ -163,7 +163,7 @@
           • 1 min read
         </div>
 <div class="post-cover cover">
-<img alt="Category Review" src="https://travlog.wei-lee.me//images/cover.jpeg"/>
+<img alt="Category Review" src="https://travlog.wei-lee.me/images/cover.jpeg"/>
 </div>
 </div>
 </header>
@@ -373,7 +373,7 @@
 <div class="clear"></div>
 </div>
 <aside class="post-tags">
-<a href="https://travlog.wei-lee.me/tag/concert.html">Concert</a><a href="https://travlog.wei-lee.me/tag/animate.html">Animate</a> </aside>
+<a href="https://travlog.wei-lee.me/tag/concert.html">Concert</a><a href="https://travlog.wei-lee.me/tag/anime.html">Anime</a> </aside>
 <div class="clear"></div>
 </section>
 <script type="text/javascript">var use_utterance = true;</script>
@@ -404,7 +404,8 @@
 </nav>
 </div>
 </section>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
 <!-- TODO: minify -->
 <script src="https://travlog.wei-lee.me/theme/js/jquery.fitvids.js" type="text/javascript"></script>
 <script src="https://travlog.wei-lee.me/theme/js/script.js" type="text/javascript"></script>
@@ -428,6 +429,7 @@
       });
   </script>
 <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
+<!-- Add MathJax and FontAwesome for Asciidoc -->\
 <script>
   $(document).ready(function () {
     var viewport = $(window);
@@ -435,6 +437,42 @@
     // Responsive videos with fitVids
     post.fitVids();
 
+    var mdSelector=".highlight pre code";
+    var rstSelector=".highlight pre code";
+    // For ":source-highlighter: highlight.js`" in asciidoc
+    var adocSelector="pre.highlight > code[data-lang]"
+    var selector=mdSelector;
+    // Format code blocks and add line numbers
+    function codestyling() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+        // No lines for plain text blocks
+        if (!$(this).hasClass('language-text')) {
+          var code = $(this);
+          // Calculate amount of lines
+          var lines = code.html().split(/\n(?!$)/g).length;
+          var numbers = [];
+          if (lines > 1) {
+            lines++;
+          }
+          for (i = 1; i < lines; i++) {
+            numbers += '<span class="line" aria-hidden="true">' + i + '</span>';
+          }
+          code.parent().append('<div class="lines">' + numbers + '</div>');
+        }
+      });
+    }
+
+    // Format code blocks only
+    function codestylingWithoutLineNumbers() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+      });
+    }
+
+    codestylingWithoutLineNumbers();
     // Reading progress bar on window top
     function readingProgress() {
       var postBottom = post.offset().top + post.height();

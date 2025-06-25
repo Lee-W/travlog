@@ -64,13 +64,13 @@
 <meta content="Review" prefix="og: http://ogp.me/ns#" property="article:section">
 <meta content="Concert" prefix="og: http://ogp.me/ns#" property="article:tag"/>
 <meta content="Final Fantasy" prefix="og: http://ogp.me/ns#" property="article:tag"/>
-<meta content="https://travlog.wei-lee.me//images/post-images/2023-distant-worlds-music-from-FINAL-FANTASY/distant-worlds-music-from-FINAL-FANTASY.jpg" prefix="og: http://ogp.me/ns#" property="og:image"/>
+<meta content="https://travlog.wei-lee.me/images/post-images/2023-distant-worlds-music-from-FINAL-FANTASY/distant-worlds-music-from-FINAL-FANTASY.jpg" prefix="og: http://ogp.me/ns#" property="og:image"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="@clleew" name="twitter:site"/>
 <meta content="Distant Worlds: music from FINAL FANTASY  - 一閉上眼就能進入奇幻世界" name="twitter:title"/>
 <meta content="https://travlog.wei-lee.me/posts/review/2023/07/distant-worlds-music-from-FINAL-FANTASY" name="twitter:url"/>
-<meta content="https://travlog.wei-lee.me//images/post-images/2023-distant-worlds-music-from-FINAL-FANTASY/distant-worlds-music-from-FINAL-FANTASY.jpg" name="twitter:image:src"/>
+<meta content="https://travlog.wei-lee.me/images/post-images/2023-distant-worlds-music-from-FINAL-FANTASY/distant-worlds-music-from-FINAL-FANTASY.jpg" name="twitter:image:src"/>
 <meta content="我對 Final Fantasy 完全是一無所知 莫名有個 FF 的音樂好像很好聽的印象 再加上我確實也是對交響樂表演有興趣就買票了" name="twitter:description"/>
 <script type="application/ld+json">
 {
@@ -85,7 +85,7 @@
     "name": "Wei Lee",
     "url": "https://travlog.wei-lee.me/author/wei-lee.html"
   },
-  "image": "https://travlog.wei-lee.me//images/post-images/2023-distant-worlds-music-from-FINAL-FANTASY/distant-worlds-music-from-FINAL-FANTASY.jpg",
+  "image": "",
   "url": "https://travlog.wei-lee.me/posts/review/2023/07/distant-worlds-music-from-FINAL-FANTASY",
   "description": "我對 Final Fantasy 完全是一無所知 莫名有個 FF 的音樂好像很好聽的印象 再加上我確實也是對交響樂表演有興趣就買票了"
 }
@@ -163,7 +163,7 @@
           • 1 min read
         </div>
 <div class="post-cover cover">
-<img alt="Category Review" src="https://travlog.wei-lee.me//images/post-images/2023-distant-worlds-music-from-FINAL-FANTASY/distant-worlds-music-from-FINAL-FANTASY.jpg"/>
+<img alt="Category Review" src="https://travlog.wei-lee.me/images/post-images/2023-distant-worlds-music-from-FINAL-FANTASY/distant-worlds-music-from-FINAL-FANTASY.jpg"/>
 </div>
 </div>
 </header>
@@ -250,7 +250,8 @@ FF 這種形式真的好太多了</p>
 </nav>
 </div>
 </section>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
 <!-- TODO: minify -->
 <script src="https://travlog.wei-lee.me/theme/js/jquery.fitvids.js" type="text/javascript"></script>
 <script src="https://travlog.wei-lee.me/theme/js/script.js" type="text/javascript"></script>
@@ -274,6 +275,7 @@ FF 這種形式真的好太多了</p>
       });
   </script>
 <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
+<!-- Add MathJax and FontAwesome for Asciidoc -->\
 <script>
   $(document).ready(function () {
     var viewport = $(window);
@@ -281,6 +283,42 @@ FF 這種形式真的好太多了</p>
     // Responsive videos with fitVids
     post.fitVids();
 
+    var mdSelector=".highlight pre code";
+    var rstSelector=".highlight pre code";
+    // For ":source-highlighter: highlight.js`" in asciidoc
+    var adocSelector="pre.highlight > code[data-lang]"
+    var selector=mdSelector;
+    // Format code blocks and add line numbers
+    function codestyling() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+        // No lines for plain text blocks
+        if (!$(this).hasClass('language-text')) {
+          var code = $(this);
+          // Calculate amount of lines
+          var lines = code.html().split(/\n(?!$)/g).length;
+          var numbers = [];
+          if (lines > 1) {
+            lines++;
+          }
+          for (i = 1; i < lines; i++) {
+            numbers += '<span class="line" aria-hidden="true">' + i + '</span>';
+          }
+          code.parent().append('<div class="lines">' + numbers + '</div>');
+        }
+      });
+    }
+
+    // Format code blocks only
+    function codestylingWithoutLineNumbers() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+      });
+    }
+
+    codestylingWithoutLineNumbers();
     // Reading progress bar on window top
     function readingProgress() {
       var postBottom = post.offset().top + post.height();

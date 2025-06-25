@@ -62,13 +62,13 @@
 <meta content="https://travlog.wei-lee.me/author/wei-lee.html" prefix="og: http://ogp.me/ns#" property="article:author"/>
 <meta content="Review" prefix="og: http://ogp.me/ns#" property="article:section">
 <meta content="Anime" prefix="og: http://ogp.me/ns#" property="article:tag"/>
-<meta content="https://travlog.wei-lee.me//images/post-images/2024-what-i-will-watch-in-2024-fall/Orb.jpg" prefix="og: http://ogp.me/ns#" property="og:image"/>
+<meta content="https://travlog.wei-lee.me/images/post-images/2024-what-i-will-watch-in-2024-fall/Orb.jpg" prefix="og: http://ogp.me/ns#" property="og:image"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="@clleew" name="twitter:site"/>
 <meta content="地。-關於地球的運動-  - 這樣的世界...美嗎？" name="twitter:title"/>
 <meta content="https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth" name="twitter:url"/>
-<meta content="https://travlog.wei-lee.me//images/post-images/2024-what-i-will-watch-in-2024-fall/Orb.jpg" name="twitter:image:src"/>
+<meta content="https://travlog.wei-lee.me/images/post-images/2024-what-i-will-watch-in-2024-fall/Orb.jpg" name="twitter:image:src"/>
 <meta content="JOJO 之前跟我說「地太重了，所以一直還沒跟上進度」 我笑了，怎默會呢 我們地最直來直往了 母雞卡還在情勒的時候，地都是直接物理把你勒死" name="twitter:description"/>
 <script type="application/ld+json">
 {
@@ -83,7 +83,7 @@
     "name": "Wei Lee",
     "url": "https://travlog.wei-lee.me/author/wei-lee.html"
   },
-  "image": "https://travlog.wei-lee.me//images/post-images/2024-what-i-will-watch-in-2024-fall/Orb.jpg",
+  "image": "",
   "url": "https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth",
   "description": "JOJO 之前跟我說「地太重了，所以一直還沒跟上進度」 我笑了，怎默會呢 我們地最直來直往了 母雞卡還在情勒的時候，地都是直接物理把你勒死"
 }
@@ -161,7 +161,7 @@
           • 1 min read
         </div>
 <div class="post-cover cover">
-<img alt="Category Review" src="https://travlog.wei-lee.me//images/post-images/2024-what-i-will-watch-in-2024-fall/Orb.jpg"/>
+<img alt="Category Review" src="https://travlog.wei-lee.me/images/post-images/2024-what-i-will-watch-in-2024-fall/Orb.jpg"/>
 </div>
 </div>
 </header>
@@ -357,7 +357,8 @@ He does care.<br/>
 </nav>
 </div>
 </section>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
 <!-- TODO: minify -->
 <script src="https://travlog.wei-lee.me/theme/js/jquery.fitvids.js" type="text/javascript"></script>
 <script src="https://travlog.wei-lee.me/theme/js/script.js" type="text/javascript"></script>
@@ -381,6 +382,7 @@ He does care.<br/>
       });
   </script>
 <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
+<!-- Add MathJax and FontAwesome for Asciidoc -->\
 <script>
   $(document).ready(function () {
     var viewport = $(window);
@@ -388,6 +390,42 @@ He does care.<br/>
     // Responsive videos with fitVids
     post.fitVids();
 
+    var mdSelector=".highlight pre code";
+    var rstSelector=".highlight pre code";
+    // For ":source-highlighter: highlight.js`" in asciidoc
+    var adocSelector="pre.highlight > code[data-lang]"
+    var selector=mdSelector;
+    // Format code blocks and add line numbers
+    function codestyling() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+        // No lines for plain text blocks
+        if (!$(this).hasClass('language-text')) {
+          var code = $(this);
+          // Calculate amount of lines
+          var lines = code.html().split(/\n(?!$)/g).length;
+          var numbers = [];
+          if (lines > 1) {
+            lines++;
+          }
+          for (i = 1; i < lines; i++) {
+            numbers += '<span class="line" aria-hidden="true">' + i + '</span>';
+          }
+          code.parent().append('<div class="lines">' + numbers + '</div>');
+        }
+      });
+    }
+
+    // Format code blocks only
+    function codestylingWithoutLineNumbers() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+      });
+    }
+
+    codestylingWithoutLineNumbers();
     // Reading progress bar on window top
     function readingProgress() {
       var postBottom = post.offset().top + post.height();

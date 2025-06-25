@@ -64,13 +64,13 @@
 <meta content="Review" prefix="og: http://ogp.me/ns#" property="article:section">
 <meta content="Star Wars" prefix="og: http://ogp.me/ns#" property="article:tag"/>
 <meta content="Movie" prefix="og: http://ogp.me/ns#" property="article:tag"/>
-<meta content="https://travlog.wei-lee.me//images/cover.jpeg" prefix="og: http://ogp.me/ns#" property="og:image"/>
+<meta content="https://travlog.wei-lee.me/images/cover.jpeg" prefix="og: http://ogp.me/ns#" property="og:image"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="@clleew" name="twitter:site"/>
 <meta content="Star Wars: Rise of Skywalker 觀後感 " name="twitter:title"/>
 <meta content="https://travlog.wei-lee.me/posts/review/2019/12/star-wars-rise-of-skywalker" name="twitter:url"/>
-<meta content="https://travlog.wei-lee.me//images/cover.jpeg" name="twitter:image:src"/>
+<meta content="https://travlog.wei-lee.me/images/cover.jpeg" name="twitter:image:src"/>
 <meta content="昨天終於三刷完 Rise of Skywalker 了 終於有時間紀錄一下 整體上我的評價是普通 有一些地方我很喜歡，我覺得是以往比較沒出現過的元素 有一些地方我不太喜歡，但我會認為這種東西比較主觀 有一些地方則讓我感到 J.J. Abrams 完全不管正史其他作品中設定" name="twitter:description"/>
 <script type="application/ld+json">
 {
@@ -161,7 +161,7 @@
           • 2 min read
         </div>
 <div class="post-cover cover">
-<img alt="Category Review" src="https://travlog.wei-lee.me//images/cover.jpeg"/>
+<img alt="Category Review" src="https://travlog.wei-lee.me/images/cover.jpeg"/>
 </div>
 </div>
 </header>
@@ -397,7 +397,8 @@ Rey 要是沒在 Pasaana 亂跑，很多麻煩就不會發生</p>
 </nav>
 </div>
 </section>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
 <!-- TODO: minify -->
 <script src="https://travlog.wei-lee.me/theme/js/jquery.fitvids.js" type="text/javascript"></script>
 <script src="https://travlog.wei-lee.me/theme/js/script.js" type="text/javascript"></script>
@@ -421,6 +422,7 @@ Rey 要是沒在 Pasaana 亂跑，很多麻煩就不會發生</p>
       });
   </script>
 <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
+<!-- Add MathJax and FontAwesome for Asciidoc -->\
 <script>
   $(document).ready(function () {
     var viewport = $(window);
@@ -428,6 +430,42 @@ Rey 要是沒在 Pasaana 亂跑，很多麻煩就不會發生</p>
     // Responsive videos with fitVids
     post.fitVids();
 
+    var mdSelector=".highlight pre code";
+    var rstSelector=".highlight pre code";
+    // For ":source-highlighter: highlight.js`" in asciidoc
+    var adocSelector="pre.highlight > code[data-lang]"
+    var selector=mdSelector;
+    // Format code blocks and add line numbers
+    function codestyling() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+        // No lines for plain text blocks
+        if (!$(this).hasClass('language-text')) {
+          var code = $(this);
+          // Calculate amount of lines
+          var lines = code.html().split(/\n(?!$)/g).length;
+          var numbers = [];
+          if (lines > 1) {
+            lines++;
+          }
+          for (i = 1; i < lines; i++) {
+            numbers += '<span class="line" aria-hidden="true">' + i + '</span>';
+          }
+          code.parent().append('<div class="lines">' + numbers + '</div>');
+        }
+      });
+    }
+
+    // Format code blocks only
+    function codestylingWithoutLineNumbers() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+      });
+    }
+
+    codestylingWithoutLineNumbers();
     // Reading progress bar on window top
     function readingProgress() {
       var postBottom = post.offset().top + post.height();

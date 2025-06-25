@@ -72,13 +72,13 @@
 <meta content="玉子市場" prefix="og: http://ogp.me/ns#" property="article:tag"/>
 <meta content="四疊半藍調時光機" prefix="og: http://ogp.me/ns#" property="article:tag"/>
 <meta content="Aimer" prefix="og: http://ogp.me/ns#" property="article:tag"/>
-<meta content="https://travlog.wei-lee.me//images/post-images/2023-aimer-tour-kansai-nagoya-itinerary/P1190508.JPG" prefix="og: http://ogp.me/ns#" property="og:image"/>
+<meta content="https://travlog.wei-lee.me/images/post-images/2023-aimer-tour-kansai-nagoya-itinerary/P1190508.JPG" prefix="og: http://ogp.me/ns#" property="og:image"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="@clleew" name="twitter:site"/>
 <meta content="2023 Aimer Tour 關西、名古屋行程 " name="twitter:title"/>
 <meta content="https://travlog.wei-lee.me/posts/travel/2023/05/2023-aimer-tour-kansai-nagoya-itinerary" name="twitter:url"/>
-<meta content="https://travlog.wei-lee.me//images/post-images/2023-aimer-tour-kansai-nagoya-itinerary/P1190508.JPG" name="twitter:image:src"/>
+<meta content="https://travlog.wei-lee.me/images/post-images/2023-aimer-tour-kansai-nagoya-itinerary/P1190508.JPG" name="twitter:image:src"/>
 <meta content="要好好把整篇的油記寫完，大概還遙遙無期吧 最近才有人問我能不能分享去日本的行程 簡單將行程表整理成一篇文章倒不是什麼問題 有趣的細節之後再慢慢寫成獨立的文章吧" name="twitter:description"/>
 <script type="application/ld+json">
 {
@@ -93,7 +93,7 @@
     "name": "Wei Lee",
     "url": "https://travlog.wei-lee.me/author/wei-lee.html"
   },
-  "image": "https://travlog.wei-lee.me//images/post-images/2023-aimer-tour-kansai-nagoya-itinerary/P1190508.JPG",
+  "image": "",
   "url": "https://travlog.wei-lee.me/posts/travel/2023/05/2023-aimer-tour-kansai-nagoya-itinerary",
   "description": "要好好把整篇的油記寫完，大概還遙遙無期吧 最近才有人問我能不能分享去日本的行程 簡單將行程表整理成一篇文章倒不是什麼問題 有趣的細節之後再慢慢寫成獨立的文章吧"
 }
@@ -169,7 +169,7 @@
           • 2 min read
         </div>
 <div class="post-cover cover">
-<img alt="Category Travel" src="https://travlog.wei-lee.me//images/post-images/2023-aimer-tour-kansai-nagoya-itinerary/P1190508.JPG"/>
+<img alt="Category Travel" src="https://travlog.wei-lee.me/images/post-images/2023-aimer-tour-kansai-nagoya-itinerary/P1190508.JPG"/>
 </div>
 </div>
 </header>
@@ -436,7 +436,8 @@
 </nav>
 </div>
 </section>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
 <!-- TODO: minify -->
 <script src="https://travlog.wei-lee.me/theme/js/jquery.fitvids.js" type="text/javascript"></script>
 <script src="https://travlog.wei-lee.me/theme/js/script.js" type="text/javascript"></script>
@@ -460,6 +461,7 @@
       });
   </script>
 <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
+<!-- Add MathJax and FontAwesome for Asciidoc -->\
 <script>
   $(document).ready(function () {
     var viewport = $(window);
@@ -467,6 +469,42 @@
     // Responsive videos with fitVids
     post.fitVids();
 
+    var mdSelector=".highlight pre code";
+    var rstSelector=".highlight pre code";
+    // For ":source-highlighter: highlight.js`" in asciidoc
+    var adocSelector="pre.highlight > code[data-lang]"
+    var selector=mdSelector;
+    // Format code blocks and add line numbers
+    function codestyling() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+        // No lines for plain text blocks
+        if (!$(this).hasClass('language-text')) {
+          var code = $(this);
+          // Calculate amount of lines
+          var lines = code.html().split(/\n(?!$)/g).length;
+          var numbers = [];
+          if (lines > 1) {
+            lines++;
+          }
+          for (i = 1; i < lines; i++) {
+            numbers += '<span class="line" aria-hidden="true">' + i + '</span>';
+          }
+          code.parent().append('<div class="lines">' + numbers + '</div>');
+        }
+      });
+    }
+
+    // Format code blocks only
+    function codestylingWithoutLineNumbers() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+      });
+    }
+
+    codestylingWithoutLineNumbers();
     // Reading progress bar on window top
     function readingProgress() {
       var postBottom = post.offset().top + post.height();

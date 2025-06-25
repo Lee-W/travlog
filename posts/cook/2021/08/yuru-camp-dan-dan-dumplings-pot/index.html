@@ -62,13 +62,13 @@
 <meta content="https://travlog.wei-lee.me/author/wei-lee.html" prefix="og: http://ogp.me/ns#" property="article:author"/>
 <meta content="Cook" prefix="og: http://ogp.me/ns#" property="article:section">
 <meta content="搖曳露營△" prefix="og: http://ogp.me/ns#" property="article:tag"/>
-<meta content="https://travlog.wei-lee.me//images/post-images/2021-yuru-camp-dan-dan-dumplings-pot/finish.jpeg" prefix="og: http://ogp.me/ns#" property="og:image"/>
+<meta content="https://travlog.wei-lee.me/images/post-images/2021-yuru-camp-dan-dan-dumplings-pot/finish.jpeg" prefix="og: http://ogp.me/ns#" property="og:image"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="@clleew" name="twitter:site"/>
 <meta content="擔擔餃子鍋 =U= " name="twitter:title"/>
 <meta content="https://travlog.wei-lee.me/posts/cook/2021/08/yuru-camp-dan-dan-dumplings-pot" name="twitter:url"/>
-<meta content="https://travlog.wei-lee.me//images/post-images/2021-yuru-camp-dan-dan-dumplings-pot/finish.jpeg" name="twitter:image:src"/>
+<meta content="https://travlog.wei-lee.me/images/post-images/2021-yuru-camp-dan-dan-dumplings-pot/finish.jpeg" name="twitter:image:src"/>
 <meta content="這次就來挑戰上一篇提到的的擔擔餃子鍋" name="twitter:description"/>
 <script type="application/ld+json">
 {
@@ -83,7 +83,7 @@
     "name": "Wei Lee",
     "url": "https://travlog.wei-lee.me/author/wei-lee.html"
   },
-  "image": "https://travlog.wei-lee.me//images/post-images/2021-yuru-camp-dan-dan-dumplings-pot/finish.jpeg",
+  "image": "",
   "url": "https://travlog.wei-lee.me/posts/cook/2021/08/yuru-camp-dan-dan-dumplings-pot",
   "description": "這次就來挑戰上一篇提到的的擔擔餃子鍋"
 }
@@ -159,7 +159,7 @@
           • 1 min read
         </div>
 <div class="post-cover cover">
-<img alt="Category Cook" src="https://travlog.wei-lee.me//images/post-images/2021-yuru-camp-dan-dan-dumplings-pot/finish.jpeg"/>
+<img alt="Category Cook" src="https://travlog.wei-lee.me/images/post-images/2021-yuru-camp-dan-dan-dumplings-pot/finish.jpeg"/>
 </div>
 </div>
 </header>
@@ -330,7 +330,8 @@
 </nav>
 </div>
 </section>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
 <!-- TODO: minify -->
 <script src="https://travlog.wei-lee.me/theme/js/jquery.fitvids.js" type="text/javascript"></script>
 <script src="https://travlog.wei-lee.me/theme/js/script.js" type="text/javascript"></script>
@@ -354,6 +355,7 @@
       });
   </script>
 <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
+<!-- Add MathJax and FontAwesome for Asciidoc -->\
 <script>
   $(document).ready(function () {
     var viewport = $(window);
@@ -361,6 +363,42 @@
     // Responsive videos with fitVids
     post.fitVids();
 
+    var mdSelector=".highlight pre code";
+    var rstSelector=".highlight pre code";
+    // For ":source-highlighter: highlight.js`" in asciidoc
+    var adocSelector="pre.highlight > code[data-lang]"
+    var selector=mdSelector;
+    // Format code blocks and add line numbers
+    function codestyling() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+        // No lines for plain text blocks
+        if (!$(this).hasClass('language-text')) {
+          var code = $(this);
+          // Calculate amount of lines
+          var lines = code.html().split(/\n(?!$)/g).length;
+          var numbers = [];
+          if (lines > 1) {
+            lines++;
+          }
+          for (i = 1; i < lines; i++) {
+            numbers += '<span class="line" aria-hidden="true">' + i + '</span>';
+          }
+          code.parent().append('<div class="lines">' + numbers + '</div>');
+        }
+      });
+    }
+
+    // Format code blocks only
+    function codestylingWithoutLineNumbers() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+      });
+    }
+
+    codestylingWithoutLineNumbers();
     // Reading progress bar on window top
     function readingProgress() {
       var postBottom = post.offset().top + post.height();

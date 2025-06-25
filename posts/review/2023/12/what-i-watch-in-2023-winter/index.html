@@ -49,7 +49,7 @@
   </script>
 <meta content="這季整體偏平淡，好作品還是有 但好看地令人髮指（？）的作品實在不多 就是幾部看起來舒服的作品 配上會播到下一季的神作海盜戰記 跟 Final 再 Final 的進擊的巨人" name="description"/>
 <meta content="Wei Lee" name="author"/>
-<meta content="Animate" name="tags"/>
+<meta content="Anime" name="tags"/>
 <meta content="當季看什麼" name="tags"/>
 <!-- Open Graph -->
 <meta content="Those things no one cares about" prefix="og: http://ogp.me/ns#" property="og:site_name">
@@ -62,15 +62,15 @@
 <meta content="" prefix="og: http://ogp.me/ns#" property="article:modified_time"/>
 <meta content="https://travlog.wei-lee.me/author/wei-lee.html" prefix="og: http://ogp.me/ns#" property="article:author"/>
 <meta content="Review" prefix="og: http://ogp.me/ns#" property="article:section">
-<meta content="Animate" prefix="og: http://ogp.me/ns#" property="article:tag"/>
+<meta content="Anime" prefix="og: http://ogp.me/ns#" property="article:tag"/>
 <meta content="當季看什麼" prefix="og: http://ogp.me/ns#" property="article:tag"/>
-<meta content="https://travlog.wei-lee.me//images/cover.jpeg" prefix="og: http://ogp.me/ns#" property="og:image"/>
+<meta content="https://travlog.wei-lee.me/images/cover.jpeg" prefix="og: http://ogp.me/ns#" property="og:image"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="@clleew" name="twitter:site"/>
 <meta content="2023 冬季看什麼  - 愉悅吧，少女，你的戀情終將成真" name="twitter:title"/>
 <meta content="https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-winter" name="twitter:url"/>
-<meta content="https://travlog.wei-lee.me//images/cover.jpeg" name="twitter:image:src"/>
+<meta content="https://travlog.wei-lee.me/images/cover.jpeg" name="twitter:image:src"/>
 <meta content="這季整體偏平淡，好作品還是有 但好看地令人髮指（？）的作品實在不多 就是幾部看起來舒服的作品 配上會播到下一季的神作海盜戰記 跟 Final 再 Final 的進擊的巨人" name="twitter:description"/>
 <script type="application/ld+json">
 {
@@ -163,7 +163,7 @@
           • 2 min read
         </div>
 <div class="post-cover cover">
-<img alt="Category Review" src="https://travlog.wei-lee.me//images/cover.jpeg"/>
+<img alt="Category Review" src="https://travlog.wei-lee.me/images/cover.jpeg"/>
 </div>
 </div>
 </header>
@@ -424,7 +424,7 @@ Omega 出現就難看，她不要登場就都蠻精彩的</p>
 <div class="clear"></div>
 </div>
 <aside class="post-tags">
-<a href="https://travlog.wei-lee.me/tag/animate.html">Animate</a><a href="https://travlog.wei-lee.me/tag/dang-ji-kan-shi-mo.html">當季看什麼</a> </aside>
+<a href="https://travlog.wei-lee.me/tag/anime.html">Anime</a><a href="https://travlog.wei-lee.me/tag/dang-ji-kan-shi-mo.html">當季看什麼</a> </aside>
 <div class="clear"></div>
 </section>
 <script type="text/javascript">var use_utterance = true;</script>
@@ -455,7 +455,8 @@ Omega 出現就難看，她不要登場就都蠻精彩的</p>
 </nav>
 </div>
 </section>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
 <!-- TODO: minify -->
 <script src="https://travlog.wei-lee.me/theme/js/jquery.fitvids.js" type="text/javascript"></script>
 <script src="https://travlog.wei-lee.me/theme/js/script.js" type="text/javascript"></script>
@@ -479,6 +480,7 @@ Omega 出現就難看，她不要登場就都蠻精彩的</p>
       });
   </script>
 <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
+<!-- Add MathJax and FontAwesome for Asciidoc -->\
 <script>
   $(document).ready(function () {
     var viewport = $(window);
@@ -486,6 +488,42 @@ Omega 出現就難看，她不要登場就都蠻精彩的</p>
     // Responsive videos with fitVids
     post.fitVids();
 
+    var mdSelector=".highlight pre code";
+    var rstSelector=".highlight pre code";
+    // For ":source-highlighter: highlight.js`" in asciidoc
+    var adocSelector="pre.highlight > code[data-lang]"
+    var selector=mdSelector;
+    // Format code blocks and add line numbers
+    function codestyling() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+        // No lines for plain text blocks
+        if (!$(this).hasClass('language-text')) {
+          var code = $(this);
+          // Calculate amount of lines
+          var lines = code.html().split(/\n(?!$)/g).length;
+          var numbers = [];
+          if (lines > 1) {
+            lines++;
+          }
+          for (i = 1; i < lines; i++) {
+            numbers += '<span class="line" aria-hidden="true">' + i + '</span>';
+          }
+          code.parent().append('<div class="lines">' + numbers + '</div>');
+        }
+      });
+    }
+
+    // Format code blocks only
+    function codestylingWithoutLineNumbers() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+      });
+    }
+
+    codestylingWithoutLineNumbers();
     // Reading progress bar on window top
     function readingProgress() {
       var postBottom = post.offset().top + post.height();

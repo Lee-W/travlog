@@ -64,13 +64,13 @@
 <meta content="Cook" prefix="og: http://ogp.me/ns#" property="article:section">
 <meta content="Fate" prefix="og: http://ogp.me/ns#" property="article:tag"/>
 <meta content="衛宮家今天的餐桌風景" prefix="og: http://ogp.me/ns#" property="article:tag"/>
-<meta content="https://travlog.wei-lee.me//images/post-images/2021-medusa-s-salad-don/finish-comic-1.jpeg" prefix="og: http://ogp.me/ns#" property="og:image"/>
+<meta content="https://travlog.wei-lee.me/images/post-images/2021-medusa-s-salad-don/finish-comic-1.jpeg" prefix="og: http://ogp.me/ns#" property="og:image"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="@clleew" name="twitter:site"/>
 <meta content="輕鬆好做的的沙拉丼 " name="twitter:title"/>
 <meta content="https://travlog.wei-lee.me/posts/cook/2021/05/medusa-s-salad-don" name="twitter:url"/>
-<meta content="https://travlog.wei-lee.me//images/post-images/2021-medusa-s-salad-don/finish-comic-1.jpeg" name="twitter:image:src"/>
+<meta content="https://travlog.wei-lee.me/images/post-images/2021-medusa-s-salad-don/finish-comic-1.jpeg" name="twitter:image:src"/>
 <meta content="這次重現單行本第 4 集第 25 話的「撕碎放上去，簡單好做的沙拉丼」 如同它的名字，這是我重現衛宮家料理最簡單的一道了 沒有難找的食材，也沒有困難或麻煩的步驟" name="twitter:description"/>
 <script type="application/ld+json">
 {
@@ -85,7 +85,7 @@
     "name": "Wei Lee",
     "url": "https://travlog.wei-lee.me/author/wei-lee.html"
   },
-  "image": "https://travlog.wei-lee.me//images/post-images/2021-medusa-s-salad-don/finish-comic-1.jpeg",
+  "image": "",
   "url": "https://travlog.wei-lee.me/posts/cook/2021/05/medusa-s-salad-don",
   "description": "這次重現單行本第 4 集第 25 話的「撕碎放上去，簡單好做的沙拉丼」 如同它的名字，這是我重現衛宮家料理最簡單的一道了 沒有難找的食材，也沒有困難或麻煩的步驟"
 }
@@ -161,7 +161,7 @@
           • 1 min read
         </div>
 <div class="post-cover cover">
-<img alt="Category Cook" src="https://travlog.wei-lee.me//images/post-images/2021-medusa-s-salad-don/finish-comic-1.jpeg"/>
+<img alt="Category Cook" src="https://travlog.wei-lee.me/images/post-images/2021-medusa-s-salad-don/finish-comic-1.jpeg"/>
 </div>
 </div>
 </header>
@@ -311,7 +311,8 @@ Saber 信誓旦旦的說就算是她，鬆餅這樣的料理也是做得出來�
 </nav>
 </div>
 </section>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
 <!-- TODO: minify -->
 <script src="https://travlog.wei-lee.me/theme/js/jquery.fitvids.js" type="text/javascript"></script>
 <script src="https://travlog.wei-lee.me/theme/js/script.js" type="text/javascript"></script>
@@ -335,6 +336,7 @@ Saber 信誓旦旦的說就算是她，鬆餅這樣的料理也是做得出來�
       });
   </script>
 <!-- 	The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in article.html, but it needs to be included down here, after jQuery has already loaded. -->
+<!-- Add MathJax and FontAwesome for Asciidoc -->\
 <script>
   $(document).ready(function () {
     var viewport = $(window);
@@ -342,6 +344,42 @@ Saber 信誓旦旦的說就算是她，鬆餅這樣的料理也是做得出來�
     // Responsive videos with fitVids
     post.fitVids();
 
+    var mdSelector=".highlight pre code";
+    var rstSelector=".highlight pre code";
+    // For ":source-highlighter: highlight.js`" in asciidoc
+    var adocSelector="pre.highlight > code[data-lang]"
+    var selector=mdSelector;
+    // Format code blocks and add line numbers
+    function codestyling() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+        // No lines for plain text blocks
+        if (!$(this).hasClass('language-text')) {
+          var code = $(this);
+          // Calculate amount of lines
+          var lines = code.html().split(/\n(?!$)/g).length;
+          var numbers = [];
+          if (lines > 1) {
+            lines++;
+          }
+          for (i = 1; i < lines; i++) {
+            numbers += '<span class="line" aria-hidden="true">' + i + '</span>';
+          }
+          code.parent().append('<div class="lines">' + numbers + '</div>');
+        }
+      });
+    }
+
+    // Format code blocks only
+    function codestylingWithoutLineNumbers() {
+      $(selector).each(function(i, e) {
+        // Code highlight
+        hljs.highlightElement(e);
+      });
+    }
+
+    codestylingWithoutLineNumbers();
     // Reading progress bar on window top
     function readingProgress() {
       var postBottom = post.offset().top + post.height();
