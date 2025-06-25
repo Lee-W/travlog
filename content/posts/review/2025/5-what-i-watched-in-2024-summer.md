@@ -2,7 +2,7 @@ Title: 2024 夏季看什麼
 Subtitle: 翻轉再翻轉
 Date: 2025-02-13 21:25
 Category: Review
-Tags: Animate, TODO
+Tags: Anime, TODO
 Slug: what-i-watched-in-2024-summer
 Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/hamiaomiao.png

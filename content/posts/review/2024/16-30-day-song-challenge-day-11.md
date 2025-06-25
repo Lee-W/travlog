@@ -3,7 +3,7 @@ Subtitle: A song you never get tired of
 Date: 2024-05-02 20:20
 Modified: 2024-05-08 12:45
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-11
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

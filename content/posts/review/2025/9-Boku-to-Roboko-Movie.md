@@ -2,7 +2,7 @@ Title: 劇場版 我與機器子
 Subtitle: 身為影迷，一定要體驗一下 Augmented Audio
 Date: 2025-05-14 23:10
 Category: Review
-Tags: Animate, Movie
+Tags: Anime, Movie
 Slug: Boku-to-Roboko-Movie
 Authors: Wei Lee
 Cover: /images/post-images/2025-what-i-watched-in-2025-sprint/boku-to-Roboko.jpeg

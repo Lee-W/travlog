@@ -3,7 +3,7 @@ Subtitle: A Song That’s a Classic Favorite
 Date: 2024-05-07 18:30
 Modified: 2024-05-08 12:45
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-16
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

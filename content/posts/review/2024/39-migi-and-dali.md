@@ -2,7 +2,7 @@ Title: 米奇與達利
 Subtitle: 謝謝你，佐野菜見老師
 Date: 2024-06-13 23:05
 Category: Review
-Tags: Animate
+Tags: Anime
 Slug: migi-and-dali
 Authors: Wei Lee
 

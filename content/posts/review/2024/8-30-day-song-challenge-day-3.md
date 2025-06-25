@@ -3,7 +3,7 @@ Subtitle: A song that reminds you of summertime
 Date: 2024-04-24 12:00
 Modified: 2024-05-08 12:45
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-3
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

@@ -2,7 +2,7 @@ Title: 夜晚的水母不會游泳
 Subtitle: そういう問題じゃない!
 Date: 2024-07-25 22:55
 Category: Review
-Tags: Movie, Animate
+Tags: Movie, Anime
 Slug: yurukura
 Authors: Wei Lee
 

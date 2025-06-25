@@ -2,7 +2,7 @@ Title: 僕の心のヤバイやつ OST
 Subtitle: 誒不是，我就是來取個件
 Date: 2024-07-21 00:02
 Category: Review
-Tags: Music, Animate, Unboxing
+Tags: Music, Anime, Unboxing
 Slug: bokuyaba-ost
 Authors: Wei Lee
 Cover: /images/post-images/2024-bokuyaba-ost/P1240668.jpeg

@@ -3,7 +3,7 @@ Subtitle: 爆裂魔法跟偶像的幸福兩個都想要
 Date: 2023-04-22 10:22
 Modified: 2023-05-20 12:10
 Category: Review
-Tags: Animate, 新番嚐百草
+Tags: Anime, 新番嚐百草
 Slug: what-i-will-watch-in-2023-sprint
 Authors: Wei Lee
 

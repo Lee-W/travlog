@@ -2,7 +2,7 @@ Title: 腦筋急轉彎 2
 Subtitle: Zero to One 總是讓人比較印象深刻
 Date: 2024-07-17 23:45
 Category: Review
-Tags: Animate, Movie
+Tags: Anime, Movie
 Slug: inside-out-2
 Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-sprint/inside-out-2.jpeg

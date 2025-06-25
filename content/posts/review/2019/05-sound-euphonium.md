@@ -2,7 +2,7 @@ Title: 吹響吧！上低音號 劇場版 三部曲
 Date: 2019-10-25 11:38
 Modified: 2019-11-04 12:38
 Category: Review
-Tags: Animate, Movie, Kyoto Anime
+Tags: Anime, Movie, Kyoto Anime
 Slug: sound-euphonium
 Authors: Wei Lee
 Summary:

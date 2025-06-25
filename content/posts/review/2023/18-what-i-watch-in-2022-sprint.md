@@ -2,7 +2,7 @@ Title: 2022 春季看什麼
 Subtitle: 太好聽了吧，簡直是天籟
 Date: 2023-12-04 23:30
 Category: Review
-Tags: Animate, 當季看什麼, TODO
+Tags: Anime, 當季看什麼, TODO
 Slug: what-i-watch-in-2022-sprint
 Authors: Wei Lee
 

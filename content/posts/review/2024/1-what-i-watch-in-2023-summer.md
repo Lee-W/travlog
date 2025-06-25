@@ -2,7 +2,7 @@ Title: 2023 夏季看什麼
 Subtitle: 問おう。 あなたがわたしのマスターか？
 Date: 2024-01-03 23:20
 Category: Review
-Tags: Animate, 當季看什麼
+Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2023-summer
 Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watch-in-2023-summer/are-you-my-master-cat.png

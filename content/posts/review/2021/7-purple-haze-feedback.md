@@ -3,7 +3,7 @@ Subtitle: 福葛的救贖
 Date: 2021-12-14 23:37
 Modified: 2021-12-15 9:36
 Category: Review
-Tags: Animate, JOJO, Novel
+Tags: Anime, JOJO, Novel
 Slug: purple-haze-feedback
 Authors: Wei Lee
 

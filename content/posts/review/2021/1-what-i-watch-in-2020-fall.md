@@ -2,7 +2,7 @@ Title: 2020 秋季看什麼 - 新番/舊番/電影
 Date: 2021-01-07 18:08
 Modified: 2021-01-09 22:44
 Category: Review
-Tags: Animate, 當季看什麼
+Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2020-fall
 Authors: Wei Lee
 

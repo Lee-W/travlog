@@ -3,7 +3,7 @@ Subtitle: 我的手離電話越來越近了
 Date: 2025-01-27 19:45
 Modified: 2025-01-27 21:25
 Category: Review
-Tags: Animate
+Tags: Anime
 Slug: If-My-Wife-Becomes-an-Elementary-School-Student
 Authors: Wei Lee
 Cover: /images/meme/closer-to-the-phone.jpg

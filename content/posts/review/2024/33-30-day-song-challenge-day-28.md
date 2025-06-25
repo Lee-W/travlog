@@ -2,7 +2,7 @@ Title: 30 天歌挑戰 - Day 28
 Subtitle: A Sony by an Artist whose Voice You Love
 Date: 2024-05-19 12:26
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-28
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

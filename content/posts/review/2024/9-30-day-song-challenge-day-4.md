@@ -3,7 +3,7 @@ Subtitle: A song that minds you of someone
 Date: 2024-04-25 12:00
 Modified: 2024-05-08 12:45
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-4
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

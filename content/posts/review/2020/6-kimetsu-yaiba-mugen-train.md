@@ -1,7 +1,7 @@
 Title: 鬼滅之刃劇場版 無限列車篇
 Date: 2020-11-19 15:50
 Category: Review
-Tags: Animate, Movie
+Tags: Anime, Movie
 Slug: kimetsu-yaiba-mugen-train
 Authors: Wei Lee
 

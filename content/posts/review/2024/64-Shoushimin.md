@@ -2,7 +2,7 @@ Title: 小市民系列
 Subtitle: 小佐內可愛
 Date: 2024-11-16 16:20
 Category: Review
-Tags: Animate
+Tags: Anime
 Slug: Shoushimin
 Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/Shoushimin-osanae.png

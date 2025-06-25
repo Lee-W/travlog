@@ -2,7 +2,7 @@ Title: 30 天歌挑戰 - Day 25
 Subtitle: A Song You Like by an Artist No Longer Living
 Date: 2024-05-16 12:15
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-25
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

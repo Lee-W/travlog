@@ -2,7 +2,7 @@ Title: BanG Dream! It's MyGO!!!!! 前編　春の陽だまり、迷い猫
 Subtitle: 我們仍未知道那天為何演奏春日影
 Date: 2024-10-19 10:30
 Category: Review
-Tags: Movie, Animate
+Tags: Movie, Anime
 Slug: band-dream-it-s-my-go-movie-1
 Authors: Wei Lee
 Cover: /images/post-images/2024-band-dream-it-s-my-go-movie-1/mygo.jpg

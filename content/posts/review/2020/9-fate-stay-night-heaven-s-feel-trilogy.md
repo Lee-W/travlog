@@ -1,7 +1,7 @@
 Title: Fate/stay night Heaven's Feel 馬拉松
 Date: 2020-12-30 15:52
 Category: Review
-Tags: Animate, Movie, Fate
+Tags: Anime, Movie, Fate
 Slug: fate-stay-night-heaven-s-feel
 Authors: Wei Lee
 Cover: /images/post-images/2020-fsn-hf/ticket-3.jpg

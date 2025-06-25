@@ -2,7 +2,7 @@ Title: 30 天歌挑戰 - Day 20
 Subtitle: A Song That Has Many Meanings to You
 Date: 2024-05-11 23:59
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-20
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

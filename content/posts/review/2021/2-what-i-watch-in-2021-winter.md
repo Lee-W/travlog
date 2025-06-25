@@ -1,7 +1,7 @@
 Title: 2021 冬季看什麼 - 動畫/影集/漫畫/電影
 Date: 2021-04-24 16:27
 Category: Review
-Tags: Animate, 當季看什麼
+Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2021-winter
 Authors: Wei Lee
 

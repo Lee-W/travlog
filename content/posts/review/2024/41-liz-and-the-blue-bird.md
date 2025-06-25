@@ -2,7 +2,7 @@ Title: 莉茲與青鳥
 Subtitle: あぁ、神様、どうして私にカゴの開け方を教えたのですか。
 Date: 2024-06-15 08:40
 Category: Review
-Tags: Animate, Movie
+Tags: Anime, Movie
 Slug: liz-and-the-blue-bird
 Authors: Wei Lee
 Cover: /images/post-images/2024-liz/liz.jpeg

@@ -2,7 +2,7 @@ Title: 尼爾：自動人形 Ver1.1a 下半季
 Subtitle: 人類に栄光あれ
 Date: 2024-10-22 22:45
 Category: Review
-Tags: Animate
+Tags: Anime
 Slug: nier-automata
 Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/nier-human-honor.png

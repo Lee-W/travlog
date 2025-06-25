@@ -3,7 +3,7 @@ Subtitle: A Song You’d Love To be Played at Your Wedding
 Date: 2024-05-05 12:00
 Modified: 2024-05-08 12:45
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-14
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

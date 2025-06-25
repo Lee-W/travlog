@@ -2,7 +2,7 @@ Title: 2023 秋季看什麼
 Subtitle: 我先去地獄等你了
 Date: 2024-02-17 13:10
 Category: Review
-Tags: Animate, 當季看什麼
+Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2023-fall
 Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watch-in-2023-fall/hell.png

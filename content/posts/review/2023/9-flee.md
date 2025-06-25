@@ -1,7 +1,7 @@
 Title: 漂浪人生
 Date: 2023-07-03 23:32
 Category: Review
-Tags: Animate, Documentary
+Tags: Animation, Documentary
 Slug: Flee
 Authors: Wei Lee
 

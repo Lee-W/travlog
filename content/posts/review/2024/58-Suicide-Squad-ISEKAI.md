@@ -2,7 +2,7 @@ Title: 異世界自殺突擊隊
 Subtitle: 有趣的嘗試，但不能說是成功的嘗試
 Date: 2024-08-28 19:30
 Category: Review
-Tags: Animate
+Tags: Anime
 Slug: Suicide-Squad-ISEKAI
 Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/Suicide-Squad-ISEKAI.jpeg

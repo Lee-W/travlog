@@ -2,7 +2,7 @@ Title: 歡迎光臨，千歲醬
 Subtitle: 這一定是京都觀光案內所的陰謀
 Date: 2024-08-27 22:55
 Category: Review
-Tags: Animate
+Tags: Anime
 Slug: okoshiyasu-chitose-chan
 Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/Okoshiyasu,%20Chitose-chan.png

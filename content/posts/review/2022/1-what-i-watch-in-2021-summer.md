@@ -2,7 +2,7 @@ Title: 2021 夏季看什麼
 Subtitle: 熟悉的京阿尼回來了！
 Date: 2022-02-06 17:50
 Category: Review
-Tags: Animate, 當季看什麼
+Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2021-summer
 Authors: Wei Lee
 

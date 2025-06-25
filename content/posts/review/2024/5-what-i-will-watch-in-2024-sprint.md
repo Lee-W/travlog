@@ -2,7 +2,7 @@ Title: 2024 春番嚐百草
 Subtitle: 很好吃
 Date: 2024-04-14 19:30
 Category: Review
-Tags: Animate, 新番嚐百草
+Tags: Anime, 新番嚐百草
 Slug: what-i-will-watch-in-2024-sprint
 Authors: Wei Lee
 

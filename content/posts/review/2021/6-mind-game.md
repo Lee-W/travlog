@@ -2,7 +2,7 @@ Title: 心靈遊戲
 Subtitle: 你的選擇決定你的世界
 Date: 2021-11-06 15:17
 Category: Review
-Tags: Animate, Movie
+Tags: Anime, Movie
 Slug: mind-game
 Authors: Wei Lee
 Cover: /images/post-images/2021-mind-game/mind-game.jpeg

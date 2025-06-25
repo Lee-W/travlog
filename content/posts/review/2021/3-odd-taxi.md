@@ -1,7 +1,7 @@
 Title: 奇巧計程車
 Date: 2021-07-28 18:42
 Category: Review
-Tags: Animate
+Tags: Anime
 Slug: odd-taxi
 Authors: Wei Lee
 

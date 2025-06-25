@@ -3,7 +3,7 @@ Subtitle: FGO 終局之戰（？）
 Date: 2022-09-10 23:18
 Modified: 2022-09-16 23:52
 Category: Review
-Tags: Animate, Fate, Movie
+Tags: Anime, Fate, Movie
 Slug: fgo-solomon
 Cover: /images/post-images/2022-fgo-solomon/fgo-solomon-ticket-special.jpeg
 Authors: Wei Lee

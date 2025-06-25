@@ -2,7 +2,7 @@ Title: 言葉之庭
 Subtitle: 互舔傷口（不是腳）的故事
 Date: 2024-08-18 21:35
 Category: Review
-Tags: Movie, Animate
+Tags: Movie, Anime
 Slug: the-garden-of-words
 Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/the-garden-of-words.jpg

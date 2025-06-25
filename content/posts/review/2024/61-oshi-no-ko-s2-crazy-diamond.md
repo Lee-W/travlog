@@ -2,7 +2,7 @@ Title: 【我推的孩子】 第二季
 Subtitle: クレイジー・ダイヤモンド
 Date: 2024-10-29 22:55
 Category: Review
-Tags: Animate
+Tags: Anime
 Slug: oshi-no-ko-season-2
 Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/oshi-no-alijma.png

@@ -2,7 +2,7 @@ Title: 30 天歌挑戰 - Day 9
 Subtitle: A song that makes you happy
 Date: 2024-04-30 12:00
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-9
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

@@ -2,7 +2,7 @@ Title: 30 天歌挑戰 - Day 15
 Subtitle: A Song You Like That’s a Cover By Another Artist
 Date: 2024-05-06 12:00
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-15
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

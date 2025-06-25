@@ -2,7 +2,7 @@ Title: 迷宮飯 第一季下半
 Subtitle: 吃著火鍋唱著歌
 Date: 2024-06-28 23:35
 Category: Review
-Tags: Animate
+Tags: Anime
 Slug: 44-dungeon-meshi-season-1-second-half
 Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-winter/17136214591974.jpg

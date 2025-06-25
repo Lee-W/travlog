@@ -2,7 +2,7 @@ Title: 2020 夏季看什麼
 Date: 2020-10-03 19:30
 Modified: 2020-10-27 15:50
 Category: Review
-Tags: Animate, Movie, 當季看什麼
+Tags: Anime, Movie, 當季看什麼
 Slug: what-i-watch-in-2020-summer
 Authors: Wei Lee
 

@@ -2,7 +2,7 @@ Title: 2024 冬季看什麼
 Subtitle: 如果是勇者欣梅爾就會演奏春日影
 Date: 2024-05-31 12:55
 Category: Review
-Tags: Animate, 當季看什麼
+Tags: Anime, 當季看什麼
 Slug: what-i-watched-in-2024-winter
 Authors: Wei Lee
 

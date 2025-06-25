@@ -2,7 +2,7 @@ Title: 死神少爺與黑女僕
 Subtitle: 過著不被人愛，也不能愛人的悲慘生活
 Date: 2024-07-07 16:25
 Category: Review
-Tags: Animate
+Tags: Anime
 Slug: the-death-boy-and-the-black-maid
 Authors: Wei Lee
 

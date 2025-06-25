@@ -3,7 +3,7 @@ Subtitle: A Song You Like From the ‘70s
 Date: 2024-05-04 12:08
 Modified: 2024-05-08 12:45
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-13
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

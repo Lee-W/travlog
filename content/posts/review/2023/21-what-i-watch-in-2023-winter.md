@@ -2,7 +2,7 @@ Title: 2023 冬季看什麼
 Subtitle: 愉悅吧，少女，你的戀情終將成真
 Date: 2023-12-22 19:30
 Category: Review
-Tags: Animate, 當季看什麼
+Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2023-winter
 Authors: Wei Lee
 

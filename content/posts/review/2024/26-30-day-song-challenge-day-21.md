@@ -2,7 +2,7 @@ Title: 30 天歌挑戰 - Day 21
 Subtitle: A Song You Like With a Person’s Name in the Title
 Date: 2024-05-12 13:15
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-21
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

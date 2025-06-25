@@ -2,7 +2,7 @@ Title: 30 天歌挑戰 - Day 29
 Subtitle: A Song You Remember From Your Childhood
 Date: 2024-05-20 07:56
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-29
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

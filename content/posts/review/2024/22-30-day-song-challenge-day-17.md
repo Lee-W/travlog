@@ -2,7 +2,7 @@ Title: 30 天歌挑戰 - Day 17
 Subtitle: A Song You’d Sing Karaoke Duet of
 Date: 2024-05-08 12:10
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-17
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

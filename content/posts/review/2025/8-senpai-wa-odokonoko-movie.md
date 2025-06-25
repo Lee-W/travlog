@@ -2,7 +2,7 @@ Title: 學姊是男孩劇場版：雨後天晴
 Subtitle: 真物
 Date: 2025-05-09 08:41
 Category: Review
-Tags: Animate, Movie
+Tags: Anime, Movie
 Slug: senpai-wa-odokonoko-movie
 Authors: Wei Lee
 Cover: /images/post-images/2025-what-i-watched-in-2025-sprint/senpai.JPEG

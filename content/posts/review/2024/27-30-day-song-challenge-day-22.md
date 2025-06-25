@@ -3,7 +3,7 @@ Subtitle: A Song That Moves You Forward
 Date: 2024-05-13 07:55
 Modified: 2024-05-13 12:10
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-22
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

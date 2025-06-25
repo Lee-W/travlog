@@ -2,7 +2,7 @@ Title: 30 天歌挑戰 - Day 12
 Subtitle: A Song From Your Preteen Years
 Date: 2024-05-03 12:00
 Category: Review
-Tags: Animate, Music
+Tags: Anime, Music
 Slug: 30-day-song-challenge-day-12
 Authors: Wei Lee
 Series: 30 DAY SONG CHALLENGE

@@ -2,7 +2,7 @@ Title: 回憶三部曲
 Subtitle: 經得起時間考驗的好作品
 Date: 2021-09-04 13:10
 Category: Review
-Tags: Animate
+Tags: Anime
 Slug: memories
 Authors: Wei Lee
 Cover: /images/post-images/2021-memories/memories.jpeg

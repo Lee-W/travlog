@@ -3,7 +3,7 @@ Subtitle: 我書讀不夠多 😢
 Date: 2022-09-11 16:47
 Modified: 2025-05-09 08:50
 Category: Review
-Tags: Animate, 當季看什麼, TODO
+Tags: Anime, 當季看什麼, TODO
 Slug: what-i-watch-in-2021-fall
 Authors: Wei Lee
 

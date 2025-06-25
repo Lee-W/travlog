@@ -1,7 +1,7 @@
 Title: 小林家的龍女僕
 Date: 2019-11-10 22:44
 Category: Review
-Tags: Animate, Kyoto Anime
+Tags: Anime, Kyoto Anime
 Slug: miss-kobayashi-s-dragon-maid
 Authors: Wei Lee
 Summary:
