@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+import attila
+
 HOST = "travlog.wei-lee.me"
 
 # ----common between blogs----
@@ -47,7 +49,7 @@ ARTICLE_SAVE_AS = "posts/{category}/{date:%Y}/{date:%m}/{slug}/index.html"
 STATIC_PATHS = ["images", "extra", "static"]
 
 # Theme Setting
-THEME = "theme/attila"
+THEME = attila.get_path()
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
 SHOW_ARTICLE_MODIFIED_TIME = True
 CATEGORIES_URL = "category"

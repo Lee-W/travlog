@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "attila",
     "beautifulsoup4>=4.12.3",
     "ghp-import>=2.1.0",
     "invoke>=2.2.0",
@@ -29,6 +30,9 @@ dev-dependencies = [
     "pre-commit-hooks>=5.0.0",
     "ruff>=0.6.9",
 ]
+
+[tool.uv.sources]
+attila = { git = "https://github.com/Lee-W/attila/", rev = "weilee-customization" }
 
 [tool.commitizen]
 name = "cz_customize"
