@@ -1,7 +1,7 @@
 Title: 絕對主觀的作品排名
 Slug: story-ranking
 Date: 2022-02-06 18:48
-Modified: 2025-06-08 12:04
+Modified: 2025-08-02 20:04
 
 啟發自[kaze的日本留學&不務正業ACG](https://aurakaze.blog/list_anime/)跟在推特看到的[TierMaker](https://tiermaker.com/create/anime-tier-list-300-anime-17194)
 才做了這個給自己的作品排名/索引
@@ -63,6 +63,7 @@ Modified: 2025-06-08 12:04
 * [【我推的孩子】 第二季]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_2)
 * [失憶投捕]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_16)
 * [驀然回首]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_20)
+* [電影版 K-ON]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#k-on)
 * DDDD 惡魔的破壞
     * [DDDD 惡魔的破壞]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#dddd)
     * [DDDD惡魔的破壞 後編]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#dddd_1)
@@ -208,7 +209,6 @@ Modified: 2025-06-08 12:04
     * [徒然喜歡你 （二刷）]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_10)
 * K-ON
     * K-ON （第一季、第二季）
-    * [電影版 K-ON]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#k-on)
 * 虎與龍
     * [虎與龍]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#_13)
     * [虎與龍 TIGER×DRAGON! 特別篇]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#tigerdragon)
