@@ -25,6 +25,10 @@
   margin-top: 20px;
 }
 
+.post-content small {
+    font-size: 0.8em;
+}
+
 .box > p {
   font-size: 1.75em;
   line-height: 1.5em;
