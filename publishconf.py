@@ -6,8 +6,8 @@ import os
 import sys
 
 sys.path.append(os.curdir)
-from pelicanconf import HOST
 from pelicanconf import *  # noqa: F401, E402, F403
+from pelicanconf import HOST
 
 SITEURL = f"https://{HOST}"
 RELATIVE_URLS = False
@@ -21,3 +21,6 @@ EXTRA_PATH_METADATA = {
 DELETE_OUTPUT_DIRECTORY = True
 
 GOOGLE_ANALYTICS = os.environ.get("GOOGLE_ANALYTICS")
+
+# local plugins                                                                                                                               │
+DEADLINKS_VALIDATION = False

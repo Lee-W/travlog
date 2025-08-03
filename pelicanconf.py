@@ -103,6 +103,13 @@ PLUGINS = [
 ANOTHER_READ_MORE_LINK = ""
 PAGEFIND_ENABLED = True
 
+# Local plugins
+LOCAL_PLUGINS = [
+    "pelican.plugins.deadlinks",
+]
+PLUGINS.extend(LOCAL_PLUGINS)
+DEADLINKS_VALIDATION = True
+
 # pelican-seo settings
 SEO_REPORT = True  # SEO report is enabled by default
 SEO_ENHANCER = True  # SEO enhancer is disabled by default

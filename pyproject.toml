@@ -10,6 +10,7 @@ dependencies = [
     "ghp-import>=2.1.0",
     "invoke>=2.2.0",
     "markdown-del-ins>=1.0.0",
+    "pelican-deadlinks",
     "pelican-render-math>=1.0.3",
     "pelican-seo>=1.2.2",
     "pelican-series>=3.0.0",
@@ -33,6 +34,7 @@ dev-dependencies = [
 
 [tool.uv.sources]
 attila = { git = "https://github.com/Lee-W/attila/", rev = "weilee-customization" }
+pelican-deadlinks = { git = "https://github.com/pelican-plugins/deadlinks" }
 
 [tool.commitizen]
 name = "cz_customize"
