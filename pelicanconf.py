@@ -77,6 +77,7 @@ SOCIAL = (
     ("Twitter", "https://twitter.com/clleew"),
     ("RSS", f"https://{HOST}/feeds/all.atom.xml"),
 )
+JINJA_GLOBALS = {"POST_SHARE_MASTODON_DOMAIN": "mtd.pythonasia.org"}
 
 # Markdown extension
 MARKDOWN = {
@@ -94,11 +95,14 @@ MARKDOWN = {
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = [
     "another_read_more_link",
-    "pelican.plugins.series",
-    "pelican.plugins.statistics",
+    "pelican.plugins.neighbors",
     "pelican.plugins.render_math",
-    "pelican.plugins.share_post",
     "pelican.plugins.seo",
+    "pelican.plugins.series",
+    "pelican.plugins.share_post",
+    "pelican.plugins.statistics",
+    "pelican.plugins.tag_cloud",
+    "pelican.plugins.webassets",
 ]
 ANOTHER_READ_MORE_LINK = ""
 PAGEFIND_ENABLED = True
@@ -108,7 +112,7 @@ LOCAL_PLUGINS = [
     "pelican.plugins.deadlinks",
 ]
 PLUGINS.extend(LOCAL_PLUGINS)
-DEADLINKS_VALIDATION = True
+DEADLINKS_VALIDATION = False
 
 # pelican-seo settings
 SEO_REPORT = True  # SEO report is enabled by default
