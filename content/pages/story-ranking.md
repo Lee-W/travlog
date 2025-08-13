@@ -112,10 +112,10 @@ Modified: 2025-08-02 20:04
     * [衛宮家今天的餐桌風景]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#_9)
 * JOJO 的奇妙冒險
     * [JOJO 的奇妙冒險]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#jojo)
+    * [JOJO 的奇妙冒險]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#jojo)
     * [JOJO 的奇妙冒險 不滅鑽石]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#jojo)
     * [JOJO 的奇妙冒險 黃金之風]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#jojo_1)
     * [JOJO 的奇妙冒險 石之海]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#jojo)
-    * [JOJO 的奇妙冒險]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#jojo)
 * 新世紀福音戰士 新劇場版
     * [福音戰士新劇場版]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_21)
     * [新世紀福音戰士新劇場版：終]({filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#_11)
@@ -214,8 +214,8 @@ Modified: 2025-08-02 20:04
     * [虎與龍 TIGER×DRAGON! 特別篇]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#tigerdragon)
 * 輝夜姬想讓人告白～天才們的戀愛頭腦戰～
     * [輝夜姬想讓人告白～ 天才們的戀愛頭腦戰～ 第二季]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_2)
-    * [輝夜姬想讓人告白 ー超級浪漫ー]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_2)
     * [輝夜姬想讓人告白？～天才們的戀愛頭腦戰～ 第二季 OVA]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#ova)
+    * [輝夜姬想讓人告白 ー超級浪漫ー]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_2)
 * 為美好的世界獻上祝福
     * 為美好的世界獻上祝福
     * [為美好的世界獻上祝福！紅傳說 (4DX)]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#4dx)
@@ -236,7 +236,7 @@ Modified: 2025-08-02 20:04
 * 吹響吧！ 上低音號
     * 吹響吧！ 上低音號 (TV 版)
     * [吹響吧！上低音號 劇場版]({filename}/posts/review/2019/05-sound-euphonium.md)
-        * [吹響吧！上低音號～想傳達的旋律～ （重映）]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_14)
+        * [吹響吧！上低音號～想傳達的旋律～（重映）]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_14)
         * [吹響吧！上低音號～誓言的終章～ （重映）]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_16)
 * 隱瞞之事
     * [隱瞞之事]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_3)
@@ -832,21 +832,23 @@ Modified: 2025-08-02 20:04
 * [愛在雨過天晴]({filename}/posts/review/2024/4-what-i-watch-in-2023-fall.md#_25)
 * 驀然回首
 * [再見繪梨]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_27)
+* [擅長捉弄人的高木同學]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_26)
+* 輝夜姬想讓人告白~天才們的戀愛頭腦戰
+    * [輝夜姬想讓人告白~天才們的戀愛頭腦戰~]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_27) （連載）
+    * [輝夜姬想讓人告白]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_28)（完結）
 
 ### A Tier
 * [日常]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#29)
 * [岸邊露伴一動也不動]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_31)
-* [岸邊露伴完全不嬉鬧]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_32)
-* [我在詐騙公司上班]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_24)
-* [神明便利商店]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_20)
 * [魔法少年賈修]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_25)
 * [海歸線]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_27)
 * [嗶伊～不思議的生物]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_30)
-* [輝夜姬想讓人告白]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_28)
+* [明天星期六]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_26)
+* [我在詐騙公司上班]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_24)
+* [神明便利商店]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_20)
 
 ### B Tier
 * [四月是你的謊言 最後樂章]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_30)
-* [明天星期六]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_26)
 * [夢的化石]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_25)
 
 ### C Tier
@@ -858,27 +860,33 @@ Modified: 2025-08-02 20:04
 
 ### SS Tier
 * [葬送的芙莉蓮]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#27)
-* [間諜家家酒]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_30)
 * [衛宮家今天的餐桌風景]({filename}/posts/review/2021/1-what-i-watch-in-2020-fall.md#_21)
 * [海波追尋的終幕]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_25)
 * [海盜戰記]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_24)
-
-### S Tier
-* [擅長捉弄人的高木同學]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_26)
-* [輝夜姬想讓人告白~天才們的戀愛頭腦戰~]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_27)
-* [擅長捉弄人的(前)高木同學]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_29)
-* [影宅]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#28)
 * [躍動青春]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_25)
 * [失憶投捕]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_22)
+* BLUE GIANT EXPLORER
+
+### S Tier
+* [影宅]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#28)
+* [間諜家家酒]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_30)
+* 搖曳露營△
+* SLAM DUNK
 
 ### A Tier
 * [CITY]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#city)
+* [擅長捉弄人的(前)高木同學]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_29)
 * [即使如此依舊步步進逼]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_26)
 * [孤獨搖滾]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_29)
 * [地下忍者]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_28)
 * [輝夜姬讓人想八卦]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_29)
 * [陰晴不定的體操哥哥]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_24)
 * [地下城中的人]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#_23)
+* ざつ旅-That's Journey-
+* ぼっち・ざ・ろっく！外伝　廣井きくりの深酒日記
+* mono
+* ルリドラゴン
+*  会社と私生活－オンとオフ－
 
 ### B Tier
 * [這個美術社大有問題!]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_25)
@@ -901,6 +909,7 @@ Modified: 2025-08-02 20:04
 
 ### A Tier
 * [岸邊露伴完全不叫喊 短篇小說集]({filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_29)
+* [岸邊露伴完全不嬉鬧]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_32)
 * [Lycoris Recoil 莉可麗絲 Ordinary days]({filename}/posts/review/2025/7-what-i-watched-in-2024-fall.md#lycoris-recoil-ordinary-days)
 
 ---
