@@ -47,7 +47,6 @@ Cover: /images/post-images/2023-2-5-dimension-musical-sailor-moon-the-super-live
 
 ![stage]( /images/post-images/2023-2-5-dimension-musical-sailor-moon-the-super-live/16809691402054.jpg)
 
-
 雖然我抱怨了一些，但整體來說我還是很享受這次的表演
 希望之後能有我有看過的作品來台灣演出
 FGO 能來就太好了，光看官方之前釋出的就覺得好精彩耶 🤩

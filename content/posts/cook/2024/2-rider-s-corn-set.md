@@ -87,7 +87,6 @@ Cover: /images/post-images/2024-rider-s-corn-set/IMG_5633.jpeg
 
 ![tempura-step-2](/images/post-images/2024-rider-s-corn-set/tempura-step-2.jpeg)
 
-
 在另外一個碗混和 3 大匙低筋麵粉、 4 大匙水、1 小撮鹽
 用劃開的方式輕輕攪拌
 
@@ -112,7 +111,6 @@ Cover: /images/post-images/2024-rider-s-corn-set/IMG_5633.jpeg
 也是同樣拖了快一年沒寫的，下一篇應該會寫啦...
 
 ![IMG_5629](/images/post-images/2024-rider-s-corn-set/IMG_5629%20copy.jpeg)
-
 
 ![IMG_5633](/images/post-images/2024-rider-s-corn-set/IMG_5633.jpeg)
 

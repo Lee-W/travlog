@@ -25,6 +25,7 @@ Cover: /images/post-images/2023-yuru-camp-salmon-pot/finish-5.jpeg
 ## 食材 (2 人份)
 
 ### Part 1 鮭魚湯
+
 | 食材 | 份量 |
 |---|---|
 | 紅蘿蔔 | 2 根|
@@ -112,7 +113,6 @@ Cover: /images/post-images/2023-yuru-camp-salmon-pot/finish-5.jpeg
 這道料理還是成功惹
 
 ![finish-4](/images/post-images/2023-yuru-camp-salmon-pot/finish-4.jpeg)
-
 
 不過...
 還沒完呢！

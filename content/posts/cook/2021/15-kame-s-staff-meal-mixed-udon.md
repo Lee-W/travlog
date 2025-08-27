@@ -83,7 +83,6 @@ Cover: /images/post-images/2021-kame-s-staff-meal-mixed-udon/finish-1.jpeg
 ## 完成
 因為兩個盤子擺起來都蠻好看的，就拍了兩張紀錄一下
 
-
 ![finish-1]({static}/images/post-images/2021-kame-s-staff-meal-mixed-udon/finish-1.jpeg)
 
 ![finish-2]({static}/images/post-images/2021-kame-s-staff-meal-mixed-udon/finish-2.jpeg)

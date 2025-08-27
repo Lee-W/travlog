@@ -1,0 +1,53 @@
+# Global settings
+[global]
+exclude = ["node_modules", "build", "dist"]
+respect_gitignore = true
+
+# Disable specific rules
+disable = [
+  # MD002 - First heading should be a top-level heading
+  "MD002",
+  # MD004 - Unordered list style should be consistent
+  "MD004",
+  # MD013 - Line length: Allows lines longer than the default limit for better readability in technical docs
+  "MD013",
+  # MD022 - Add blank lines around headings
+  "MD022",
+  # MD024 - Avoid duplicate heading text
+  "MD024",
+  # MD026 - Keep headings clean and professional
+  "MD026",
+  # MD028 - No blank lines inside quotes
+  "MD028",
+  # MD029 - Use consistent numbers for ordered lists
+  "MD029",
+  # MD030 - Add consistent spacing after list markers
+  "MD030",
+  # MD032 - Separate lists with blank lines
+  "MD032",
+  # MD033 - No HTML tags
+  "MD033",
+  # MD036 - Emphasis used instead of a heading: Permits emphasis used instead of a heading when needed
+  "MD036",
+  # MD041 - Start Your Document with a Clear Title
+  "MD041",
+  # MD051 - Link anchors should exist
+  "MD051",
+  # MD052 - First line should be a top-level header: Permits other content before the main heading
+  "MD052",
+]
+
+# Configure individual rules
+[rules.MD007]
+indent = 4
+
+[rules.MD013]
+line_length = 10000
+code_blocks = false
+tables = false
+
+[rules.MD044]
+names = ["rumdl", "Markdown", "GitHub"]
+
+[rules.MD048]
+style = "backtick"

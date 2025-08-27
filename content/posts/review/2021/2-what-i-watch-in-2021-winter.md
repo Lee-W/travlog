@@ -420,7 +420,6 @@ OP 1「青春は残酷じゃない」有點太柔和，好像不適合當搞笑�
 
 ![violet-evergarden]({static}/images/post-images/2021-what-i-watch-in-2021-winter/violet-evergarden.jpeg)
 
-
 ### 動畫版 我想吃掉你的胰臟
 * 觀看平台： [Hami Video](https://hamivideo.hinet.net/hamivideo/product/112782.do?cs=2)
 

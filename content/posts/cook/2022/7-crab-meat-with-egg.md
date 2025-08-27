@@ -92,7 +92,6 @@ Cover: /images/post-images/2022-crab-meat-with-egg/finish-2.jpeg
 
 ![step-7](/images/post-images/2022-crab-meat-with-egg/step-7.jpeg)
 
-
 混合水 100 cc 、雞湯粉 1 小匙、鹽 1/4 小匙、砂糖 1/2 小匙、醬油 1 小匙、酒 1 大匙、加水溶解的太白粉 1 ~ 1.5 大匙成醬油勾芡，並加入平底鍋煮沸
 攪拌時視情況倒入加水溶解的太白粉
 
@@ -121,7 +120,6 @@ Cover: /images/post-images/2022-crab-meat-with-egg/finish-2.jpeg
 剖面圖大概會像這樣
 
 ![cut](/images/post-images/2022-crab-meat-with-egg/cut.jpeg)
-
 
 JK 時期的藤村姐看起來好好的，不知道為什麼 5 年後就變了個樣 👀
 

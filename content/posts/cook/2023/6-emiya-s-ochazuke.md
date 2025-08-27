@@ -122,7 +122,6 @@ Cover: /images/post-images/2023-emiya-s-ochazuke/finish-2.jpeg
 
 ![last-step](/images/post-images/2023-emiya-s-ochazuke/last-step.jpeg)
 
-
 ## 完成
 
 我沒有那些很炫的餐具，能擺出這樣已經是極限惹

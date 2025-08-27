@@ -84,7 +84,6 @@ Cover: images/post-images/2021-okinawa-style-bitter-groud/finish.jpeg
 
 ![step-8]({static}/images/post-images/2021-okinawa-style-bitter-groud/step-8.jpeg)
 
-
 ![step-9]({static}/images/post-images/2021-okinawa-style-bitter-groud/step-9.jpeg)
 
 倒酒，放山苦瓜

@@ -43,6 +43,7 @@ Cover: /images/post-images/2021-emiya-s-chirashizushi/finish-5.jpeg
 原作還有一個食材是櫻花松，這個我還真的不知道要去哪裡找 0.0
 
 ### 調味料
+
 | 食材 | 份量 |
 | --- | --- |
 | 醬油 | 1 大匙 |
@@ -51,6 +52,7 @@ Cover: /images/post-images/2021-emiya-s-chirashizushi/finish-5.jpeg
 | 泡過香菇的水 | 1 大匙 |
 
 ### 錦系煎蛋
+
 | 食材 | 份量 |
 | --- | --- |
 | 蛋 | 3 個 |
@@ -58,6 +60,7 @@ Cover: /images/post-images/2021-emiya-s-chirashizushi/finish-5.jpeg
 | 砂糖 | 2 小匙 |
 
 ### 壽司醋
+
 | 食材 | 份量 |
 | --- | --- |
 | 米醋 | 6 大匙 |
@@ -144,7 +147,6 @@ Cover: /images/post-images/2021-emiya-s-chirashizushi/finish-5.jpeg
 
 ![other-step-5]({static}/images/post-images/2021-emiya-s-chirashizushi/other-step-5.jpeg)
 
-
 ### 擺飾
 用比較大的碗將煮好的飯拿出來，並將泡過蝦子的壽司醋淋上去
 用飯匙像切縱線一樣攪拌飯
@@ -184,7 +186,6 @@ Cover: /images/post-images/2021-emiya-s-chirashizushi/finish-5.jpeg
 上面放一顆鳥蛋就完成了
 
 ![finish-1]({static}/images/post-images/2021-emiya-s-chirashizushi/finish-1.jpeg)
-
 
 ## 完成
 

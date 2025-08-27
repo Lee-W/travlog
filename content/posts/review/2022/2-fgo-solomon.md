@@ -22,7 +22,6 @@ Authors: Wei Lee
 縱然電影做得不算太突出，我還是全程都很享受
 有玩 FGO 或對 Fate 系列大致了解都還蠻推薦可以看一下
 
-
 人權圖防雷
 
 ![fgo-solomon-ticket](/images/post-images/2022-fgo-solomon/fgo-solomon-ticket.jpeg)

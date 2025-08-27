@@ -211,7 +211,6 @@ Authors: Wei Lee
 
 ![mahoshojo](/images/post-images/2024-what-i-watched-in-2024-winter/mahoshojo.jpeg)
 
-
 ### 烈焰先鋒 救國的橘衣消防員
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=35245)
 
@@ -374,7 +373,6 @@ ED 我自己還好，但幾個朋友都很喜歡
 * 觀看平台： 信義威秀 3 廳
 
 ![robot-dreams](/images/post-images/2024-what-i-watched-in-2024-winter/robot-dreams.jpeg)
-
 
 完全沒有台詞的一部電影，但很棒我很喜歡
 在電影播放沒多久，我就在許願它能不能不要有台詞

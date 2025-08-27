@@ -104,7 +104,6 @@ Cover: /images/post-images/2023-what-i-will-watch-in-2023-summer/helck.jpg
 
 ![helck](/images/post-images/2023-what-i-will-watch-in-2023-summer/helck.jpg)
 
-
 ### AI 電子基因
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=34078)
 
@@ -125,7 +124,6 @@ Cover: /images/post-images/2023-what-i-will-watch-in-2023-summer/helck.jpg
 ~~期待之後有更多寶可夢對戰~~
 
 ![Dark Gathering](/images/post-images/2023-what-i-will-watch-in-2023-summer/Dark-Gathering.jpg)
-
 
 ### 白聖女與黑牧師
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=34135)

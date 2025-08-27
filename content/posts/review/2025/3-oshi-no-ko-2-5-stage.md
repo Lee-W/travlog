@@ -147,7 +147,6 @@ T-Shirt 上面也都是東京 Blade 演員的名字
 
 ![arere](/images/post-images/2025-aimer-2024-25-tour/arere.png)
 
-
 小茜跟阿奎亞去看的舞台劇乒乓王子，也有演出一小段
 是鴨志田出演的
 稍微會跟觀眾有一些互動，是很好玩的橋段

@@ -22,7 +22,6 @@ Cover: /images/post-images/2024-what-i-watched-in-2024-summer/egumi-rash.png
 
 ![eghumi-watch](/images/post-images/2024-what-i-watched-in-2024-summer/eghumi-watch.jpg)
 
-
 角色原先是江口拓也為卡牌遊戲 EGUMI LEGACY 設計的
 江口拓也也有幫間諜家家酒中洛伊德·佛傑配音
 這是他幫間諜家家酒話的視覺圖

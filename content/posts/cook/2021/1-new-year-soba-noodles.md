@@ -38,6 +38,7 @@ Cover: /images/post-images/2021-new-year-soba-noodles/finish-with-saber.jpeg
 而且這個量做出的成品味道也沒什麼問題
 
 ### 炸蝦
+
 | 食材 | 份量 |
 |---|---|
 | 較大的蝦子 | 4 ~ 8 隻 |

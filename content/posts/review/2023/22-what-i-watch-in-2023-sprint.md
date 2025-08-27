@@ -85,7 +85,6 @@ Authors: Wei Lee
 什麼，你說你不喜歡惠惠嗎
 這不可能，你再想想
 
-
 ### 機動戰士鋼彈 水星的魔女 Part 2
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=33292)
 

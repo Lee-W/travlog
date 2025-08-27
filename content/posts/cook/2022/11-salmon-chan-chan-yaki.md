@@ -35,7 +35,6 @@ Cover: /images/post-images/2022-salmon-chan-chan-yaki/finish-3.jpeg
 | 沙拉油 | 少許 |
 | 胡椒鹽 | 少許 |
 
-
 ### 味噌醬汁
 
 | 食材 | 份量 |
@@ -90,7 +89,6 @@ Cover: /images/post-images/2022-salmon-chan-chan-yaki/finish-3.jpeg
 
 ![step-2](/images/post-images/2022-salmon-chan-chan-yaki/step-2.jpeg)
 
-
 在鐵板上倒點油，先從鮭魚魚肉的那面開始煎
 慢慢上色後，可以翻面煎魚皮面，並灑點胡椒鹽
 
@@ -112,7 +110,6 @@ Cover: /images/post-images/2022-salmon-chan-chan-yaki/finish-3.jpeg
 並且放入玉米
 
 ![step-8](/images/post-images/2022-salmon-chan-chan-yaki/step-8.jpeg)
-
 
 將 3 / 4 的味噌醬汁繞圈淋上去，蓋上蓋子用小火悶 5 ~ 6 分鐘
 
@@ -136,7 +133,6 @@ Cover: /images/post-images/2022-salmon-chan-chan-yaki/finish-3.jpeg
 
 ## 完成
 
-
 > 鮭魚鏘鏘燒！
 > 完成！
 
@@ -145,7 +141,6 @@ Cover: /images/post-images/2022-salmon-chan-chan-yaki/finish-3.jpeg
 > 收尾的味噌烏龍麵完成了！
 
 ![finish-2](/images/post-images/2022-salmon-chan-chan-yaki/finish-2.jpeg)
-
 
 鮭魚鏘鏘燒的製作上整體並不困難
 不過前置要處理海鮮的部分是稍微麻煩點

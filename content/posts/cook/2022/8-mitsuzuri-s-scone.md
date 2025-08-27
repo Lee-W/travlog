@@ -43,7 +43,6 @@ Cover: /images/post-images/2022-mitsuzuri-s-scone/finish-1.jpeg
 
 ![material](/images/post-images/2022-mitsuzuri-s-scone/material.jpeg)
 
-
 ## 步驟
 * 估計時間： 1.5 小時
 
@@ -59,7 +58,6 @@ Cover: /images/post-images/2022-mitsuzuri-s-scone/finish-1.jpeg
 如果是做紅茶司康要把茶葉一起加進去篩
 
 ![step-1](/images/post-images/2022-mitsuzuri-s-scone/step-1.jpeg)
-
 
 過篩後的麵粉放入奶油（不能融化），揉捏麵團到小顆粒狀
 ![step-2](/images/post-images/2022-mitsuzuri-s-scone/step-2.jpeg)

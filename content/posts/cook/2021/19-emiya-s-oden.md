@@ -122,7 +122,6 @@ Cover: /images/post-images/2021-emiya-s-oden/finish-1.jpeg
 ![step-6](/images/post-images/2021-emiya-s-oden/step-6.jpeg)
 ![step-7](/images/post-images/2021-emiya-s-oden/step-7.jpeg)
 
-
 白蘿蔔等食材燉煮 30 ~ 40 分鐘後
 放入甜不辣、油豆腐、馬鈴薯，用小火燉煮 10 ~ 15 分鐘
 如果裡面有加工食品就不要蓋鍋蓋了
@@ -132,7 +131,6 @@ Cover: /images/post-images/2021-emiya-s-oden/finish-1.jpeg
 最後將炸豆皮、魚丸、麻吉燒放入，再燉煮 3 ~ 5 分鐘
 
 ![step-9](/images/post-images/2021-emiya-s-oden/step-9.jpeg)
-
 
 將鍋子從爐子拿下，用報紙或毛巾包住 2 ~ 3 小時
 

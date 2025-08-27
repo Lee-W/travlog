@@ -76,7 +76,6 @@ Cover: /images/post-images/2024-blue-giant/fourth-1.jpg
 
 順便推薦尼爾喝牛奶的[EP151：用力要猛之我們都需要低俗娛樂《BLUE GIANT藍色巨星》《瘋狂富作用+仇富三部曲》](https://open.firstory.me/story/clivxe5cu02cn01vo64i736ci)
 
-
 ## 三刷： 西門 in89 COACH 廳
 
 ![third](/images/post-images/2024-blue-giant/third.jpg)

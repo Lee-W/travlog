@@ -287,7 +287,6 @@ Authors: Wei Lee
 
 ![Life Lessons with Uramichi Oniisan](/images/post-images/2024-what-i-watched-in-2024-sprint/Life%20Lessons%20with%20Uramichi%20Oniisan.jpg)
 
-
 ### 夢的化石
 * 觀看平台: [KOBO](https://www.kobo.com/tw/zh/ebook/d_qOsSYv3TqT1mDMc6brHA)
 

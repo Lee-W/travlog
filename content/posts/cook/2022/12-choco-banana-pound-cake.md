@@ -85,7 +85,6 @@ Cover: /images/post-images/2022-choco-banana-pound-cake/finish-1.jpeg
 
 ![step-6](/images/post-images/2022-choco-banana-pound-cake/step-6.jpeg)
 
-
 ## 完成
 
 如果不照著上面的時間建議，而且還不蓋鋁箔紙

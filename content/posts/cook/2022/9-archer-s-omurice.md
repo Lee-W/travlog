@@ -60,8 +60,6 @@ Cover: /images/post-images/2022-archer-s-omurice/finish-3.jpeg
 
 ![material](/images/post-images/2022-archer-s-omurice/material.jpeg)
 
-
-
 ## 事前準備
 
 洗米、煮飯
@@ -90,7 +88,6 @@ Cover: /images/post-images/2022-archer-s-omurice/finish-3.jpeg
 
 ![step-5](/images/post-images/2022-archer-s-omurice/step-5.jpeg)
 
-
 ### 飯
 
 洋蔥切塊，蘑菇切絲，雞肉切成可入口的大小
@@ -110,7 +107,6 @@ Cover: /images/post-images/2022-archer-s-omurice/finish-3.jpeg
 因為這是兩人份，所以可以先分成一半
 
 ![step-9](/images/post-images/2022-archer-s-omurice/step-9.jpeg)
-
 
 ### 蛋
 
@@ -136,7 +132,6 @@ Cover: /images/post-images/2022-archer-s-omurice/finish-3.jpeg
 ![step-13](/images/post-images/2022-archer-s-omurice/step-13.jpeg)
 
 因為是要做兩人份，上述步驟要再重複一次
-
 
 ## 完成
 
