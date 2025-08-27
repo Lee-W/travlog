@@ -76,7 +76,6 @@ FF 37 的時候，整場都跟著光武隨心流走
 
 ![group](/images/post-images/2022-first-time-cosplay/group.jpg)
 
-
 CWT 61 則是第一次自己晃晃
 因為還不太熟圈子的文化，也沒什麼認識的人
 社恐仔如我頓時覺得*我是誰，我在哪，我在幹嘛*
@@ -95,7 +94,6 @@ CWT 61 則是第一次自己晃晃
 大家都好年輕啊，我的活力有點跟不上 www
 
 ![baha](/images/post-images/2022-first-time-cosplay/baha.jpg)
-
 
 出了幾次沖田/新選組隊士
 想說反正都有了金色的假髮，好像可以來找個阿爾托莉雅出

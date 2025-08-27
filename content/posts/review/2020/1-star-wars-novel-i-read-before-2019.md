@@ -53,7 +53,7 @@ Series:
 * 英文難度: 4.8 / 5
 * 時間點: EP 1 以前
 * 適合怎樣的人: 喜歡西斯傳奇
-* 短評: *"Did you ever hear the tragedy of Darth Plagueis The Wise?"* 故事圍繞在 Palpatine 跟他的師父 Darth Plagueis 之間，幾乎可以跟前傳三部曲發生的每一件事串連在一起，也揭開了西斯比較神秘的一面
+* 短評: **"Did you ever hear the tragedy of Darth Plagueis The Wise?"** 故事圍繞在 Palpatine 跟他的師父 Darth Plagueis 之間，幾乎可以跟前傳三部曲發生的每一件事串連在一起，也揭開了西斯比較神秘的一面
 
 ### Dooku: Jedi Lost
 * 個人評分: 9 / 10
@@ -125,7 +125,7 @@ Series:
 * 英文難度: 3.5 / 5
 * 時間點: EP 3 ~ EP 4 之間
 * 適合怎樣的人: 喜歡看帝國軍的非典型官員 Thrawn（索龍元帥）如何運用謀略證明自己的能力
-* 短評: 故事開始於 Thrawn 在 Outer Rim 被帶回帝國，到最後成為帝國元帥。故事中出現的 Eli, Nightswan 都是相當有魅力的角色，而且有聲書說書人完全有 Thrawn 的魅力表現出來。每一個章節的開始都會有 Thrawn 的獨白，每一個事件也都會看到他是怎麼推演現在的狀況 *"To defeat an enemy, you must know them. Not simply their battle tactics, but their history, philosophy, art."*
+* 短評: 故事開始於 Thrawn 在 Outer Rim 被帶回帝國，到最後成為帝國元帥。故事中出現的 Eli, Nightswan 都是相當有魅力的角色，而且有聲書說書人完全有 Thrawn 的魅力表現出來。每一個章節的開始都會有 Thrawn 的獨白，每一個事件也都會看到他是怎麼推演現在的狀況**"To defeat an enemy, you must know them. Not simply their battle tactics, but their history, philosophy, art."**
 
 ### Thrawn: Alliances
 * 個人評分: 8.5 / 10

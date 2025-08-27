@@ -69,9 +69,7 @@ from [巴哈姆特動畫瘋 - 歷史資料](https://lee-w.github.io/bahamut_ani_
 
 ---
 
-
 ![yurukaku](/images/post-images/2024-yurukura/yurukaku.png)
-
 
 四個角色，我最喜歡的就是木村醬
 ![ep2](/images/post-images/2024-yurukura/ep2.png)

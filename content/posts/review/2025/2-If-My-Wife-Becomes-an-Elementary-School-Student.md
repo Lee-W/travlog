@@ -16,7 +16,6 @@ Cover: /images/meme/closer-to-the-phone.jpg
 
 ![closer-to-the-phone](/images/meme/closer-to-the-phone.jpg)
 
-
 重新讀過標題的順序，就會理解這是部篇轉生系的作品
 標題反過來可能就會變成監獄系作品去陪徐倫了 😆
 

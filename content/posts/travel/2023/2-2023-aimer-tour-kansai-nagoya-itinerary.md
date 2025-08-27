@@ -92,7 +92,6 @@ Cover: /images/post-images/2023-aimer-tour-kansai-nagoya-itinerary/P1190508.JPG
 
 ![than](/images/post-images/2023-aimer-tour-kansai-nagoya-itinerary/16834444394731.jpg)
 
-
 ## Day 4: 京都
 * 出町桝形商店街（玉子市場原型）
 * 貴船神社
@@ -114,7 +113,8 @@ Cover: /images/post-images/2023-aimer-tour-kansai-nagoya-itinerary/P1190508.JPG
 但這次就沒時間好好逛四条了
 
 ## Day 5: 環球影城
- * 環球影城
+
+* 環球影城
     * 咒術迴戰THE REAL 4D
     * SPY x FAMILY 機密任務
     * 哆啦A夢 XR乘車遊 ～大雄與天空之理想鄉～

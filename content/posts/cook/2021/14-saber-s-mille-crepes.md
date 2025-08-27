@@ -160,7 +160,6 @@ Cover: /images/post-images/2021-saber-s-mille-crepes/finish-comic-1.jpeg
 
 ![layer-step-6]({static}/images/post-images/2021-saber-s-mille-crepes/layer-step-6.jpeg)
 
-
 ### 夾層鮮奶油
 將鮮奶油跟細砂糖加入碗中，打到約九分發
 (拉起來可以尖角站起來的程度)

@@ -69,10 +69,7 @@ Cover: /images/post-images/2022-fried-eggs-from-memories/finish-2.jpeg
 ![sausage-step-2](/images/post-images/2022-fried-eggs-from-memories/sausage-step-2.jpeg)
 當水蒸發掉後轉中火，稍微再煎一下就完成了
 
-
-
 ![sausage-step-3](/images/post-images/2022-fried-eggs-from-memories/sausage-step-3.jpeg)
-
 
 ## 完成
 

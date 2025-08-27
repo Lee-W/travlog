@@ -67,7 +67,6 @@ Cover: /images/post-images/2024-what-i-will-watch-in-2024-fall/what-should-i-do.
 
 ![re-zero](/images/post-images/2024-what-i-will-watch-in-2024-fall/re-zero.jpg)
 
-
 ### 膽大黨
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=40138)
 

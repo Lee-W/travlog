@@ -36,12 +36,10 @@ Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 
 ![food](/images/post-images/2023-bahamut-anime-tourism-2023/16859543495719.jpg)
 
-
 不得不說第二間去的 [肉×日本酒 Fukuyaバル](https://goo.gl/maps/dxG1CkmT5r6cMcmW7) 真的是有夠好吃
 而且價格也很實在
 
 ![beef](/images/post-images/2023-bahamut-anime-tourism-2023/16876022175203.jpg)
-
 
 ## Day 2
 * 🥘 [珈琲るぽ](https://goo.gl/maps/VSQPHRkU3Fq46Pim8)
@@ -81,7 +79,6 @@ Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 先放上一張 b6 君上拿著 b6 君的凜醬
 
 ![yuru](/images/post-images/2023-bahamut-anime-tourism-2023/16875992903731.jpg)
-
 
 沒記錯久遠寺應該是犬山等人新年參拜的地方
 可惜的是這次忘了帶朱印帳，只能買單張的回來貼
@@ -140,7 +137,6 @@ Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 一樣之後會找機會寫一篇路人展的文章
 
 ![mob](/images/post-images/2023-bahamut-anime-tourism-2023/16875999507551.jpg)
-
 
 看完展就出發八王子跟搖曳露營聯名 buffet 團會合了
 這是我吃過的動漫聯名餐點最用心、最有趣，也是最好吃的

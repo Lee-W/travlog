@@ -573,7 +573,6 @@ OP ちいさな日々 跟 ED 君は天然色 都會在適合的時機點出現
 
 ![IMG_7555](/images/post-images/2022-what-i-watch-in-2021-summer/dune.jpeg)
 
-
 ## 漫畫
 ### 葬送的芙莉蓮
 * 觀看平台： [Bookwalker](https://www.bookwalker.com.tw/product/120580)

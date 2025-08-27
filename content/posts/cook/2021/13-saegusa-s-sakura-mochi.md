@@ -53,11 +53,9 @@ Cover: /images/post-images/2021-saegusa-s-sakura-mochi/finish-1.jpeg
 
 ![step-4]({static}/images/post-images/2021-saegusa-s-sakura-mochi/step-4.jpeg)
 
-
 櫻葉泡的差不多就可以拿起來用廚房紙巾吸掉多餘的水氣
 
 ![step-5]({static}/images/post-images/2021-saegusa-s-sakura-mochi/step-5.jpeg)
-
 
 道明寺粉吸完糖水大概會長這樣
 試著用手指壓壓看能不能壓扁

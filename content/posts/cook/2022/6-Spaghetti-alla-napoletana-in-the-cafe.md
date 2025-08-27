@@ -78,7 +78,6 @@ Fate/HA 的芭潔特終於也出現在衛宮飯的故事中了
 
 ![pre-step-3](/images/post-images/2022-Spaghetti-alla-napoletana-in-the-cafe/pre-step-3.jpeg)
 
-
 ## 步驟
 * 估計時間： 30 分鐘
 
@@ -116,7 +115,6 @@ Fate/HA 的芭潔特終於也出現在衛宮飯的故事中了
 拌炒均勻就完成了～
 
 ![step-7](/images/post-images/2022-Spaghetti-alla-napoletana-in-the-cafe/step-7.jpeg)
-
 
 ## 完成
 義大利麵搭配這些料吃起來還蠻好吃的

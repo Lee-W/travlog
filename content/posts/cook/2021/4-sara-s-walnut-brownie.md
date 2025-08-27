@@ -41,6 +41,7 @@ Cover: /images/post-images/2021-sara-s-walnut-brownie/finish-comic-1.jpeg
 倒是奶油有點驚人，竟然這樣就一整條不見了......
 
 ### 麵糊
+
 | 食材 | 份量 |
 | --- | --- |
 | 低筋麵粉 | 70 g |
@@ -50,6 +51,7 @@ Cover: /images/post-images/2021-sara-s-walnut-brownie/finish-comic-1.jpeg
 麵粉跟可可粉買的有點多，應該還可以再做很多次
 
 ### 其他裝飾品
+
 | 食材 | 份量 |
 | --- | --- |
 | 鮮奶油 | 100 g |

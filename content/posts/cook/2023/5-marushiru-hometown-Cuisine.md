@@ -155,7 +155,6 @@ Cover: /images/post-images/2023-marushiru-hometown-Cuisine/finish-4.jpeg
 
 ![food-presentation-4](/images/post-images/2023-marushiru-hometown-Cuisine/food-presentation-4.jpeg)
 
-
 ## 完成
 
 完成了！
@@ -167,7 +166,6 @@ Cover: /images/post-images/2023-marushiru-hometown-Cuisine/finish-4.jpeg
 ![number](/images/post-images/2023-marushiru-hometown-Cuisine/number.jpg)
 
 ![finish-2](/images/post-images/2023-marushiru-hometown-Cuisine/finish-2.jpeg)
-
 
 ![finish-3](/images/post-images/2023-marushiru-hometown-Cuisine/finish-3.jpeg)
 

@@ -82,7 +82,6 @@ Cover: /images/post-images/2023-misorenabe/finish-4.jpeg
 2. 磨白蘿蔔
 3. 切菜
 
-
 ### 手工雞肉丸
 
 先將 1/2 根長蔥切成蔥花，並磨碎 1 片薑
@@ -149,7 +148,6 @@ Cover: /images/post-images/2023-misorenabe/finish-4.jpeg
 這樣食材就大致完成囉
 
 ![step-11](/images/post-images/2023-misorenabe/step-11.jpeg)
-
 
 白菜、長蔥、鴻禧菇、烤肉腐、豬肉先放入鍋中煮熟
 接著放入山茼蒿、年糕、雞肉丸、白蘿蔔泥，煮沸後熄火

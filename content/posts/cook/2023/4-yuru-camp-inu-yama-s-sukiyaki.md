@@ -70,7 +70,6 @@ Cover: /images/post-images/2023-yuru-camp-inu-yama-s-sukiyaki/finish-2.jpeg
 中間再放上茼蒿
 從下面的圖來看，很顯然我們把肉跟茼蒿放錯了 😢
 
-
 ![step-5](/images/post-images/2023-yuru-camp-inu-yama-s-sukiyaki/step-5.jpeg)
 
 Part 1 的壽喜燒就完成啦！
@@ -83,7 +82,6 @@ Part 1 的壽喜燒就完成啦！
 不過日本酒就也還是忘了買 🤦‍♂️
 
 ![sensai-sake](/images/post-images/2023-yuru-camp-inu-yama-s-sukiyaki/sensai-sake.png)
-
 
 ### Part 2
 

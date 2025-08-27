@@ -76,7 +76,6 @@ part 2 好幾個場面都讓我印象很深刻
 
 > 這是我們的愛的奇蹟！
 
-
 第二季最後靠木村，第三季還是要靠木村
 以後木村就是我大哥
 誰敢說木村大哥的不是，對不起我們不是朋友
@@ -503,7 +502,6 @@ myVideo 上的分類是深度品味、浪漫愛情
 光是這些能被紀錄，並且能被看到，就是件足夠有意義的事了吧
 
 ![Revolution-of-Our-Times](/images/post-images/2022-what-i-watch-in-2022-winter/Revolution-of-Our-Times.jpeg)
-
 
 ### 智能社會：進退兩難
 * 觀看平台： 華山光點

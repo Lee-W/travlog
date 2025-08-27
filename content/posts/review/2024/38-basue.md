@@ -14,7 +14,6 @@ Authors: Wei Lee
 
 ![basue](/images/post-images/2024-basue/basue.png)
 
-
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=36957)
 
 與其說是男性向，不如說是大叔向

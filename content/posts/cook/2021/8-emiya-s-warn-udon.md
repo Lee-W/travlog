@@ -27,12 +27,14 @@ Cover: /images/post-images/2021-emiya-s-warn-udon/finish.jpeg
 | 菠菜 | 1 株 |
 
 ### 湯
+
 | 食材 | 份量 |
 | --- | --- |
 | 昆布 | 10cm |
 | 水 | 500 cc |
 
 ### 調味料 A
+
 | 食材 | 份量 |
 | --- | --- |
 | 鰹魚粉 | 1 小匙 |

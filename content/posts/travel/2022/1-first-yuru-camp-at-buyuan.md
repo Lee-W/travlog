@@ -183,7 +183,6 @@ Cover: /images/post-images/2022-first-yuru-camp-at-buyuan/main-tent.jpg
 
 > 為什麼只要看著營火，情緒就會這麼平靜呢
 
-
 來露營前稍微擔心洗澡會不會很麻煩，熱水不夠熱
 不過不遠山莊的衛浴設備還不錯，24 小時熱水，而且超熱
 
@@ -217,7 +216,6 @@ Cover: /images/post-images/2022-first-yuru-camp-at-buyuan/main-tent.jpg
 在涼亭遇到上來健行的人們
 因為我勉強會說點不輪轉的台語，被稱讚是真台灣人（笑
 
-
 ### 活動尾聲
 
 下來之後，去吃了不遠山莊的 buffet
@@ -246,7 +244,6 @@ Cover: /images/post-images/2022-first-yuru-camp-at-buyuan/main-tent.jpg
 真的很感謝蒼月和工作人員們辛苦舉辦這次活動 🙏🙏🙏
 
 ![camping is not expensive](/images/post-images/2022-first-yuru-camp-at-buyuan/not-expensive.jpg)
-
 
 ## Lessons learned
 

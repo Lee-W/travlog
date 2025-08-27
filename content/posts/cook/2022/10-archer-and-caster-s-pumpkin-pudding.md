@@ -19,6 +19,7 @@ Cover: /images/post-images/2022-archer-and-caster-s-pumpkin-pudding/finish-3.jpe
 布丁容器跟大烤盤雖然不算食材，但也需要準備一下
 
 ### 布丁
+
 | 食材 | 份量 |
 |---|---|
 | 南瓜 | 400 g |
@@ -50,7 +51,6 @@ Cover: /images/post-images/2022-archer-and-caster-s-pumpkin-pudding/finish-3.jpe
 G 哥直接準備了整盆的薄荷
 
 ![material-2](/images/post-images/2022-archer-and-caster-s-pumpkin-pudding/material-2.jpeg)
-
 
 ## 步驟
 * 估計時間： 2 小時
@@ -85,7 +85,6 @@ G 哥直接準備了整盆的薄荷
 磨成泥的南瓜也加入調理盆，攪拌混合後過篩
 
 ![step-7](/images/post-images/2022-archer-and-caster-s-pumpkin-pudding/step-7.jpeg)
-
 
 ![step-8](/images/post-images/2022-archer-and-caster-s-pumpkin-pudding/step-8.jpeg)
 

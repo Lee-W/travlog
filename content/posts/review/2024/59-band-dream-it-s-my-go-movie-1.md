@@ -52,7 +52,6 @@ Cover: /images/post-images/2024-band-dream-it-s-my-go-movie-1/mygo.jpg
 
 ![mygo-ignore](/images/meme/mygo-ignore.jpeg)
 
-
 雖然知道這是篇幅下的必須，但那集真的很好看啊！
 
 還好前篇的最後，又回到爽世超進化成不爽世
@@ -60,7 +59,6 @@ Cover: /images/post-images/2024-band-dream-it-s-my-go-movie-1/mygo.jpg
 真的可以這麼幸福嗎
 
 ![mygo-good-song](/images/meme/mygo-good-song.jpg)
-
 
 跟我同行的朋友，原本以為爽世在演奏春日影時有在水
 但沒有！
@@ -85,11 +83,9 @@ Cover: /images/post-images/2024-band-dream-it-s-my-go-movie-1/mygo.jpg
 
 ![mygo-sitcon](/images/post-images/2024-band-dream-it-s-my-go-movie-1/mygo-sitcon.jpg)
 
-
 你也應該一起加入
 
 ![mygo-new](/images/meme/mygo-new.jpeg)
-
 
 順手再推薦 MyGO 的[好玩遊戲](https://2pick.app/g/tczykvrr)跟[好用工具](https://nyamuchi-frontend.vercel.app/)
 ~~還有被 MyGO 迫害的[論文](https://github.com/zjukg/MyGO)~~
