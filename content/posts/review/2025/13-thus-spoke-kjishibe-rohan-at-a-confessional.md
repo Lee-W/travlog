@@ -5,7 +5,7 @@ Category: Review
 Tags: Movie
 Slug: thus-spoke-kjishibe-rohan-at-a-confessional
 Authors: Wei Lee
-Cover: /images/post-images/2025-thus-spoke-kjishibe-rohan-at-a-confessional/doll.jpeg
+Cover: /images/post-images/2025-thus-spoke-kjishibe-rohan-at-a-confessional/dolls.jpeg
 
 從音樂、分鏡到整體氛圍都好怪
 實在太適合這部怪談作品了
@@ -51,7 +51,7 @@ Cover: /images/post-images/2025-thus-spoke-kjishibe-rohan-at-a-confessional/doll
 到處都找不到海報
 最後附上看完去吃飯的娃娃照好了
 
-![doll](/images/post-images/2025-thus-spoke-kjishibe-rohan-at-a-confessional/doll.jpeg)
+![doll](/images/post-images/2025-thus-spoke-kjishibe-rohan-at-a-confessional/dolls.jpeg)
 
 更新照片的替代文字的時候才想到
 這能不能算是一種 Heaven's Doll
