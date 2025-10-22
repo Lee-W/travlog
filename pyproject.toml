@@ -5,33 +5,33 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "attila",
-    "beautifulsoup4>=4.12.3",
-    "ghp-import>=2.1.0",
-    "invoke>=2.2.0",
-    "markdown-del-ins>=1.0.0",
-    "pelican-deadlinks",
-    "pelican-render-math>=1.0.3",
-    "pelican-seo>=1.2.2",
-    "pelican-series>=3.0.0",
-    "pelican-share-post>=1.1.0",
-    "pelican-statistics>=1.0.0",
-    "pelican-tag-cloud>=1.0.1",
-    "pelican[markdown]>=4.10.1",
-    "pillow>=11.0.0",
-    "pymdown-extensions>=10.16.1",
-    "python-gettext>=5.0",
-    "typogrify>=2.0.7",
+  "attila",
+  "beautifulsoup4>=4.12.3",
+  "ghp-import>=2.1.0",
+  "invoke>=2.2.0",
+  "markdown-del-ins>=1.0.0",
+  "pelican-deadlinks",
+  "pelican-render-math>=1.0.3",
+  "pelican-seo>=1.2.2",
+  "pelican-series>=3.0.0",
+  "pelican-share-post>=1.1.0",
+  "pelican-statistics>=1.0.0",
+  "pelican-tag-cloud>=1.0.1",
+  "pelican[markdown]>=4.10.1",
+  "pillow>=11.0.0",
+  "pymdown-extensions>=10.16.1",
+  "python-gettext>=5.0",
+  "typogrify>=2.0.7",
 ]
 
-[tool.uv]
-dev-dependencies = [
-    "commitizen>=3.29.1",
-    "invoke>=2.2.0",
-    "livereload>=2.7.0",
-    "pip-audit>=2.7.3",
-    "pre-commit-hooks>=5.0.0",
-    "ruff>=0.6.9",
+[dependency-groups]
+dev = [
+  "commitizen>=3.29.1",
+  "invoke>=2.2.0",
+  "livereload>=2.7.0",
+  "pip-audit>=2.7.3",
+  "pre-commit-hooks>=5.0.0",
+  "ruff>=0.6.9",
 ]
 
 [tool.uv.sources]
@@ -54,16 +54,16 @@ info = "This is commit convention for my blog post"
 type = "list"
 name = "change_type"
 choices = [
-    "new post",
-    "post update",
-    "new draft",
-    "draft update",
-    "post metadata",
-    "typo",
-    "config",
-    "theme",
-    "dependency",
-    "static page",
+  "new post",
+  "post update",
+  "new draft",
+  "draft update",
+  "post metadata",
+  "typo",
+  "config",
+  "theme",
+  "dependency",
+  "static page",
 ]
 message = "What type of commit is it?"
 
