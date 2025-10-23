@@ -3,7 +3,7 @@ Subtitle: 總覺得少了一味 🤔
 Date: 2025-08-19 10:30
 Category: Review
 Tags: Anime
-Slug: star-wars-the-mandalorian-season-3
+Slug: re-0-season-3
 Authors: Wei Lee
 
 第三季什麼都棒
