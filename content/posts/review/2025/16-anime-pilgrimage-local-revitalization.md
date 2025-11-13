@@ -66,7 +66,7 @@ Cover: /images/post-images/2025-anime-pilgrimage-local-revitalization/matsu.jpeg
         * 吸引人之後，成功地把人留下了嗎？
             * 成功的案例: [豊郷小学校](https://maps.app.goo.gl/DAGoQrbzP5A4fFaw5) 轉型成 [とよさと軽音楽甲子園](https://www.とよさと軽音楽甲子園.com/)
 
-hinac 提到的聲之形聯名<ruby>枡<rt>まつ</rt></ruby>到現在依然我最珍惜的周邊之一
+hinac 提到的聲之形聯名<ruby>枡<rt>ます</rt></ruby>到現在依然我最珍惜的周邊之一
 
 ![matsu](/images/post-images/2025-anime-pilgrimage-local-revitalization/matsu.jpeg)
 
