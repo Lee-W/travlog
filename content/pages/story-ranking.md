@@ -296,7 +296,6 @@ Modified: 2025-08-02 20:04
 * [理科生墜入情網，故嘗試證明。]({filename}/posts/review/2020/2-what-i-watch-in-2020-winter.md#_4)
 * [工作細胞 Black]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#black)
 * [給不滅的你]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#_4)
-* [勇者動畫系列]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#_7)
 * [86－不存在的戰區－ 前半]({filename}/posts/review/2021/5-what-i-watch-in-2021-sprint.md#86-)
 * [PUI PUI 天竺鼠車車]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#pui-pui)
 * [天地創造設計部]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#_5)
@@ -547,7 +546,6 @@ Modified: 2025-08-02 20:04
 * CAROLE & TUESDAY
 * 家有女友
 * 中二病也想談戀愛劇場版-小鳥遊六花．改
-* 金星人愛情故事
 * [清晨的兔子小姐]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_20)
 * [成群結伴！西頓學園]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_11)
 * [ReLIFE 重返 17 歲]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#relife-17)
@@ -632,6 +630,7 @@ Modified: 2025-08-02 20:04
 * 麻醉風暴 2
 * [Wanda Vision]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#wanda-vision)
 * [無限可能：假如...？]({filename}/posts/review/2022/3-what-i-watch-in-2021-fall.md#_11)
+* [勇者動畫系列]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#_7)
 
 ### C Tier
 * [舞伎家的料理人]({filename}/posts/review/2024/1-what-i-watch-in-2023-summer.md#_16)
@@ -721,6 +720,7 @@ Modified: 2025-08-02 20:04
 
 ### C Tier
 * [素還真]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_26)
+* 金星人愛情故事
 * 死侍 2
 * 國定殺戮日：大選之年
 * 蜘蛛人：離家日
