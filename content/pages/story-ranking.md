@@ -1,12 +1,12 @@
-Title: 絕對主觀的作品排名
+Title: 我心中的作品排名
 Slug: story-ranking
 Date: 2022-02-06 18:48
-Modified: 2025-08-02 20:04
+Modified: 2025-12-06 16:25
 
 啟發自[kaze的日本留學&不務正業ACG](https://aurakaze.blog/list_anime/)跟在推特看到的[TierMaker](https://tiermaker.com/create/anime-tier-list-300-anime-17194)
 才做了這個給自己的作品排名/索引
 
-造我的喜好程度紀錄了為每部作品分了幾個 tier
+照我的喜好程度紀錄了為每部作品分了幾個 tier
 
 * SSS （無可撼動的神作，沒有之一）
 * SS （神作）
@@ -32,6 +32,14 @@ Modified: 2025-08-02 20:04
 我覺得無聊的作品，可能是你的神作（可能是我看不懂...）
 
 如果你發現有這份名單上完全沒提到的好作品，歡迎推坑 😆
+
+除此之外，我還使用了幾個平台追蹤我看的作品
+畢竟部落格的更新速度跟不上我的觀影速度
+歡迎追蹤
+
+* 日式動漫畫: [AniList](https://anilist.co/user/clleew/)
+* 其他電影: [letterboxd](https://letterboxd.com/clleew/)
+* 其他影集: [trackt](https://trakt.tv/users/clleew)
 
 [TOC]
 

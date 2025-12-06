@@ -1,7 +1,7 @@
 Title: 電影院座位個人喜好
 Slug: theaters-preference
 Date: 2023-11-27 18:30
-Modified: 2025-12-05 16:20
+Modified: 2025-12-06 16:20
 
 **DISCLAIMER: 僅代表個人偏好，與電影院品質沒有直接相關，請斟酌服用**
 
