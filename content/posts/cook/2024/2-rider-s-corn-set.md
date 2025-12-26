@@ -1,5 +1,6 @@
 Title: 玉米炊飯及玉米天婦羅
 Date: 2024-05-13 19:20
+Modified: 2025-12-26 18:17
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: rider-s-corn-set
@@ -60,7 +61,7 @@ Cover: /images/post-images/2024-rider-s-corn-set/IMG_5633.jpeg
 注意玉米梗要留下
 
 放置的 30 分鐘過後
-在米鍋加入 1 小湯匙鹽、 1 大湯匙、削下來的玉米粒、玉米梗
+在米鍋加入 1 小湯匙鹽、 1 大湯匙酒、削下來的玉米粒、玉米梗
 在電鍋裡面加入 1 米杯水，就可以壓下去煮了
 
 如果你在這張照片看到奶油跟黑胡椒
@@ -92,7 +93,7 @@ Cover: /images/post-images/2024-rider-s-corn-set/IMG_5633.jpeg
 
 ![tempura-step-3](/images/post-images/2024-rider-s-corn-set/tempura-step-3.jpeg)
 
-接著把玉米粒那碗，放入鋼攪拌的麵粉這碗
+接著把玉米粒那碗，放入剛攪拌的麵粉這碗
 用撈起後讓玉米粒掉下去的感覺大略攪拌
 可以用刮刀或湯匙
 照片中用了筷子，可能是因為我忘了...
