@@ -1,7 +1,7 @@
 Title: 我心中的作品排名
 Slug: story-ranking
 Date: 2022-02-06 18:48
-Modified: 2025-12-06 16:25
+Modified: 2025-12-26 18:13
 
 啟發自[kaze的日本留學&不務正業ACG](https://aurakaze.blog/list_anime/)跟在推特看到的[TierMaker](https://tiermaker.com/create/anime-tier-list-300-anime-17194)
 才做了這個給自己的作品排名/索引
@@ -725,6 +725,7 @@ Modified: 2025-12-06 16:25
 * [老狐狸]({filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_20)
 * [奇異博士2：失控多重宇宙]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#2)
 * [嬰兒轉運站]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_21)
+* 電影版 輝夜姬想讓人告白-天才們的戀愛頭腦戰-
 
 ### C Tier
 * [素還真]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_26)
