@@ -58,4 +58,5 @@ Modified: 2024-05-13 19:20
 | [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | | 52 | |
 | [遙遠記憶的荷包蛋 - 正義夥伴的起點]({filename}/posts/cook/2022/4-fried-egss-from-memories.md) |  | 53 | |
 | [巧克力香蕉磅蛋糕]({filename}/posts/cook/2022/12-choco-banana-pound-cake.md) | | 55 | |
+| [巧克力火鍋]({filename}/posts/cook/2022/9-archer-s-omurice.md) | 10 | 65 | |
 | [想像著永遠是最好吃的蛋包飯]({filename}/posts/cook/2022/9-archer-s-omurice.md) | - | - | [11](https://ani.gamer.com.tw/animeVideo.php?sn=16737) |
