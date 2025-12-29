@@ -1,6 +1,7 @@
 Title: 巧克力火鍋，但我沒有電烤盤
 Subtitle: 2025 年年末竟然是今年第一篇料理重現...
 Date: 2025-12-28 17:20
+Modified: 2025-12-29 09:50
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: crockpot-hot-chocolate
@@ -62,7 +63,8 @@ Cover: /images/post-images/2025-crockpot-hot-chocolate/finish.JPEG
 ## 完成
 
 這次是出自單行第 10 集第 65 話的「用電烤盤吃起司 & 巧克力火鍋」
-這次的主角是凜的快樂夥伴，但不包含凜
+主角是凜的快樂夥伴，但不包含凜
+起司火鍋還沒做，下次再繼續
 
 ![finish](/images/post-images/2025-crockpot-hot-chocolate/finish.JPEG)
 

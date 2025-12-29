@@ -1,9 +1,9 @@
 Title: 衛宮家料理總覽
 Slug: emiya-toc
 Date: 2021-08-28 16:48
-Modified: 2024-05-13 19:20
+Modified: 2025-12-29 09:50
 
-* 重現進度： 漫畫： `42 / 61 + ?` /  動畫： `12 / 13` (11 道重複)
+* 重現進度： 漫畫： `42 / 67 + ?` /  動畫： `12 / 13` (11 道重複)
     * 單行本 1: `11 / 12`
     * 單行本 2: `6 / 12`
     * 單行本 3: `4 / 8`
@@ -12,7 +12,8 @@ Modified: 2024-05-13 19:20
     * 單行本 6: `6 / 8`
     * 單行本 7: `2 / 7`
     * 單行本 8: `4 / 7`
-    * 單行本尚未發行： `0 / ?`
+    * 單行本 8: `1 / 7`
+    * 單行本尚未發行： `1 / 7`
     * 動畫原創: `1 / 1`
 
 | | 漫畫<br>單行本 | 回數 | 動畫<br>集數 |
@@ -58,5 +59,5 @@ Modified: 2024-05-13 19:20
 | [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | | 52 | |
 | [遙遠記憶的荷包蛋 - 正義夥伴的起點]({filename}/posts/cook/2022/4-fried-egss-from-memories.md) |  | 53 | |
 | [巧克力香蕉磅蛋糕]({filename}/posts/cook/2022/12-choco-banana-pound-cake.md) | | 55 | |
-| [巧克力火鍋]({filename}/posts/cook/2022/9-archer-s-omurice.md) | 10 | 65 | |
+| [巧克力火鍋，但我沒有電烤盤]({filename}/posts/cook/2025/1-crockpot-hot-chocolate.md) | 10 | 65 | |
 | [想像著永遠是最好吃的蛋包飯]({filename}/posts/cook/2022/9-archer-s-omurice.md) | - | - | [11](https://ani.gamer.com.tw/animeVideo.php?sn=16737) |
