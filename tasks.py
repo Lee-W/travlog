@@ -1,22 +1,22 @@
 # -*- coding: utf-8 -*-
 
 import datetime
+import glob
 import os
 import shlex
 import shutil
 import subprocess
 import sys
+from collections.abc import Sequence
 
 from invoke import task
 from invoke.main import program
 from pelican import main as pelican_main
 from pelican.server import ComplexHTTPRequestHandler, RootedHTTPServer
 from pelican.settings import DEFAULT_CONFIG, get_settings_from_file
-from collections.abc import Sequence
-import glob
-
-from PIL.Image import UnidentifiedImageError, open as pil_open
 from PIL.ExifTags import Base as ExifBase
+from PIL.Image import UnidentifiedImageError
+from PIL.Image import open as pil_open
 
 OPEN_BROWSER_ON_SERVE = True
 SETTINGS_FILE_BASE = "pelicanconf.py"
