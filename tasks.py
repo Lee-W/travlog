@@ -39,6 +39,14 @@ CONFIG = {
 }
 
 
+def _build_pagefind():
+    if (
+        subprocess.call(["uv", "run", "python", "-m", "pagefind", "--site", "output"])
+        == 1
+    ):
+        print("failed to call 'uv run python -m pagefind --site output'")
+
+
 @task
 def clean(c):
     """Remove generated files"""
@@ -50,23 +58,17 @@ def clean(c):
 @task(optional=["--build-pagefind"])
 def build(c, build_pagefind=False):
     """Build local version of site"""
-    if (
-        build_pagefind
-        and subprocess.call(["npx", "-y", "pagefind", "--site", "output"]) == 1
-    ):
-        print("failed to call 'npx -y pagefind --site output'")
     pelican_run("-s {settings_base}".format(**CONFIG))
+    if build_pagefind:
+        _build_pagefind()
 
 
 @task(optional=["--build-pagefind"])
 def rebuild(c, build_pagefind=False):
     """`build` with the delete switch"""
-    if (
-        build_pagefind
-        and subprocess.call(["npx", "-y", "pagefind", "--site", "output"]) == 1
-    ):
-        print("failed to call 'npx -y pagefind --site output'")
     pelican_run("-d -s {settings_base}".format(**CONFIG))
+    if build_pagefind:
+        _build_pagefind()
 
 
 @task
@@ -153,12 +155,9 @@ def livereload(c):
 @task(optional=["--build-pagefind"])
 def build_publish(c, build_pagefind=False):
     """Build pages with publishconf.py"""
-    if (
-        build_pagefind
-        and subprocess.call(["npx", "-y", "pagefind", "--site", "output"]) == 1
-    ):
-        print("failed to call 'npx -y pagefind --site output'")
     pelican_run("-s {settings_publish}".format(**CONFIG))
+    if build_pagefind:
+        _build_pagefind()
 
 
 @task

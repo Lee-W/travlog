@@ -252,6 +252,7 @@ dependencies = [
     { name = "ghp-import" },
     { name = "invoke" },
     { name = "markdown-del-ins" },
+    { name = "pagefind", extra = ["extended"] },
     { name = "pelican", extra = ["markdown"] },
     { name = "pelican-deadlinks" },
     { name = "pelican-render-math" },
@@ -283,6 +284,7 @@ requires-dist = [
     { name = "ghp-import", specifier = ">=2.1.0" },
     { name = "invoke", specifier = ">=2.2.0" },
     { name = "markdown-del-ins", specifier = ">=1.0.0" },
+    { name = "pagefind", extras = ["extended"], specifier = ">=1.4.0" },
     { name = "pelican", extras = ["markdown"], specifier = ">=4.10.1" },
     { name = "pelican-deadlinks", git = "https://github.com/pelican-plugins/deadlinks" },
     { name = "pelican-render-math", specifier = ">=1.0.3" },
@@ -677,6 +679,31 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/a1/d4/1fc4078c65507b51b96ca8f8c3ba19e6a61c8253c72794544580a7b6c24d/packaging-25.0.tar.gz", hash = "sha256:d443872c98d677bf60f6a1f2f8c1cb748e8fe762d2bf9d3148b5599295b0fc4f", size = 165727, upload-time = "2025-04-19T11:48:59.673Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/20/12/38679034af332785aac8774540895e234f4d07f7545804097de4b666afd8/packaging-25.0-py3-none-any.whl", hash = "sha256:29572ef2b1f17581046b3a2227d5c611fb25ec70ca1ba8554b24b0e69331a484", size = 66469, upload-time = "2025-04-19T11:48:57.875Z" },
+]
+
+[[package]]
+name = "pagefind"
+version = "1.4.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/2e/74/74ecc15aaeff30859c3e1164d6db796988602115d25a01a68851392ecfc6/pagefind-1.4.0.tar.gz", hash = "sha256:881dea03b367e0d80084e2eba0979b25981ab7400f094a8cdddc5381928d8438", size = 9454, upload-time = "2025-09-01T05:46:56.841Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/83/2c/474584536b91e3195ae11249c9384f09444770902db1186646234631bfba/pagefind-1.4.0-py3-none-any.whl", hash = "sha256:7256d40eee4fe3e9bef553a2e1d00c546975bdacc64c510f6ddda874b47da01d", size = 10074, upload-time = "2025-09-01T05:46:32.287Z" },
+]
+
+[package.optional-dependencies]
+extended = [
+    { name = "pagefind-bin-extended" },
+]
+
+[[package]]
+name = "pagefind-bin-extended"
+version = "1.4.0"
+source = { registry = "https://pypi.org/simple" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/ca/33/3cbfbf9e45ea29810edb36eb0696b3a961f30b9123c9495e81c027e595e2/pagefind_bin_extended-1.4.0-py3-none-macosx_12_0_arm64.whl", hash = "sha256:2d64588b7ed926a4f401078db3c78c8e7624d90cd011bcc9967c73cd925af533", size = 57199301, upload-time = "2025-09-01T05:46:43.712Z" },
+    { url = "https://files.pythonhosted.org/packages/fe/38/26c5cb41b7d26e94a13ee251aa2ea5b914ca7ecfb780b220365159244a86/pagefind_bin_extended-1.4.0-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.musllinux_1_1_x86_64.whl", hash = "sha256:e87fd0e915330662f10d73e08972fb543077be8e43786acf8359a732b23107ec", size = 57552401, upload-time = "2025-09-01T05:46:47.508Z" },
+    { url = "https://files.pythonhosted.org/packages/c1/2b/4cbc6e17f4827858d67b68d8601828b8136e65efda9a293a297978dde302/pagefind_bin_extended-1.4.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.musllinux_1_1_aarch64.whl", hash = "sha256:4388d5d9f0512fcc751f05d0a8b7f8546503249195a209ce836806c6aa561313", size = 57104936, upload-time = "2025-09-01T05:46:50.994Z" },
+    { url = "https://files.pythonhosted.org/packages/91/8e/22cfe56d2e799f03ebcd2cd89b02e2f5d165ddb2b158ecfa088f4c264de7/pagefind_bin_extended-1.4.0-py3-none-win_amd64.whl", hash = "sha256:c429fe918451991f8dc5ba7b65039d310fd9528bda1f179128b362b6adf0fb65", size = 56453893, upload-time = "2025-09-01T05:46:54.104Z" },
 ]
 
 [[package]]
