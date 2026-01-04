@@ -5,7 +5,7 @@ Category: Review
 Tags: Anime, Movie
 Slug: kobayashino-maid-dragon-movie
 Authors: Wei Lee
-Cover: /images/post-images/2025-what-i-watched-in-2025-fall/kobayashi.JPEG
+Cover: /images/post-images/2025-what-i-watched-in-2025-summer/kobayashi.JPEG
 
 我看這部電影，是因為我喜歡小林
 有些不器用，但卻無比溫柔
@@ -24,7 +24,7 @@ Cover: /images/post-images/2025-what-i-watched-in-2025-fall/kobayashi.JPEG
 
 所幸回到台灣真的還有場次
 有進場觀看的每一個人，你們都是我心中的超人
-![kobayashi](/images/post-images/2025-what-i-watched-in-2025-fall/kobayashi.JPEG)
+![kobayashi](/images/post-images/2025-what-i-watched-in-2025-summer/kobayashi.JPEG)
 
 劇情本身算蠻簡單，走向也不算出乎意料
 但林家龍主打的一直都是那種樸實溫馨的氛圍
