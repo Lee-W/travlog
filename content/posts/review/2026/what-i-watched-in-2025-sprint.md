@@ -39,12 +39,12 @@ Star Wars: Andor Season 2
 
 <!--TODO-->
 
-I have friends everywhere
+I have friends everywhere.
 
-### Star Wars Vision 2
+### Star Wars: Visions Volume 2
 * 觀看平台： [Disney+](https://ondisneyplus.disney.com/show/star-wars-visions-volume-2)
 
-這次離開了日本動畫公司，加入了一些歐洲的公司
+第二季日本動畫公司，加入了一些歐洲的公司
 一樣是每一集都是無關的故事
 2, 3, 7 集都有快樂寶貝出沒，看得很躁
 1, 5, 9 集好看
@@ -74,24 +74,7 @@ Morgan 的就是很無聊，正如同她在其他故事出現那般無聊
 ### 小市民系列 第二季
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=42918)
 
-![shoshimin](/images/post-images/2025-what-i-watched-in-2025-sprint/shoshimin.png)
-
-太過分了！
-第一集我連三分鐘都看不下去！
-小佐內真的太可愛，一口氣攝取太多心臟會受不了
-情節整體比起第一季更為精彩緊湊
-每一集都讓我覺得「不可以，你不可以斷在這」
-秋季跟冬季兩篇都超棒
-秋季竟然連我都中了小佐內的套
-冬季那種難以言喻的抑鬱感
-好愛
-尤其是最後的最後
-啊啊啊啊啊，不小心就糖暈過去了
-原來上一季令人痛苦的結尾，都是為了來一波大的
-然後還有 ED SugaRiddle 怎麼可以這麼好聽
-小佐內快步走下樓梯那真的好可愛
-
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3tXmPXQBCkAlo0FICWetwz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+👉 [小市民系列 第二季 - ED 是很好聽，但你不要斷在這啊啊啊]({filename}/posts/review/2026/5-shoshimin-series-s2.md)
 
 ### mono女孩
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=42916)
@@ -112,12 +95,16 @@ Morgan 的就是很無聊，正如同她在其他故事出現那般無聊
 ### 歲月流逝飯菜依舊美味
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=42917)
 
+<!--TODO-->
+
 角色朔造相當優秀
 
 ![rice](/images/post-images/2025-what-i-watched-in-2025-sprint/rice.png)
 
 ### 隨興旅－That's Journey－
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=42935)
+
+<!--TODO-->
 
 非常喜歡他的主題，但整體比前兩部日常番弱了一點點
 
@@ -140,6 +127,8 @@ Morgan 的就是很無聊，正如同她在其他故事出現那般無聊
 
 好燃
 
+<!--TODO-->
+
 ### 忍者與殺手的兩人生活
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=42931)
 
@@ -149,6 +138,8 @@ Morgan 的就是很無聊，正如同她在其他故事出現那般無聊
 實際上可能也是
 沒想到被插入的第七集這樣有些重量的劇情
 淚腺有一瞬間被打開
+
+<!--TODO-->
 
 ### LAZARUS 拉撒路
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=42926)
