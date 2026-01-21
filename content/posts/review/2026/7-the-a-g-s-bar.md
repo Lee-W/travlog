@@ -1,6 +1,6 @@
 Title: 冒險者公會 The A.G's Bar
 Subtitle: Apache Airflow Dev (?) Meetup Taiwan
-Date: 2026-01-20 22:40
+Date: 2026-01-21 22:40
 Category: Review
 Tags: Bar
 Slug: the-a-g-s-bar
