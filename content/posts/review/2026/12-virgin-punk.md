@@ -18,6 +18,8 @@ Authors: Wei Lee
 這就是命運吧
 就是要叫我去看這部電影吧！
 
+![virgin-punk](/images/post-images/2026/what-i-watched-in-2026-winter/virgin-punk.jpeg)
+
 說實在的 35 分鐘要能好好說好一個故事是很困難的
 電影更像是為未來的故事的前傳
 真正的主線大概會在後續作品中展開
