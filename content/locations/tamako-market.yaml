@@ -1,0 +1,44 @@
+anime: 玉子市場 | たまこまーけっと
+tags: [動畫]
+locations:
+
+  - name: 出町桝形商店街
+    lat: 35.0303402
+    lon: 135.769093
+    visited: true
+    category: 商店街
+    notes: ""
+    date: ""
+    country: 日本
+    city: 京都
+
+  - name: 鴨川デルタ
+    lat: 35.0297193
+    lon: 135.7717387
+    visited: true
+    category: 景點
+    notes: ""
+    date: ""
+    country: 日本
+    city: 京都
+
+  - name: 京都車站
+    lat: 34.9862031
+    lon: 135.7587841
+    visited: true
+    category: 車站
+    notes: "玉子愛情故事"
+    date: ""
+    country: 日本
+    city: 京都
+
+  - name: 鴨川デルタ
+    lat: 35.0045688
+    lon: 135.7646408
+    visited: true
+    category: 澡堂
+    notes: ""
+    date: ""
+    country: 日本
+    city: 京都
+    tags: ["已歇業"]

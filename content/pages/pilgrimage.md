@@ -179,3 +179,11 @@ Slug: pilgrimage
 1. 隨興旅
     1. 🇯🇵 日本
         1. 廣島 (2025)
+
+<!-- 地圖容器 -->
+<div id="map" style="height:500px; margin-top:20px;"></div>
+
+<!-- Leaflet CSS & JS（使用 jsDelivr CDN，不會有 MIME / source map 問題） -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="/static/js/pilgrimage-map.js"></script>

@@ -18,6 +18,8 @@ from PIL.ExifTags import Base as ExifBase
 from PIL.Image import UnidentifiedImageError
 from PIL.Image import open as pil_open
 
+from scripts.geo_json_generator import generate_geo_json
+
 OPEN_BROWSER_ON_SERVE = True
 SETTINGS_FILE_BASE = "pelicanconf.py"
 SETTINGS = {}
@@ -58,6 +60,7 @@ def clean(c):
 @task(optional=["--build-pagefind"])
 def build(c, build_pagefind=False):
     """Build local version of site"""
+    generate_geo_json()
     pelican_run("-s {settings_base}".format(**CONFIG))
     if build_pagefind:
         _build_pagefind()
@@ -67,6 +70,7 @@ def build(c, build_pagefind=False):
 def rebuild(c, build_pagefind=False):
     """`build` with the delete switch"""
     pelican_run("-d -s {settings_base}".format(**CONFIG))
+    generate_geo_json()
     if build_pagefind:
         _build_pagefind()
 
@@ -74,6 +78,7 @@ def rebuild(c, build_pagefind=False):
 @task
 def regenerate(c):
     """Automatically regenerate site upon file modification"""
+    generate_geo_json()
     pelican_run("-r -s {settings_base}".format(**CONFIG))
 
 
@@ -156,6 +161,7 @@ def livereload(c):
 def build_publish(c, build_pagefind=False):
     """Build pages with publishconf.py"""
     pelican_run("-s {settings_publish}".format(**CONFIG))
+    generate_geo_json()
     if build_pagefind:
         _build_pagefind()
 
