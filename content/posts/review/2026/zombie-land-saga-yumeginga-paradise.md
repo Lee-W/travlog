@@ -91,3 +91,5 @@ Status: draft
 不知道會不會有後續的故事
 這是個很美的結尾
 但也有沒說完可以延伸的故事
+
+<https://anilist.co/anime/140337/-/>
