@@ -50,7 +50,7 @@
         map.fitBounds(group.getBounds(), { padding: [30, 30] });
       }
 
-      L.control.layers(null, animeLayers, { collapsed: false }).addTo(map);
+      L.control.layers(null, animeLayers, { collapsed: true }).addTo(map);
     })
     .catch(e => console.error("Error loadding GeoJSON:", e));
 })();

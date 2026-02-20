@@ -12,3 +12,9 @@
   transform: scale(1.2);
   margin-right: 6px;
 }
+
+/* 圖層面板最大高度 */
+.leaflet-control-layers-expanded {
+  max-height: 260px;   /* 自行調整 */
+  overflow-y: auto;
+}
