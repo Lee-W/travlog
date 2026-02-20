@@ -20,6 +20,11 @@
       const group = L.featureGroup();
 
       geojson.features.forEach(f => {
+        if (!f.geometry || !f.geometry.coordinates || f.geometry.coordinates.length < 2) {
+          console.warn('Skipping invalid feature:', f);
+          return;
+        }
+
         const p = f.properties;
         const anime = p.anime || "Unknown";
 
@@ -52,7 +57,7 @@
 
       L.control.layers(null, animeLayers, { collapsed: true }).addTo(map);
     })
-    .catch(e => console.error("Error loadding GeoJSON:", e));
+    .catch(e => console.error("Error loading GeoJSON:", e));
 })();
 
 
