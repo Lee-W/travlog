@@ -12,7 +12,7 @@
   ).addTo(map);
 
   // load GeoJSON
-  fetch("/places.geojson")
+  fetch("/static/places.geojson")
     .then(r => r.json())
     .then(geojson => {
 

@@ -1,5 +1,6 @@
 import glob
 import json
+import os
 
 import yaml
 
@@ -8,7 +9,7 @@ def generate_geo_json():
     geojson = {"type": "FeatureCollection", "features": []}
 
     # 讀取 locations 目錄下所有 YAML
-    for file in glob.glob("content/locations/*.yaml"):
+    for file in glob.glob("content/pilgrimage/locations/*.yaml"):
         with open(file, encoding="utf-8") as f:
             data = yaml.safe_load(f)
 
@@ -18,6 +19,7 @@ def generate_geo_json():
                 for loc in work.get("locations", []):
                     lat = loc.get("lat")
                     lon = loc.get("lon")
+                    date_str = loc.get("date").isoformat() if loc.get("date") else ""
                     if lat is None or lon is None:
                         continue  # 跳過沒有座標的地點
 
@@ -30,9 +32,7 @@ def generate_geo_json():
                                 "visited": loc.get("visited", False),
                                 "category": loc.get("category", ""),
                                 "notes": loc.get("notes", ""),
-                                "date": loc.get("date").isoformat()
-                                if loc.get("date")
-                                else "",
+                                "date": date_str,
                                 "city": loc.get("city", ""),
                                 "country": loc.get("country", ""),
                                 "tags": loc.get("tags", []),
@@ -42,7 +42,8 @@ def generate_geo_json():
                         }
                     )
 
-    with open("output/places.geojson", "w", encoding="utf-8") as f:
+    os.makedirs("output/static", exist_ok=True)
+    with open("output/static/places.geojson", "w", encoding="utf-8") as f:
         json.dump(geojson, f, ensure_ascii=False, indent=2)
 
     print(f"生成 GeoJSON，總共 {len(geojson['features'])} 個地點")
