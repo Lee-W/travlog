@@ -34,6 +34,7 @@ def generate_geo_json():
                                 "city": loc.get("city", ""),
                                 "country": loc.get("country", ""),
                                 "tags": loc.get("tags", []),
+                                "photos": loc.get("photos", []),
                             },
                             "geometry": {"type": "Point", "coordinates": [lon, lat]},
                         }

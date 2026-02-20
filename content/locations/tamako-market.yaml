@@ -21,6 +21,8 @@ locations:
     date: ""
     country: 日本
     city: 京都
+    tags: []
+    photos: []
 
   - name: 京都車站
     lat: 34.9862031
@@ -31,6 +33,8 @@ locations:
     date: ""
     country: 日本
     city: 京都
+    tags: []
+    photos: []
 
   - name: 鴨川デルタ
     lat: 35.0045688
@@ -42,3 +46,4 @@ locations:
     country: 日本
     city: 京都
     tags: ["已歇業"]
+    photos: []
