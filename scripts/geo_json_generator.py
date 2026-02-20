@@ -30,7 +30,9 @@ def generate_geo_json():
                                 "visited": loc.get("visited", False),
                                 "category": loc.get("category", ""),
                                 "notes": loc.get("notes", ""),
-                                "date": loc.get("date", ""),
+                                "date": loc.get("date").isoformat()
+                                if loc.get("date")
+                                else "",
                                 "city": loc.get("city", ""),
                                 "country": loc.get("country", ""),
                                 "tags": loc.get("tags", []),

@@ -11,6 +11,8 @@ locations:
     date: ""
     country: 日本
     city: 京都
+    tags: []
+    photos: []
 
   - name: 鴨川デルタ
     lat: 35.0297193

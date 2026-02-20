@@ -1,0 +1,14 @@
+.leaflet-control-layers {
+  font-size: 16px;
+}
+
+.leaflet-control-layers label {
+  cursor: pointer;
+  line-height: 1.6;
+}
+
+/* checkbox 放大 */
+.leaflet-control-layers input[type="checkbox"] {
+  transform: scale(1.2);
+  margin-right: 6px;
+}

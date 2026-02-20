@@ -1,7 +1,7 @@
 (function () {
   // initialize map
   const map = L.map('map').setView([35.03, 135.77], 13);
-
+  map.addControl(new L.Control.FullScreen());
   L.tileLayer(
     'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
     {
@@ -32,7 +32,7 @@
         const lon = f.geometry.coordinates[0];
 
         const marker = L.circleMarker(
-          [f.geometry.coordinates[1], f.geometry.coordinates[0]],
+          [lat, lon],
           {
             radius: 6,
             color: color,
@@ -52,7 +52,7 @@
 
       L.control.layers(null, animeLayers, { collapsed: false }).addTo(map);
     })
-    .catch(e => console.error("GeoJSON 加載錯誤:", e));
+    .catch(e => console.error("Error loadding GeoJSON:", e));
 })();
 
 
@@ -93,6 +93,7 @@ function buildPilgrimagePopup(p, lat, lon) {
         <b>作品：</b>${p.anime || ''}<br>
         <b>地點：</b>${p.city || ''} ${p.country || ''}<br>
         ${p.category ? `<b>分類：</b>${p.category}<br>` : ''}
+        ${p.date ? `<b>日期：</b>${p.date}<br>` : ''}
         ${p.notes ? `<div style="margin-top:4px;">${p.notes}</div>` : ''}
       </div>
 

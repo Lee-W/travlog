@@ -183,7 +183,11 @@ Slug: pilgrimage
 <!-- 地圖容器 -->
 <div id="map" style="height:500px; margin-top:20px;"></div>
 
-<!-- Leaflet CSS & JS（使用 jsDelivr CDN，不會有 MIME / source map 問題） -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css"/>
 <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet.fullscreen/dist/Control.FullScreen.css" />
+<script src="https://unpkg.com/leaflet.fullscreen/dist/Control.FullScreen.umd.js"></script>
+
+<link rel="stylesheet" href="/static/css/pilgrimage-map.css"/>
 <script src="/static/js/pilgrimage-map.js"></script>
