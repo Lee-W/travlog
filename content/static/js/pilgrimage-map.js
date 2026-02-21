@@ -35,7 +35,7 @@
     map.addControl(new L.Control.FullScreen());
   }
 
-  // 6️⃣ 等 map 尺寸穩定後再加 marker
+  // 6️⃣ 等 map 尺寸穩定再加 marker
   function waitForMapSize(cb) {
     const check = () => {
       const size = map.getSize();
@@ -51,7 +51,9 @@
 
   waitForMapSize(async () => {
     try {
-      const res = await fetch("/static/places.geojson", { cache: "no-cache" });
+      const res = await fetch(`/static/places.geojson?ts=${Date.now()}`, {
+        cache: "no-cache",
+      });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const geojson = await res.json();
 
@@ -69,7 +71,16 @@
 
       geojson.features.forEach((f) => {
         const coords = f.geometry?.coordinates;
-        if (!coords || coords.length < 2) return;
+
+        // ❌ 嚴格檢查座標
+        if (
+          !Array.isArray(coords) ||
+          coords.length < 2 ||
+          coords.some((c) => c == null)
+        ) {
+          console.warn("Skipping invalid coordinates", f);
+          return;
+        }
 
         let [lon, lat] = coords.map(Number);
         if (
@@ -79,12 +90,15 @@
           lat > 90 ||
           lon < -180 ||
           lon > 180
-        )
+        ) {
+          console.warn("Skipping out-of-range coordinates", f);
           return;
+        }
 
         const p = f.properties || {};
         const anime = p.anime || "Unknown";
 
+        // ❌ Layer group 先加 map
         if (!animeLayers[anime]) animeLayers[anime] = L.layerGroup().addTo(map);
 
         const color = p.visited ? "green" : "orange";
@@ -97,8 +111,11 @@
             fillOpacity: 0.9,
           }).bindPopup(buildPilgrimagePopup(p, lat, lon));
 
-          marker.addTo(animeLayers[anime]);
-          window._pilgrimageAllMarkers.push(marker);
+          // ❌ 等 map ready 再加 marker
+          map.whenReady(() => {
+            marker.addTo(animeLayers[anime]);
+            window._pilgrimageAllMarkers.push(marker);
+          });
         } catch (e) {
           console.warn("Failed to create marker", f, e);
         }
