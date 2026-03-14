@@ -14,7 +14,7 @@ Cover: /images/post-images/2026/true-bao/IMG_0992.JPEG
 
 我們就只是跑去林森北路上一間叫做**有情出包所**的店
 
-{% place restaurant/true-bao-maker %}
+{% place restaurant.yaml#true-bao-maker %}
 
 Apple Map 上有兩個點，在古亭的那個是舊的，不要跑錯了
 

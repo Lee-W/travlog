@@ -193,4 +193,4 @@ Slug: pilgrimage
 [1] Fate/Zero, Fate/Stay Night - Heaven’s Feel, Fate/Stay Night - Unlimited Blade Works, 衛宮家今天的餐桌風景
 [2] BanG Dream! It's MyGO!!!!!, BanG Dream! Ave Mujica
 
-{% place locations/pilgrimage %}
+{% place pilgrimage %}
