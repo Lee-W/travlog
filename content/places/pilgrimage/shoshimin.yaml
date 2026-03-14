@@ -5,7 +5,6 @@ locations:
   - name: サロンドマルイチ
     lat: 35.41875225865623
     lon: 136.75835736661003
-    visited: true
     category: 甜點店
     notes: ""
     date: 2025-09-15
@@ -17,7 +16,6 @@ locations:
   - name: 柳ヶ瀬商店街
     lat: 35.41930302245281
     lon: 136.75843283068795
-    visited: true
     category: 商店街
     notes: ""
     date: 2025-09-15
@@ -29,7 +27,6 @@ locations:
   - name: AND LADY
     lat: 35.42748216005292
     lon: 136.76488921534397
-    visited: true
     category: 甜點店
     notes: ""
     date: 2025-09-15
@@ -41,7 +38,6 @@ locations:
   - name: みんなの森 ぎふメディアコスモス
     lat: 35.427549003080166
     lon: 136.75990805718754
-    visited: true
     category: 圖書館
     notes: ""
     date: 2025-09-15
@@ -53,7 +49,6 @@ locations:
   - name: Natural Cafe
     lat: 35.43253018188601
     lon: 136.76725211627686
-    visited: true
     category: 餐廳
     notes: ""
     date: 2025-09-15
@@ -65,7 +60,6 @@ locations:
   - name: 梅林公園
     lat: 35.418603458695024
     lon: 136.7709844316396
-    visited: true
     category: 公園
     notes: ""
     date: 2025-09-15

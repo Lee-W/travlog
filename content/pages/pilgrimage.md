@@ -193,13 +193,4 @@ Slug: pilgrimage
 [1] Fate/Zero, Fate/Stay Night - Heaven’s Feel, Fate/Stay Night - Unlimited Blade Works, 衛宮家今天的餐桌風景
 [2] BanG Dream! It's MyGO!!!!!, BanG Dream! Ave Mujica
 
-<div id="map" style="height:500px; margin-top:20px;"></div>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css"/>
-<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@5.3.0/dist/Control.FullScreen.min.css">
-<script src="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@5.3.0/dist/Control.FullScreen.umd.min.js"></script>
-
-<link rel="stylesheet" href="/static/css/pilgrimage-map.css"/>
-<script src="/static/js/pilgrimage-map.js"></script>
+{% place locations/pilgrimage %}

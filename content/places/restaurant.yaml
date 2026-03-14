@@ -1,0 +1,7 @@
+locations:
+  true-bao-maker:
+    name: 有情出包所 / True Bao Maker
+    lat: 25.0503164
+    lon: 121.5253053
+    address: 臺北市中山區林森北路107巷4號
+    tags: [food, bao]

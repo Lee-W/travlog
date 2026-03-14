@@ -26,10 +26,11 @@ wheels = [
 
 [[package]]
 name = "attila"
-version = "2.0"
-source = { git = "https://github.com/Lee-W/attila/?rev=weilee-customization#a9f25704adbf2bef6cd1fc4a6c1cbae7831dee86" }
+version = "2.2.0"
+source = { git = "https://github.com/Lee-W/attila/#f9b6777e5c40a2af7d2977c3aeecab989fdc9961" }
 dependencies = [
     { name = "pelican" },
+    { name = "pelican-heatmap" },
     { name = "pelican-image-process" },
     { name = "pelican-minify" },
     { name = "pelican-neighbors" },
@@ -282,7 +283,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "attila", git = "https://github.com/Lee-W/attila/?rev=weilee-customization" },
+    { name = "attila", git = "https://github.com/Lee-W/attila/" },
     { name = "beautifulsoup4", specifier = ">=4.12.3" },
     { name = "ghp-import", specifier = ">=2.1.0" },
     { name = "invoke", specifier = ">=2.2.0" },
@@ -292,6 +293,7 @@ requires-dist = [
     { name = "pelican-deadlinks", git = "https://github.com/pelican-plugins/deadlinks" },
     { name = "pelican-heatmap", specifier = ">=0.2.0" },
     { name = "pelican-osm", specifier = ">=0.2.0" },
+    { name = "pelican-osm", specifier = ">=0.3.0" },
     { name = "pelican-render-math", specifier = ">=1.0.3" },
     { name = "pelican-seo", specifier = ">=1.2.2" },
     { name = "pelican-series", specifier = ">=3.0.0" },
@@ -802,15 +804,15 @@ wheels = [
 
 [[package]]
 name = "pelican-osm"
-version = "0.2.0"
+version = "0.3.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pelican" },
     { name = "pyyaml" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/48/67/45be33709f56c77ffe62546d82b04c44bb1b334c87c19e08d300375e5a1a/pelican_osm-0.2.0.tar.gz", hash = "sha256:a6c9ee8c0bf0d80dd6f3762b55e8e1a84e423b2614b0e5303e5155788ac5f9d3", size = 4358, upload-time = "2026-02-17T07:11:40.701Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/7d/5c/2a0ba5a0b2adaf3a037747c06201e91efc5f20002e134eeb24180fb620fb/pelican_osm-0.3.0.tar.gz", hash = "sha256:eb4b51655e99c19d5f9648726792f0c2a624a4f82ccd3b310fb387990a030b36", size = 13297, upload-time = "2026-03-14T12:57:19.524Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/c1/0e/202e1eb59833b505f8140d96c4513fb2b1ec0e433cce23a40156b912c693/pelican_osm-0.2.0-py3-none-any.whl", hash = "sha256:c795af8cf36e7c645106c977618c058181e0a1478d62618a92e330c3121bbcf9", size = 5364, upload-time = "2026-02-17T07:11:39.209Z" },
+    { url = "https://files.pythonhosted.org/packages/ed/fc/3536428f00204193981707f457341dabb5a19177795d82d08b34847c7313/pelican_osm-0.3.0-py3-none-any.whl", hash = "sha256:eb8fd24f6bd1748c8acceedac243d80e47d1cc01bfca3173c9d3c9861511f4be", size = 14628, upload-time = "2026-03-14T12:57:18.091Z" },
 ]
 
 [[package]]

@@ -16,6 +16,4 @@ Modified: 2026-03-14 15:11
 
 我另外還有一個部落格 [Laziness makes Great Engineer](https://wei-lee.me/) 主要在寫技術文、書摘，還有各種有的沒的想法
 
-<link rel="stylesheet" href="/static/pelican_heatmap.css">
 <div id="writing-heatmap"></div>
-<script src="/static/pelican_heatmap.js" defer></script>
