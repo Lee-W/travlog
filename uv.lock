@@ -291,7 +291,7 @@ requires-dist = [
     { name = "pagefind", extras = ["extended"], specifier = ">=1.4.0" },
     { name = "pelican", extras = ["markdown"], specifier = ">=4.10.1" },
     { name = "pelican-deadlinks", git = "https://github.com/pelican-plugins/deadlinks" },
-    { name = "pelican-heatmap", specifier = ">=0.2.0" },
+    { name = "pelican-heatmap", specifier = ">=0.2.1" },
     { name = "pelican-osm", specifier = ">=0.2.0" },
     { name = "pelican-osm", specifier = ">=0.3.0" },
     { name = "pelican-render-math", specifier = ">=1.0.3" },
@@ -752,14 +752,14 @@ dependencies = [
 
 [[package]]
 name = "pelican-heatmap"
-version = "0.2.0"
+version = "0.2.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pelican" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/36/bb/6b1012c7de727017ac4af5c935c362d3c6d0888773524d97f705ea24b4c5/pelican_heatmap-0.2.0.tar.gz", hash = "sha256:2c2e335660e678c30f812feeff3312eea45856b3b73dbfdb208fe9d1158c6c45", size = 10083, upload-time = "2026-03-14T07:02:01.644Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/95/f9/f05a33d477a0b7857bb79243c3c1e364e84ccb6509dd5532c48b20b7d3aa/pelican_heatmap-0.2.1.tar.gz", hash = "sha256:8f2859d01d95ad73ddf262047ed3fb9fc0c191b6898d15eac148591ee3f7bf77", size = 10131, upload-time = "2026-03-14T15:41:14.934Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/61/38/54f0dfe44697f80a36c1f170e7c33f7af2f63b23ef32c71f84121786c1ce/pelican_heatmap-0.2.0-py3-none-any.whl", hash = "sha256:a7bf74a26414996b035c48d04d9e508a03b1a01795aed13aa96841496084d18f", size = 11202, upload-time = "2026-03-14T07:02:00.14Z" },
+    { url = "https://files.pythonhosted.org/packages/3d/27/ab3305a64b67f9280dfd50d3ddc608377952a8eb41061274161b4de3db34/pelican_heatmap-0.2.1-py3-none-any.whl", hash = "sha256:8ef8d8996937515d9c97add2d388045a08853584773321fffb76118fafef06b1", size = 11167, upload-time = "2026-03-14T15:41:13.401Z" },
 ]
 
 [[package]]

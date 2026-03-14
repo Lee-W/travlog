@@ -24,7 +24,7 @@ dependencies = [
   "pymdown-extensions>=10.16.1",
   "python-gettext>=5.0",
   "typogrify>=2.0.7",
-  "pelican-heatmap>=0.2.0",
+  "pelican-heatmap>=0.2.1",
   "pelican-osm>=0.3.0",
 ]
 
