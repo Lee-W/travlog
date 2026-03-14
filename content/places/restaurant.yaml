@@ -1,5 +1,5 @@
 locations:
-  true-bao-maker:
+  - id: true-bao-maker
     name: 有情出包所 / True Bao Maker
     lat: 25.0503164
     lon: 121.5253053
