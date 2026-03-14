@@ -291,9 +291,9 @@ requires-dist = [
     { name = "pagefind", extras = ["extended"], specifier = ">=1.4.0" },
     { name = "pelican", extras = ["markdown"], specifier = ">=4.10.1" },
     { name = "pelican-deadlinks", git = "https://github.com/pelican-plugins/deadlinks" },
-    { name = "pelican-heatmap", editable = "../../personal/pelican-heatmap" },
+    { name = "pelican-heatmap", specifier = ">=0.2.1" },
     { name = "pelican-osm", specifier = ">=0.2.0" },
-    { name = "pelican-osm", specifier = ">=0.3.0" },
+    { name = "pelican-osm", specifier = ">=0.3.1" },
     { name = "pelican-render-math", specifier = ">=1.0.3" },
     { name = "pelican-seo", specifier = ">=1.2.2" },
     { name = "pelican-series", specifier = ">=3.0.0" },
@@ -753,36 +753,13 @@ dependencies = [
 [[package]]
 name = "pelican-heatmap"
 version = "0.2.2"
-source = { editable = "../../personal/pelican-heatmap" }
+source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pelican" },
 ]
-
-[package.metadata]
-requires-dist = [{ name = "pelican", specifier = ">=4.5" }]
-
-[package.metadata.requires-dev]
-base = [{ name = "poethepoet", specifier = ">=0.41.0" }]
-dev = [
-    { name = "commitizen", specifier = ">=4.13.9" },
-    { name = "mypy", specifier = ">=1.19.1" },
-    { name = "poethepoet", specifier = ">=0.41.0" },
-    { name = "prek", specifier = ">=0.3.3" },
-    { name = "pytest", specifier = ">=9" },
-    { name = "pytest-cov", specifier = ">=4" },
-    { name = "pytest-xdist", specifier = ">=3.1.0" },
-    { name = "ruff", specifier = ">=0.15.1" },
-]
-linters = [
-    { name = "commitizen", specifier = ">=4.13.9" },
-    { name = "mypy", specifier = ">=1.19.1" },
-    { name = "prek", specifier = ">=0.3.3" },
-    { name = "ruff", specifier = ">=0.15.1" },
-]
-test = [
-    { name = "pytest", specifier = ">=9" },
-    { name = "pytest-cov", specifier = ">=4" },
-    { name = "pytest-xdist", specifier = ">=3.1.0" },
+sdist = { url = "https://files.pythonhosted.org/packages/45/58/6e4fbb9262d36a1aa99e855b976d97c8581db1ff0533040a9eb6b7ee0dc5/pelican_heatmap-0.2.2.tar.gz", hash = "sha256:d5f4756afe7ea735df2852735afbc5490584b99764ef6823566c488062fea6e7", size = 10320, upload-time = "2026-03-14T16:25:16.231Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/c8/22/070123a8915b608553c3f85ad6396c8b9632aace5f4210152f1077a2328f/pelican_heatmap-0.2.2-py3-none-any.whl", hash = "sha256:7ce3e1b04969703d36cc71b832788c646d2e83171f0f5400a386f01f645e72fe", size = 11370, upload-time = "2026-03-14T16:25:14.797Z" },
 ]
 
 [[package]]
@@ -827,15 +804,15 @@ wheels = [
 
 [[package]]
 name = "pelican-osm"
-version = "0.3.0"
+version = "0.3.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pelican" },
     { name = "pyyaml" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/7d/5c/2a0ba5a0b2adaf3a037747c06201e91efc5f20002e134eeb24180fb620fb/pelican_osm-0.3.0.tar.gz", hash = "sha256:eb4b51655e99c19d5f9648726792f0c2a624a4f82ccd3b310fb387990a030b36", size = 13297, upload-time = "2026-03-14T12:57:19.524Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/23/b2/9a5c747547ca2da7359c571054689f48a583163d8b9e0ba3aadd8948988f/pelican_osm-0.3.1.tar.gz", hash = "sha256:8ade4888022dc7ded50d5efa873ff03604544e13b1c28deb9db4e94358d9c3b5", size = 13490, upload-time = "2026-03-14T16:47:35.842Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/ed/fc/3536428f00204193981707f457341dabb5a19177795d82d08b34847c7313/pelican_osm-0.3.0-py3-none-any.whl", hash = "sha256:eb8fd24f6bd1748c8acceedac243d80e47d1cc01bfca3173c9d3c9861511f4be", size = 14628, upload-time = "2026-03-14T12:57:18.091Z" },
+    { url = "https://files.pythonhosted.org/packages/23/b0/903a5aa858d6c3a862ca20cdd623b987200af05f579615e2255d6925eb8e/pelican_osm-0.3.1-py3-none-any.whl", hash = "sha256:b3fe99a202854c2301618b69099087a002aa2a9c07ac8ddc2945847c3b4844d2", size = 14833, upload-time = "2026-03-14T16:47:34.201Z" },
 ]
 
 [[package]]
