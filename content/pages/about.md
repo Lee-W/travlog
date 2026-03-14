@@ -1,7 +1,7 @@
 Title: About
 Slug: about
 Date: 2019-06-19 06:48
-Modified: 2022-09-23 18:48
+Modified: 2026-03-14 15:11
 
 原本期待這個部落格會寫旅遊或聖地巡禮的文章
 可以到處去認識新朋友，才把網站名稱定成 Meet people around the world
@@ -15,3 +15,7 @@ Modified: 2022-09-23 18:48
 用英文單純是因為排版起來比較好看
 
 我另外還有一個部落格 [Laziness makes Great Engineer](https://wei-lee.me/) 主要在寫技術文、書摘，還有各種有的沒的想法
+
+<link rel="stylesheet" href="/static/pelican_heatmap.css">
+<div id="writing-heatmap"></div>
+<script src="/static/pelican_heatmap.js" defer></script>

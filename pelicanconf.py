@@ -96,6 +96,7 @@ MARKDOWN = {
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = [
     "another_read_more_link",
+    "pelican.plugins.heatmap",
     "pelican.plugins.osm",
     "pelican.plugins.neighbors",
     "pelican.plugins.render_math",
