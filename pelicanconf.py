@@ -97,6 +97,7 @@ PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = [
     "another_read_more_link",
     "pelican.plugins.heatmap",
+    "pelican.plugins.random_article",
     "pelican.plugins.osm",
     "pelican.plugins.neighbors",
     "pelican.plugins.render_math",
@@ -134,15 +135,16 @@ UTTERANCES_REPO = "Lee-W/travlog"
 
 # Page Setting
 MENUITEMS = (
-    ("Home", "/"),
-    ("About", "/pages/about.html"),
+    ("🏠 Home", "/"),
+    ("🙋 About", "/pages/about.html"),
     ("🍿 Review", "/category/review.html"),
-    ("✈️  Travel", "/category/travel.html"),
+    ("✈️ Travel", "/category/travel.html"),
     ("🥘 Cook", "/category/cook.html"),
     ("🏷️ Tags", "/tags.html"),
     ("🗄️ Archives", "/archives.html"),
     ("📚 Pages", "/pages/pages.html"),
     ("🔍 Search", "/search.html"),
+    ("🎲 Random", "/random/index.html"),
 )
 
 # Content Setting

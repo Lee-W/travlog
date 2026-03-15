@@ -259,6 +259,7 @@ dependencies = [
     { name = "pelican-deadlinks" },
     { name = "pelican-heatmap" },
     { name = "pelican-osm" },
+    { name = "pelican-random-article" },
     { name = "pelican-render-math" },
     { name = "pelican-seo" },
     { name = "pelican-series" },
@@ -294,6 +295,7 @@ requires-dist = [
     { name = "pelican-heatmap", specifier = ">=0.2.1" },
     { name = "pelican-osm", specifier = ">=0.2.0" },
     { name = "pelican-osm", specifier = ">=0.3.1" },
+    { name = "pelican-random-article", specifier = ">=0.2.0" },
     { name = "pelican-render-math", specifier = ">=1.0.3" },
     { name = "pelican-seo", specifier = ">=1.2.2" },
     { name = "pelican-series", specifier = ">=3.0.0" },
@@ -813,6 +815,18 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/23/b2/9a5c747547ca2da7359c571054689f48a583163d8b9e0ba3aadd8948988f/pelican_osm-0.3.1.tar.gz", hash = "sha256:8ade4888022dc7ded50d5efa873ff03604544e13b1c28deb9db4e94358d9c3b5", size = 13490, upload-time = "2026-03-14T16:47:35.842Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/23/b0/903a5aa858d6c3a862ca20cdd623b987200af05f579615e2255d6925eb8e/pelican_osm-0.3.1-py3-none-any.whl", hash = "sha256:b3fe99a202854c2301618b69099087a002aa2a9c07ac8ddc2945847c3b4844d2", size = 14833, upload-time = "2026-03-14T16:47:34.201Z" },
+]
+
+[[package]]
+name = "pelican-random-article"
+version = "0.2.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "pelican" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/d1/08/27eb033598b99be708e9f79429e98d7b2a180129641bb08d7af23a54c42a/pelican_random_article-0.2.0.tar.gz", hash = "sha256:838d9ef8fc74acc60e4dc8f4e5bd32b94b8f018b3b8c214b5711427ff8723e36", size = 4183, upload-time = "2026-03-15T08:15:30.97Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/b3/40/d3a1eeb7ef7360059f7d761be0bfe85b953a44e461b80d23adb3fe404033/pelican_random_article-0.2.0-py3-none-any.whl", hash = "sha256:4338a3758b1f5797344211baa484565b58f3e15622ef11a04ae8385861d6c743", size = 4551, upload-time = "2026-03-15T08:15:30.022Z" },
 ]
 
 [[package]]
