@@ -1,7 +1,7 @@
 Title: 妻子變成小學生。
 Subtitle: 我的手離電話越來越近了
-Date: 2025-01-27 19:45
-Modified: 2025-01-27 21:25
+Date: 2025-01-27 19:45 +0800
+Modified: 2025-01-27 21:25 +0800
 Category: Review
 Tags: Anime
 Slug: If-My-Wife-Becomes-an-Elementary-School-Student

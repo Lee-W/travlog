@@ -1,6 +1,6 @@
 Title: 30 天歌挑戰 - Day 30
 Subtitle: A Song That Reminds You of Yourself
-Date: 2024-05-21 18:30
+Date: 2024-05-21 18:30 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-30

@@ -1,6 +1,6 @@
 Title: 死神少爺與黑女僕
 Subtitle: 過著不被人愛，也不能愛人的悲慘生活
-Date: 2024-07-07 16:25
+Date: 2024-07-07 16:25 +0800
 Category: Review
 Tags: Anime
 Slug: the-death-boy-and-the-black-maid

@@ -1,7 +1,7 @@
 Title: 30 天歌挑戰 - Day 6
 Subtitle: A song that makes you want to dance
-Date: 2024-04-27 12:00
-Modified: 2024-05-08 12:45
+Date: 2024-04-27 12:00 +0800
+Modified: 2024-05-08 12:45 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-6

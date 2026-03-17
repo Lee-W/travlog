@@ -1,6 +1,6 @@
 Title: 2024 春季看什麼
 Subtitle: 每天有好好吃早餐的我，說什麼都一定會勝利的！
-Date: 2024-08-08 20:10
+Date: 2024-08-08 20:10 +0800
 Category: Review
 Tags: Movie, Anime, 當季看什麼
 Slug: what-i-watched-in-2024-sprint

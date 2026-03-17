@@ -1,6 +1,6 @@
 Title: 地。-關於地球的運動-
 Subtitle: 這樣的世界...美嗎？
-Date: 2025-03-18 22:45
+Date: 2025-03-18 22:45 +0800
 Category: Review
 Tags: Anime
 Slug: chi-on-the-movements-of-the-earth

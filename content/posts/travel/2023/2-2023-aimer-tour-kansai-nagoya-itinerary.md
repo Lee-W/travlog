@@ -1,5 +1,5 @@
 Title: 2023 Aimer Tour 關西、名古屋行程
-Date: 2023-05-07 23:00
+Date: 2023-05-07 23:00 +0800
 Category: Travel
 Tags: 聖地巡禮, Fate, 吹響吧！上低音號, 玉子市場, 四疊半藍調時光機, Aimer
 Slug: 2023-aimer-tour-kansai-nagoya-itinerary

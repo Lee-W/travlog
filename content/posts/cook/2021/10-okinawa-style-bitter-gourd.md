@@ -1,6 +1,6 @@
 Title: 沖繩風苦瓜雜炒
-Date: 2021-03-27 12:37
-Modified: 2022-04-20 11:06
+Date: 2021-03-27 12:37 +0800
+Modified: 2022-04-20 11:06 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: okinawa-style-bitter-gourd

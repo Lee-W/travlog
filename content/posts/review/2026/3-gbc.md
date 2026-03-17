@@ -1,6 +1,6 @@
 Title: 少女樂團 吶喊吧
 Subtitle: 少女、樂團、哭
-Date: 2026-01-04 16:55
+Date: 2026-01-04 16:55 +0800
 Category: Review
 Tags: Animate
 Slug: girls-band-cry

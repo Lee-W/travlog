@@ -1,7 +1,7 @@
 Title: 30 天歌挑戰 - Day 13
 Subtitle: A Song You Like From the ‘70s
-Date: 2024-05-04 12:08
-Modified: 2024-05-08 12:45
+Date: 2024-05-04 12:08 +0800
+Modified: 2024-05-08 12:45 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-13

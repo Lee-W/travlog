@@ -1,6 +1,6 @@
 Title: 30 天歌挑戰 - Day 27
 Subtitle: A Song that Breaks Your Heart
-Date: 2024-05-18 07:09
+Date: 2024-05-18 07:09 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-27

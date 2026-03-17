@@ -1,5 +1,5 @@
 Title: 冬季必吃的關東煮
-Date: 2021-10-29 12:55
+Date: 2021-10-29 12:55 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-oden

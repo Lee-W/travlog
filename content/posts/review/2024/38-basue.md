@@ -1,6 +1,6 @@
 Title: 小酒館 Basue
 Subtitle: 你們到底都讓李依李依說了什麼
-Date: 2024-06-12 12:09
+Date: 2024-06-12 12:09 +0800
 Category: Review
 Tags: Anime
 Slug: basue

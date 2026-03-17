@@ -1,6 +1,6 @@
 Title: 藍色巨星 Blue Giant
 Subtitle: こいつ、かっこいいな。
-Date: 2024-06-17 08:10
+Date: 2024-06-17 08:10 +0800
 Category: Review
 Tags: Movie, Anime
 Slug: blue-giant

@@ -1,6 +1,6 @@
 Title: 小太郎一個人生活
 Subtitle: 身旁的人都是天使
-Date: 2023-05-05 22:57
+Date: 2023-05-05 22:57 +0800
 Category: Review
 Tags: Anime, 2022 春番
 Slug: kotaro-lives-alone

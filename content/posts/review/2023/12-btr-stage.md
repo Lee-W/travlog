@@ -1,6 +1,6 @@
 Title: LIVE STAGE「ぼっち・ざ・ろっく！」
 Subtitle: キタ！
-Date: 2023-08-13 13:40
+Date: 2023-08-13 13:40 +0800
 Category: Review
 Tags: Live stage, 2.5次元, 孤獨搖滾
 Slug: btr-stage

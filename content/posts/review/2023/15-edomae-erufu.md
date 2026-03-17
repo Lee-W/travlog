@@ -1,6 +1,6 @@
 Title: 江戶前精靈
 Subtitle: 再陪我一下下吧
-Date: 2023-09-30 13:20
+Date: 2023-09-30 13:20 +0800
 Category: Review
 Tags: Anime
 Slug: edomae-erufu

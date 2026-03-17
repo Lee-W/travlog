@@ -1,6 +1,6 @@
 Title: BanG Dream! Ave Mujica
 Subtitle: 瘋狂星期四
-Date: 2026-01-04 13:16
+Date: 2026-01-04 13:16 +0800
 Category: Review
 Tags: Animate
 Slug: bang-dream-ave-mujica

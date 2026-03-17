@@ -1,6 +1,6 @@
 Title: 尼爾：自動人形 Ver1.1a 下半季
 Subtitle: 人類に栄光あれ
-Date: 2024-10-22 22:45
+Date: 2024-10-22 22:45 +0800
 Category: Review
 Tags: Anime
 Slug: nier-automata

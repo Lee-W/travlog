@@ -1,6 +1,6 @@
 Title: 演劇【推しの子】2.5次元舞台編
 Subtitle: 在 2.5 次元中表演 2.5 次元的劇情，是不是一種 6.25 次元
-Date: 2025-01-29 15:25
+Date: 2025-01-29 15:25 +0800
 Category: Travel
 Tags: Japan, Live stage, 2.5次元
 Slug: oshinoko-2-5-stage

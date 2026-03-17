@@ -1,6 +1,6 @@
 Title: r/anime awards 2025 現正投票中
 Subtitle: 投下你神聖的一票
-Date: 2026-02-17 19:10
+Date: 2026-02-17 19:10 +0800
 Category: Review
 Tags: Anime Awards
 Slug: r-anime-awards-2025

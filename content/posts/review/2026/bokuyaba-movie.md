@@ -1,6 +1,6 @@
 Title: 劇場版 我內心的糟糕念頭
 Subtitle:
-Date: 2026-02-07 22:40
+Date: 2026-02-07 22:40 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: bokuyaba-movie

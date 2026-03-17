@@ -1,6 +1,6 @@
 Title: ミュージカル「Fate/Zero ~A Hero of Justice~」
 Subtitle: ケリィはさ どんな大人になりたいの？
-Date: 2025-10-25 11:58
+Date: 2025-10-25 11:58 +0800
 Category: Review
 Tags: Fate, Fate/Zero, Musical
 Slug: fate-zero-a-hero-of-justice

@@ -1,7 +1,7 @@
 Title: 我心中的作品排名
 Slug: story-ranking
-Date: 2022-02-06 18:48
-Modified: 2025-12-26 18:13
+Date: 2022-02-06 18:48 +0800
+Modified: 2025-12-26 18:13 +0800
 
 啟發自[kaze的日本留學&不務正業ACG](https://aurakaze.blog/list_anime/)跟在推特看到的[TierMaker](https://tiermaker.com/create/anime-tier-list-300-anime-17194)
 才做了這個給自己的作品排名/索引

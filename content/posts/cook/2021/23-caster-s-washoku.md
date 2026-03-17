@@ -1,5 +1,5 @@
 Title: 秋日味覺 - Caster 和風料理修行
-Date: 2021-11-22 19:30
+Date: 2021-11-22 19:30 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: caster-s-washoku

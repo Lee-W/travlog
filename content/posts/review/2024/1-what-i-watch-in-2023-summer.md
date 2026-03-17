@@ -1,6 +1,6 @@
 Title: 2023 夏季看什麼
 Subtitle: 問おう。 あなたがわたしのマスターか？
-Date: 2024-01-03 23:20
+Date: 2024-01-03 23:20 +0800
 Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2023-summer

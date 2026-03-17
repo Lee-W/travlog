@@ -1,6 +1,6 @@
 Title: 2022 秋季看什麼
 Subtitle: 多美好的世界
-Date: 2023-12-07 19:19
+Date: 2023-12-07 19:19 +0800
 Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2022-fall

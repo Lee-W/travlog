@@ -1,6 +1,6 @@
 Title: 夜晚的水母不會游泳
 Subtitle: そういう問題じゃない!
-Date: 2024-07-25 22:55
+Date: 2024-07-25 22:55 +0800
 Category: Review
 Tags: Movie, Anime
 Slug: yurukura

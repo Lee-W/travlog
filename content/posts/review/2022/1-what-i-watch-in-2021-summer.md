@@ -1,6 +1,6 @@
 Title: 2021 夏季看什麼
 Subtitle: 熟悉的京阿尼回來了！
-Date: 2022-02-06 17:50
+Date: 2022-02-06 17:50 +0800
 Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2021-summer

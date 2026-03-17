@@ -1,6 +1,6 @@
 Title: 2024 夏季看什麼
 Subtitle: 翻轉再翻轉
-Date: 2025-02-13 21:25
+Date: 2025-02-13 21:25 +0800
 Category: Review
 Tags: Anime, TODO
 Slug: what-i-watched-in-2024-summer

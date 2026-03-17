@@ -1,6 +1,6 @@
 Title: 2025 秋季看什麼
 Subtitle: 幼馴染か、どろぼう猫か！
-Date: 2026-04-05 16:00
+Date: 2026-04-05 16:00 +0800
 Category: Review
 Tags: Animate
 Slug: what-i-watched-in-2025-fall

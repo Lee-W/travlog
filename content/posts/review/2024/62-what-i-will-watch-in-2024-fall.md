@@ -1,6 +1,6 @@
 Title: 2024 秋番嚐百草
 Subtitle: 我是不是要餓死了
-Date: 2024-11-05 23:15
+Date: 2024-11-05 23:15 +0800
 Category: Review
 Tags: Anime, 新番嚐百草
 Slug: what-i-will-watch-in-2024-fall

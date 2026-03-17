@@ -1,6 +1,6 @@
 Title: 30 天歌挑戰 - Day 18
 Subtitle: A Song From The Year You Were Born
-Date: 2024-05-09 13:18
+Date: 2024-05-09 13:18 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-18

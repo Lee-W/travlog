@@ -1,6 +1,6 @@
 Title: 壽喜燒真是好吃呢
 Subtitle: せやな～
-Date: 2023-01-23 09:05
+Date: 2023-01-23 09:05 +0800
 Category: Cook
 Tags: 搖曳露營△, 台灣野外活動部
 Slug: yuru-camp-inu-yama-s

@@ -1,6 +1,6 @@
 Title: 小林家的龍女僕 交響音樂會 台北站
 Subtitle: Taiwan No.1
-Date: 2025-12-06 16:10
+Date: 2025-12-06 16:10 +0800
 Category: Review
 Tags: Concert, 小林家的龍女僕
 Slug: kobayashino-maid-dragon-concert

@@ -1,6 +1,6 @@
 Title: 30 天歌挑戰 - Day 12
 Subtitle: A Song From Your Preteen Years
-Date: 2024-05-03 12:00
+Date: 2024-05-03 12:00 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-12

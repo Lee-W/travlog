@@ -1,6 +1,6 @@
 Title: Cosplay 初體驗
 Subtitle: 女裝只有零次跟無限次
-Date: 2022-12-31 17:41
+Date: 2022-12-31 17:41 +0800
 Category: Review
 Tags: Anime, Cosplay
 Slug: first-time-cosplay

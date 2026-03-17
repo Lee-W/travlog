@@ -1,6 +1,6 @@
 Title: 劇場版 PSYCHO PASS 心靈判官 PROVIDENCE
 Subtitle: 朱狡糖連發 🍭
-Date: 2023-10-08 15:10
+Date: 2023-10-08 15:10 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: psycho-pass-providence

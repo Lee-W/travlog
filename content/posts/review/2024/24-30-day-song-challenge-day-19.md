@@ -1,6 +1,6 @@
 Title: 30 天歌挑戰 - Day 19
 Subtitle: A Song That Makes You Think About Life
-Date: 2024-05-10 23:57
+Date: 2024-05-10 23:57 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-19

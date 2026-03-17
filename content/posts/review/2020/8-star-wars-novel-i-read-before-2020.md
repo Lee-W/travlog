@@ -1,6 +1,6 @@
 Title: 2020 我看過的 7 本 Star Wars 小說
-Date: 2020-12-23 17:24
-Modified: 2020-12-24 15:35
+Date: 2020-12-23 17:24 +0800
+Modified: 2020-12-24 15:35 +0800
 Category: Review
 Tags: Star Wars, Novel
 Slug: star-wars-novels-i-read-in-2020

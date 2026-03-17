@@ -1,5 +1,5 @@
 Title: 衛宮家的馬鈴薯燉肉
-Date: 2020-12-20 16:30
+Date: 2020-12-20 16:30 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-potato-stew

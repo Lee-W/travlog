@@ -1,6 +1,6 @@
 Title: Re:從零開始的異世界生活 第三季
 Subtitle: 總覺得少了一味 🤔
-Date: 2025-08-19 10:30
+Date: 2025-08-19 10:30 +0800
 Category: Review
 Tags: Anime
 Slug: re-0-season-3

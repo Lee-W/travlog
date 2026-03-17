@@ -1,6 +1,6 @@
 Title: 岸邊露伴在羅浮
 Subtitle: だが断る
-Date: 2023-09-27 00:10
+Date: 2023-09-27 00:10 +0800
 Category: Review
 Tags: JOJO, Movie
 Slug: rohan-at-the-louvre

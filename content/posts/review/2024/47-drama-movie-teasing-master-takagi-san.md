@@ -1,6 +1,6 @@
 Title: (日劇) 電影版 擅長捉弄人的高木同學
 Subtitle: 一張電影票錢能看這麼多廣告，賺爛了
-Date: 2024-07-09 23:00
+Date: 2024-07-09 23:00 +0800
 Category: Review
 Tags: Drama, Movie
 Slug: drama-movie-teasing-master-takagi-san

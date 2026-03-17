@@ -1,5 +1,5 @@
 Title: 2019 前我看過的 23 本 Star Wars 小說
-Date: 2020-01-05 11:37
+Date: 2020-01-05 11:37 +0800
 Category: Review
 Tags: Star Wars, Novel
 Slug: star-wars-novels-i-read-before-2019

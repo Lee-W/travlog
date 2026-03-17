@@ -1,6 +1,6 @@
 Title: 2025 冬季看什麼
 Subtitle: 不夠重的樂團，不是好樂團
-Date: 2026-01-04 17:00
+Date: 2026-01-04 17:00 +0800
 Category: Review
 Tags: Animate, TODO
 Slug: what-i-watched-in-2025-winter

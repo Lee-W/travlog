@@ -1,6 +1,6 @@
 Title: Day 0 和事前準備
 Subtitle: 「富士山輕鬆（？）騎 - 0.27 袋米扛 58,647 樓」系列連載開始
-Date: 2024-11-14 20:10
+Date: 2024-11-14 20:10 +0800
 Category: Travel
 Tags: Japan, Biking, 富士山
 Slug: 2024-mt-fugi-biking-day-0

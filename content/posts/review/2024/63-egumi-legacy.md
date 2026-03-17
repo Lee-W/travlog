@@ -1,6 +1,6 @@
 Title: 哎咕島消失的舔甜歌姬
 Subtitle: 開高、走高、收最高
-Date: 2024-11-07 19:50
+Date: 2024-11-07 19:50 +0800
 Category: Review
 Tags: Anime
 Slug: egumi-legacy

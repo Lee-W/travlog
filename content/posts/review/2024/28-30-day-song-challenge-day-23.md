@@ -1,6 +1,6 @@
 Title: 30 天歌挑戰 - Day 23
 Subtitle: A Song You Think Everybody Should Listen To
-Date: 2024-05-14 09:30
+Date: 2024-05-14 09:30 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-23

@@ -1,6 +1,6 @@
 Title: 夢的化石
 Subtitle: 今敏也是會畫漫畫的！
-Date: 2024-05-29 08:10
+Date: 2024-05-29 08:10 +0800
 Category: Review
 Tags: Comic
 Slug: dream-fossil

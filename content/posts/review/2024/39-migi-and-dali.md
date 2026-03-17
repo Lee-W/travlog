@@ -1,6 +1,6 @@
 Title: 米奇與達利
 Subtitle: 謝謝你，佐野菜見老師
-Date: 2024-06-13 23:05
+Date: 2024-06-13 23:05 +0800
 Category: Review
 Tags: Anime
 Slug: migi-and-dali

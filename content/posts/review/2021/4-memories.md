@@ -1,6 +1,6 @@
 Title: 回憶三部曲
 Subtitle: 經得起時間考驗的好作品
-Date: 2021-09-04 13:10
+Date: 2021-09-04 13:10 +0800
 Category: Review
 Tags: Anime
 Slug: memories

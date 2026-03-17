@@ -1,6 +1,6 @@
 Title: 僕の心のヤバイやつ OST
 Subtitle: 誒不是，我就是來取個件
-Date: 2024-07-21 00:02
+Date: 2024-07-21 00:02 +0800
 Category: Review
 Tags: Music, Anime, Unboxing
 Slug: bokuyaba-ost

@@ -1,6 +1,6 @@
 Title: 電影版 搖曳露營△
 Subtitle: 欸不是，你是美食番你要先說欸
-Date: 2022-11-19 17:25
+Date: 2022-11-19 17:25 +0800
 Category: Review
 Tags: Anime, Movie, 搖曳露營△
 Slug: yuru-camp-the-movie

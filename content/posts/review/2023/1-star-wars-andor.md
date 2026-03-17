@@ -1,6 +1,6 @@
 Title: Star Wars: Andor
 Subtitle: 星戰影集只接受菁英, 絕對不會接受垃圾
-Date: 2023-01-21 19:52
+Date: 2023-01-21 19:52 +0800
 Category: Review
 Tags: Star Wars
 Slug: star-wars-andor

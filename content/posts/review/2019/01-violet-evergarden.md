@@ -1,5 +1,5 @@
 Title: 紫羅蘭的永恆花園
-Date: 2019-07-30 16:27
+Date: 2019-07-30 16:27 +0800
 Category: Review
 Tags: Anime, Kyoto Anime
 Slug: violet-evergarden

@@ -1,6 +1,6 @@
 Title: 岸邊露伴一動也不動: 懺悔室
 Subtitle: 這能不能算是一種 Heaven's Doll
-Date: 2025-09-01 09:45
+Date: 2025-09-01 09:45 +0800
 Category: Review
 Tags: Movie
 Slug: thus-spoke-kjishibe-rohan-at-a-confessional

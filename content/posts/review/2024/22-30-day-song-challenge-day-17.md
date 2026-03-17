@@ -1,6 +1,6 @@
 Title: 30 天歌挑戰 - Day 17
 Subtitle: A Song You’d Sing Karaoke Duet of
-Date: 2024-05-08 12:10
+Date: 2024-05-08 12:10 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-17

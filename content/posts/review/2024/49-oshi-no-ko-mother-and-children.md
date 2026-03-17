@@ -1,6 +1,6 @@
 Title: 【推しの子】 Mother and Children
 Subtitle: 星野アイは欲張りなんだ
-Date: 2024-07-11 20:25
+Date: 2024-07-11 20:25 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: oshi-no-ko-mother-and-children

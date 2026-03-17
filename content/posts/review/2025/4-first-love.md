@@ -1,6 +1,6 @@
 Title: 《First Love 初戀》
 Subtitle: 一切都是時臣的錯
-Date: 2025-02-01 17:52
+Date: 2025-02-01 17:52 +0800
 Category: Review
 Tags: Drama
 Slug: first-love

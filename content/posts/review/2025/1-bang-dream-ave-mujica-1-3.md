@@ -1,6 +1,6 @@
 Title: TVアニメ「BanG Dream! Ave Mujica」#1～#3 先行上映会
 Subtitle: 大家抱歉，我先 GO 了
-Date: 2025-01-19 23:27
+Date: 2025-01-19 23:27 +0800
 Category: Review
 Tags: Anime, Movie, Japan, BanG Dream
 Slug: bang-dream-ave-mujica-1-3

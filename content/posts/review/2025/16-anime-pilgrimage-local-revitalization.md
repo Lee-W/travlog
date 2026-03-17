@@ -1,5 +1,5 @@
 Title: 《ACG文化議題研討會》動漫聖地巡禮與地方創生
-Date: 2025-11-07 22:40
+Date: 2025-11-07 22:40 +0800
 Category: Review
 Tags: 聖地巡禮
 Slug: anime-pilgrimage-local-revitalization

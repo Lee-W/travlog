@@ -1,6 +1,6 @@
 Title: 腦筋急轉彎 2
 Subtitle: Zero to One 總是讓人比較印象深刻
-Date: 2024-07-17 23:45
+Date: 2024-07-17 23:45 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: inside-out-2

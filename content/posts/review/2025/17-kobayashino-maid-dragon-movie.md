@@ -1,6 +1,6 @@
 Title: 小林家的龍女僕：害怕寂寞的龍
 Subtitle: 我們不一樣
-Date: 2025-11-10 21:30
+Date: 2025-11-10 21:30 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: kobayashino-maid-dragon-movie

@@ -1,6 +1,6 @@
 Title: 30 天歌挑戰 - Day 26
 Subtitle: A Song That Makes You Want to Fall in Love
-Date: 2024-05-17 00:50
+Date: 2024-05-17 00:50 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-26

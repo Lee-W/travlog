@@ -1,6 +1,6 @@
 Title: Rise of the Resistance
 Subtitle: 世界第一批體驗星戰新設施
-Date: 2019-12-10 11:27
+Date: 2019-12-10 11:27 +0800
 Category: Travel
 Tags: Star Wars, Galaxy's Edge
 Slug: rise-of-the-resistance

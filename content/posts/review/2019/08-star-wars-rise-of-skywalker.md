@@ -1,5 +1,5 @@
 Title: Star Wars: Rise of Skywalker 觀後感
-Date: 2019-12-29 13:13
+Date: 2019-12-29 13:13 +0800
 Category: Review
 Tags: Star Wars, Movie
 Slug: star-wars-rise-of-skywalker

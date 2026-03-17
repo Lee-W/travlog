@@ -1,5 +1,5 @@
 Title: 紫羅蘭永恆花園外傳–永遠與自動手記人偶
-Date: 2019-11-05 19:00
+Date: 2019-11-05 19:00 +0800
 Category: Review
 Tags: Anime, Movie, Kyoto Anime
 Slug: violet-evergarden-movie

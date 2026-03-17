@@ -1,6 +1,6 @@
 Title: Day 1 前往山中湖
 Subtitle: 聽說是這趟最辛苦的一天...
-Date: 2025-01-26 18:23
+Date: 2025-01-26 18:23 +0800
 Category: Travel
 Tags: Japan, Biking, 富士山
 Slug: 2024-mt-fugi-biking-day-1

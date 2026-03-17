@@ -1,5 +1,5 @@
 Title: 純潔龐克 發條少女
-Date: 2026-02-19 17:48
+Date: 2026-02-19 17:48 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: virgin-punk

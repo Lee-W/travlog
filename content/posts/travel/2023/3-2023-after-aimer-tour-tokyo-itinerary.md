@@ -1,6 +1,6 @@
 Title: 2023 After Aimer Tour 東京行程
 Subtitle: 吃了一整週甜點的我，回台灣竟然變瘦了
-Date: 2023-05-13 00:01
+Date: 2023-05-13 00:01 +0800
 Category: Travel
 Tags: 聖地巡禮, 聯名店, 搖曳露營△, 孤獨搖滾, Lycoris Recoil
 Slug: 2023-after-aimer-tour-tokyo-itinerary

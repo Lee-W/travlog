@@ -1,6 +1,6 @@
 Title: 劇場總集篇 孤獨搖滾！ Re:
 Subtitle: ぼっちちゃんのロック！
-Date: 2024-07-10 23:10
+Date: 2024-07-10 23:10 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: bocchi-the-rock-movie-1

@@ -1,6 +1,6 @@
 Title: 藍色監獄 -EPISODE 凪-
 Subtitle: Blue Lock 的 BL 指的是...
-Date: 2025-02-10 09:40
+Date: 2025-02-10 09:40 +0800
 Category: Review
 Tags: Anime
 Slug: blue-lock-episode-nagi

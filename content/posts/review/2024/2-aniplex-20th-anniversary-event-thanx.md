@@ -1,6 +1,6 @@
 Title: ANIPLEX 20th Anniversary Event-THANX-
 Subtitle: 音楽の貯蔵は充分か
-Date: 2024-01-11 23:50
+Date: 2024-01-11 23:50 +0800
 Category: Review
 Tags: Concert, Anime
 Slug: aniplex-20th-anniversary-event-thanx

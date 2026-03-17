@@ -1,6 +1,6 @@
 Title: 迦勒底特製 - 香煎龍排
 Subtitle: 誒不是，龍肉什麼的是找不到的啊
-Date: 2021-03-19 12:32
+Date: 2021-03-19 12:32 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: chaledea-fried-steak

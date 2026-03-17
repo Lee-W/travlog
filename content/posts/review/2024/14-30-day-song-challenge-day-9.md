@@ -1,6 +1,6 @@
 Title: 30 天歌挑戰 - Day 9
 Subtitle: A song that makes you happy
-Date: 2024-04-30 12:00
+Date: 2024-04-30 12:00 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-9

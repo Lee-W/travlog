@@ -1,7 +1,7 @@
 Title: 30 天歌挑戰 - Day 1
 Subtitle: A song you like with a color in the title
-Date: 2024-04-22 12:00
-Modified: 2024-05-08 12:45
+Date: 2024-04-22 12:00 +0800
+Modified: 2024-05-08 12:45 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-1

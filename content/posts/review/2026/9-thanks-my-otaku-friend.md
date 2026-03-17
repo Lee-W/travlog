@@ -1,6 +1,6 @@
 Title: 不是每個英雄都披著披風
 Subtitle: 一家人就該整整齊齊
-Date: 2026-02-15 21:30
+Date: 2026-02-15 21:30 +0800
 Category: Review
 Tags: Bang Dream
 Slug: thanks-my-otaku-friend

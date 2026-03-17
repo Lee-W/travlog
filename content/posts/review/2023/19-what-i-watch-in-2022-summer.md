@@ -1,6 +1,6 @@
 Title: 2022 夏季看什麼
 Subtitle: 香味僕鼻，哈迪瑪
-Date: 2023-12-05 23:20
+Date: 2023-12-05 23:20 +0800
 Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2022-summer

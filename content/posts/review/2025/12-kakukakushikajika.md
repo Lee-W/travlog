@@ -1,6 +1,6 @@
 Title: 塗鴉日記
 Subtitle: 這部不需要 4DX ...
-Date: 2025-08-30 18:05
+Date: 2025-08-30 18:05 +0800
 Category: Review
 Tags: Movie
 Slug: kakukakujikajika

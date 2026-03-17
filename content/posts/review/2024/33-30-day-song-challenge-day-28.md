@@ -1,6 +1,6 @@
 Title: 30 天歌挑戰 - Day 28
 Subtitle: A Sony by an Artist whose Voice You Love
-Date: 2024-05-19 12:26
+Date: 2024-05-19 12:26 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-28

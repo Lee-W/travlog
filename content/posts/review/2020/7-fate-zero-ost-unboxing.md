@@ -1,5 +1,5 @@
 Title: Fate/Zero OST 開箱
-Date: 2020-11-22 15:21
+Date: 2020-11-22 15:21 +0800
 Category: Review
 Tags: Anime, Fate, Unboxing
 Slug: fate-zero-ost-unboxing

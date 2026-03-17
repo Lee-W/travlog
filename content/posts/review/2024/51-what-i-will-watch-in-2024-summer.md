@@ -1,6 +1,6 @@
 Title: 2024 夏季嚐百草
 Subtitle: 🦌
-Date: 2024-07-16 23:05
+Date: 2024-07-16 23:05 +0800
 Category: Review
 Tags: Anime
 Slug: what-i-will-watch-in-2024-summer

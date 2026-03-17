@@ -1,6 +1,6 @@
 Title: 勇者死了！
 Subtitle: 死んだ！
-Date: 2023-07-01 00:16
+Date: 2023-07-01 00:16 +0800
 Category: Review
 Tags: Anime, 2023 春番
 Slug: the-legendary-hero-is-dead

@@ -1,6 +1,6 @@
 Title: 劇場版 咒術迴戰 懷玉・玉折
 Subtitle: 夏油傑：「死猴子」
-Date: 2025-10-23 10:30
+Date: 2025-10-23 10:30 +0800
 Category: Review
 Tags: Movie
 Slug: jujutsu-kaisen-hidden-inventory-premature-death–the-movie

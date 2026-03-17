@@ -1,5 +1,5 @@
 Title: Star Wars Movies - In Concert
-Date: 2019-09-29 16:26
+Date: 2019-09-29 16:26 +0800
 Category: Review
 Tags: Star Wars, Concert
 Slug: star-wars-movies-in-concert

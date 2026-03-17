@@ -1,5 +1,5 @@
 Title: 暗殺教室 第二季
-Date: 2024-06-14 10:45
+Date: 2024-06-14 10:45 +0800
 Category: Review
 Tags: Anime
 Slug: assassination-classroom-s2

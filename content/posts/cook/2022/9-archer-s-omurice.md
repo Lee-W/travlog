@@ -1,5 +1,5 @@
 Title: 想像著永遠是最好吃的蛋包飯
-Date: 2022-09-10 17:19
+Date: 2022-09-10 17:19 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: archer-s-omurice

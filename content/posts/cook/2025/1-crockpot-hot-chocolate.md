@@ -1,7 +1,7 @@
 Title: 巧克力火鍋，但我沒有電烤盤
 Subtitle: 2025 年年末竟然是今年第一篇料理重現...
-Date: 2025-12-28 17:20
-Modified: 2025-12-29 09:50
+Date: 2025-12-28 17:20 +0800
+Modified: 2025-12-29 09:50 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: crockpot-hot-chocolate

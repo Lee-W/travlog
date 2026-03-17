@@ -1,7 +1,7 @@
 Title: About
 Slug: about
-Date: 2019-06-19 06:48
-Modified: 2026-03-14 15:11
+Date: 2019-06-19 06:48 +0800
+Modified: 2026-03-14 15:11 +0800
 
 原本期待這個部落格會寫旅遊或聖地巡禮的文章
 可以到處去認識新朋友，才把網站名稱定成 Meet people around the world

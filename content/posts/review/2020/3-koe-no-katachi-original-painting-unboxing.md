@@ -1,5 +1,5 @@
 Title: 「聲之形」原畫集開箱
-Date: 2020-06-23 18:37
+Date: 2020-06-23 18:37 +0800
 Category: Review
 Tags: Anime, Movie, Kyoto Anime
 Slug: koe-no-katachi-original-painting-unboxing

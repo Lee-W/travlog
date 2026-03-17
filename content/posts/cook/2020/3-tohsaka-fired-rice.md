@@ -1,6 +1,6 @@
 Title: 遠坂流什錦炒飯
-Date: 2020-11-28 16:54
-Modified: 2020-12-31 12:21
+Date: 2020-11-28 16:54 +0800
+Modified: 2020-12-31 12:21 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: tohsaka-fired-rice

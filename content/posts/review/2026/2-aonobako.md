@@ -1,6 +1,6 @@
 Title: 青春之箱
 Subtitle: 幼馴染か、どろぼう猫か！
-Date: 2026-01-04 13:25
+Date: 2026-01-04 13:25 +0800
 Category: Review
 Tags: Animate
 Slug: aonobako

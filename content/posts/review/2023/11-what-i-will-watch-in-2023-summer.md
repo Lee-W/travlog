@@ -1,6 +1,6 @@
 Title: 2023 夏番嚐百草
 Subtitle: 人類太可惡
-Date: 2023-07-20 18:53
+Date: 2023-07-20 18:53 +0800
 Category: Review
 Tags: Anime, 新番嚐百草
 Slug: what-i-will-watch-in-2023-summer

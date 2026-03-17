@@ -1,5 +1,5 @@
 Title: Caster 的軟嫩薑燒豬肉
-Date: 2021-01-28 17:17
+Date: 2021-01-28 17:17 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: caster-s-syogayaki

@@ -1,6 +1,6 @@
 Title: 30 天歌挑戰 - Day 24
 Subtitle: A Song You Like by a Band You Wish were Still together
-Date: 2024-05-15 12:12
+Date: 2024-05-15 12:12 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-24

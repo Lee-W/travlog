@@ -1,6 +1,6 @@
 Title: 玉米炊飯及玉米天婦羅
-Date: 2024-05-13 19:20
-Modified: 2025-12-26 18:17
+Date: 2024-05-13 19:20 +0800
+Modified: 2025-12-26 18:17 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: rider-s-corn-set

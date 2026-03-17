@@ -1,6 +1,6 @@
 Title: 怪人的沙拉碗
 Subtitle: 哇啦哇
-Date: 2024-07-15 23:50
+Date: 2024-07-15 23:50 +0800
 Category: Review
 Tags: Anime
 Slug: Salad-Bowl-of-Eccentrics

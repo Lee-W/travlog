@@ -1,6 +1,6 @@
 Title: 2025 夏季看什麼
 Subtitle: 久違的京阿尼新作
-Date: 2025-04-05 16:00
+Date: 2025-04-05 16:00 +0800
 Category: Review
 Tags: Animate
 Slug: what-i-watched-in-2025-summer

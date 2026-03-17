@@ -1,5 +1,5 @@
 Title: 衛宮家的漢堡排
-Date: 2020-11-24 22:26
+Date: 2020-11-24 22:26 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-hamburger

@@ -1,6 +1,6 @@
 Title: 小市民系列 第二季
 Subtitle: ED 是很好聽，但你不要斷在這啊啊啊
-Date: 2026-01-07 21:25
+Date: 2026-01-07 21:25 +0800
 Category: Review
 Tags: Animate
 Slug: shoshimin-series-s2

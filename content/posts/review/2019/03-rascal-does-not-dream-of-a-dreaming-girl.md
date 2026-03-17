@@ -1,5 +1,5 @@
 Title: 青春豬頭少年不會夢到懷夢美少女
-Date: 2019-10-02 22:39
+Date: 2019-10-02 22:39 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: rascal-does-not-dream-of-a-dreaming-girl

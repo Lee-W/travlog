@@ -1,6 +1,6 @@
 Title: 30 天歌挑戰 - Day 21
 Subtitle: A Song You Like With a Person’s Name in the Title
-Date: 2024-05-12 13:15
+Date: 2024-05-12 13:15 +0800
 Category: Review
 Tags: Anime, Music
 Slug: 30-day-song-challenge-day-21
