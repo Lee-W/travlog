@@ -1,0 +1,25 @@
+anime: 機動戰士鋼彈 閃光的哈薩威 | 機動戦士ガンダム 閃光のハサウェイ
+tags: [動畫, 電影]
+locations:
+
+  - name: Jollibee
+    lat: 7.0828968452164585
+    lon: 125.62318986463973
+    category: 餐廳
+    notes: ""
+    date: 2025-06-20
+    country: 菲律賓
+    city: 達沃
+    tags: []
+    photos: []
+
+  - name: Lapu-Lapu St
+    lat: 7.080986894518865
+    lon: 125.62075864052505
+    category: 街道
+    notes: ""
+    date: 2025-06-20
+    country: 菲律賓
+    city: 達沃
+    tags: []
+    photos: []
