@@ -1,0 +1,36 @@
+anime: 搖曳露營△ | ゆるキャン△
+tags: [動畫]
+locations:
+
+  - name: みのぶ自然の里
+    lat: 35.472445
+    lon: 138.407858
+    category: 露營場
+    notes: "劇場版鳥籠（已歇業）"
+    date: 2023-05-27
+    country: 日本
+    city: 山梨
+    tags: []
+    images: ["/images/pilgrimage/yuru-camp/Minobu-Shizen-no-Sato.jpeg"]
+
+  - name: 浩庵キャンプ場
+    lat: 35.47335774834706
+    lon: 138.57474790674635
+    category: 露營場
+    notes: ""
+    date: 2023-11-12
+    country: 日本
+    city: 山梨
+    tags: []
+    images: ["/images/pilgrimage/yuru-camp/Kouan.JPG"]
+
+  - name: 下部小・中学校跡
+    lat: 35.44991064679377
+    lon: 138.48100944523816
+    category: 廢校
+    notes: ""
+    date: 2023-11-13
+    country: 日本
+    city: 山梨
+    tags: []
+    images: ["/images/pilgrimage/yuru-camp/Shimobe-junior-high.JPG"]
