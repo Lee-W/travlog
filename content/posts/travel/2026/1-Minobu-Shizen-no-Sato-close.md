@@ -17,6 +17,8 @@ Cover: /images/pilgrimage/yuru-camp/Minobu-Shizen-no-Sato-2.jpeg
 後來也翻到當地觀光課的文章[みのぶ自然の里の営業休止について - 身延町ホームページ（観光課）](https://www.town.minobu.lg.jp/page/8374.html)
 我非常喜歡的`搖曳露營△ 劇場版`的聖地 - 身延自然之里已經要停業了
 
+{% place pilgrimage/yuru-camp.yaml#みのぶ自然の里 %}
+
 當初有去到[2023 巴哈動漫朝聖團]({filename}/posts/travel/2023/4-bahamut-anime-tourism-2023.md)真的是太好了
 直到現在回想起來，那趟旅行還是充滿快樂的記憶
 也交到不少很棒的朋友
