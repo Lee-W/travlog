@@ -11,7 +11,9 @@ locations:
     country: 日本
     city: 山梨
     tags: []
-    images: ["/images/pilgrimage/yuru-camp/Minobu-Shizen-no-Sato.jpeg"]
+    images:
+    - "/images/pilgrimage/yuru-camp/Minobu-Shizen-no-Sato.jpeg"
+    - "/images/pilgrimage/yuru-camp/Minobu-Shizen-no-Sato-2.jpeg"
 
   - name: 浩庵キャンプ場
     lat: 35.47335774834706
