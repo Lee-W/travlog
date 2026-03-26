@@ -1,8 +1,8 @@
-Title: Megaport Festival 大港開唱 2026
+Title: Megaport Festival 大港開唱 2026 計劃篇
 Subtitle: 時隔三年
 Date: 2026-03-15 22:35 +0800
 Category: Review
-Tags: Music Festival
+Tags: Music Festival, 大港開唱
 Slug: megaport-festival-plan
 Authors: Wei Lee
 
