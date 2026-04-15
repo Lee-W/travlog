@@ -21,6 +21,7 @@ EXTRA_PATH_METADATA = {
 DELETE_OUTPUT_DIRECTORY = True
 
 GOOGLE_ANALYTICS = os.environ.get("GOOGLE_ANALYTICS")
+UMAMI_WEBSITE_ID = os.environ.get("UMAMI_WEBSITE_ID")
 
 # local plugins                                                                                                                               │
 DEADLINKS_VALIDATION = False
