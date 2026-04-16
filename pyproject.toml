@@ -27,6 +27,8 @@ dependencies = [
   "pelican-osm>=0.4.2",
   "pelican-random-article>=0.2.0",
   "pelican-i18n-subsites>=1.0.0",
+  # security (indirect dep)
+  "Pygments>=2.20.0"
 ]
 
 [dependency-groups]
