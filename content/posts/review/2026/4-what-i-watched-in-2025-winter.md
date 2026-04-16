@@ -88,7 +88,7 @@ ED 也很魔性
 ### 少女樂團 吶喊吧 <!--s-->
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=40645)
 
-👉 [少女樂團 吶喊吧 - 少女、樂團、哭]({filename}/posts/review/2026/2-aonobako.md)
+👉 [少女樂團 吶喊吧 - 少女、樂團、哭]({filename}/posts/review/2026/3-gbc.md)
 
 ### PLUTO 冥王 <!--s-->
 * 觀看平台： [Netflix](https://www.netflix.com/title/81281344)

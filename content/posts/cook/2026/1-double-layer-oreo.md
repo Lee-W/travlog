@@ -28,7 +28,7 @@ Authors: Wei Lee
 將 2 片 Oreo 餅乾各自分開
 ![IMG_2109](/images/post-images/2026/double-layer-oreo/IMG_2109.jpeg)
 
-接著將奶油側重疊再一起
+接著將奶油側重疊在一起
 特製的雙重奶油夾心餅乾就完成了
 ![IMG_2110](/images/post-images/2026/double-layer-oreo/IMG_2110.jpeg)
 

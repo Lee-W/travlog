@@ -97,7 +97,7 @@ Morgan 的就是很無聊，正如同她在其他故事出現那般無聊
 
 <!--TODO-->
 
-角色朔造相當優秀
+角色塑造相當優秀
 
 ![rice](/images/post-images/2025-what-i-watched-in-2025-sprint/rice.png)
 

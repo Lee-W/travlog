@@ -3,7 +3,7 @@ Subtitle: 我需要大一點的烤箱
 Date: 2021-11-20 17:30 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
-Slug: emiya-bambo-pasta-gratin
+Slug: emiya-bamboo-pasta-gratin
 Cover: /images/post-images/2021-emiya-bambo-pasta-gratin/finish-anime-1.jpeg
 Authors: Wei Lee
 

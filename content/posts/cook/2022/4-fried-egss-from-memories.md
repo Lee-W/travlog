@@ -1,4 +1,4 @@
-Title: 遙遠記憶的荷包單
+Title: 遙遠記憶的荷包蛋
 Subtitle: 正義夥伴的起點
 Date: 2022-01-27 22:55 +0800
 Category: Cook

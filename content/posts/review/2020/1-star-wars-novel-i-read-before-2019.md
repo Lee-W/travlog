@@ -179,7 +179,7 @@ Authors: Wei Lee
 * 英文難度: 3.5 / 5
 * 時間點: Star Wars: Aftermath 之後
 * 適合怎樣的人: 想補完 EP 6 到 Battle of Jakku 之間的歷史
-* 短評: 這次帶回的 Han Solo, Leia, Mon Mothma 等大家熟知的角色，圍繞在 Chewie 被抓走的跟新共和內的混亂。比起上次的故事精彩了不少，也有把之前朔造角色的魅力帶出來
+* 短評: 這次帶回的 Han Solo, Leia, Mon Mothma 等大家熟知的角色，圍繞在 Chewie 被抓走的跟新共和內的混亂。比起上次的故事精彩了不少，也有把之前塑造角色的魅力帶出來
 
 ### Star Wars: Empire's End
 * 個人評分: 7 / 10
@@ -208,7 +208,7 @@ Authors: Wei Lee
 * 英文難度: 3 / 5
 * 時間點: EP 8 之後一個月內
 * 適合怎樣的人: 想知道抵抗勢力在 EP 8 之後怎麼努力重建的過程
-* 短評: 故事本身我覺得普通，但看了很多 Canon 作品的肯定會很愛。這本小說直接把電玩 Battlefront 2, 小說 Aftermath 三部曲, 漫畫 Poe Dameron 朔造的角色帶來。雖然單看應該也不會看不懂就是了。話說回來大家愛的 Poe Finn 戀朔造得最多的應該就在這本小說了 XD
+* 短評: 故事本身我覺得普通，但看了很多 Canon 作品的肯定會很愛。這本小說直接把電玩 Battlefront 2, 小說 Aftermath 三部曲, 漫畫 Poe Dameron 塑造的角色帶來。雖然單看應該也不會看不懂就是了。話說回來大家愛的 Poe Finn 戀塑造得最多的應該就在這本小說了 XD
 
 ### Galaxy's Edge: Black Spire
 * 個人評分: 8 / 10
