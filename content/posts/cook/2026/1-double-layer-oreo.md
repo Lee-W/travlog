@@ -3,8 +3,8 @@ Date: 2026-03-17 23:15 +0800
 Category: Cook
 Tags: 公主殿下，「拷問」的時間到了
 Slug: double-layer-oreo
-Authors: Wei Lee
 Cover: /images/post-images/2026/double-layer-oreo/IMG_2110.jpeg
+Authors: Wei Lee
 
 這次重現的料理自 [公主殿下，「拷問」的時間到了 第二季](https://ani.gamer.com.tw/animeVideo.php?sn=47152) 的第 15 集
 

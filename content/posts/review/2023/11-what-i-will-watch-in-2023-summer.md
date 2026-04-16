@@ -4,8 +4,8 @@ Date: 2023-07-20 18:53 +0800
 Category: Review
 Tags: Anime, 新番嚐百草
 Slug: what-i-will-watch-in-2023-summer
-Authors: Wei Lee
 Cover: /images/post-images/2023-what-i-will-watch-in-2023-summer/helck.jpg
+Authors: Wei Lee
 
 原本是因為「人類太可惡」台灣沒代理，才下了這個副標
 結果昨天發現有代理了

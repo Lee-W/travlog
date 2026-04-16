@@ -4,7 +4,6 @@ Category: Travel
 Tags: Star Wars, Galaxy's Edge
 Slug: star-wars-galaxys-edge-first-peek
 Authors: Wei Lee
-Summary:
 
 今年 5/31 才在加州 Disney Land 開幕的 **Star Wars: Galaxy's Edge**
 我很幸運的預約到 6/1 8:00 p.m. ~ 12:00 a.m.

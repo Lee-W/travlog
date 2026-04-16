@@ -3,8 +3,8 @@ Date: 2021-04-11 18:33 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-chirashizushi
-Authors: Wei Lee
 Cover: /images/post-images/2021-emiya-s-chirashizushi/finish-5.jpeg
+Authors: Wei Lee
 
 這次重現的是動畫、漫畫都是第三集的[春天的散壽司](https://ani.gamer.com.tw/animeVideo.php?sn=16729)
 

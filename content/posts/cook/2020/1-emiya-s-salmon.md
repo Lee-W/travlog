@@ -3,8 +3,8 @@ Date: 2020-10-27 16:45 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-salmon
-Authors: Wei Lee
 Cover: /images/post-images/2020-emiya-s-salmon/anime 2.png
+Authors: Wei Lee
 
 今年因為疫情的關係，沒機會到國外做聖地巡禮
 不然就來重現一下動畫中的料理吧！

@@ -4,8 +4,8 @@ Modified: 2025-12-26 18:17 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: rider-s-corn-set
-Authors: Wei Lee
 Cover: /images/post-images/2024-rider-s-corn-set/IMG_5633.jpeg
+Authors: Wei Lee
 
 這個重現已經完成快一年了
 而且中間還做過好多次

@@ -4,8 +4,8 @@ Date: 2022-1-31 22:20
 Category: Travel
 Tags: 搖曳露營△, 台灣野外活動部
 Slug: first-yuru-camp-at-buyuan
-Authors: Wei Lee
 Cover: /images/post-images/2022-first-yuru-camp-at-buyuan/main-tent.jpg
+Authors: Wei Lee
 
 繼料理跟弓道之後，又一件因為看動畫嘗試的新活動 - 露營
 

@@ -4,8 +4,8 @@ Modified: 2026-01-07 21:35 +0800
 Category: Cook
 Tags: 搖曳露營△
 Slug: yuru-camp-dan-dan-dumplings-pot
-Authors: Wei Lee
 Cover: /images/post-images/2021-yuru-camp-dan-dan-dumplings-pot/finish.jpeg
+Authors: Wei Lee
 
 這次就來挑戰上一篇提到的的擔擔餃子鍋
 

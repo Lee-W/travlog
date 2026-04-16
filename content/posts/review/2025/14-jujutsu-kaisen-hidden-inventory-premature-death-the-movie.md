@@ -4,8 +4,8 @@ Date: 2025-10-23 10:30 +0800
 Category: Review
 Tags: Movie
 Slug: jujutsu-kaisen-hidden-inventory-premature-death–the-movie
-Authors: Wei Lee
 Cover: /images/post-images/2025-what-i-watched-in-2025-fall/jujutsu-kaisen.jpeg
+Authors: Wei Lee
 
 咒術迴戰對我來一直都是還好的作品
 做得還不錯，有空會看一下

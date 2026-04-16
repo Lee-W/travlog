@@ -4,8 +4,8 @@ Date: 2024-11-07 19:50 +0800
 Category: Review
 Tags: Anime
 Slug: egumi-legacy
-Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/egumi-rash.png
+Authors: Wei Lee
 
 雖然它不是 2024 夏我最喜歡的作品
 （前面實在太多強作...）

@@ -4,8 +4,8 @@ Date: 2021-03-19 12:32 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: chaledea-fried-steak
-Authors: Wei Lee
 Cover: /images/post-images/2021-chaldea-fried-steak/finish.jpeg
+Authors: Wei Lee
 
 這次來重現單行本第 2 本番外篇 2 的「迦勒底的餐桌風景 特製！香煎龍排」🐲
 不過還真沒想到竟然有 Fate Grand Order 的改編內容 🤔

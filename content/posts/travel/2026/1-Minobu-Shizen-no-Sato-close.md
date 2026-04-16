@@ -4,8 +4,8 @@ Date: 2026-03-26 21:40 +0800
 Category: Travel
 Tags: Japan, 搖曳露營△, 露營
 Slug: Minobu-Shizen-no-Sato-close
-Authors: Wei Lee
 Cover: /images/pilgrimage/yuru-camp/Minobu-Shizen-no-Sato-2.jpeg
+Authors: Wei Lee
 
 如同 [推しは推せる時に推せる](https://blog.wei-lee.me/posts/random-thoughts/2025/05/support-your-oshi-while-you-can/)
 有聖地能去也是且去且珍惜

@@ -5,8 +5,8 @@ Modified: 2024-05-13 19:00 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-ochazuke
-Authors: Wei Lee
 Cover: /images/post-images/2023-emiya-s-ochazuke/finish-2.jpeg
+Authors: Wei Lee
 
 事隔許久終於又來重現衛宮家的料理了
 畢竟上次的日本旅行都拜訪了衛宮家

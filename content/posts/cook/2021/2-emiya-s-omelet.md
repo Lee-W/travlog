@@ -3,8 +3,8 @@ Date: 2021-01-18 16:17 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-omelet
-Authors: Wei Lee
 Cover: /images/post-images/2021-emiya-s-omelet/finish.jpeg
+Authors: Wei Lee
 
 看著室友做了好多次的蛋料理
 這次要來重現的是第 21 話「便當必備菜色 煎蛋捲」

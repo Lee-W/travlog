@@ -4,8 +4,8 @@ Date: 2024-08-27 22:55 +0800
 Category: Review
 Tags: Anime
 Slug: okoshiyasu-chitose-chan
-Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/Okoshiyasu,%20Chitose-chan.png
+Authors: Wei Lee
 
 感謝四貓又推薦好作品
 上次推薦的[ACCA13 區監察課](https://ani.gamer.com.tw/animeVideo.php?sn=7154)也是好看到不行

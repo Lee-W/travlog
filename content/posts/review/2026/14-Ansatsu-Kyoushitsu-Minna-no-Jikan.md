@@ -4,8 +4,8 @@ Date: 2026-04-10 00:40 +0800
 Category: Review
 Tags: Anime, Movie, 暗殺教室
 Slug: Ansatsu-Kyoushitsu-Minna-no-Jikan
-Authors: Wei Lee
 Cover: /images/post-images/2026/what-i-watched-in-2026-sprint/Ansatsu-Kyoushitsu-1.jpeg
+Authors: Wei Lee
 
 這次的作品是《暗殺教室》 10 週年的紀念電影
 而且不是總集篇，是全新作！

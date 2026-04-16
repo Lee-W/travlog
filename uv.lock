@@ -3,7 +3,7 @@ revision = 3
 requires-python = ">=3.12"
 
 [options]
-exclude-newer = "2026-04-12T15:49:56.679576Z"
+exclude-newer = "2026-04-12T15:50:21.606181Z"
 exclude-newer-span = "P4D"
 
 [[package]]
@@ -30,8 +30,8 @@ wheels = [
 
 [[package]]
 name = "attila"
-version = "2.3.0"
-source = { editable = "/Users/weilee/Programming/personal/attila" }
+version = "2.4.0"
+source = { url = "https://github.com/Lee-W/attila/releases/download/v2.4.0/attila-2.4.0-py3-none-any.whl" }
 dependencies = [
     { name = "pelican" },
     { name = "pelican-heatmap" },
@@ -44,6 +44,9 @@ dependencies = [
     { name = "pelican-sitemap" },
     { name = "pelican-statistics" },
     { name = "pelican-webassets" },
+]
+wheels = [
+    { url = "https://github.com/Lee-W/attila/releases/download/v2.4.0/attila-2.4.0-py3-none-any.whl", hash = "sha256:945a3d094d999688369b8448ab67d705c5f88932ee1435c1cb96913693e6a523" },
 ]
 
 [package.metadata]
@@ -59,20 +62,6 @@ requires-dist = [
     { name = "pelican-sitemap", specifier = ">=1.2.0" },
     { name = "pelican-statistics", specifier = ">=1.0.0" },
     { name = "pelican-webassets", specifier = ">=2.1.0" },
-]
-
-[package.metadata.requires-dev]
-base = [{ name = "poethepoet", specifier = ">=0.34.0" }]
-dev = [
-    { name = "beautifulsoup4" },
-    { name = "poethepoet", specifier = ">=0.34.0" },
-    { name = "pytest", specifier = ">=9.0.0" },
-    { name = "ruff", specifier = ">=0.15.4" },
-]
-linters = [{ name = "ruff", specifier = ">=0.15.4" }]
-test = [
-    { name = "beautifulsoup4" },
-    { name = "pytest", specifier = ">=9.0.0" },
 ]
 
 [[package]]
@@ -334,7 +323,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "attila", editable = "/Users/weilee/Programming/personal/attila" },
+    { name = "attila", url = "https://github.com/Lee-W/attila/releases/download/v2.4.0/attila-2.4.0-py3-none-any.whl" },
     { name = "beautifulsoup4", specifier = ">=4.12.3" },
     { name = "ghp-import", specifier = ">=2.1.0" },
     { name = "invoke", specifier = ">=2.2.0" },

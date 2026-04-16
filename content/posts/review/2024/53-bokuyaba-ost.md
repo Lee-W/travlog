@@ -4,8 +4,8 @@ Date: 2024-07-21 00:02 +0800
 Category: Review
 Tags: Music, Anime, Unboxing
 Slug: bokuyaba-ost
-Authors: Wei Lee
 Cover: /images/post-images/2024-bokuyaba-ost/P1240668.jpeg
+Authors: Wei Lee
 
 怎麼突然就被抓來當 [PyCast](https://pycast.firstory.io/) 主持人了
 

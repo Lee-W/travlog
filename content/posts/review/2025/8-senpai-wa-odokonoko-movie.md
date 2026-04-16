@@ -4,8 +4,8 @@ Date: 2025-05-09 08:41 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: senpai-wa-odokonoko-movie
-Authors: Wei Lee
 Cover: /images/post-images/2025-what-i-watched-in-2025-sprint/senpai.JPEG
+Authors: Wei Lee
 
 在觀影的前一週，很意外的就去參加了鎌倉現地的活動
 電影聯動活動參加完才回來台灣補電影

@@ -4,8 +4,8 @@ Date: 2026-01-21 22:40 +0800
 Category: Review
 Tags: Bar
 Slug: the-a-g-s-bar
-Authors: Wei Lee
 Cover: /images/post-images/2026/the-a-g-s-bar/IMG_1015.JPEG
+Authors: Wei Lee
 
 滑 SNS 的時候剛好看到這間酷酷的酒吧
 結果發現它竟然只營業到這個月底

@@ -4,8 +4,8 @@ Date: 2024-11-28 23:45 +0800
 Category: Cook
 Tags: 小市民系列
 Slug: tasty-cocoa
-Authors: Wei Lee
 Cover: /images/post-images/2024-tasty-cocoa/osanae.png
+Authors: Wei Lee
 
 出自小市民系列動畫第二集
 

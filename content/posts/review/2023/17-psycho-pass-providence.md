@@ -4,8 +4,8 @@ Date: 2023-10-08 15:10 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: psycho-pass-providence
-Authors: Wei Lee
 Cover: /images/post-images/2023-psycho-pass-providence/psycho-pass-providence.jpg
+Authors: Wei Lee
 
 雖然有點苦甜苦點的，但我還是吃糖吃得好快樂
 

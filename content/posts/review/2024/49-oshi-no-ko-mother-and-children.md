@@ -4,8 +4,8 @@ Date: 2024-07-11 20:25 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: oshi-no-ko-mother-and-children
-Authors: Wei Lee
 Cover: /images/post-images/2024-oshinoko-mother-and-children/oshinoko.JPG
+Authors: Wei Lee
 
 ~~就是因為很貪心才會重映再賺一波~~
 

@@ -4,8 +4,8 @@ Date: 2022-09-17 11:01 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: archer-and-caster-s-pumpkin-pudding
-Authors: Wei Lee
 Cover: /images/post-images/2022-archer-and-caster-s-pumpkin-pudding/finish-3.jpeg
+Authors: Wei Lee
 
 因為手邊沒有烤布丁的杯子，再加上我的烤箱又不夠大
 這次就出外景到三重帝寶做布丁吧！

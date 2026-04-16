@@ -4,8 +4,8 @@ Date: 2024-10-29 22:55 +0800
 Category: Review
 Tags: Anime
 Slug: oshi-no-ko-season-2
-Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/oshi-no-alijma.png
+Authors: Wei Lee
 
 幾乎是從第一個畫面就精彩到全季完結
 第一季在我心中就是「恩，還蠻好看」

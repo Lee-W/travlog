@@ -4,8 +4,8 @@ Date: 2023-01-21 19:52 +0800
 Category: Review
 Tags: Star Wars
 Slug: star-wars-andor
-Authors: Lee-W
 Cover: /images/post-images/2023-star-wars-andor/i-mean-all-of-you.jpg
+Authors: Lee-W
 
 暴言警告
 本篇絕對主觀，且對部分作品的嚴重批評

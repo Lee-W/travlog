@@ -4,8 +4,8 @@ Date: 2024-07-08 23:13 +0800
 Category: Review
 Tags: Drama
 Slug: drama-teasing-master-takagi-san
-Authors: Wei Lee
 Cover: /images/post-images/2024-drama-teasing-master-takagi-san/drama-teasing-master-takagi-san.png
+Authors: Wei Lee
 
 在我心中是日漫真人改編很頂尖的作品
 幾乎每個角色都有抓到他們的神韻

@@ -3,8 +3,8 @@ Date: 2021-11-22 19:30 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: caster-s-washoku
-Authors: Wei Lee
 Cover: /images/post-images/2021-caster-s-washoku/finish-anime-1.jpeg
+Authors: Wei Lee
 
 因為秋天也快結束了
 要趕在冬天來臨前重現這道秋日料理

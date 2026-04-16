@@ -3,8 +3,8 @@ Date: 2023-08-31 12:10 +0800
 Category: Cook
 Tags: 搖曳露營△
 Slug: season-nadeshiko-pot
-Authors: Wei Lee
 Cover: /images/post-images/2023-season-nadeshiko-pot/pot.jpeg
+Authors: Wei Lee
 
 之前就一直很想買
 直到三月在東京看到實體，實在太 ゆる

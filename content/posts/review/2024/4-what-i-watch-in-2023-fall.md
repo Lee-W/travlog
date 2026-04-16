@@ -4,8 +4,8 @@ Date: 2024-02-17 13:10 +0800
 Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2023-fall
-Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watch-in-2023-fall/hell.png
+Authors: Wei Lee
 
 這季好看的作品實在太多，根本就看不完...
 

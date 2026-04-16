@@ -4,8 +4,8 @@ Date: 2022-11-19 17:25 +0800
 Category: Review
 Tags: Anime, Movie, 搖曳露營△
 Slug: yuru-camp-the-movie
-Authors: Wei Lee
 Cover: /images/post-images/2022-yuru-camp-the-movie/speical-3.jpeg
+Authors: Wei Lee
 
 欸不是，搖曳露營電影版你是美食番你要先說欸
 剛吃完午餐進去，看完都餓了

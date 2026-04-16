@@ -4,8 +4,8 @@ Date: 2023-09-27 00:10 +0800
 Category: Review
 Tags: JOJO, Movie
 Slug: rohan-at-the-louvre
-Authors: Wei Lee
 Cover: /images/post-images/2023-rohan-at-the-louvre/Rohan-at-the-Louvre.jpeg
+Authors: Wei Lee
 
 岸邊露伴電影中一次也沒拒絕
 

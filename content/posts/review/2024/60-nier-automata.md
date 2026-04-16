@@ -4,8 +4,8 @@ Date: 2024-10-22 22:45 +0800
 Category: Review
 Tags: Anime
 Slug: nier-automata
-Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/nier-human-honor.png
+Authors: Wei Lee
 
 知道這種場合講哪句話最貼切嗎
 **くそくらえだ**

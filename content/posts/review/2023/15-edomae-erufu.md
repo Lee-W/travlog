@@ -4,8 +4,8 @@ Date: 2023-09-30 13:20 +0800
 Category: Review
 Tags: Anime
 Slug: edomae-erufu
-Authors: Wei Lee
 Cover: /images/post-images/2023-edomae-erufu/company.jpg
+Authors: Wei Lee
 
 當季新番實在太多得看，又有朋友說這部很無聊
 才錯過了這部作品

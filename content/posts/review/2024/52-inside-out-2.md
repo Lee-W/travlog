@@ -4,8 +4,8 @@ Date: 2024-07-17 23:45 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: inside-out-2
-Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-sprint/inside-out-2.jpeg
+Authors: Wei Lee
 
 在觀影前，我看到的評價大多是中庸
 有少數朋友很喜歡，給了大好評

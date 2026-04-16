@@ -4,8 +4,8 @@ Date: 2025-10-25 11:58 +0800
 Category: Review
 Tags: Fate, Fate/Zero, Musical
 Slug: fate-zero-a-hero-of-justice
-Authors: Wei Lee
 Cover: /images/post-images/2025-fate-zero-a-hero-of-justice/IMG_7729.jpeg
+Authors: Wei Lee
 
 這次抽到的位置是三樓
 上次雞狗對邦抽到七樓，這次三樓還行吧

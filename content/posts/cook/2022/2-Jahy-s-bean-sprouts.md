@@ -4,8 +4,8 @@ Date: 2022-01-03 22:58 +0800
 Category: Cook
 Tags: 賈希大人不氣餒！
 Slug: Jahy-s-bean-sprouts
-Authors: Wei Lee
 Cover: /images/post-images/2022-Jahy-s-bean-sprouts/a-bit-luxury-finish.jpeg
+Authors: Wei Lee
 
 出自 2022 夏番賈希大人不氣餒！第六集的最後
 就讓魔界 NO.2 的賈希大人教你怎麼正確的煮豆芽菜吧！

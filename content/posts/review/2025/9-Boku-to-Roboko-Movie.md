@@ -4,9 +4,9 @@ Date: 2025-05-14 23:10 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: Boku-to-Roboko-Movie
-Authors: Wei Lee
-Cover: /images/post-images/2025-what-i-watched-in-2025-sprint/boku-to-Roboko.jpeg
 Series: Star Wars Celebration Japan x わかれ道の、その先へ
+Cover: /images/post-images/2025-what-i-watched-in-2025-sprint/boku-to-Roboko.jpeg
+Authors: Wei Lee
 
 第二天的 わかれ道の、その先へ 結束後
 剛好有一場時間對得到的「劇場版 我與機器子」會在 [LAWSON UNITED Cinemas Style - S Minatomirai](https://maps.app.goo.gl/HebqUkhejvsAC8Uo7) 上映

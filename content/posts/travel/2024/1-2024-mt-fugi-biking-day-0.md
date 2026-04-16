@@ -4,9 +4,9 @@ Date: 2024-11-14 20:10 +0800
 Category: Travel
 Tags: Japan, Biking, 富士山
 Slug: 2024-mt-fugi-biking-day-0
-Authors: Wei Lee
 Series: 富士山輕鬆（？）騎 - 0.27 袋米扛 58,647 樓
 Cover: /images/post-images/2024-mt-fugi-biking/d0-dinner.jpg
+Authors: Wei Lee
 
 好久沒寫旅遊文章，上一篇已經是去年的[巴哈團]({filename}/posts/travel/2023/4-bahamut-anime-tourism-2023.md)
 都快忘了這個部落格的初衷了

@@ -4,8 +4,8 @@ Date: 2024-11-16 16:20 +0800
 Category: Review
 Tags: Anime
 Slug: Shoushimin
-Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/Shoushimin-osanae.png
+Authors: Wei Lee
 
 那些說小佐內壞話的
 我看你是想要小佐內直接送你住進日本海了 😆

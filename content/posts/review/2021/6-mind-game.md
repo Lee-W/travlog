@@ -4,8 +4,8 @@ Date: 2021-11-06 15:17 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: mind-game
-Authors: Wei Lee
 Cover: /images/post-images/2021-mind-game/mind-game.jpeg
+Authors: Wei Lee
 
 光是「導演是[湯淺政明](https://zh.wikipedia.org/wiki/%E6%B9%AF%E6%B7%BA%E6%94%BF%E6%98%8E)」這個理由，就足夠讓我去電影院看了
 但我還真的沒想到這麼好看 😲

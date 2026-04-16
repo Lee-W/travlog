@@ -4,8 +4,8 @@ Date: 2023-05-13 00:01 +0800
 Category: Travel
 Tags: 聖地巡禮, 聯名店, 搖曳露營△, 孤獨搖滾, Lycoris Recoil
 Slug: 2023-after-aimer-tour-tokyo-itinerary
-Authors: Wei Lee
 Cover: /images/post-images/2023-after-aimer-tour-tokyo-itinerary/yuru-camp.jpg
+Authors: Wei Lee
 
 這週在東京要上四天班
 沒有太多的時間可以到處玩，主要的行程就是跑合作咖啡廳

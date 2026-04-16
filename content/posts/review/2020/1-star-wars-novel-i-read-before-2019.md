@@ -4,8 +4,6 @@ Category: Review
 Tags: Star Wars, Novel
 Slug: star-wars-novels-i-read-before-2019
 Authors: Wei Lee
-Summary:
-Series:
 
 最近有幾個朋友叫我推薦星戰小說
 想說可以花點時間整理我在 2019 年以前看過的小說

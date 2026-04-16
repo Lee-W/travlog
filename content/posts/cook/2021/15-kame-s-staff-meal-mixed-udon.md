@@ -3,8 +3,8 @@ Date: 2021-08-09 09:44 +0800
 Category: Cook
 Tags: 白砂的 Aquatope
 Slug: kame-s-staff-meal-mixed-udon
-Authors: Wei Lee
 Cover: /images/post-images/2021-kame-s-staff-meal-mixed-udon/finish-1.jpeg
+Authors: Wei Lee
 
 這次終於開始重現衛宮家以外的料理 ~~不當正義的夥伴了~~
 上週看到[白沙的 Aquatope 第五集](https://ani.gamer.com.tw/animeVideo.php?sn=23666)烏龍妹做的什錦炒烏龍很容易

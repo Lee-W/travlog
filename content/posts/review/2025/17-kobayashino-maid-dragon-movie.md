@@ -4,8 +4,8 @@ Date: 2025-11-10 21:30 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: kobayashino-maid-dragon-movie
-Authors: Wei Lee
 Cover: /images/post-images/2025-what-i-watched-in-2025-summer/kobayashi.JPEG
+Authors: Wei Lee
 
 我看這部電影，是因為我喜歡小林
 有些不器用，但卻無比溫柔

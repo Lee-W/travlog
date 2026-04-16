@@ -3,8 +3,8 @@ Date: 2023-04-12 20:49 +0800
 Category: Review
 Tags: Movie
 Slug: the-super-mario-bros-movie
-Authors: Wei Lee
 Cover: /images/post-images/2023-the-super-mario-bros-movie/the-super-mario-bros-movie-2.jpeg
+Authors: Wei Lee
 
 觀影前依稀有聽到一些負評是稍微有些擔心
 但畢竟剛去完環球影城的任天堂園區

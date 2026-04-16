@@ -3,8 +3,8 @@ Date: 2025-11-07 22:40 +0800
 Category: Review
 Tags: 聖地巡禮
 Slug: anime-pilgrimage-local-revitalization
-Authors: Wei Lee
 Cover: /images/post-images/2025-anime-pilgrimage-local-revitalization/matsu.jpeg
+Authors: Wei Lee
 
 前幾週在[二次元実写化中](https://www.facebook.com/2D.JSKC)看到這場動漫工會舉辦活動
 雖然我只是個社畜，工作又跟動漫一點關係都沒有

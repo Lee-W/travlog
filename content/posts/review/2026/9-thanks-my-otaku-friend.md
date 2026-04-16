@@ -4,8 +4,8 @@ Date: 2026-02-15 21:30 +0800
 Category: Review
 Tags: Bang Dream
 Slug: thanks-my-otaku-friend
-Authors: Wei Lee
 Cover: /images/post-images/2026/thanks-my-otaku-friend/IMG_1304.jpeg
+Authors: Wei Lee
 
 在 [FF 46 Day 2]({filename}/posts/review/2026/8-ff-46.md) 有提到朋友會幫我代購 [通り雨](https://www.instagram.com/tooriame.hk/) 的大正浪漫 MyGO!!!!! 跟 Ave Mujica
 昨天終於拿到啦！

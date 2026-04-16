@@ -4,8 +4,8 @@ Date: 2025-02-13 21:25 +0800
 Category: Review
 Tags: Anime, TODO
 Slug: what-i-watched-in-2024-summer
-Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/hamiaomiao.png
+Authors: Wei Lee
 
 並不是指劇情的翻轉再翻轉
 而是這季作品我心中的排名，不斷地改變

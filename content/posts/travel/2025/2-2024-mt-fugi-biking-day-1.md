@@ -4,9 +4,9 @@ Date: 2025-01-26 18:23 +0800
 Category: Travel
 Tags: Japan, Biking, 富士山
 Slug: 2024-mt-fugi-biking-day-1
-Authors: Wei Lee
 Series: 富士山輕鬆（？）騎 - 0.27 袋米扛 58,647 樓
 Cover: /images/post-images/2024-mt-fugi-biking/d1-before-room.jpg
+Authors: Wei Lee
 
 第一天只有 20 km 應該是還好吧
 恩，這是確實 🤔

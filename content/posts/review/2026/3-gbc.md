@@ -4,8 +4,8 @@ Date: 2026-01-04 16:55 +0800
 Category: Review
 Tags: Animate
 Slug: girls-band-cry
-Authors: Wei Lee
 Cover: /images/post-images/2025-what-i-watch-in-2025-winter/gbc.png
+Authors: Wei Lee
 
 Girls Band Cry 有正式譯名前
 泛式曾翻譯成少女、樂團、哭

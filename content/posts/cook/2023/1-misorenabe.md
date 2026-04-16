@@ -4,8 +4,8 @@ Date: 2023-01-10 17:55 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: misorenabe
-Authors: Wei Lee
 Cover: /images/post-images/2023-misorenabe/finish-4.jpeg
+Authors: Wei Lee
 
 這次重現的料理是單行本 7 第 44 回的冬季的天空與雪見鍋
 因為佐佐木小次郎不能離開柳洞寺的特性，這次就直接在門口開煮了

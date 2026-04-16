@@ -4,8 +4,8 @@ Date: 2024-06-17 08:10 +0800
 Category: Review
 Tags: Movie, Anime
 Slug: blue-giant
-Authors: Wei Lee
 Cover: /images/post-images/2024-blue-giant/fourth-1.jpg
+Authors: Wei Lee
 
 都已經電影下架許久，連串流都上了
 躺在這裡的文字才終於要甦醒

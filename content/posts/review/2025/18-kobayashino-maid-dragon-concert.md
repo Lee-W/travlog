@@ -4,8 +4,8 @@ Date: 2025-12-06 16:10 +0800
 Category: Review
 Tags: Concert, 小林家的龍女僕
 Slug: kobayashino-maid-dragon-concert
-Authors: Wei Lee
 Cover: /images/post-images/2025-kobayashino-maid-dragon-concert/IMG_0031.jpeg
+Authors: Wei Lee
 
 台灣是這次巡迴的第一站！！！
 甚至比日本越谷還要更早

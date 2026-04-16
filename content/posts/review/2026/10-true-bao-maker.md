@@ -4,8 +4,8 @@ Date: 2026-02-17 16:00 +0800
 Category: Review
 Tags: Food
 Slug: true-bao-maker
-Authors: Wei Lee
 Cover: /images/post-images/2026/true-bao/IMG_0992.JPEG
+Authors: Wei Lee
 
 看到副標題大家可能會覺得是源來適你的活動
 不過其實不是

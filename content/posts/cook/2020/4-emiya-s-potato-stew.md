@@ -3,8 +3,8 @@ Date: 2020-12-20 16:30 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-potato-stew
+Cover: /images/post-images/2020-emiya-s-potato-stew/finish.jpg
 Authors: Wei Lee
-Cover:
 
 這是我第一次重現只出現在漫畫的料理
 來自第 23 話「風味十足的暖呼呼馬鈴薯燉肉」

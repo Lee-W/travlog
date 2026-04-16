@@ -4,8 +4,8 @@ Date: 2024-06-28 23:35 +0800
 Category: Review
 Tags: Anime
 Slug: 44-dungeon-meshi-season-1-second-half
-Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-winter/17136214591974.jpg
+Authors: Wei Lee
 
 先西太瑟了，實在太瑟了
 製作組真的很懂大家要什麼

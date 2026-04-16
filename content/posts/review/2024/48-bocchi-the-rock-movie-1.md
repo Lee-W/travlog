@@ -4,8 +4,8 @@ Date: 2024-07-10 23:10 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: bocchi-the-rock-movie-1
-Authors: Wei Lee
 Cover: /images/post-images/2024-bocchi-the-rock-movie-1/bocchi.JPG
+Authors: Wei Lee
 
 剛好首映當天人在日本就請了一天假去看
 沒有新劇情，就是 1~8 集重新剪輯

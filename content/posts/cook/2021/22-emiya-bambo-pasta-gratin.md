@@ -4,8 +4,8 @@ Date: 2021-11-20 17:30 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-bambo-pasta-gratin
-Authors: Wei Lee
 Cover: /images/post-images/2021-emiya-bambo-pasta-gratin/finish-anime-1.jpeg
+Authors: Wei Lee
 
 會做這道料理真的是一場意外
 只是剛好室友說買得到竹筍，就決定來做了

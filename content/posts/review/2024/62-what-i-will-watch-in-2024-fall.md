@@ -4,8 +4,8 @@ Date: 2024-11-05 23:15 +0800
 Category: Review
 Tags: Anime, 新番嚐百草
 Slug: what-i-will-watch-in-2024-fall
-Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-will-watch-in-2024-fall/what-should-i-do.jpg
+Authors: Wei Lee
 
 這一季的課表沒有百合
 沒有勝者的早餐

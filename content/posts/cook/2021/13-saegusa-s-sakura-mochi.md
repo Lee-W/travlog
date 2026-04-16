@@ -3,8 +3,8 @@ Date: 2021-06-06 12:15 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: saegusa-s-sakura-mochi
-Authors: Wei Lee
 Cover: /images/post-images/2021-saegusa-s-sakura-mochi/finish-1.jpeg
+Authors: Wei Lee
 
 這次重現單行本第 3 集 22 話「春意盎然，高雅的櫻餅」
 我對這集的主角不太認識，實在想不出新的標題

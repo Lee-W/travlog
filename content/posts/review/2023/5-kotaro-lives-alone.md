@@ -4,8 +4,8 @@ Date: 2023-05-05 22:57 +0800
 Category: Review
 Tags: Anime, 2022 春番
 Slug: kotaro-lives-alone
-Authors: Wei Lee
 Cover: /images/post-images/2023-kotaro-lives-alone/kotaro-lives-alone.png
+Authors: Wei Lee
 
 <!--more-->
 

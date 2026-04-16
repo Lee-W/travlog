@@ -4,8 +4,8 @@ Date: 2026-01-07 21:25 +0800
 Category: Review
 Tags: Animate
 Slug: shoshimin-series-s2
-Authors: Wei Lee
 Cover: /images/post-images/2025-what-i-watched-in-2025-sprint/shoshimin.png
+Authors: Wei Lee
 
 太過分了！
 第一集我連三分鐘都看不下去！

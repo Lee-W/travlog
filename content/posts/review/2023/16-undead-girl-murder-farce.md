@@ -4,8 +4,8 @@ Date: 2023-10-04 19:00 +0800
 Category: Review
 Tags: Anime, 2023 夏番
 Slug: undead-girl-murder-farce
-Authors: Wei Lee
 Cover: /images/post-images/2023-undead-girl-murder-farce/dont-miss.jpg
+Authors: Wei Lee
 
 這部作品實在太有趣了
 2023 夏番，我每週最期待就是它

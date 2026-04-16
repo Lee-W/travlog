@@ -4,8 +4,8 @@ Date: 2021-09-04 13:10 +0800
 Category: Review
 Tags: Anime
 Slug: memories
-Authors: Wei Lee
 Cover: /images/post-images/2021-memories/memories.jpeg
+Authors: Wei Lee
 
 每次看這種畫風非主流的老作品重映
 都會下意識地告訴自己「我大概不會太喜歡，但經典還是要朝聖」

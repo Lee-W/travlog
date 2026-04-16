@@ -4,8 +4,8 @@ Date: 2024-08-18 21:35 +0800
 Category: Review
 Tags: Movie, Anime
 Slug: the-garden-of-words
-Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/the-garden-of-words.jpg
+Authors: Wei Lee
 
 近期揪到最多人一起看的電影就是這部~~足控~~言葉之庭了
 暮然回首因為是看第一天的平日場，不然說不定有機會揪到更多人 🤔

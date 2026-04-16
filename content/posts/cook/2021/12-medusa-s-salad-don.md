@@ -3,8 +3,8 @@ Date: 2021-05-22 12:05 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: medusa-s-salad-don
-Authors: Wei Lee
 Cover: /images/post-images/2021-medusa-s-salad-don/finish-comic-1.jpeg
+Authors: Wei Lee
 
 這次重現單行本第 4 集第 25 話的「撕碎放上去，簡單好做的沙拉丼」
 如同它的名字，這是我重現衛宮家料理最簡單的一道了

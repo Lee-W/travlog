@@ -4,8 +4,8 @@ Date: 2023-07-18 00:05 +0800
 Category: Review
 Tags: Concert, Final Fantasy
 Slug: distant-worlds-music-from-FINAL-FANTASY
-Authors: Wei Lee
 Cover: /images/post-images/2023-distant-worlds-music-from-FINAL-FANTASY/distant-worlds-music-from-FINAL-FANTASY.jpg
+Authors: Wei Lee
 
 我對 Final Fantasy 完全是一無所知
 莫名有個 FF 的音樂好像很好聽的印象

@@ -4,8 +4,8 @@ Date: 2026-01-04 13:16 +0800
 Category: Review
 Tags: Animate
 Slug: bang-dream-ave-mujica
-Authors: Wei Lee
 Cover: /images/post-images/2025-what-i-watch-in-2025-winter/ave-mujica.png
+Authors: Wei Lee
 
 其實我很喜歡 Ave Mujica
 畢竟它帶給我的快樂是很真實的

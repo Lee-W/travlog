@@ -4,8 +4,8 @@ Date: 2023-01-23 09:05 +0800
 Category: Cook
 Tags: 搖曳露營△, 台灣野外活動部
 Slug: yuru-camp-inu-yama-s
-Authors: Wei Lee
 Cover: /images/post-images/2023-yuru-camp-inu-yama-s-sukiyaki/finish-2.jpeg
+Authors: Wei Lee
 
 教主歡送尾牙的重頭戲就是[搖曳露營△ [11]](https://ani.gamer.com.tw/animeVideo.php?sn=21681)的壽喜燒啦！
 ~~雖然我們只有買超市的牛肉，並沒有抽到什麼厲害的和牛~~

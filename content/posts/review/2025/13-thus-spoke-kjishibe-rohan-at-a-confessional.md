@@ -4,8 +4,8 @@ Date: 2025-09-01 09:45 +0800
 Category: Review
 Tags: Movie
 Slug: thus-spoke-kjishibe-rohan-at-a-confessional
-Authors: Wei Lee
 Cover: /images/post-images/2025-thus-spoke-kjishibe-rohan-at-a-confessional/dolls.jpeg
+Authors: Wei Lee
 
 從音樂、分鏡到整體氛圍都好怪
 實在太適合這部怪談作品了

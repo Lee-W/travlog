@@ -4,8 +4,6 @@ Category: Review
 Tags: Anime, Kyoto Anime
 Slug: miss-kobayashi-s-dragon-maid
 Authors: Wei Lee
-Summary:
-Series:
 
 最近又補完了一部京阿尼的作品 [小林家的龍女僕](https://zh.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E5%AE%B6%E7%9A%84%E9%BE%8D%E5%A5%B3%E5%83%95)
 邁向京阿尼作品補完之路

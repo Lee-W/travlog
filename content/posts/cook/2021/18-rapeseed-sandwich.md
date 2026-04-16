@@ -3,8 +3,8 @@ Date: 2021-08-31 22:55 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: rapeseed-sandwich
-Authors: Wei Lee
 Cover: /images/post-images/2021-rapeseed-sandwich/finish-4.jpeg
+Authors: Wei Lee
 
 隔了幾次重現其他作品的料理後，最終還是回來衛宮家的料理
 這次來重現漫畫跟[動畫](https://ani.gamer.com.tw/animeVideo.php?sn=16730)都是第 4 回的「油菜三明治」

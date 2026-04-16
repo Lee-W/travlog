@@ -4,8 +4,8 @@ Date: 2024-08-28 19:30 +0800
 Category: Review
 Tags: Anime
 Slug: Suicide-Squad-ISEKAI
-Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/Suicide-Squad-ISEKAI.jpeg
+Authors: Wei Lee
 
 DC 跟日本當紅的異世界題材實在是有點有趣
 即使平時不太愛看異世界的我，也跑來看這部了

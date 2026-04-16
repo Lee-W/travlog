@@ -4,8 +4,8 @@ Date: 2025-02-01 17:52 +0800
 Category: Review
 Tags: Drama
 Slug: first-love
-Authors: Wei Lee
 Cover: /images/post-images/2025-what-i-watch-in-2025-winter/first-love.jpg
+Authors: Wei Lee
 
 從 2022 開播看到現在，終於看完了！
 

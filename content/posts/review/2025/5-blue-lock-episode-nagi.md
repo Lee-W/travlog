@@ -4,8 +4,8 @@ Date: 2025-02-10 09:40 +0800
 Category: Review
 Tags: Anime
 Slug: blue-lock-episode-nagi
-Authors: Wei Lee
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/blue-lock.jpg
+Authors: Wei Lee
 
 指的一定只能是 Blue Lock！！！
 沒錯吧！
