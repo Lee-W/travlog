@@ -11,21 +11,13 @@ PATH = "content"
 # Blog Conf
 AUTHOR = "Wei Lee"
 SITEURL = "http://localhost:8000"
+STATIC_SITEURL = SITEURL
 SITELOGO = "/images/avatar.jpg"
 BROWSER_COLOR = "#333333"
 HEADER_COVER = "/images/cover.jpeg"
 DEFAULT_DATE_FORMAT = "%Y/%m/%d - %a"
-
-# Locale
 TIMEZONE = "Asia/Taipei"
-DEFAULT_LANG = "zh-tw"
-OG_LOCALE = "zh-tw"
-
-# Utterance (comment system)
-UTTERANCES_LABEL = "blog-comment"
-COMMENTS_INTRO = (
-    "Do you like this article? What do your tink about it? Leave you comment below"
-)
+SHOW_ARTICLE_MODIFIED_TIME = True
 
 # Page Setting
 MAIN_MENU = True
@@ -42,18 +34,13 @@ DIRECT_TEMPLATES = (
     "series_list",
     "search",
 )
+CATEGORIES_URL = "category"
+TAGS_URL = "tag"
 
 # Content Setting
 ARTICLE_URL = "posts/{category}/{date:%Y}/{date:%m}/{slug}"
 ARTICLE_SAVE_AS = "posts/{category}/{date:%Y}/{date:%m}/{slug}/index.html"
 STATIC_PATHS = ["images", "extra", "static"]
-
-# Theme Setting
-THEME = attila.get_path()
-JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
-SHOW_ARTICLE_MODIFIED_TIME = True
-CATEGORIES_URL = "category"
-TAGS_URL = "tag"
 
 # License
 CC_LICENSE = {
@@ -70,14 +57,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-SOCIAL_PROFILE_LABEL = "Keep In Touch"
+SOCIAL_PROFILE_LABEL = "與我聯繫"
 SOCIAL = (
     ("Linkedin", "https://tw.linkedin.com/in/clleew"),
     ("GitHub", "https://github.com/Lee-W"),
     ("Twitter", "https://twitter.com/clleew"),
     ("RSS", f"https://{HOST}/feeds/all.atom.xml"),
 )
-JINJA_GLOBALS = {"POST_SHARE_MASTODON_DOMAIN": "mtd.pythonasia.org"}
+JINJA_GLOBALS = {"POST_SHARE_MASTODON_DOMAIN": "g0v.social"}
 
 # Markdown extension
 MARKDOWN = {
@@ -92,14 +79,54 @@ MARKDOWN = {
     "output_format": "html5",
 }
 
+# Utterance (comment system)
+UTTERANCES_LABEL = "blog-comment"
+COMMENTS_INTRO = "你喜歡這篇文章嗎？你覺得怎麼樣？歡迎在下方留言。"
+
+# Theme Setting
+THEME = attila.get_path()
+
+# i18n
+JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
+OG_LOCALE = "zh-tw"
+DEFAULT_LANG = "zh-tw"
+I18N_TEMPLATES_LANG = "en"
+LANGUAGES = [("zh-tw", "/"), ("en", "/en/")]
+CURRENT_LANG = "zh-tw"
+CATEGORY_TRANSLATIONS = {
+    "Cook": "料理",
+    "Review": "評論",
+    "Travel": "旅遊",
+}
+I18N_SUBSITES = {
+    "en": {
+        "CATEGORY_TRANSLATIONS": {},
+        "COMMENTS_INTRO": "Do you like this article? What do your tink about it? Leave you comment below",
+        "CURRENT_LANG": "en",
+        "MENUITEMS": (
+            ("🏠 Home", "/en/"),
+            ("🙋 About", "/en/pages/about.html"),
+            ("🍿 Review", "/en/category/review.html"),
+            ("✈️ Travel", "/en/category/travel.html"),
+            ("🥘 Cook", "/en/category/cook.html"),
+            ("🏷️ Tags", "/en/tags.html"),
+            ("🗄️ Archives", "/en/archives.html"),
+            ("📚 Pages", "/en/pages/pages.html"),
+            ("🔍 Search", "/en/search.html"),
+            ("🎲 Random", "/en/random/index.html"),
+        ),
+        "SITENAME": "Those things no one cares about",
+        "SOCIAL_PROFILE_LABEL": "Keep In Touch",
+    },
+}
+
 # Plugin-setting
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = [
     "another_read_more_link",
-    "pelican.plugins.heatmap",
-    "pelican.plugins.random_article",
-    "pelican.plugins.osm",
+    "pelican.plugins.i18n_subsites",
     "pelican.plugins.neighbors",
+    "pelican.plugins.random_article",
     "pelican.plugins.render_math",
     "pelican.plugins.seo",
     "pelican.plugins.series",
@@ -107,6 +134,8 @@ PLUGINS = [
     "pelican.plugins.statistics",
     "pelican.plugins.tag_cloud",
     "pelican.plugins.webassets",
+    "pelican.plugins.osm",
+    "pelican.plugins.heatmap",
 ]
 ANOTHER_READ_MORE_LINK = ""
 PAGEFIND_ENABLED = True
@@ -127,7 +156,7 @@ SEO_ENHANCER_TWITTER_CARDS = True  # Subfeature of SEO enhancer
 
 # ----this blog only----
 # Blog Conf
-SITENAME = "Those things no one cares about"
+SITENAME = "那些沒人在乎的事"
 SITETITLE = SITENAME
 
 # Utterance (comment system)
@@ -135,16 +164,16 @@ UTTERANCES_REPO = "Lee-W/travlog"
 
 # Page Setting
 MENUITEMS = (
-    ("🏠 Home", "/"),
-    ("🙋 About", "/pages/about.html"),
-    ("🍿 Review", "/category/review.html"),
-    ("✈️ Travel", "/category/travel.html"),
-    ("🥘 Cook", "/category/cook.html"),
-    ("🏷️ Tags", "/tags.html"),
-    ("🗄️ Archives", "/archives.html"),
-    ("📚 Pages", "/pages/pages.html"),
-    ("🔍 Search", "/search.html"),
-    ("🎲 Random", "/random/index.html"),
+    ("🏠 首頁", "/"),
+    ("🙋 關於", "/pages/about.html"),
+    ("🍿 評論", "/category/review.html"),
+    ("✈️ 旅遊", "/category/travel.html"),
+    ("🥘 料理", "/category/cook.html"),
+    ("🏷️ 標籤", "/tags.html"),
+    ("🗄️ 歸檔", "/archives.html"),
+    ("📚 頁面", "/pages/pages.html"),
+    ("🔍 搜尋", "/search.html"),
+    ("🎲 隨機", "/random/index.html"),
 )
 
 # Content Setting
@@ -153,7 +182,7 @@ DEFAULT_CATEGORY = "Travel"
 # Theme Setting
 PYGMENTS_STYLE = "default"
 AUTHOR_META = {
-    "wei lee": {
+    "Wei Lee": {
         "image": "/images/avatar.jpg",
     }
 }

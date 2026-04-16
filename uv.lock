@@ -3,7 +3,7 @@ revision = 3
 requires-python = ">=3.12"
 
 [options]
-exclude-newer = "2026-04-11T15:38:15.145765Z"
+exclude-newer = "2026-04-12T13:27:26.917267Z"
 exclude-newer-span = "P4D"
 
 [[package]]
@@ -31,7 +31,7 @@ wheels = [
 [[package]]
 name = "attila"
 version = "2.3.0"
-source = { git = "https://github.com/Lee-W/attila/#8a524b7bb7cd13fe153b5c7bb757bb65c58151d2" }
+source = { editable = "/Users/weilee/Programming/personal/attila" }
 dependencies = [
     { name = "pelican" },
     { name = "pelican-heatmap" },
@@ -44,6 +44,35 @@ dependencies = [
     { name = "pelican-sitemap" },
     { name = "pelican-statistics" },
     { name = "pelican-webassets" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "pelican", specifier = ">=4.0.0" },
+    { name = "pelican-heatmap", specifier = ">=0.2.2" },
+    { name = "pelican-image-process", specifier = ">=3.0.0" },
+    { name = "pelican-minify", specifier = ">=2.0.0" },
+    { name = "pelican-neighbors", specifier = ">=1.2.0" },
+    { name = "pelican-osm", specifier = ">=0.3.0" },
+    { name = "pelican-related-posts", specifier = ">=1.0.0" },
+    { name = "pelican-seo", specifier = ">=1.2.0" },
+    { name = "pelican-sitemap", specifier = ">=1.2.0" },
+    { name = "pelican-statistics", specifier = ">=1.0.0" },
+    { name = "pelican-webassets", specifier = ">=2.1.0" },
+]
+
+[package.metadata.requires-dev]
+base = [{ name = "poethepoet", specifier = ">=0.34.0" }]
+dev = [
+    { name = "beautifulsoup4" },
+    { name = "poethepoet", specifier = ">=0.34.0" },
+    { name = "pytest", specifier = ">=9.0.0" },
+    { name = "ruff", specifier = ">=0.15.4" },
+]
+linters = [{ name = "ruff", specifier = ">=0.15.4" }]
+test = [
+    { name = "beautifulsoup4" },
+    { name = "pytest", specifier = ">=9.0.0" },
 ]
 
 [[package]]
@@ -278,6 +307,7 @@ dependencies = [
     { name = "pelican", extra = ["markdown"] },
     { name = "pelican-deadlinks" },
     { name = "pelican-heatmap" },
+    { name = "pelican-i18n-subsites" },
     { name = "pelican-osm" },
     { name = "pelican-random-article" },
     { name = "pelican-render-math" },
@@ -304,7 +334,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "attila", git = "https://github.com/Lee-W/attila/" },
+    { name = "attila", editable = "/Users/weilee/Programming/personal/attila" },
     { name = "beautifulsoup4", specifier = ">=4.12.3" },
     { name = "ghp-import", specifier = ">=2.1.0" },
     { name = "invoke", specifier = ">=2.2.0" },
@@ -313,6 +343,7 @@ requires-dist = [
     { name = "pelican", extras = ["markdown"], specifier = ">=4.10.1" },
     { name = "pelican-deadlinks", git = "https://github.com/pelican-plugins/deadlinks" },
     { name = "pelican-heatmap", specifier = ">=0.2.3" },
+    { name = "pelican-i18n-subsites", specifier = ">=1.0.0" },
     { name = "pelican-osm", specifier = ">=0.4.2" },
     { name = "pelican-random-article", specifier = ">=0.2.0" },
     { name = "pelican-render-math", specifier = ">=1.0.3" },
@@ -711,11 +742,11 @@ wheels = [
 
 [[package]]
 name = "pagefind"
-version = "1.5.0"
+version = "1.5.2"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/7c/b3/9795c226d2be6781962d8baad83edc8dfe44ff788b34f8606843fa9fe2e1/pagefind-1.5.0.tar.gz", hash = "sha256:145528046a860b932a014493af22cc1c48f00cf5414daaf83581b02cea20ca51", size = 52596, upload-time = "2026-04-06T08:44:35.572Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/50/cc/efc080eb3191d1afc75dc58c336676c0847fc4610b1d9e7d58b4083836b6/pagefind-1.5.2.tar.gz", hash = "sha256:fffddd6e2016b06bdca83b83d4ac4bef379cf0559f05ecdb6908a8729a27dbf3", size = 52521, upload-time = "2026-04-12T12:51:59.814Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/d6/92/3dfc9e9a0c756b65948c1ea8fa62745e9a4cab9395971d86d97064a7ebf3/pagefind-1.5.0-py3-none-any.whl", hash = "sha256:7336e0eecd3638ed85b48967849c6406caa617d83737015c3be10395fb3af3ba", size = 10102, upload-time = "2026-04-06T08:43:59.161Z" },
+    { url = "https://files.pythonhosted.org/packages/0a/a7/414e1df2749f647784e32da78ce3081a9fedf1ae8d5b3bb8d4c5643f06cd/pagefind-1.5.2-py3-none-any.whl", hash = "sha256:6c4086ad9eaa7e8f863085652f6b1093549b1737848d946daa0706ee57f778d1", size = 10104, upload-time = "2026-04-12T12:51:27.563Z" },
 ]
 
 [package.optional-dependencies]
@@ -725,15 +756,15 @@ extended = [
 
 [[package]]
 name = "pagefind-bin-extended"
-version = "1.5.0"
+version = "1.5.2"
 source = { registry = "https://pypi.org/simple" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/74/c5/09ecc4dfd46d6d0bd1c89322238c291b7f5d0d4e3bcbe4fa4b1fa4fc479a/pagefind_bin_extended-1.5.0-py3-none-macosx_12_0_arm64.whl", hash = "sha256:7972195375b0e4fbafeefee36a260e5b3c88386a1f04d9978c0738c28659d540", size = 52599020, upload-time = "2026-04-06T08:44:12.931Z" },
-    { url = "https://files.pythonhosted.org/packages/37/58/cc0be8dd6c4a49651e3333552c8d7259c31b558a0eea70bdeb3d04f81aa8/pagefind_bin_extended-1.5.0-py3-none-macosx_12_0_x86_64.whl", hash = "sha256:c11d2116c61f89e54a472dbcc063c20c63fba6adec7bd10adb261bdb71a2f931", size = 52333698, upload-time = "2026-04-06T08:44:19.85Z" },
-    { url = "https://files.pythonhosted.org/packages/5e/43/7bd92ad011b34d069f80744a81256693f7e85fe760f3bf71f871cb4840b7/pagefind_bin_extended-1.5.0-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.musllinux_1_1_x86_64.whl", hash = "sha256:b921d152e4e168faae3f5e8e19c44603035dbc31d27d1f698ec87a083dc3c5b9", size = 52513932, upload-time = "2026-04-06T08:44:22.931Z" },
-    { url = "https://files.pythonhosted.org/packages/3c/ea/33001cd8ecb0919368b8080af1bf95c1858f8cd4cd2e99cd949038590db7/pagefind_bin_extended-1.5.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.musllinux_1_1_aarch64.whl", hash = "sha256:99f51bd892f3ad1c3a52a16a97ea21fac09ca6b218357d415dd3b03224fe5cf7", size = 52255785, upload-time = "2026-04-06T08:44:26.238Z" },
-    { url = "https://files.pythonhosted.org/packages/63/3d/bafe8fd26b4913259f425eea73a7c2c561ad103c2a66acbbf232131ecbfe/pagefind_bin_extended-1.5.0-py3-none-win_amd64.whl", hash = "sha256:c2cbf311b4a0666e3cc7d56bcd34f9322d55963edaf617d073507e5037936d2c", size = 52432294, upload-time = "2026-04-06T08:44:29.523Z" },
-    { url = "https://files.pythonhosted.org/packages/76/20/1a0b10fab806aafce9ed04e75fd360f5509a7a521e4ef066f17abad0cb49/pagefind_bin_extended-1.5.0-py3-none-win_arm64.whl", hash = "sha256:2fd6dec35bd7b4fb9dea02bcb257ccdc21375d2007813404737361668409240a", size = 52295866, upload-time = "2026-04-06T08:44:32.454Z" },
+    { url = "https://files.pythonhosted.org/packages/36/5e/06ac224460edfea99cca6708b25f7a604a2eec0c5db8d8b1a3b7246426cc/pagefind_bin_extended-1.5.2-py3-none-macosx_12_0_arm64.whl", hash = "sha256:9c4e2d7e0def5ba3a7814594e1d91cb6876030c5e05ccec53cc778b94d8af6e6", size = 52590084, upload-time = "2026-04-12T12:51:40.083Z" },
+    { url = "https://files.pythonhosted.org/packages/a6/31/39ebf3ccfd440f377f4507d6232a5b27e6a55ba3296b6f63f766937727ef/pagefind_bin_extended-1.5.2-py3-none-macosx_12_0_x86_64.whl", hash = "sha256:c4db4b46e5aa42c6641cee257b0767895a1d9471c2332717763116e295bd7340", size = 52335482, upload-time = "2026-04-12T12:51:43.674Z" },
+    { url = "https://files.pythonhosted.org/packages/c1/33/66cc2d32a8bfaa3dc4109a7a5f557a0df61aecee9fce827bd8ca9dbb051c/pagefind_bin_extended-1.5.2-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.musllinux_1_1_x86_64.whl", hash = "sha256:1762f4a8c2137ca07261b0fec1b441df1ba421a0f124a86e33c43c09ca2d1d6c", size = 52658197, upload-time = "2026-04-12T12:51:46.937Z" },
+    { url = "https://files.pythonhosted.org/packages/1c/a4/bdf91a227c0c7dcb394c4e47db1db046cd42e56d1881f61d8efbbadfd6e2/pagefind_bin_extended-1.5.2-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.musllinux_1_1_aarch64.whl", hash = "sha256:bcf47caa731c423c6ba355f593cf41febde986a296e8dd3a47620c72aa7a18e1", size = 52374465, upload-time = "2026-04-12T12:51:50.532Z" },
+    { url = "https://files.pythonhosted.org/packages/ce/a7/fa14455f45f8b0ba7f99d9f51d7cbaeee26b187d8da3b457103977c6fd88/pagefind_bin_extended-1.5.2-py3-none-win_amd64.whl", hash = "sha256:2bf653ca30062b50e461887b14cd97be8e44dce6a28b9949b02db4b7f7ca694f", size = 52435085, upload-time = "2026-04-12T12:51:53.967Z" },
+    { url = "https://files.pythonhosted.org/packages/3a/79/ea7a5edd10df47549fd2795d3e4183c08bd1ece96acc6445dd0b21b33f0e/pagefind_bin_extended-1.5.2-py3-none-win_arm64.whl", hash = "sha256:2a59c73b19857f84d7f3482c781897bd20d9409ab4b4e146d54c7b67713dd7cb", size = 52297865, upload-time = "2026-04-12T12:51:57.496Z" },
 ]
 
 [[package]]
@@ -783,6 +814,18 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/4e/29/5cbe6b2f30ff7c5d372fc098e0bae19cee9cf0f17823a1dac75d10c0c951/pelican_heatmap-0.2.3.tar.gz", hash = "sha256:84ff1b78530a067ecf110d5c5d70f64938749cbefb8c37a4853967e2dfc274b7", size = 10384, upload-time = "2026-03-17T13:53:03.356Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/8a/b3/a4e5ecc72a48b79f867ed3882bde53cc38ae483cf5f4d6f158de967df82e/pelican_heatmap-0.2.3-py3-none-any.whl", hash = "sha256:7ea504027fcdbfcf0abfd28ce3b32025e556f2040a0ef45bdda5f685e172b475", size = 11442, upload-time = "2026-03-17T13:53:00.733Z" },
+]
+
+[[package]]
+name = "pelican-i18n-subsites"
+version = "1.0.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "pelican" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/ce/1e/e5b862b9fca0d792ee61ab0af7f0d05471587983141fcf59a03d58dd7bcb/pelican_i18n_subsites-1.0.0.tar.gz", hash = "sha256:fdde5b23b79ceea9b2b640695eceb666e66688ba618a9aa9f99053e546092e93", size = 13550, upload-time = "2025-05-26T19:16:39.346Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/b8/2a/67872fc6bf3b89d47128b86ab8218a077c11dc89e08175450db47d435167/pelican_i18n_subsites-1.0.0-py3-none-any.whl", hash = "sha256:443818256caea963c58c95de13c687bc064f84ddd879ce10f13c108b08e4bd0d", size = 11914, upload-time = "2025-05-26T19:16:38.123Z" },
 ]
 
 [[package]]
@@ -1257,15 +1300,15 @@ wheels = [
 
 [[package]]
 name = "rich"
-version = "14.3.4"
+version = "15.0.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "markdown-it-py" },
     { name = "pygments" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/e9/67/cae617f1351490c25a4b8ac3b8b63a4dda609295d8222bad12242dfdc629/rich-14.3.4.tar.gz", hash = "sha256:817e02727f2b25b40ef56f5aa2217f400c8489f79ca8f46ea2b70dd5e14558a9", size = 230524, upload-time = "2026-04-11T02:57:45.419Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/c0/8f/0722ca900cc807c13a6a0c696dacf35430f72e0ec571c4275d2371fca3e9/rich-15.0.0.tar.gz", hash = "sha256:edd07a4824c6b40189fb7ac9bc4c52536e9780fbbfbddf6f1e2502c31b068c36", size = 230680, upload-time = "2026-04-12T08:24:00.75Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/b3/76/6d163cfac87b632216f71879e6b2cf17163f773ff59c00b5ff4900a80fa3/rich-14.3.4-py3-none-any.whl", hash = "sha256:07e7adb4690f68864777b1450859253bed81a99a31ac321ac1817b2313558952", size = 310480, upload-time = "2026-04-11T02:57:47.484Z" },
+    { url = "https://files.pythonhosted.org/packages/82/3b/64d4899d73f91ba49a8c18a8ff3f0ea8f1c1d75481760df8c68ef5235bf5/rich-15.0.0-py3-none-any.whl", hash = "sha256:33bd4ef74232fb73fe9279a257718407f169c09b78a87ad3d296f548e27de0bb", size = 310654, upload-time = "2026-04-12T08:24:02.83Z" },
 ]
 
 [[package]]

@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-  "attila>=2.3.0",
+  "attila>=2.4.0",
   "beautifulsoup4>=4.12.3",
   "ghp-import>=2.1.0",
   "invoke>=2.2.0",
@@ -26,6 +26,7 @@ dependencies = [
   "pelican-heatmap>=0.2.3",
   "pelican-osm>=0.4.2",
   "pelican-random-article>=0.2.0",
+  "pelican-i18n-subsites>=1.0.0",
 ]
 
 [dependency-groups]
@@ -44,7 +45,7 @@ required-version = ">=0.9.17"
 exclude-newer = "4 days"
 
 [tool.uv.sources]
-attila = { git = "https://github.com/Lee-W/attila/"}
+attila = { path = "/Users/weilee/Programming/personal/attila/", editable = true }
 pelican-deadlinks = { git = "https://github.com/pelican-plugins/deadlinks" }
 
 
