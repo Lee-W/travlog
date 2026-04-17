@@ -1,8 +1,6 @@
 Title: 我走訪過的動漫畫／影視作品聖地
 Date: 2025-12-30
 Modified: 2026-03-20 12:20 +0800
-Category: Travel
-Tags: 聖地巡禮
 Slug: pilgrimage
 
 2018 年，我第一次真正踏上聖地巡禮之旅，之後也陸陸續續續去了一些地方
@@ -18,6 +16,8 @@ Slug: pilgrimage
 並標註了國家、城市與年份
 
 ---
+
+{% place pilgrimage %}
 
 1. 吹響吧！上低音號 | 響け！ユーフォニアム
     1. 🇯🇵 日本
@@ -195,5 +195,3 @@ Slug: pilgrimage
 
 [1] Fate/Zero, Fate/Stay Night - Heaven’s Feel, Fate/Stay Night - Unlimited Blade Works, 衛宮家今天的餐桌風景
 [2] BanG Dream! It's MyGO!!!!!, BanG Dream! Ave Mujica
-
-{% place pilgrimage %}

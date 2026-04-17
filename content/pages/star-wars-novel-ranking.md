@@ -1,8 +1,9 @@
 Title: 星際大戰小說排名
 Slug: star-wars-novel-ranking
 Date: 2024-09-17 16:00 +0800
+Modified: 2026-04-17 00:00 +0800
 
-| | **評分** | **英文難度** | **觀看年份** |
+| **書名** | **評分** | **英文難度** | **觀看年份** |
 | --- | --- | --- | --- |
 | **Rogue One: A Star Wars Story** | 10 | 3 | 2017 |
 | **Star Wars: Darth Plagueis** | 9.5 | 4.8 | 2017 |
