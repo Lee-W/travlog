@@ -44,7 +44,7 @@ STATIC_PATHS = ["images", "extra", "static"]
 
 # License
 CC_LICENSE = {
-    "name": "Creative Commons Attribution-ShareAlike",
+    "name": "創用 CC 姓名標示─相同方式分享",
     "version": "4.0",
     "slug": "by-sa",
 }
@@ -57,7 +57,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Social widget
-SOCIAL_PROFILE_LABEL = "與我聯繫"
+SOCIAL_PROFILE_LABEL = "保持聯繫"
 SOCIAL = (
     ("Linkedin", "https://tw.linkedin.com/in/clleew"),
     ("GitHub", "https://github.com/Lee-W"),
@@ -97,29 +97,11 @@ LANGUAGE_NAMES = {
     "en": "English",
 }
 CURRENT_LANG = "zh-tw"
-CATEGORY_TRANSLATIONS = {
-    "Cook": "料理",
-    "Review": "評論",
-    "Travel": "旅遊",
-}
 I18N_SUBSITES = {
     "en": {
         "CATEGORY_TRANSLATIONS": {},
         "COMMENTS_INTRO": "Do you like this article? What do your tink about it? Leave you comment below",
         "CURRENT_LANG": "en",
-        "MENUITEMS": (
-            ("🏠 Home", "/en/"),
-            ("🙋 About", "/en/pages/about.html"),
-            ("🍿 Review", "/en/category/review.html"),
-            ("✈️ Travel", "/en/category/travel.html"),
-            ("🥘 Cook", "/en/category/cook.html"),
-            ("🏷️ Tags", "/en/tags.html"),
-            ("🗄️ Archives", "/en/archives.html"),
-            ("📚 Pages", "/en/pages/pages.html"),
-            ("🔍 Search", "/en/search.html"),
-            ("🎲 Random", "/en/random/index.html"),
-        ),
-        "SITENAME": "Those things no one cares about",
         "SOCIAL_PROFILE_LABEL": "Keep In Touch",
     },
 }
@@ -170,12 +152,12 @@ UTTERANCES_REPO = "Lee-W/travlog"
 MENUITEMS = (
     ("🏠 首頁", "/"),
     ("🙋 關於", "/pages/about.html"),
+    ("📚 頁面", "/pages/pages.html"),
     ("🍿 評論", "/category/review.html"),
     ("✈️ 旅遊", "/category/travel.html"),
     ("🥘 料理", "/category/cook.html"),
     ("🏷️ 標籤", "/tags.html"),
     ("🗄️ 歸檔", "/archives.html"),
-    ("📚 頁面", "/pages/pages.html"),
     ("🔍 搜尋", "/search.html"),
     ("🎲 隨機", "/random/index.html"),
 )
@@ -190,3 +172,27 @@ AUTHOR_META = {
         "image": "/images/avatar.jpg",
     }
 }
+
+# i18n
+CATEGORY_TRANSLATIONS = {
+    "Cook": "料理",
+    "Review": "評論",
+    "Travel": "旅遊",
+}
+I18N_SUBSITES["en"].update(
+    {
+        "MENUITEMS": (
+            ("🏠 Home", "/en/"),
+            ("🙋 About", "/en/pages/about.html"),
+            ("🍿 Review", "/en/category/review.html"),
+            ("✈️ Travel", "/en/category/travel.html"),
+            ("🥘 Cook", "/en/category/cook.html"),
+            ("🏷️ Tags", "/en/tags.html"),
+            ("🗄️ Archives", "/en/archives.html"),
+            ("📚 Pages", "/en/pages/pages.html"),
+            ("🔍 Search", "/en/search.html"),
+            ("🎲 Random", "/en/random/index.html"),
+        ),
+        "SITENAME": "Those things no one cares about",
+    }
+)
