@@ -3,7 +3,7 @@ revision = 3
 requires-python = ">=3.12"
 
 [options]
-exclude-newer = "2026-04-12T16:35:52.698556Z"
+exclude-newer = "2026-04-13T04:24:08.769396Z"
 exclude-newer-span = "P4D"
 
 [[package]]
@@ -30,8 +30,8 @@ wheels = [
 
 [[package]]
 name = "attila"
-version = "2.4.0"
-source = { url = "https://github.com/Lee-W/attila/releases/download/v2.4.0/attila-2.4.0-py3-none-any.whl" }
+version = "2.5.0"
+source = { git = "https://github.com/Lee-W/attila/#bef0b46b135b8d29c13e4e901ad757e7eddf5721" }
 dependencies = [
     { name = "pelican" },
     { name = "pelican-heatmap" },
@@ -44,24 +44,6 @@ dependencies = [
     { name = "pelican-sitemap" },
     { name = "pelican-statistics" },
     { name = "pelican-webassets" },
-]
-wheels = [
-    { url = "https://github.com/Lee-W/attila/releases/download/v2.4.0/attila-2.4.0-py3-none-any.whl", hash = "sha256:945a3d094d999688369b8448ab67d705c5f88932ee1435c1cb96913693e6a523" },
-]
-
-[package.metadata]
-requires-dist = [
-    { name = "pelican", specifier = ">=4.0.0" },
-    { name = "pelican-heatmap", specifier = ">=0.2.2" },
-    { name = "pelican-image-process", specifier = ">=3.0.0" },
-    { name = "pelican-minify", specifier = ">=2.0.0" },
-    { name = "pelican-neighbors", specifier = ">=1.2.0" },
-    { name = "pelican-osm", specifier = ">=0.3.0" },
-    { name = "pelican-related-posts", specifier = ">=1.0.0" },
-    { name = "pelican-seo", specifier = ">=1.2.0" },
-    { name = "pelican-sitemap", specifier = ">=1.2.0" },
-    { name = "pelican-statistics", specifier = ">=1.0.0" },
-    { name = "pelican-webassets", specifier = ">=2.1.0" },
 ]
 
 [[package]]
@@ -324,7 +306,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "attila", url = "https://github.com/Lee-W/attila/releases/download/v2.4.0/attila-2.4.0-py3-none-any.whl" },
+    { name = "attila", git = "https://github.com/Lee-W/attila/" },
     { name = "beautifulsoup4", specifier = ">=4.12.3" },
     { name = "ghp-import", specifier = ">=2.1.0" },
     { name = "invoke", specifier = ">=2.2.0" },

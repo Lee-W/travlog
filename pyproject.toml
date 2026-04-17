@@ -5,7 +5,7 @@ description = "Wei's entertainment blog"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-  "attila>=2.4.0",
+  "attila>=2.5.0",
   "beautifulsoup4>=4.12.3",
   "ghp-import>=2.1.0",
   "invoke>=2.2.0",
@@ -47,8 +47,7 @@ required-version = ">=0.9.17"
 exclude-newer = "4 days"
 
 [tool.uv.sources]
-# attila = { git = "https://github.com/Lee-W/attila/"}
-attila = { url = "https://github.com/Lee-W/attila/releases/download/v2.4.0/attila-2.4.0-py3-none-any.whl" }
+attila = { git = "https://github.com/Lee-W/attila/"}
 pelican-deadlinks = { git = "https://github.com/pelican-plugins/deadlinks" }
 
 
