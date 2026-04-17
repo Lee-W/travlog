@@ -26,8 +26,8 @@ wheels = [
 
 [[package]]
 name = "attila"
-version = "2.6.0"
-source = { git = "https://github.com/Lee-W/attila/#b3506314aad281066280c6a66c92111a6e9325b5" }
+version = "2.6.1"
+source = { git = "https://github.com/Lee-W/attila/#6a36a080f76dd78ec7bf36c1a1be7184fa79ce8f" }
 dependencies = [
     { name = "pelican" },
     { name = "pelican-heatmap" },

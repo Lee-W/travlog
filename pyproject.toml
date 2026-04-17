@@ -5,7 +5,7 @@ description = "Wei's entertainment blog"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-  "attila>=2.6.0",
+  "attila>=2.6.1",
   "beautifulsoup4>=4.12.3",
   "ghp-import>=2.1.0",
   "invoke>=2.2.0",
