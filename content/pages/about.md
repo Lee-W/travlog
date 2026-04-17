@@ -1,7 +1,7 @@
 Title: 關於
 Slug: about
 Date: 2019-06-19 06:48 +0800
-Modified: 2026-03-14 15:11 +0800
+Modified: 2026-04-17 22:15 +0800
 
 <div id="writing-heatmap"></div>
 
@@ -10,10 +10,20 @@ Modified: 2026-03-14 15:11 +0800
 但我開始寫的不久後疫情就開始了...
 後來都在寫動畫的心得 🍿 跟動畫料理 🥘 重現
 
-這季看到異世界歸來的舅舅動畫第二集舅舅被敬文吐槽
+當時看到異世界歸來的舅舅動畫第二集舅舅被敬文吐槽
 「就只是這種無所謂的事？」讓我很有感
 對啊，確實就是這麼無所謂的事呢
-所以呢，就改成了 Those things no one cares about
-用英文單純是因為排版起來比較好看
+但即使是無所謂的事也沒關係，我記錄我的
 
-我另外還有一個部落格 [Laziness makes Great Engineer](https://wei-lee.me/) 主要在寫技術文、書摘，還有各種有的沒的想法
+我另外還有一個部落格 [不寫下來的東西都會被遺忘](https://blog.wei-lee.me/)
+主要在寫技術文、書摘，還有各種有的沒的想法
+
+---
+
+喜歡這裡的內容嗎？歡迎透過 [RSS](/feeds/all.atom.xml) 訂閱、在文章下方留言，或直接寄信給我
+除此之外，你可以在這裡找到我
+
+* <i class="fa-brands fa-x-twitter"></i> [Twitter / X](https://twitter.com/clleew)
+* <i class="fa-brands fa-mastodon"></i> [Mastodon](https://g0v.social/@weilee)
+* <i class="fa-brands fa-github"></i> [GitHub](https://github.com/Lee-W/)
+* <i class="fa-brands fa-linkedin"></i> [LinkedIn](https://tw.linkedin.com/in/clleew)
