@@ -32,7 +32,6 @@ DIRECT_TEMPLATES = (
     "archives",
     "tags",
     "series_list",
-    "search",
 )
 CATEGORIES_URL = "category"
 TAGS_URL = "tag"
@@ -158,7 +157,6 @@ MENUITEMS = (
     ("🥘 料理", "/category/cook.html"),
     ("🏷️ 標籤", "/tags.html"),
     ("🗄️ 歸檔", "/archives.html"),
-    ("🔍 搜尋", "/search.html"),
     ("🎲 隨機", "/random/index.html"),
 )
 
@@ -195,7 +193,6 @@ I18N_SUBSITES["en"].update(
             ("🏷️ Tags", "/en/tags.html"),
             ("🗄️ Archives", "/en/archives.html"),
             ("📚 Pages", "/en/pages/pages.html"),
-            ("🔍 Search", "/en/search.html"),
             ("🎲 Random", "/en/random/index.html"),
         ),
         "SITENAME": "Those things no one cares about",
