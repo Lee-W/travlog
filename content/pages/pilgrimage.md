@@ -17,8 +17,6 @@ Slug: pilgrimage
 
 ---
 
-{% place pilgrimage %}
-
 1. 吹響吧！上低音號 | 響け！ユーフォニアム
     1. 🇯🇵 日本
         1. 名古屋 (2018)
@@ -61,7 +59,7 @@ Slug: pilgrimage
 11. 蠟筆小新 | クレヨンしんちゃん
     1. 🇯🇵 日本
         1. 埼玉 (2019)
-12. Fate 系列 [1]
+12. Fate 系列 [^1]
     1. 🇯🇵 日本
         1. 神戶 (2023)
         2. 名古屋 (2023)
@@ -107,7 +105,7 @@ Slug: pilgrimage
     1. 🇯🇵 日本
         1. 東京 (2024)
         2. 廣島 (2024)
-24. BanG Dream! 系列 [2]
+24. BanG Dream! 系列 [^2]
     1. 🇯🇵 日本
         1. 東京 (2024, 2025, 2026)
 25. 我推的孩子 | 【推しの子】
@@ -193,5 +191,7 @@ Slug: pilgrimage
     1. 🇯🇵 日本
         1. 神奈川 (2026)
 
-[1] Fate/Zero, Fate/Stay Night - Heaven’s Feel, Fate/Stay Night - Unlimited Blade Works, 衛宮家今天的餐桌風景
-[2] BanG Dream! It's MyGO!!!!!, BanG Dream! Ave Mujica
+[^1]: Fate/Zero, Fate/Stay Night - Heaven’s Feel, Fate/Stay Night - Unlimited Blade Works, 衛宮家今天的餐桌風景
+[^2]: BanG Dream! It’s MyGO!!!!!, BanG Dream! Ave Mujica
+
+{% place pilgrimage %}

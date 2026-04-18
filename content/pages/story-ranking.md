@@ -39,7 +39,7 @@ Modified: 2025-12-26 18:13 +0800
 
 * 日式動漫畫: [AniList](https://anilist.co/user/clleew/)
 * 其他電影: [letterboxd](https://letterboxd.com/clleew/)
-* 其他影集: [trackt](https://trakt.tv/users/clleew)
+* 其他影集: [trakt](https://trakt.tv/users/clleew)
 
 [TOC]
 
