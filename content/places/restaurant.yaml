@@ -5,4 +5,6 @@ locations:
     lon: 121.5253053
     address: 臺北市中山區林森北路107巷4號
     tags: [food, bao]
-    url: "/posts/review/2026/02/true-bao-maker"
+    urls:
+      - label: "有情出包所"
+        href: "{filename}/posts/review/2026/10-true-bao-maker.md"
