@@ -4,7 +4,7 @@ locations:
     lat: 25.0503164
     lon: 121.5253053
     address: 臺北市中山區林森北路107巷4號
-    tags: [bao]
+    tags: [居酒屋]
     urls:
       - label: "有情出包所"
         href: "{filename}/posts/review/2026/10-true-bao-maker.md"
@@ -17,3 +17,12 @@ locations:
     urls:
       - label: "Vüg Ka 餐酒食"
         href: "{filename}/posts/review/2026/10-true-bao-maker.md"
+  - id: kakuregaramen
+    name: 隱家拉麵 赤峰店
+    lat: 25.0564555555556
+    lon: 121.5206
+    address: 臺北市大同區南京西路25巷28號
+    tags: [拉麵]
+    urls:
+      - label: "隱家拉麵 赤峰店"
+        href: "{filename}/posts/review/2026/16-kakuregaramen.md"
