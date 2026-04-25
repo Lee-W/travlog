@@ -122,6 +122,7 @@ PLUGINS = [
     "pelican.plugins.osm",
 ]
 PAGEFIND_ENABLED = True
+SUMMARY_LINK_FORMAT = ""
 
 # Local plugins
 LOCAL_PLUGINS = [

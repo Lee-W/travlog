@@ -20,7 +20,7 @@ dependencies = [
   "pelican-statistics>=1.0.0",
   "pelican-tag-cloud>=1.0.1",
   "pelican-webassets>=2.0.0",
-  "pelican[markdown]>=4.10.1",
+  "pelican[markdown]>=4.12.0",
   "pillow>=11.0.0",
   "pymdown-extensions>=10.16.1",
   "python-gettext>=5.0",
@@ -28,10 +28,8 @@ dependencies = [
   "webassets>=2.0",
   "pelican-heatmap>=0.3.1",
   "pelican-osm>=0.7.0",
-  "pelican-summary-link",
+  "pelican-summary-link>=0.2.1",
   "pelican-random-article>=0.2.0",
-  # security (indirect dep)
-  "Pygments>=2.20.0",
 ]
 
 [dependency-groups]
