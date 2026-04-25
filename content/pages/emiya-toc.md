@@ -18,46 +18,46 @@ Modified: 2025-12-29 09:50 +0800
 
 | | 漫畫<br>單行本 | 回數 | 動畫<br>集數 |
 | --- | --- | --- | --- |
-| [衛宮家的暖呼呼火鍋和雜炊粥]({filename}/posts/cook/2021/5-emyia-s-hotpot-and-zousui.md) | 1 | 1 | [13](https://ani.gamer.com.tw/animeVideo.php?sn=16739) |
-| [衛宮家的鋁箔悶燒鮭魚]({filename}/posts/cook/2020/1-emiya-s-salmon.md) |  | 2 | [2](https://ani.gamer.com.tw/animeVideo.php?sn=16728) |
+| [衛宮家的暖呼呼火鍋和雜炊粥]({filename}/posts/cook/2021/05-emyia-s-hotpot-and-zousui.md) | 1 | 1 | [13](https://ani.gamer.com.tw/animeVideo.php?sn=16739) |
+| [衛宮家的鋁箔悶燒鮭魚]({filename}/posts/cook/2020/01-emiya-s-salmon.md) |  | 2 | [2](https://ani.gamer.com.tw/animeVideo.php?sn=16728) |
 | [伊莉雅的女兒節 - 春季散壽司]({filename}/posts/cook/2021/11-emiya-s-chirashizushi.md) | | 3 | [3](https://ani.gamer.com.tw/animeVideo.php?sn=16729) |
 | [佐佐木小次郎認證的油菜三明治]({filename}/posts/cook/2021/18-rapeseed-sandwich.md) | | 4 | [4](https://ani.gamer.com.tw/animeVideo.php?sn=16730) |
 | [竹筍焗烤麵 - 我需要大一點的烤箱]({filename}/posts/cook/2021/22-emiya-bambo-pasta-gratin.md) | | 5 | [5](https://ani.gamer.com.tw/animeVideo.php?sn=16731) |
-| [衛宮家的漢堡排]({filename}/posts/cook/2020/2-emiya-s-hamburger.md) | | 6 | [6](https://ani.gamer.com.tw/animeVideo.php?sn=16732) |
-| [清爽順口的冷茶泡飯]({filename}/posts/cook/2023/6-emiya-s-ochazuke.md) | | 7 | [7](https://ani.gamer.com.tw/animeVideo.php?sn=16733) |
-| [遠坂流什錦炒飯]({filename}/posts/cook/2020/3-tohsaka-fired-rice.md) | | 8 | [8](https://ani.gamer.com.tw/animeVideo.php?sn=16734) |
+| [衛宮家的漢堡排]({filename}/posts/cook/2020/02-emiya-s-hamburger.md) | | 6 | [6](https://ani.gamer.com.tw/animeVideo.php?sn=16732) |
+| [清爽順口的冷茶泡飯]({filename}/posts/cook/2023/06-emiya-s-ochazuke.md) | | 7 | [7](https://ani.gamer.com.tw/animeVideo.php?sn=16733) |
+| [遠坂流什錦炒飯]({filename}/posts/cook/2020/03-tohsaka-fired-rice.md) | | 8 | [8](https://ani.gamer.com.tw/animeVideo.php?sn=16734) |
 | [秋日味覺 - Caster 和風料理修行]({filename}/posts/cook/2021/23-caster-s-washoku.md) | | 9 | [9](https://ani.gamer.com.tw/animeVideo.php?sn=16735) |
-| [士郎特製飽滿飯糰]({filename}/posts/cook/2022/3-emiya-s-rice-ball.md) | | 番外 1 | |
-| [Saber 今天的點心]({filename}/posts/cook/2020/6-saber-s-snack.md) | | 番外 2 | |
-| [愛因茲貝倫城的聖誕烤牛肉]({filename}/posts/cook/2020/7-roast-beef-in-einzbern-castle.md) | 2 | 11 | [12](https://ani.gamer.com.tw/animeVideo.php?sn=16738) |
+| [士郎特製飽滿飯糰]({filename}/posts/cook/2022/03-emiya-s-rice-ball.md) | | 番外 1 | |
+| [Saber 今天的點心]({filename}/posts/cook/2020/06-saber-s-snack.md) | | 番外 2 | |
+| [愛因茲貝倫城的聖誕烤牛肉]({filename}/posts/cook/2020/07-roast-beef-in-einzbern-castle.md) | 2 | 11 | [12](https://ani.gamer.com.tw/animeVideo.php?sn=16738) |
 | [冬季必吃的關東煮]({filename}/posts/cook/2021/19-emiya-s-oden.md) | | 12 | |
-| [間桐家的海藻吻仔魚義大利麵]({filename}/posts/cook/2020/5-matou-s-seaweed-whitebait-pasta.md) | | 13 | |
-| [凜醬與快樂夥伴的茶會司康]({filename}/posts/cook/2022/8-mitsuzuri-s-scone.md) | |  15 | |
-| [不輸給高級食材的南洋風咖哩]({filename}/posts/cook/2021/6-emiya-south-eastern-style-curry.md) | | 17 | |
-| [迦勒底特製 - 香煎龍排]({filename}/posts/cook/2021/9-chaldea-fried-steak.md) | | 番外2| |
-| [跨年蕎麥麵 - 明年也請多多指教]({filename}/posts/cook/2021/1-new-year-soba-noodles.md) | 3 | 20 | [1](https://ani.gamer.com.tw/animeVideo.php?sn=16727) |
-| [衛宮家的玉子燒]({filename}/posts/cook/2021/2-emiya-s-omelet.md) | | 21 | |
+| [間桐家的海藻吻仔魚義大利麵]({filename}/posts/cook/2020/05-matou-s-seaweed-whitebait-pasta.md) | | 13 | |
+| [凜醬與快樂夥伴的茶會司康]({filename}/posts/cook/2022/08-mitsuzuri-s-scone.md) | |  15 | |
+| [不輸給高級食材的南洋風咖哩]({filename}/posts/cook/2021/06-emiya-south-eastern-style-curry.md) | | 17 | |
+| [迦勒底特製 - 香煎龍排]({filename}/posts/cook/2021/09-chaldea-fried-steak.md) | | 番外2| |
+| [跨年蕎麥麵 - 明年也請多多指教]({filename}/posts/cook/2021/01-new-year-soba-noodles.md) | 3 | 20 | [1](https://ani.gamer.com.tw/animeVideo.php?sn=16727) |
+| [衛宮家的玉子燒]({filename}/posts/cook/2021/02-emiya-s-omelet.md) | | 21 | |
 | [春意盎然，高雅的櫻餅]({filename}/posts/cook/2021/13-saegusa-s-sakura-mochi.md) | | 22 | |
-| [衛宮家的馬鈴薯燉肉]({filename}/posts/cook/2020/4-emiya-s-potato-stew.md) | | 23 | |
+| [衛宮家的馬鈴薯燉肉]({filename}/posts/cook/2020/04-emiya-s-potato-stew.md) | | 23 | |
 | [輕鬆好做的的沙拉丼]({filename}/posts/cook/2021/12-medusa-s-salad-don.md) | 4 | 25 | |
-| [Caster 的軟嫩薑燒豬肉]({filename}/posts/cook/2021/3-caster-s-syogayaki.md) | | 26 | |
-| [核桃布朗尼 - 走到森林裡，然後去找核桃]({filename}/posts/cook/2021/4-sara-s-walnut-brownie.md) | | 28 | |
-| [放滿配料的豬肉味噌湯]({filename}/posts/cook/2021/7-emiya-s-pork-miso-soup.md) | | 29 | |
-| [衛宮家的暖呼呼烏龍麵]({filename}/posts/cook/2021/8-emiya-s-warn-udon.md) | | 30 | |
-| [要吃嗎？ 令人愉悅的香辣辣子雞]({filename}/posts/cook/2020/8-wanna-eat-yorokobe-spicy-chicken.md) | 5 | 31 | |
+| [Caster 的軟嫩薑燒豬肉]({filename}/posts/cook/2021/03-caster-s-syogayaki.md) | | 26 | |
+| [核桃布朗尼 - 走到森林裡，然後去找核桃]({filename}/posts/cook/2021/04-sara-s-walnut-brownie.md) | | 28 | |
+| [放滿配料的豬肉味噌湯]({filename}/posts/cook/2021/07-emiya-s-pork-miso-soup.md) | | 29 | |
+| [衛宮家的暖呼呼烏龍麵]({filename}/posts/cook/2021/08-emiya-s-warn-udon.md) | | 30 | |
+| [要吃嗎？ 令人愉悅的香辣辣子雞]({filename}/posts/cook/2020/08-wanna-eat-yorokobe-spicy-chicken.md) | 5 | 31 | |
 | [沖繩風苦瓜雜炒]({filename}/posts/cook/2021/10-okinawa-style-bitter-gourd.md) |  | 33 | |
 | [溺死在培根蛋奶義大利麵的美味中吧！]({filename}/posts/cook/2021/21-archer-s-bacon-pasta.md) | | 番外 | |
-| [衛宮家的新年賀歲年糕湯]({filename}/posts/cook/2022/1-emiya-s-new-year-rice-cake-soup.md) | 6 | 37 | |
-| [柔滑軟嫩的滑蛋蟹肉]({filename}/posts/cook/2022/7-crab-meat-with-egg.md) | | 38 | |
-| [衛宮家的 ふわふわ 丼]({filename}/posts/cook/2022/5-emiya-s-oyakodon.md) | | 40 | |
+| [衛宮家的新年賀歲年糕湯]({filename}/posts/cook/2022/01-emiya-s-new-year-rice-cake-soup.md) | 6 | 37 | |
+| [柔滑軟嫩的滑蛋蟹肉]({filename}/posts/cook/2022/07-crab-meat-with-egg.md) | | 38 | |
+| [衛宮家的 ふわふわ 丼]({filename}/posts/cook/2022/05-emiya-s-oyakodon.md) | | 40 | |
 | [鮭魚鏘鏘燒]({filename}/posts/cook/2022/11-salmon-chan-chan-yaki.md) | | 42 | |
 | [來做南瓜布丁吧！]({filename}/posts/cook/2022/10-archer-and-caster-s-pumpkin-pudding.md) | | 番外 1 | |
-| [拿坡里義大利麵]({filename}/posts/cook/2022/6-Spaghetti-alla-napoletana-in-the-cafe.md) | | 番外2 | |
-| [雪見鍋]({filename}/posts/cook/2023/1-misorenabe.md) | 7 | 44 | |
+| [拿坡里義大利麵]({filename}/posts/cook/2022/06-Spaghetti-alla-napoletana-in-the-cafe.md) | | 番外2 | |
+| [雪見鍋]({filename}/posts/cook/2023/01-misorenabe.md) | 7 | 44 | |
 | [夏天買不太到草莓，那就做巧克力奇異果千層吧]({filename}/posts/cook/2021/14-saber-s-mille-crepes.md) |  | 48 | |
-| [玉米炊飯及玉米天婦羅]({filename}/posts/cook/2024/2-rider-s-corn-set.md) | 8 | 51 | |
+| [玉米炊飯及玉米天婦羅]({filename}/posts/cook/2024/02-rider-s-corn-set.md) | 8 | 51 | |
 | [深秋的甜番薯]({filename}/posts/cook/2021/20-mitsuzuri-s-sweet-potato.md) | | 52 | |
-| [遙遠記憶的荷包蛋 - 正義夥伴的起點]({filename}/posts/cook/2022/4-fried-egss-from-memories.md) |  | 53 | |
+| [遙遠記憶的荷包蛋 - 正義夥伴的起點]({filename}/posts/cook/2022/04-fried-egss-from-memories.md) |  | 53 | |
 | [巧克力香蕉磅蛋糕]({filename}/posts/cook/2022/12-choco-banana-pound-cake.md) | | 55 | |
-| [巧克力火鍋，但我沒有電烤盤]({filename}/posts/cook/2025/1-crockpot-hot-chocolate.md) | 10 | 65 | |
-| [想像著永遠是最好吃的蛋包飯]({filename}/posts/cook/2022/9-archer-s-omurice.md) | - | - | [11](https://ani.gamer.com.tw/animeVideo.php?sn=16737) |
+| [巧克力火鍋，但我沒有電烤盤]({filename}/posts/cook/2025/01-crockpot-hot-chocolate.md) | 10 | 65 | |
+| [想像著永遠是最好吃的蛋包飯]({filename}/posts/cook/2022/09-archer-s-omurice.md) | - | - | [11](https://ani.gamer.com.tw/animeVideo.php?sn=16737) |

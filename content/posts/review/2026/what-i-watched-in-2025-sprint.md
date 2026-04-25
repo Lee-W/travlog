@@ -74,7 +74,7 @@ Morgan 的就是很無聊，正如同她在其他故事出現那般無聊
 ### 小市民系列 第二季
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=42918)
 
-👉 [小市民系列 第二季 - ED 是很好聽，但你不要斷在這啊啊啊]({filename}/posts/review/2026/5-shoshimin-series-s2.md)
+👉 [小市民系列 第二季 - ED 是很好聽，但你不要斷在這啊啊啊]({filename}/posts/review/2026/05-shoshimin-series-s2.md)
 
 ### mono女孩
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=42916)

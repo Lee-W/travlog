@@ -243,7 +243,7 @@ PA 作為回顧是很棒，但新畫面不太夠呢
 * [小市民系列 第二季], [青春之箱], `City the animation` 各 2 項
 * `章魚嗶的原罪`, `七龍珠 DAIMA`, `mono 女孩`, `膽大黨`, `為美好的世界獻上祝福！3 - BONUS STAGE -`, `光逝去的夏天`各 1 項
 
-[地。-關於地球的運動-]: {filename}/posts/review/2025/6-chi-on-the-movements-of-the-earth.md
-[小市民系列 第二季]: {filename}/posts/review/2026/5-shoshimin-series-s2.md
-[青春之箱]: {filename}/posts/review/2026/2-aonobako.md
-[BanG Dream! Ave Mujica]: {filename}/posts/review/2026/1-ave-mujica.md
+[地。-關於地球的運動-]: {filename}/posts/review/2025/07-chi-on-the-movements-of-the-earth.md
+[小市民系列 第二季]: {filename}/posts/review/2026/05-shoshimin-series-s2.md
+[青春之箱]: {filename}/posts/review/2026/02-aonobako.md
+[BanG Dream! Ave Mujica]: {filename}/posts/review/2026/01-ave-mujica.md

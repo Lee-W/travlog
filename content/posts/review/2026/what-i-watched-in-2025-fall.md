@@ -102,7 +102,7 @@ Status: Draft
 ### 劇場版 咒術迴戰 懷玉。玉折
 * 觀看平台： 南港 LaLaport威秀 12 廳
 
-👉 [劇場版 咒術迴戰 懷玉・玉折 - 夏油傑：「死猴子」]({filename}/posts/review/2025/14-jujutsu-kaisen-hidden-inventory-premature-death-the-movie.md)
+👉 [劇場版 咒術迴戰 懷玉・玉折 - 夏油傑：「死猴子」]({filename}/posts/review/2025/15-jujutsu-kaisen-hidden-inventory-premature-death-the-movie.md)
 
 ## 真人影集 + 非日式動畫影集
 ### The Bad Batch Season 3

@@ -73,7 +73,7 @@ Cos 的細節也多很多，這才是我想看到的戀上換裝娃娃
 ### 電影版小林家的龍女僕：害怕寂寞的龍 <!--s-->
 * 觀看平台： 信義威秀 5 廳
 
-👉 [小林家的龍女僕：害怕寂寞的龍 - 我們不一樣]({filename}/posts/review/2025/17-kobayashino-maid-dragon-movie.md)
+👉 [小林家的龍女僕：害怕寂寞的龍 - 我們不一樣]({filename}/posts/review/2025/18-kobayashino-maid-dragon-movie.md)
 
 ### 『劇場版総集編 ガールズバンドクライ 【前編】 青春狂走曲』 <!--s-->
 
@@ -102,14 +102,14 @@ Cos 的細節也多很多，這才是我想看到的戀上換裝娃娃
 ## 真人電影
 ### 塗鴉日記 <!--s-->
 * 觀看平台： 京站威秀
-👉 [塗鴉日記 - 塗鴉日記]({filename}/posts/review/2025/12-kakukakushikajika.md)
+👉 [塗鴉日記 - 塗鴉日記]({filename}/posts/review/2025/13-kakukakushikajika.md)
 
 很美好的一晚
 
 ### 岸邊露伴一動也不動: 懺悔室 <!--s-->
 * 觀看平台： 秀泰威秀 4 廳（應該收起來了）
 
-👉 [岸邊露伴一動也不動: 懺悔室 - 這能不能算是一種 Heaven's Doll]({filename}/posts/review/2025/13-thus-spoke-kjishibe-rohan-at-a-confessional.md)
+👉 [岸邊露伴一動也不動: 懺悔室 - 這能不能算是一種 Heaven's Doll]({filename}/posts/review/2025/14-thus-spoke-kjishibe-rohan-at-a-confessional.md)
 
 ## 連載漫畫
 

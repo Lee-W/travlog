@@ -7,7 +7,7 @@ Slug: thanks-my-otaku-friend
 Cover: /images/post-images/2026/thanks-my-otaku-friend/IMG_1304.jpeg
 Authors: Wei Lee
 
-在 [FF 46 Day 2]({filename}/posts/review/2026/8-ff-46.md) 有提到朋友會幫我代購 [通り雨](https://www.instagram.com/tooriame.hk/) 的大正浪漫 MyGO!!!!! 跟 Ave Mujica
+在 [FF 46 Day 2]({filename}/posts/review/2026/08-ff-46.md) 有提到朋友會幫我代購 [通り雨](https://www.instagram.com/tooriame.hk/) 的大正浪漫 MyGO!!!!! 跟 Ave Mujica
 昨天終於拿到啦！
 
 <!--more-->
@@ -28,4 +28,4 @@ Authors: Wei Lee
 這讓我想起他上次也幫我帶了小林家的龍女僕的傳單
 真的是送禮送到心坎裡，林家龍是我非常喜歡的一部作品
 下次去日本真的也得要幫他帶一些快樂回來
-之前有去[2023 巴哈動漫朝聖團]({filename}/posts/travel/2023/4-bahamut-anime-tourism-2023.md)認識到這樣的好朋友真是太好了
+之前有去[2023 巴哈動漫朝聖團]({filename}/posts/travel/2023/04-bahamut-anime-tourism-2023.md)認識到這樣的好朋友真是太好了

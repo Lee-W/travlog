@@ -7,7 +7,7 @@ Slug: what-i-watched-in-2024-fall
 Authors: Wei Lee
 
 雖然我最喜歡的作品都續播到冬季去了
-尤其是 [地。-關於地球的運動-]({filename}/posts/review/2025/6-chi-on-the-movements-of-the-earth.md) 真的好好看......
+尤其是 [地。-關於地球的運動-]({filename}/posts/review/2025/07-chi-on-the-movements-of-the-earth.md) 真的好好看......
 不過剩下的完結新番還是有幾部不錯的！
 
 <!--more-->
@@ -90,7 +90,7 @@ Authors: Wei Lee
 ![rabbit](/images/post-images/2025-what-i-watched-in-2024-fall/rabbit.png)
 
 雖然我不是猛男，但這種猛男番，我竟然會錯過
-要不是之前[巴哈團]({filename}/posts/travel/2023/4-bahamut-anime-tourism-2023.md) h 大有帶我們去點兔聖地
+要不是之前[巴哈團]({filename}/posts/travel/2023/04-bahamut-anime-tourism-2023.md) h 大有帶我們去點兔聖地
 我可能真的就錯過了
 話說當初 h 大帶我們去的餐廳好像也收起來 🥲
 

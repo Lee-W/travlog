@@ -62,7 +62,7 @@ Authors: Wei Lee
 ![canopy](/images/post-images/2023-2022-autumn-group-camping-rin-hbd/canopy.jpg)
 
 ### 午餐
-午餐弄的是凜醬 solo 的時候做的[義大利湯麵]({filename}/posts/cook/2023/2-yuru-camp-rin-s-soup-pasta.md)
+午餐弄的是凜醬 solo 的時候做的[義大利湯麵]({filename}/posts/cook/2023/02-yuru-camp-rin-s-soup-pasta.md)
 
 ![pasta](/images/post-images/2023-2022-autumn-group-camping-rin-hbd/pasta.jpg)
 

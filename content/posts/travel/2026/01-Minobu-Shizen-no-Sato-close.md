@@ -19,7 +19,7 @@ Authors: Wei Lee
 
 {% place pilgrimage/yuru-camp.yaml#みのぶ自然の里 %}
 
-當初有去到[2023 巴哈動漫朝聖團]({filename}/posts/travel/2023/4-bahamut-anime-tourism-2023.md)真的是太好了
+當初有去到[2023 巴哈動漫朝聖團]({filename}/posts/travel/2023/04-bahamut-anime-tourism-2023.md)真的是太好了
 直到現在回想起來，那趟旅行還是充滿快樂的記憶
 也交到不少很棒的朋友
 

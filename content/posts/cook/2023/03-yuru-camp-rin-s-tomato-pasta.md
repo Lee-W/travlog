@@ -6,7 +6,7 @@ Slug: yuru-camp-rin-s-tomato-pasta
 Cover: /images/post-images/2023-yuru-camp-rin-s-tomato-pasta/finish.jpeg
 Authors: Wei Lee
 
-雖然看起來很像[凜醬的義大利湯麵]({filename}/posts/cook/2023/2-yuru-camp-rin-s-soup-pasta.md)
+雖然看起來很像[凜醬的義大利湯麵]({filename}/posts/cook/2023/02-yuru-camp-rin-s-soup-pasta.md)
 但魔鬼藏在細節裡！
 這次單行本 13 第 70 回凜醬加了番茄的版本
 故事中也有提到她很久沒用到那本食譜
