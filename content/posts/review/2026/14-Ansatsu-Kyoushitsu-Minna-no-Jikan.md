@@ -34,7 +34,6 @@ Authors: Wei Lee
 
 ![Ansatsu-Kyoushitsu-1](/images/post-images/2026/what-i-watched-in-2026-sprint/Ansatsu-Kyoushitsu-1.jpeg)
 
-
 ---
 
 📌 作品資訊： [暗殺教室 みんなの時間](https://anilist.co/anime/198373/-/) (6/10)
