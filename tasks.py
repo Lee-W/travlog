@@ -1,10 +1,14 @@
+import datetime
 import glob
 import os
+import re
 import shlex
 import shutil
 import subprocess
 import sys
 from collections.abc import Sequence
+from pathlib import Path
+from string import Template
 
 from invoke.main import program
 from invoke.tasks import task
@@ -193,6 +197,70 @@ def security_check(c):
         rm -rf requirements.txt
         """
     )
+
+
+_SEASONS = {
+    "winter": "冬季",
+    "spring": "春季",
+    "summer": "夏季",
+    "fall": "秋季",
+}
+
+
+def _create_post_from_template(
+    template_name: str,
+    title: str,
+    category: str,
+    slug: str = "",
+    extra: dict | None = None,
+) -> None:
+    now = datetime.datetime.now(tz=datetime.timezone(datetime.timedelta(hours=8)))
+    date_str = now.strftime("%Y-%m-%d %H:%M +0800")
+    year = now.strftime("%Y")
+
+    if not slug:
+        slug = re.sub(r"[^\w\s-]", "", title.lower())
+        slug = re.sub(r"[\s_]+", "-", slug).strip("-") or title
+
+    category_dir = Path("content/posts") / category.lower().replace(" ", "-") / year
+    category_dir.mkdir(parents=True, exist_ok=True)
+
+    numbers = []
+    pad_width = 0
+    for f in category_dir.glob("*.md"):
+        m = re.match(r"^(\d+)-", f.name)
+        if m:
+            num_str = m.group(1)
+            numbers.append(int(num_str))
+            if num_str.startswith("0"):
+                pad_width = len(num_str)
+
+    n = max(numbers, default=0) + 1
+    n_str = str(n).zfill(pad_width) if pad_width else str(n)
+
+    template = Template((Path("templates") / template_name).read_text())
+    content = template.substitute(
+        title=title, date=date_str, category=category, slug=slug, **(extra or {})
+    )
+
+    filepath = category_dir / f"{n_str}-{slug}.md"
+    filepath.write_text(content)
+    print(f"Created: {filepath}")
+
+
+@task
+def new_post(c, title, category, slug="", lang="zh-tw"):
+    """Create a new post file from template"""
+    _create_post_from_template("post.md", title, category, slug, {"lang": lang})
+
+
+@task
+def new_seasonal_review(c, year, season):
+    """Create a new 本季看什麼 post (--year YYYY --season winter/spring/summer/fall)"""
+    season_zh = _SEASONS[season.lower()]
+    title = f"{year} {season_zh}看什麼"
+    slug = f"what-i-watched-in-{year}-{season.lower()}"
+    _create_post_from_template("seasonal-review.md", title, "Review", slug)
 
 
 def _get_exif_tag_ids_by_names(names: Sequence[str]) -> set[int]:

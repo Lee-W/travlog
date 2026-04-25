@@ -17,7 +17,6 @@ CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
 DELETE_OUTPUT_DIRECTORY = True
 
-GOOGLE_ANALYTICS = os.environ.get("GOOGLE_ANALYTICS")
 UMAMI_WEBSITE_ID = os.environ.get("UMAMI_WEBSITE_ID")
 
 # local plugins
