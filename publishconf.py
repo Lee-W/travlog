@@ -13,6 +13,7 @@ SITEURL = f"https://{HOST}"
 STATIC_SITEURL = SITEURL
 RELATIVE_URLS = False
 
+FEED_MAX_ITEMS = 30
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
@@ -24,5 +25,5 @@ DELETE_OUTPUT_DIRECTORY = True
 GOOGLE_ANALYTICS = os.environ.get("GOOGLE_ANALYTICS")
 UMAMI_WEBSITE_ID = os.environ.get("UMAMI_WEBSITE_ID")
 
-# local plugins                                                                                                                               │
+# local plugins
 DEADLINKS_VALIDATION = False

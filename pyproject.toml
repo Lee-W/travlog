@@ -3,7 +3,7 @@ name = "entertainment-blog"
 version = "0.1.0"
 description = "Wei's entertainment blog"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.14"
 dependencies = [
   "attila>=2.7.2",
   "beautifulsoup4>=4.12.3",
@@ -12,21 +12,24 @@ dependencies = [
   "markdown-del-ins>=1.0.0",
   "pagefind[extended]>=1.4.0",
   "pelican-deadlinks",
+  "pelican-i18n-subsites>=1.0.0",
+  "pelican-neighbors>=1.2.0",
   "pelican-render-math>=1.0.3",
   "pelican-seo>=1.2.2",
   "pelican-series>=3.0.0",
   "pelican-share-post>=1.1.0",
   "pelican-statistics>=1.0.0",
   "pelican-tag-cloud>=1.0.1",
+  "pelican-webassets>=2.0.0",
   "pelican[markdown]>=4.10.1",
   "pillow>=11.0.0",
   "pymdown-extensions>=10.16.1",
   "python-gettext>=5.0",
   "typogrify>=2.0.7",
+  "webassets>=2.0",
   "pelican-heatmap>=0.3.1",
   "pelican-osm>=0.7.0",
   "pelican-random-article>=0.2.0",
-  "pelican-i18n-subsites>=1.0.0",
   # security (indirect dep)
   "Pygments>=2.20.0",
 ]

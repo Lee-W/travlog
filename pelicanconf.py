@@ -34,7 +34,10 @@ DIRECT_TEMPLATES = (
     "series_list",
 )
 CATEGORIES_URL = "category"
-TAGS_URL = "tag"
+TAGS_URL = "tags.html"
+TAGS_SAVE_AS = "tags.html"
+SERIES_LIST_URL = "series_list.html"
+SERIES_LIST_SAVE_AS = "series_list.html"
 
 # Content Setting
 ARTICLE_URL = "posts/{category}/{date:%Y}/{date:%m}/{slug}"
@@ -100,7 +103,7 @@ I18N_SUBSITES = {
     "en": {
         "CATEGORY_TRANSLATIONS": {},
         "COMMENTS_INTRO": "Do you like this article? What do your tink about it? Leave you comment below",
-        "CURRENT_LANG": "en",
+        "CURRENT_LANG": "EN",
         "SOCIAL_PROFILE_LABEL": "Keep In Touch",
     },
 }
@@ -119,8 +122,8 @@ PLUGINS = [
     "pelican.plugins.statistics",
     "pelican.plugins.tag_cloud",
     "pelican.plugins.webassets",
-    "pelican.plugins.osm",
     "pelican.plugins.heatmap",
+    "pelican.plugins.osm",
 ]
 ANOTHER_READ_MORE_LINK = ""
 PAGEFIND_ENABLED = True
