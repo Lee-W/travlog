@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: v5.0.0
     hooks:
       - id: end-of-file-fixer
       - id: trailing-whitespace
@@ -13,7 +13,7 @@ repos:
         args: ["content", "--fix"]
 
   - repo: https://github.com/codespell-project/codespell
-    rev: v2.3.0
+    rev: v2.4.1
     hooks:
       - id: codespell
         name: Run codespell to check for common misspellings in files
@@ -21,6 +21,19 @@ repos:
         files: "content/posts/|content/pages/"
         types: [text]
         args: ["--write-changes", "--ignore-words", "spelling_wordlist.txt"]
+
+  - repo: https://github.com/adamchainz/blacken-docs
+    rev: "1.19.1"
+    hooks:
+      - id: blacken-docs
+        args: ["--line-length", "110"]
+        additional_dependencies:
+        - black==24.8.0
+
+  - repo: https://github.com/astral-sh/uv-pre-commit
+    rev: 0.11.6
+    hooks:
+      - id: uv-lock
 
   - repo: local
     hooks:
