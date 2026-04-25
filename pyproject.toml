@@ -7,7 +7,6 @@ requires-python = ">=3.14"
 dependencies = [
   "attila>=2.7.2",
   "beautifulsoup4>=4.12.3",
-  "ghp-import>=2.1.0",
   "invoke>=2.2.0",
   "markdown-del-ins>=1.0.0",
   "pagefind[extended]>=1.4.0",

@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
 from pelican.themes import attila
 
 HOST = "travlog.wei-lee.me"
