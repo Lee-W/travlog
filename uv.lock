@@ -248,6 +248,7 @@ dependencies = [
     { name = "pelican-series" },
     { name = "pelican-share-post" },
     { name = "pelican-statistics" },
+    { name = "pelican-summary-link" },
     { name = "pelican-tag-cloud" },
     { name = "pelican-webassets" },
     { name = "pillow" },
@@ -287,6 +288,7 @@ requires-dist = [
     { name = "pelican-series", specifier = ">=3.0.0" },
     { name = "pelican-share-post", specifier = ">=1.1.0" },
     { name = "pelican-statistics", specifier = ">=1.0.0" },
+    { name = "pelican-summary-link" },
     { name = "pelican-tag-cloud", specifier = ">=1.0.1" },
     { name = "pelican-webassets", specifier = ">=2.0.0" },
     { name = "pillow", specifier = ">=11.0.0" },
@@ -804,6 +806,18 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/5e/b5/ff348ea371553423afd666bc6544509b6b4ed267f77887972088cac0109f/pelican_statistics-1.0.0.tar.gz", hash = "sha256:d9d20b262bb8e9af975c68fb73169fd9d588f26ff340260387ec4dc81f2d13b0", size = 5410, upload-time = "2025-01-12T09:54:35.008Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/89/94/cea69c4042022106cf9ae93c6d1af32770bf8f154903d09a63d305f01043/pelican_statistics-1.0.0-py3-none-any.whl", hash = "sha256:f2397fc1cee0731e65057d755c5aa8811d075b20c11b2bdc07a88ea7b7dc40e1", size = 6242, upload-time = "2025-01-12T09:54:32.484Z" },
+]
+
+[[package]]
+name = "pelican-summary-link"
+version = "0.2.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "pelican" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/ef/16/289d1a013c4605fa23c907063ec67f591ae65ceb81ecc9acd544525b3f9a/pelican_summary_link-0.2.0.tar.gz", hash = "sha256:406b65787b8dc9595b22627727be2199ab9254192b340fcf021c52d2cfc00897", size = 3227, upload-time = "2026-04-25T13:42:14.439Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/3e/3e/10dc4ddbab5d4d08b79da0ce759922d96e9e857d413e1e08f870539f747f/pelican_summary_link-0.2.0-py3-none-any.whl", hash = "sha256:40005ff86b7d6627d367328de4fd883edd97ad3ba812ee88e639f31eb9ed193c", size = 3689, upload-time = "2026-04-25T13:42:13.036Z" },
 ]
 
 [[package]]

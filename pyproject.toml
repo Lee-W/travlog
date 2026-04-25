@@ -28,6 +28,7 @@ dependencies = [
   "webassets>=2.0",
   "pelican-heatmap>=0.3.1",
   "pelican-osm>=0.7.0",
+  "pelican-summary-link",
   "pelican-random-article>=0.2.0",
   # security (indirect dep)
   "Pygments>=2.20.0",

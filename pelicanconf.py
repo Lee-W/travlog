@@ -99,16 +99,14 @@ CURRENT_LANG = "zh-tw"
 I18N_SUBSITES = {
     "en": {
         "CATEGORY_TRANSLATIONS": {},
-        "COMMENTS_INTRO": "Do you like this article? What do your tink about it? Leave you comment below",
+        "COMMENTS_INTRO": "Do you like this article? What do you think about it? Leave your comment below",
         "CURRENT_LANG": "EN",
         "SOCIAL_PROFILE_LABEL": "Keep In Touch",
     },
 }
 
 # Plugin-setting
-PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = [
-    "another_read_more_link",
     "pelican.plugins.i18n_subsites",
     "pelican.plugins.neighbors",
     "pelican.plugins.random_article",
@@ -117,12 +115,12 @@ PLUGINS = [
     "pelican.plugins.series",
     "pelican.plugins.share_post",
     "pelican.plugins.statistics",
+    "pelican.plugins.summary_link",
     "pelican.plugins.tag_cloud",
     "pelican.plugins.webassets",
     "pelican.plugins.heatmap",
     "pelican.plugins.osm",
 ]
-ANOTHER_READ_MORE_LINK = ""
 PAGEFIND_ENABLED = True
 
 # Local plugins
