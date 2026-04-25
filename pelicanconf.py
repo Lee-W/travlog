@@ -9,7 +9,7 @@ PATH = "content"
 AUTHOR = "Wei Lee"
 SITEURL = "http://localhost:8000"
 STATIC_SITEURL = SITEURL
-SITELOGO = "/images/avatar.jpg"
+SITELOGO = "/images/avatar.jpeg"
 BROWSER_COLOR = "#333333"
 HEADER_COVER = "/images/cover.jpeg"
 DEFAULT_DATE_FORMAT = "%Y/%m/%d - %a"
@@ -164,7 +164,8 @@ DEFAULT_CATEGORY = "Travel"
 # Theme Setting
 PYGMENTS_STYLE = "default"
 AUTHOR_META = {
-    "Wei Lee": {
+    # TODO: need a fix in attila
+    "wei lee": {
         "image": "/images/avatar.jpg",
     }
 }
