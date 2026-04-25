@@ -34,7 +34,7 @@ Authors: Wei Lee
 
 ![season-1](/images/post-images/2024-the-death-boy-and-the-black-maid/season-1.png)
 
-三年前[第一季]({filename}/posts/review/2022/1-what-i-watch-in-2021-summer.md#_4)剛出的時候，衝著高分少女製作團隊就看了
+三年前[第一季]({filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_4)剛出的時候，衝著高分少女製作團隊就看了
 也確實給了我超乎預期的觀感
 尤其是片尾曲[夜想曲](https://www.youtube.com/watch?v=Ql6ouR2NqN0)插入時機之巧妙
 雖然是有些氾濫，但確實留下了深刻的印象

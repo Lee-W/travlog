@@ -162,7 +162,7 @@ Authors: Wei Lee
 ### 放學後失眠的你
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=33717)
 
-跟我在[2023 春番嚐百草]({filename}/posts/review/2023/4-what-i-will-watch-in-2023-apirl.md#_6)的想法差不多
+跟我在[2023 春番嚐百草]({filename}/posts/review/2023/04-what-i-will-watch-in-2023-apirl.md#_6)的想法差不多
 就是看得很舒服
 中間有一度讓人以為要出事了
 （指劇中出事，製作品質一直都很高，不用擔心）
@@ -209,12 +209,12 @@ Authors: Wei Lee
 ### 鬼滅之刃 刀匠村篇
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=33295)
 
-👉 [鬼滅之刃 刀匠村篇]({filename}/posts/review/2023/8-demon-slayer-to-the-swordsmith-village.md)
+👉 [鬼滅之刃 刀匠村篇]({filename}/posts/review/2023/08-demon-slayer-to-the-swordsmith-village.md)
 
 ### 勇者死了！
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=33259)
 
-👉 [勇者死了！ - 死んだ！]({filename}/posts/review/2023/7-the-legendary-hero-is-dead.md)
+👉 [勇者死了！ - 死んだ！]({filename}/posts/review/2023/07-the-legendary-hero-is-dead.md)
 
 ## 補番
 
@@ -292,7 +292,7 @@ Authors: Wei Lee
 ### 超級瑪利歐兄弟電影版
 * 觀看平台： 大直美麗華 IMAX 廳
 
-👉 [超級瑪利歐兄弟電影版]({filename}/posts/review/2023/2-the-super-mario-bros-movie.md)
+👉 [超級瑪利歐兄弟電影版]({filename}/posts/review/2023/02-the-super-mario-bros-movie.md)
 
 ### 鏡之孤城
 * 觀看平台： 京站威秀 3 廳
@@ -305,7 +305,7 @@ Authors: Wei Lee
 ### 做工的人電影版
 * 觀看平台： 京站威秀 3 廳
 
-👉 [做工的人 電影版]({filename}/posts/review/2023/3-workers-the-movie.md)
+👉 [做工的人 電影版]({filename}/posts/review/2023/03-workers-the-movie.md)
 
 ## 漫畫
 ### 藍色巨星

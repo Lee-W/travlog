@@ -138,7 +138,7 @@ EVA 能在台灣上映還是令人蠻開心的
 為了最好的體驗還跑到林口威秀
 這裡的 4DX 真的有夠棒
 
-之前在 Amazon 上看完的心得寫在 [福音戰士新劇場版]({filename}/posts/review/2022/5-what-i-watch-in-2022-winter.md#_21)
+之前在 Amazon 上看完的心得寫在 [福音戰士新劇場版]({filename}/posts/review/2022/05-what-i-watch-in-2022-winter.md#_21)
 
 ![eva-azusa](/images/post-images/2023-what-i-watch-in-2023-winter/eva-azusa.jpeg)
 ![eva-rin](/images/post-images/2023-what-i-watch-in-2023-winter/eva-rin.jpeg)

@@ -60,7 +60,7 @@ Authors: Wei Lee
 將蟹肉棒、竹筍、泡開的乾香菇、長蔥分別切絲
 
 把 6 個蛋打入大一點的碗（之後會再加入很多東西），輕輕打散
-跟[親子丼](({filename}/posts/cook/2022/5-emiya-s-oyakodon.md))一樣，不能打太散，太散吃起來就不鬆軟了
+跟[親子丼](({filename}/posts/cook/2022/05-emiya-s-oyakodon.md))一樣，不能打太散，太散吃起來就不鬆軟了
 
 混合 100 cc 水、 1 大匙雞湯粉、鹽、胡椒、1 大匙酒製作成調味料
 

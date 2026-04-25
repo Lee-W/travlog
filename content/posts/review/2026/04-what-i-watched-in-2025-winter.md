@@ -206,7 +206,7 @@ ED 也很魔性
 ### 初戀 <!--a-->
 * 觀看平台： [Netflix](https://www.netflix.com/title/81137509)
 
-👉 [《First Love 初戀》 - 一切都是時臣的錯]({filename}/posts/review/2025/4-first-love.md)
+👉 [《First Love 初戀》 - 一切都是時臣的錯]({filename}/posts/review/2025/04-first-love.md)
 
 ### 我推的孩子 <!--b-->
 * 觀看平台： [Amazon Prime Video](https://www.primevideo.com/detail/0PX9K2V1TODIEJJQJ1MRVVXP9Y?jic=8%7CEgNhbGw%3D)

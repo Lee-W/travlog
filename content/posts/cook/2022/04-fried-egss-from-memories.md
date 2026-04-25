@@ -73,7 +73,7 @@ Authors: Wei Lee
 
 ## 完成
 
-飯糰是用上次重現的 [士郎特製飽滿飯糰]({filename}/posts/cook/2022/3-emiya-s-rice-ball.md) 多做的
+飯糰是用上次重現的 [士郎特製飽滿飯糰]({filename}/posts/cook/2022/03-emiya-s-rice-ball.md) 多做的
 在這次重現前，我有試著用士郎的做法煎蛋，大受室友好評
 香腸就...香腸，沒什麼特別的
 

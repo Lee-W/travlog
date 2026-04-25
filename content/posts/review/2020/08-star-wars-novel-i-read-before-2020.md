@@ -18,7 +18,7 @@ Authors: Wei Lee
 [TOC]
 
 ## 個人評分
-去年文章整理得有點亂 (👉 [2019 前我看過的 23 本 Star Wars 小說]({filename}/posts/review/2020/1-star-wars-novel-i-read-before-2019.md))
+去年文章整理得有點亂 (👉 [2019 前我看過的 23 本 Star Wars 小說]({filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md))
 今年改用表格來呈現我對每本小說的喜好程度
 為了評比今年的小說，我又重新把去年的分數全部都整理了一遍
 才發現因為去年看的小說品質都很高，導致評分也比較嚴格

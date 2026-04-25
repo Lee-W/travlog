@@ -31,7 +31,7 @@ Authors: Wei Lee
 前三名的原創作品都太優秀了，我一直很猶豫要怎麼排序
 最後還是決定把奇巧計程車放在第一 🏆
 
-👉 [奇巧計程車]({filename}/posts/review/2021/3-odd-taxi.md)
+👉 [奇巧計程車]({filename}/posts/review/2021/03-odd-taxi.md)
 
 ### Vivy -Fluorite Eye's Song-
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=22226)
@@ -297,7 +297,7 @@ ED 則由 ReoNa 演唱的 [ないない](https://www.youtube.com/watch?v=M8LwhRk
 ### 超時空甩尾 Redline
 * 觀看平台： [myVideo](https://www.myvideo.net.tw/details/0/327264)
 
-[上一季]({filename}/posts/review/2021/2-what-i-watch-in-2021-winter.md#redline)我有去電影院看才好奇如果在家看的體驗如何
+[上一季]({filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#redline)我有去電影院看才好奇如果在家看的體驗如何
 雖然還是好看，但體驗實在是差太多了
 如果有機會去電影院看這部，真的不要錯過
 

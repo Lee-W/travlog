@@ -30,7 +30,7 @@ Authors: Wei Lee
 | 蛋 | 4 個 |
 
 炸魚當然也是用買的
-但[跨年蕎麥麵 - 明年也請多多指教]({filename}/posts/cook/2021/1-new-year-soba-noodles.md)炸過一次蝦就覺得太累了，這次用買的就好
+但[跨年蕎麥麵 - 明年也請多多指教]({filename}/posts/cook/2021/01-new-year-soba-noodles.md)炸過一次蝦就覺得太累了，這次用買的就好
 
 先來看凜醬的簡單教學
 

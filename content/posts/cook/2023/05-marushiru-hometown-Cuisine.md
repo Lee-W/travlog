@@ -90,7 +90,7 @@ Authors: Wei Lee
 ### 高湯
 * 預計時間： 30 mins
 
-原本想要照著[衛宮家的新年賀歲年糕湯]({filename}/posts/cook/2022/1-emiya-s-new-year-rice-cake-soup.md)的做法做高湯
+原本想要照著[衛宮家的新年賀歲年糕湯]({filename}/posts/cook/2022/01-emiya-s-new-year-rice-cake-soup.md)的做法做高湯
 要做的時候才發現我手邊沒有昆布
 但喜獲室友的高湯包，加了 1 L 的水加進去取 400 ml 作為料理的高湯
 

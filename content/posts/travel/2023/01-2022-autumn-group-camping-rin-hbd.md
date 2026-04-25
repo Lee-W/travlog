@@ -27,7 +27,7 @@ Authors: Wei Lee
 ## Day 0 夜衝
 
 上次團露玩得很開心，這次禮拜五大家就請假夜衝上不遠山莊
-（上次的遊記 👉 [ゆる 露營初體驗 =U=]({filename}/posts/travel/2022/1-first-yuru-camp-at-buyuan.md)）
+（上次的遊記 👉 [ゆる 露營初體驗 =U=]({filename}/posts/travel/2022/01-first-yuru-camp-at-buyuan.md)）
 這麼說來，這已經是 2022 第三次去不遠山莊 🤔
 
 週五下午稍微塞車，抵達不遠山莊後就已經很晚了

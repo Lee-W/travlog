@@ -251,7 +251,7 @@ Authors: Wei Lee
 ### 藍色監獄 -EPISODE 凪- <!--b-->
 * 觀看平台： 松仁威秀 8 廳
 
-👉 [藍色監獄 -EPISODE 凪- - Blue Lock 的 BL 指的是...]({filename}/posts/review/2025/5-blue-lock-episode-nagi.md)
+👉 [藍色監獄 -EPISODE 凪- - Blue Lock 的 BL 指的是...]({filename}/posts/review/2025/05-blue-lock-episode-nagi.md)
 
 ### 時光沙漏 <!--b-->
 * [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=16665)

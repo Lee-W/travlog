@@ -157,7 +157,7 @@ ED 有幾集很有趣
     * 京站威秀 10 廳
     * 京站威秀 1 廳
 
-👉 [電影版 搖曳露營△]({filename}/posts/review/2022/4-yuru-camp-the-movie.md)
+👉 [電影版 搖曳露營△]({filename}/posts/review/2022/04-yuru-camp-the-movie.md)
 
 ### 電影版 奇巧計程車 : 撲朔謎林
 * 觀看平台： 信義威秀 16 廳

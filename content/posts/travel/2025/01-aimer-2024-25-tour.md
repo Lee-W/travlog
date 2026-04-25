@@ -100,4 +100,4 @@ Authors: Wei Lee
 [【推しの子】と楽しむ高千穂町めぐり | 高千穂町観光協会【公式】]: https://takachiho-kanko.info/lp/oshinoko/
 [エヴァンゲリオンバーガー]: https://x.com/McDonaldsJapan/status/1872047167419920837
 
-[富士山輕鬆（？）騎]: {filename}/posts/travel/2024/1-2024-mt-fugi-biking-day-0.md
+[富士山輕鬆（？）騎]: {filename}/posts/travel/2024/01-2024-mt-fugi-biking-day-0.md

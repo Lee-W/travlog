@@ -30,7 +30,7 @@ Authors: Wei Lee
 ### 妻子變成小學生。 <!--a-->
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=40177)
 
-👉 [妻子變成小學生。 - 我的手離電話越來越近了]({filename}/posts/review/2025/2-If-My-Wife-Becomes-an-Elementary-School-Student.md)
+👉 [妻子變成小學生。 - 我的手離電話越來越近了]({filename}/posts/review/2025/02-If-My-Wife-Becomes-an-Elementary-School-Student.md)
 
 ### 蜻蛉高球 第二季 <!--a-->
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=40158)

@@ -75,7 +75,7 @@ Authors: Wei Lee
 
 時隔這麼久能趁聖誕節好好料理，就多做了幾道以前做過的
 
-[玉米炊飯及玉米天婦羅]({filename}/posts/cook/2024/2-rider-s-corn-set.md)
+[玉米炊飯及玉米天婦羅]({filename}/posts/cook/2024/02-rider-s-corn-set.md)
 
 ![corn-rice](/images/post-images/2025-crockpot-hot-chocolate/corn-rice.JPEG)
 
@@ -89,7 +89,7 @@ Authors: Wei Lee
 這道評價蠻不錯的，做了三鍋
 差一點連我自己都沒吃到蝦子...
 
-[核桃布朗尼]({filename}/posts/cook/2021/4-sara-s-walnut-brownie.md)
+[核桃布朗尼]({filename}/posts/cook/2021/04-sara-s-walnut-brownie.md)
 
 ![Brownie](/images/post-images/2025-crockpot-hot-chocolate/Brownie.JPEG)
 

@@ -36,7 +36,7 @@ Authors: Wei Lee
 今敏擔任這部的腳本設計，又再一次他展現在虛實交錯表現的能力
 
 除此之外，宇宙畫面的呈現也相當優秀，讓人置身在宇宙中的感覺
-甚至讓我想起前年去星戰樂園玩 [Rise of Resistance]({filename}/posts/travel/2019/2-rise-of-the-resistance.md) 的體驗
+甚至讓我想起前年去星戰樂園玩 [Rise of Resistance]({filename}/posts/travel/2019/02-rise-of-the-resistance.md) 的體驗
 
 ### 最臭兵器
 在三個故事中，這是比較搞笑的一個

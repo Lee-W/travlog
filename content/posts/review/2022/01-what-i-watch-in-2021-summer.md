@@ -307,7 +307,7 @@ Authors: Wei Lee
 剛看完真的好驚艷，以為這會是我這季補番最喜歡的作品
 可惜這季補了兩部 JOJO
 
-跟[春宵苦短，少女前進吧]({filename}/posts/review/2020/4-what-i-watch-in-2020-sprint.md#_20)同樣是改編自森見登美彥的小說
+跟[春宵苦短，少女前進吧]({filename}/posts/review/2020/04-what-i-watch-in-2020-sprint.md#_20)同樣是改編自森見登美彥的小說
 京都大學生的奇幻青春喜劇
 主角沒有名字，主角就是「我」
 看著最佳損友小津如何帶「我」度過大學的四年
@@ -473,7 +473,7 @@ OP [鏡面の波](https://www.youtube.com/watch?v=C9MuI4gfyiA) 跟 ED [煌めく
 這樣算下來我也已經看了 5 次了 🤔
 直逼心中神作聲之形，雖然聲之形的神不會因為看的次數被比下去就是了
 
-在 [2020 夏季看什麼]({filename}/posts/review/2020/5-what-i-watch-in-2020-summer.md#fatestay-night-heavens-feel-iii) 跟 [Fate/stay night Heaven's Feel 馬拉松]({filename}/posts/review/2020/9-fate-stay-night-heaven-s-feel-trilogy.md) 都有聊過我對它的想法，就不再贅述了 😆
+在 [2020 夏季看什麼]({filename}/posts/review/2020/05-what-i-watch-in-2020-summer.md#fatestay-night-heavens-feel-iii) 跟 [Fate/stay night Heaven's Feel 馬拉松]({filename}/posts/review/2020/09-fate-stay-night-heaven-s-feel-trilogy.md) 都有聊過我對它的想法，就不再贅述了 😆
 
 ### 隱瞞之事 秘密之事是什麼？
 * 觀看平台： 京站威秀 1 廳
@@ -495,7 +495,7 @@ OP ちいさな日々 跟 ED 君は天然色 都會在適合的時機點出現
 ### 回憶三部曲
 * 觀看平台： 京站威秀 1 廳
 
-👉 [回憶三部曲 - 經得起時間考驗的好作品]({filename}/posts/review/2021/4-memories.md))
+👉 [回憶三部曲 - 經得起時間考驗的好作品]({filename}/posts/review/2021/04-memories.md))
 
 ### Fate Grand Order-神聖圓桌領域卡美洛- Paladin; Agateram
 * 觀看平台： 京站威秀 7 廳

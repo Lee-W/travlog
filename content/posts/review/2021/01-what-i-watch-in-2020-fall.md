@@ -321,7 +321,7 @@ Fate / Stay Night 反倒不一定要看
 ### 《Fate/stay night [Heaven's Feel]》馬拉松
 * 觀看平台: 板橋威秀 2 廳
 
-👉 [Fate/stay night Heaven's Feel 馬拉松]({filename}/posts/review/2020/9-fate-stay-night-heaven-s-feel-trilogy.md)
+👉 [Fate/stay night Heaven's Feel 馬拉松]({filename}/posts/review/2020/09-fate-stay-night-heaven-s-feel-trilogy.md)
 
 ### 進擊的巨人 劇場版 CHRONICLE
 * 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=16437)
@@ -357,7 +357,7 @@ Fate / Stay Night 反倒不一定要看
 ### 鬼滅之刃劇場版 無限列車篇
 * 觀看平台: MUVIE CINEMAS - TITAN
 
-👉 [鬼滅之刃劇場版 無限列車篇]({filename}/posts/review/2020/6-kimetsu-yaiba-mugen-train.md)
+👉 [鬼滅之刃劇場版 無限列車篇]({filename}/posts/review/2020/06-kimetsu-yaiba-mugen-train.md)
 
 ### 玉子愛情故事
 * 觀看平台: 京站威秀 2 廳
