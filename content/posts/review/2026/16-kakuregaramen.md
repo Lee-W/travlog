@@ -5,7 +5,6 @@ Tags: Food, 拉麵, 娃: 睦
 Slug: kakuregaramen
 Cover: /images/post-images/2026/restaurant/kakuregaramen.jpeg
 Authors: Wei Lee
-Lang: zh-tw
 
 在清單很久，一直沒吃到，剛好要在附近工作就來吃了
 
