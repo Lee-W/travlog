@@ -11,7 +11,7 @@ locations:
     country: 日本
     city: 岐阜
     tags: []
-    photos: []
+    images: []
 
   - name: 柳ヶ瀬商店街
     lat: 35.41930302245281
@@ -22,7 +22,7 @@ locations:
     country: 日本
     city: 岐阜
     tags: []
-    photos: []
+    images: []
 
   - name: AND LADY
     lat: 35.42748216005292
@@ -33,7 +33,7 @@ locations:
     country: 日本
     city: 岐阜
     tags: []
-    photos: []
+    images: []
 
   - name: みんなの森 ぎふメディアコスモス
     lat: 35.427549003080166
@@ -44,7 +44,7 @@ locations:
     country: 日本
     city: 岐阜
     tags: []
-    photos: []
+    images: []
 
   - name: Natural Cafe
     lat: 35.43253018188601
@@ -55,7 +55,7 @@ locations:
     country: 日本
     city: 岐阜
     tags: []
-    photos: []
+    images: []
 
   - name: 梅林公園
     lat: 35.418603458695024
@@ -66,4 +66,4 @@ locations:
     country: 日本
     city: 岐阜
     tags: []
-    photos: []
+    images: []

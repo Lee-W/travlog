@@ -11,7 +11,7 @@ locations:
     country: 菲律賓
     city: 達沃
     tags: []
-    photos: []
+    images: []
 
   - name: Lapu-Lapu St
     lat: 7.080986894518865
@@ -22,4 +22,4 @@ locations:
     country: 菲律賓
     city: 達沃
     tags: []
-    photos: []
+    images: []
