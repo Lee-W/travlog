@@ -5,7 +5,7 @@ description = "Wei's entertainment blog"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
-  "attila>=2.7.2",
+  "attila>=2.7.3",
   "beautifulsoup4>=4.12.3",
   "invoke>=2.2.0",
   "markdown-del-ins>=1.0.0",
@@ -28,7 +28,7 @@ dependencies = [
   "webassets>=2.0",
   "pelican-heatmap>=0.3.1",
   "pelican-osm>=0.7.0",
-  "pelican-summary-link>=0.2.1",
+  "pelican-summary-link>=0.2.2",
   "pelican-random-article>=0.2.0",
 ]
 
