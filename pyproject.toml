@@ -5,7 +5,7 @@ description = "Wei's entertainment blog"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
-  "attila>=2.7.4",
+  "attila>=2.7.6",
   "beautifulsoup4>=4.12.3",
   "invoke>=2.2.0",
   "markdown-del-ins>=1.0.0",
