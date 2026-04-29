@@ -1,0 +1,583 @@
+vieshow-songren:
+  name: 松仁威秀影城
+  lat: 25.0368737
+  lon: 121.5679503
+  address: 台北市信義區松仁路58號10樓
+  country: 臺灣
+  city: 臺北
+  district: 信義
+  items:
+    - hall: "2 廳"
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: ""
+      hall_note: 普通
+      seat_note: ""
+    - hall: "5 廳"
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: "D"
+      hall_note: 不錯
+      seat_note: E 排可，可以試 D
+    - hall: "6 廳"
+      format: TITAN
+      recommended_rows: "G"
+      alt_rows: "F"
+      hall_note: 一般 2D 最好的廳
+      seat_note: 理想，但可以試前一排
+    - hall: "7 廳"
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: ""
+      hall_note: 還不錯
+      seat_note: ""
+    - hall: "8 廳"
+      format: 2D 廳
+      recommended_rows: "D"
+      alt_rows: "C"
+      hall_note: 音響很不錯，畫面也還行
+      seat_note: 可以試 C 排，包覆感可能比較好
+
+
+vieshow-qsquare:
+  name: 京站威秀影城
+  lat: 25.0490313
+  lon: 121.5185494
+  address: 台北市大同區市民大道一段209號5樓
+  country: 臺灣
+  city: 臺北
+  district: 大同
+  items:
+    - hall: "1 廳"
+      format: 2D 廳
+      recommended_rows: "E~F"
+      alt_rows: ""
+      hall_note: 還不錯
+      seat_note: 坐正中間可以選 E 排，旁邊的話選 F 排
+    - hall: "2 廳"
+      format: 2D 廳
+      recommended_rows: "E~F"
+      alt_rows: ""
+      hall_note: 還不錯
+      seat_note: 坐正中間可以選 E 排，旁邊的話選 F 排
+    - hall: "3 廳"
+      format: 2D 廳
+      recommended_rows: "D"
+      alt_rows: ""
+      hall_note: 不太喜歡
+      seat_note: 理想位置
+    - hall: "5 廳"
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: "D"
+      hall_note: 音響不算好
+      seat_note: E 排可，可以試 D
+    - hall: "7 廳"
+      format: 2D 廳
+      recommended_rows: "E~F"
+      alt_rows: ""
+      hall_note: 還不錯
+      seat_note: 坐正中間可以選 E 排，旁邊的話選 F 排
+    - hall: "8 廳"
+      format: 2D 廳
+      recommended_rows: "D"
+      alt_rows: ""
+      hall_note: ""
+      seat_note: E 排有點後面
+    - hall: "9 廳"
+      format: 2D 廳
+      recommended_rows: "D"
+      alt_rows: ""
+      hall_note: ""
+      seat_note: 理想
+    - hall: "10 廳"
+      format: 2D 廳
+      recommended_rows: "E~F"
+      alt_rows: ""
+      hall_note: 還不錯
+      seat_note: 坐正中間可以選 E 排，旁邊的話選 F 排
+
+
+vieshow-xinyi:
+  name: 信義威秀影城
+  lat: 25.0356037
+  lon: 121.5672750
+  address: 台北市信義區松壽路20號
+  country: 臺灣
+  city: 臺北
+  district: 信義
+  items:
+    - hall: "1 廳"
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: ""
+      hall_note: ""
+      seat_note: ""
+    - hall: "2 廳"
+      format: 4DX
+      recommended_rows: "E"
+      alt_rows: "D"
+      hall_note: ""
+      seat_note: E 排不錯，也可以試看看前一排
+    - hall: "3 廳"
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: "D"
+      hall_note: ""
+      seat_note: E 排可，可以試 D
+    - hall: "5 廳"
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: "D"
+      hall_note: ""
+      seat_note: E 排可，可以試 D
+    - hall: "6 廳"
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: "D"
+      hall_note: ""
+      seat_note: E 排可，可以試 D
+    - hall: "8 廳"
+      format: 2D 廳
+      recommended_rows: "F"
+      alt_rows: ""
+      hall_note: ""
+      seat_note: ""
+    - hall: "12 廳"
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: ""
+      hall_note: 金馬影廳，信義中比較好的，但很冷
+      seat_note: 完美
+    - hall: "13 廳"
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: "D"
+      hall_note: ""
+      seat_note: E 排可，可以試 D
+    - hall: "15 廳"
+      format: 2D 廳
+      recommended_rows: "B~C"
+      alt_rows: ""
+      hall_note: ""
+      seat_note: D 排太後面
+    - hall: "16 廳"
+      format: 2D 廳
+      recommended_rows: "C"
+      alt_rows: ""
+      hall_note: ""
+      seat_note: 理想
+    - hall: "17 廳"
+      format: 2D 廳
+      recommended_rows: "B~C"
+      alt_rows: ""
+      hall_note: ""
+      seat_note: D 排太後面
+    - hall: "18 廳"
+      format: 2D 廳
+      recommended_rows: "C"
+      alt_rows: ""
+      hall_note: ""
+      seat_note: 坐過 D 排，C 排效果比較好
+
+
+vieshow-lalaport-nangang:
+  name: 南港 Lalaport 威秀影城
+  lat: 25.0593449
+  lon: 121.6175825
+  address: 台北市南港區經貿二路131號5樓
+  country: 臺灣
+  city: 臺北
+  district: 南港
+  items:
+    - hall: "12 廳"
+      format: 2D 廳
+      recommended_rows: "C~D"
+      alt_rows: ""
+      hall_note: 音效不錯，畫面普通
+      seat_note: D 排可，可以試 C
+    - hall: "16 廳"
+      format: 2D 廳
+      recommended_rows: "B"
+      alt_rows: ""
+      hall_note: 普通
+      seat_note: 上次坐 C，太後面，要試試看 B
+
+
+vieshow-ximending:
+  name: 西門威秀影城
+  lat: 25.0438973
+  lon: 121.5071127
+  address: 台北市萬華區漢中街52號8-11樓
+  country: 臺灣
+  city: 臺北
+  district: 萬華
+  items:
+    - hall: "3 廳"
+      format: 2D 廳
+      recommended_rows: "3"
+      alt_rows: ""
+      hall_note: 不太喜歡，冷氣不知道是沒開還是壞了
+      seat_note: 差不多就這了
+
+
+showtime-dajudan:
+  name: 大巨蛋秀泰影城
+  lat: 25.0444000
+  lon: 121.5584405
+  address: 台北市信義區光復南路105號2樓
+  country: 臺灣
+  city: 臺北
+  district: 信義
+  items:
+    - hall: "6 廳"
+      format: 2D 廳
+      recommended_rows: "4"
+      alt_rows: "3"
+      hall_note: 音響很好，畫面也不錯，椅子很高級，冷氣超冷
+      seat_note: 4 排可能理想，3 排也可以試試看
+    - hall: "8 廳"
+      format: Dolby Cinema
+      recommended_rows: "5"
+      alt_rows: ""
+      hall_note: 音效棒，畫面也棒，不愧是新影廳
+      seat_note: 椅子真的超舒服...
+    - hall: "10 廳"
+      format: Screen X
+      recommended_rows: "7"
+      alt_rows: ""
+      hall_note: ""
+      seat_note: 椅子真的好舒服...
+    - hall: "14 廳"
+      format: 4DX
+      recommended_rows: "3"
+      alt_rows: ""
+      hall_note: ""
+      seat_note: "椅子舒服"
+
+
+spot-taipei:
+  name: 台北光點
+  lat: 25.0532790
+  lon: 121.5221609
+  address: 台北市中山區中山北路二段18號
+  country: 臺灣
+  city: 臺北
+  district: 中山
+  items:
+    - hall: 主廳
+      format: 2D 廳
+      recommended_rows: "2~3"
+      alt_rows: ""
+      hall_note: 音效不錯，畫面還行
+      seat_note: 自由入座，坐過 2 排覺得不錯
+
+
+eslite-cinema:
+  name: 誠品電影院
+  lat: 25.0444169
+  lon: 121.5612547
+  address: 台北市信義區菸廠路80號B1
+  country: 臺灣
+  city: 臺北
+  district: 信義
+  items:
+    - hall: A 廳
+      format: 2D 廳
+      recommended_rows: "F"
+      alt_rows: ""
+      hall_note: 冷氣很冷，聲光效果比想像中的好一點
+      seat_note: 理想
+    - hall: B 廳
+      format: 2D 廳
+      recommended_rows: "D"
+      alt_rows: ""
+      hall_note: 冷氣很冷
+      seat_note: ""
+
+
+miramar-cinema:
+  name: 大直美麗華影城
+  lat: 25.0832173
+  lon: 121.5575147
+  address: 台北市中山區敬業三路22號6樓
+  country: 臺灣
+  city: 臺北
+  district: 中山
+  items:
+    - hall: "2 廳"
+      format: 2D 廳
+      recommended_rows: "E~F"
+      alt_rows: ""
+      hall_note: 畫面優秀，音效還行
+      seat_note: E 排太前面，看字幕會累，但在特定作品效果不錯<br>理想位置可能是 F
+    - hall: "5 廳"
+      format: 2D 廳
+      recommended_rows: "D~E"
+      alt_rows: ""
+      hall_note: 畫面優秀，音效還不錯
+      seat_note: C 排體驗很差，要往後移動
+    - hall: "5 廳"
+      format: Dolby Cinema
+      recommended_rows: "G"
+      alt_rows: "F"
+      hall_note: ""
+      seat_note: 也許前一排也沒問題
+    - hall: "6 廳"
+      format: 2D 廳
+      recommended_rows: "F"
+      alt_rows: ""
+      hall_note: 聲光體驗都不錯
+      seat_note: 理想
+    - hall: "8 廳"
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: ""
+      hall_note: 聲光體驗都不錯
+      seat_note: 理想
+    - hall: IMAX 廳
+      format: IMAX
+      recommended_rows: "H~I"
+      alt_rows: ""
+      hall_note: 北部 IMAX 唯一推薦
+      seat_note: ""
+
+
+showtime-nangang:
+  name: 南港喜樂時代影城
+  lat: 25.0525582
+  lon: 121.6045180
+  address: 台北市南港區忠孝東路七段299號 CITYLINK C棟11樓
+  country: 臺灣
+  city: 臺北
+  district: 南港
+  items:
+    - hall: "8 廳"
+      format: 2D 廳
+      recommended_rows: "1"
+      alt_rows: ""
+      hall_note: 不太喜歡
+      seat_note: 只建議坐 1 排 5～7 號
+    - hall: "12 廳"
+      format: 2D 廳
+      recommended_rows: "1"
+      alt_rows: ""
+      hall_note: 音效還不錯，但稱不上喜歡
+      seat_note: ""
+    - hall: "19 廳"
+      format: 2D 廳
+      recommended_rows: "2"
+      alt_rows: ""
+      hall_note: 音效還不錯，但稱不上喜歡
+      seat_note: 1 排是特殊座位，只建議 2 排中間
+
+
+showtime-ximending:
+  name: 西門喜樂時代影城
+  lat: 25.0436369
+  lon: 121.5054224
+  address: 台北市萬華區峨眉街52號
+  country: 臺灣
+  city: 臺北
+  district: 萬華
+  items:
+    - hall: "7 廳"
+      format: 2D 廳
+      recommended_rows: ""
+      alt_rows: ""
+      hall_note: 很普通，冷氣冷，領票在食物販售處
+      seat_note: 上次搶不到位置，坐在 7 排，明顯太後面
+
+
+jintri-showtime:
+  name: 今日秀泰影城
+  lat: 25.0436585
+  lon: 121.5053281
+  address: 台北市萬華區峨眉街52號1樓
+  country: 臺灣
+  city: 臺北
+  district: 萬華
+  items:
+    - hall: "7 廳"
+      format: 2D 廳
+      recommended_rows: "2"
+      alt_rows: "1"
+      hall_note: 偏小，不算喜歡
+      seat_note: 可以試 1 排
+
+
+true-good-beauty:
+  name: 西門真善美劇院
+  lat: 25.0429229
+  lon: 121.5073242
+  address: 台北市萬華區漢中街116號
+  country: 臺灣
+  city: 臺北
+  district: 萬華
+  items:
+    - hall: 藍廳
+      format: 2D 廳
+      recommended_rows: "1"
+      alt_rows: ""
+      hall_note: 螢幕偏小，冷氣超冷
+      seat_note: 只建議坐 1 排中間
+    - hall: 藝術廳
+      format: 2D 廳
+      recommended_rows: "1"
+      alt_rows: ""
+      hall_note: 螢幕偏小，冷氣超冷
+      seat_note: 只建議坐 1 排中間
+
+
+ambassador-changchun:
+  name: 長春國賓影城
+  lat: 25.0545575
+  lon: 121.5342560
+  address: 台北市中山區長春路176號
+  country: 臺灣
+  city: 臺北
+  district: 中山
+  items:
+    - hall: "2 廳"
+      format: 2D 廳
+      recommended_rows: "3"
+      alt_rows: ""
+      hall_note: 螢幕普通，音效不錯，聲音有點太大
+      seat_note: 3 排剛好
+    - hall: "12 廳"
+      format: 2D 廳
+      recommended_rows: "2~3"
+      alt_rows: "2"
+      hall_note: 聲光還不錯
+      seat_note: 3 排可，可以試 2
+
+
+vieshow-linkou:
+  name: 林口威秀影城
+  lat: 25.0705089
+  lon: 121.3661653
+  address: 新北市林口區文化三路一段356號3樓
+  country: 臺灣
+  city: 新北
+  district: 林口
+  items:
+    - hall: "1 廳"
+      format: 4DX
+      recommended_rows: "D~E"
+      alt_rows: ""
+      hall_note: ""
+      seat_note: ""
+    - hall: "6 廳"
+      format: 2D 廳
+      recommended_rows: "F"
+      alt_rows: ""
+      hall_note: 聲光效果都相當優秀
+      seat_note: ""
+
+
+vieshow-banqiao:
+  name: 板橋威秀影城
+  lat: 25.0140729
+  lon: 121.4671574
+  address: 新北市板橋區新站路28號10樓
+  country: 臺灣
+  city: 新北
+  district: 板橋
+  items:
+    - hall: "2 廳"
+      format: 2D 廳
+      recommended_rows: "D"
+      alt_rows: "E"
+      hall_note: 音效優秀，畫面還不錯
+      seat_note: E 排可，可以試 D
+    - hall: "6 廳"
+      format: IMAX
+      recommended_rows: ""
+      alt_rows: ""
+      hall_note: 不喜歡
+      seat_note: ""
+
+
+vieshow-zhonghe:
+  name: 中和環球威秀影城
+  lat: 25.0066724
+  lon: 121.4747789
+  address: 新北市中和區中山路三段122號4樓
+  country: 臺灣
+  city: 新北
+  district: 中和
+  items:
+    - hall: "7 廳"
+      format: 2D 廳
+      recommended_rows: "E~F"
+      alt_rows: ""
+      hall_note: 聲光效果還不錯，但附近塞車嚴重，會避免再來
+      seat_note: ""
+
+
+shinkong-taoyuan:
+  name: 桃園新光影城
+  lat: 25.0167718
+  lon: 121.2134139
+  address: 桃園市中壢區春德路107號3樓
+  country: 臺灣
+  city: 桃園
+  district: 中壢
+  items:
+    - hall: Dolby Cinema 廳
+      format: Dolby Cinema
+      recommended_rows: "G"
+      alt_rows: ""
+      hall_note: 體感超棒
+      seat_note: 理想位置
+
+
+vieshow-hsinchu:
+  name: 新竹巨城威秀影城
+  lat: 24.8098226
+  lon: 120.9744505
+  address: 新竹市東區民權路176號4號樓之3
+  country: 臺灣
+  city: 新竹
+  district: 東區
+  items:
+    - hall: "9 廳"
+      format: 2D 廳
+      recommended_rows: "D~E"
+      alt_rows: "D"
+      hall_note: 聲光效果很不錯，音響比京站好
+      seat_note: E 排可，包覆感稍嫌不夠，也可以考慮 D
+
+
+vieshow-tigercity:
+  name: 台中 Tiger City 威秀影城
+  lat: 24.1643060
+  lon: 120.6380944
+  address: 台中市西屯區河南路三段120-1號4樓
+  country: 臺灣
+  city: 台中
+  district: 西屯
+  items:
+    - hall: "5 廳"
+      format: 2D 廳
+      recommended_rows: "F"
+      alt_rows: "E"
+      hall_note: 聲音有點大，不確定是不是因為電影
+      seat_note: F 排可，可以試 E
+
+
+vieshow-tainan:
+  name: 台南南紡威秀影城
+  lat: 22.9913037
+  lon: 120.2333306
+  address: 台南市東區中華東路一段366號5樓
+  country: 臺灣
+  city: 台南
+  district: 東區
+  items:
+    - hall: "8 廳"
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: "D"
+      hall_note: 聲音不錯
+      seat_note: E 排可，可以試 D

@@ -1,0 +1,90 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: Pilgrimage locations
+description: >
+  動漫聖地巡禮。locations-based 形式：top-level 為檔案層 metadata（合併進每筆 location），
+  locations 為地點清單。Property order mirrors current column display order
+  (group_by="anime,country,city" group_summary_at="anime") — reorder freely.
+type: object
+required: [locations]
+properties:
+
+  # ── File-level metadata (merged into every location) ───────────────────
+  anime:
+    type: string
+    title: 作品
+    x-osm-list-i18n:
+      title:
+        en: Work
+        ja: 作品
+  tags:
+    type: array
+    items:
+      type: string
+
+  # ── Per-place rows ─────────────────────────────────────────────────────
+  locations:
+    type: array
+    items:
+      type: object
+      required: [name, lat, lon]
+      properties:
+        name:
+          type: string
+          title: 地點
+          x-osm-list-i18n:
+            title:
+              en: Location
+              ja: 場所
+        lat:
+          type: number
+          minimum: -90
+          maximum: 90
+        lon:
+          type: number
+          minimum: -180
+          maximum: 180
+        category:
+          type: string
+          title: 分類
+          x-osm-list-i18n:
+            title:
+              en: Category
+              ja: カテゴリー
+        notes:
+          type: string
+          title: 備註
+          x-osm-list-i18n:
+            title:
+              en: Note
+              ja: 備考
+        date:
+          type: string
+          title: 日期
+          x-osm-list-sort: max
+          x-osm-list-i18n:
+            title:
+              en: Date
+              ja: 日付
+        country:
+          type: string
+          title: 國家
+          x-osm-list-i18n:
+            title:
+              en: Country
+              ja: 国
+        city:
+          type: string
+          title: 縣市
+          x-osm-list-i18n:
+            title:
+              en: City
+              ja: 都市
+        tags:
+          type: array
+          items:
+            type: string
+        images:
+          type: array
+          items:
+            type: string
+          x-osm-list-hidden: true

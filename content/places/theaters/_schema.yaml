@@ -1,0 +1,122 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: Theater preferences
+description: >
+  影城個人偏好。dict-of-places 形式：key 為 slug id，value 為影城物件。
+  Properties listed in current display order — reorder freely as preferences shift.
+type: object
+
+additionalProperties:
+  type: object
+  required: [name, lat, lon]
+  properties:
+
+    # ── Summary-header fields (group_summary_at="country,city,name") ────
+    country:
+      type: string
+      title: 國家
+      x-osm-list-i18n:
+        title:
+          en: Country
+          ja: 国
+    city:
+      type: string
+      title: 縣市
+      x-osm-list-i18n:
+        title:
+          en: City
+          ja: 都市
+    name:
+      type: string
+      title: 影城
+      x-osm-list-i18n:
+        title:
+          en: Cinema
+          ja: 映画館
+
+    # ── Geo (auto-rendered as map links, never a column) ─────────────────
+    lat:
+      type: number
+      minimum: -90
+      maximum: 90
+    lon:
+      type: number
+      minimum: -180
+      maximum: 180
+
+    # ── Item rows (one row per hall under the cinema header) ─────────────
+    items:
+      type: array
+      items:
+        type: object
+        required: [hall]
+        properties:
+          hall:
+            type: string
+            title: 影廳
+            x-osm-list-i18n:
+              title:
+                en: Hall
+                ja: スクリーン
+          format:
+            type: string
+            title: 規格
+            enum:
+              - 2D 廳
+              - TITAN
+              - IMAX
+              - Dolby Cinema
+              - 4DX
+              - Screen X
+              - Augmented Audio
+              - 極音廳
+            x-osm-list-i18n:
+              title:
+                en: Format
+                ja: フォーマット
+          recommended_rows:
+            type: string
+            title: 建議排
+            x-osm-list-i18n:
+              title:
+                en: Row
+                ja: おすすめ列
+          alt_rows:
+            type: string
+            title: 備選排
+            x-osm-list-hidden: true
+            x-osm-list-i18n:
+              title:
+                en: Alt row
+                ja: 代替列
+          hall_note:
+            type: string
+            title: 影廳備註
+            x-osm-list-i18n:
+              title:
+                en: Hall note
+                ja: スクリーン備考
+          seat_note:
+            type: string
+            title: 座位備註
+            x-osm-list-i18n:
+              title:
+                en: Seat note
+                ja: 座席備考
+
+    # ── Hidden parent fields ────────────────────────────────────────────
+    address:
+      type: string
+      title: 地址
+      x-osm-list-hidden: true
+      x-osm-list-i18n:
+        title:
+          en: Address
+          ja: 住所
+    district:
+      type: string
+      title: 行政區
+      x-osm-list-hidden: true
+      x-osm-list-i18n:
+        title:
+          en: District
+          ja: 区域

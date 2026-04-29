@@ -1,0 +1,89 @@
+toho-kawasaki:
+  name: TOHOシネマズ 川崎
+  lat: 35.5313838
+  lon: 139.7002316
+  address: 神奈川県川崎市川崎区駅前本町8 7〜9階 ダイスビル
+  country: 日本
+  city: 神奈川
+  district: 川崎
+  items:
+    - hall: Screen 4
+      format: 2D 廳
+      recommended_rows: "G"
+      alt_rows: "H"
+      hall_note: 整體聲光效果平均都很不錯
+      seat_note: H 排不錯，但 G 應該最理想
+
+
+lawson-minatomirai:
+  name: LAWSON UNITED Cinemas Style - S Minatomirai
+  lat: 35.4572295
+  lon: 139.6321971
+  address: 神奈川県横浜市西区みなとみらい3-5-1 MARK IS みなとみらい 5階
+  country: 日本
+  city: 神奈川
+  district: 横浜
+  items:
+    - hall: Screen 5
+      format: Augmented Audio
+      recommended_rows: "D"
+      alt_rows: ""
+      hall_note: 還不錯
+      seat_note: D 排畫面好，但脖子會有點酸，5 或 6 才是座位的中間
+
+
+cinema-city-two:
+  name: CINEMA CITY TWO
+  lat: 35.7013435
+  lon: 139.4123267
+  address: 東京都立川市曙町2-42-26
+  country: 日本
+  city: 東京
+  district: 立川
+  items:
+    - hall: a studio
+      format: 極音廳
+      recommended_rows: "G"
+      alt_rows: ""
+      hall_note: 體驗過的音響的頂點
+      seat_note: 畫面算不錯，但不是我喜歡的配置，座位在哪比較沒差
+    - hall: b studio
+      format: 極音廳
+      recommended_rows: "E"
+      alt_rows: "D"
+      hall_note: 體驗過的音響的頂點
+      seat_note: 畫面比 a studio 好，D 排有機會更好，但也可能太前面
+
+
+cinema-sunshine-masaki:
+  name: シネマサンシャイン エミフルMASAKI
+  lat: 33.7881083
+  lon: 132.7149178
+  address: 愛媛県伊予郡松前町筒井850 EMI AMUSE 2F
+  country: 日本
+  city: 愛媛
+  district: 伊予郡
+  items:
+    - hall: Screen 6
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: "D"
+      hall_note: 音響不錯
+      seat_note: 可以往前一排試試看
+
+
+united-cinema-canal-city:
+  name: ユナイテッドシネマ キャナルシティ13
+  lat: 33.5891777
+  lon: 130.4109197
+  address: 福岡県福岡市博多区住吉1-2-22 キャナルシティ博多 4F
+  country: 日本
+  city: 福岡
+  district: 博多
+  items:
+    - hall: Screen 11
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: ""
+      hall_note: 還不錯
+      seat_note: F 排太後面，E 排可能比較理想
