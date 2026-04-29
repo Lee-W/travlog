@@ -1,3 +1,14 @@
 anime: 冰菓 | 氷菓
 tags: [動畫]
 locations:
+- name: Bag Pipe
+  lat: 36.141097
+  lon: 137.258628
+  category: ''
+  notes: ''
+  date: '2018-11-28'
+  country: 日本
+  city: 岐阜
+  tags: []
+  images:
+  - /images/pilgrimage/03-hyouka/bag-pipe.JPG

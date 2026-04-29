@@ -1,3 +1,14 @@
 anime: 你的名字 | 君の名は。
 tags: [動畫]
 locations:
+- name: 飛驒古川站
+  lat: 36.208086
+  lon: 137.221414
+  category: ''
+  notes: ''
+  date: '2018-11-29'
+  country: 日本
+  city: 岐阜
+  tags: []
+  images:
+  - /images/pilgrimage/04-your-name/hida-furukawa-station.JPG

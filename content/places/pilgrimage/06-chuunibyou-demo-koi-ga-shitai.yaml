@@ -1,3 +1,24 @@
 anime: 中二病也想談戀愛 | 中二病でも恋がしたい！
 tags: [動畫]
 locations:
+- name: 坂尻海岸
+  lat: 35.622923
+  lon: 135.969845
+  category: ''
+  notes: '不可視境界線'
+  country: 日本
+  city: 福井
+  tags: []
+  images:
+  - /images/pilgrimage/06-chuunibyou-demo-koi-ga-shitai/sakajiri-coast.JPG
+- name: 旧鎌掛小学校
+  lat: 34.986692
+  lon: 135.751922
+  category: ''
+  notes: ''
+  date: '2018-12-08'
+  country: 日本
+  city: 滋賀
+  tags: []
+  images:
+  - /images/pilgrimage/06-chuunibyou-demo-koi-ga-shitai/old-kamakake-elementary-school.JPG

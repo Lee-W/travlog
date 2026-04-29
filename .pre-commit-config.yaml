@@ -44,9 +44,9 @@ repos:
         args: ["--categories", "Cook,Review,Travel"]
         files: ^content/posts/.*\.md$
 
-      - id: remove-gps-from-image-exif
-        name: Remove GPS Info from image exif
-        language: system
-        pass_filenames: false
-        entry: uv run inv check-and-remove-image-exif-gps-info
-        exclude: content/images/pilgrimage
+      # - id: remove-gps-from-image-exif
+      #   name: Remove GPS Info from image exif
+      #   language: system
+      #   pass_filenames: false
+      #   entry: uv run inv check-and-remove-image-exif-gps-info
+      #   exclude: content/images/pilgrimage/

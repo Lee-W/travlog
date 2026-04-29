@@ -1,3 +1,14 @@
 anime: 聲之形 | 聲の形
 tags: [動畫]
 locations:
+- name: 美登鯉橋
+  lat: 35.357169
+  lon: 136.612703
+  category: ''
+  notes: ''
+  date: '2018-11-27'
+  country: 日本
+  city: 岐阜
+  tags: []
+  images:
+  - /images/pilgrimage/02-a-silent-voice/midorikoi-bridge.JPG
