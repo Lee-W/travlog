@@ -1,4 +1,4 @@
-anime: 玉子市場 | たまこまーけっと
+anime: 玉子市場, 玉子愛情故事 | たまこまーけっと, たまこラブストーリー
 tags: [動畫]
 locations:
 
@@ -38,6 +38,7 @@ locations:
   - name: 錦湯
     lat: 35.0045688
     lon: 135.7646408
+    category: 溫泉浴場
     notes: ""
     # date: ""
     country: 日本

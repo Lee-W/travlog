@@ -32,11 +32,8 @@ Modified: 2026-04-29 20:40 +0800
 ## 台灣 / Taiwan
 
 {% place_list theaters/taiwan.yaml group_by="country,city,name" group_summary_at="country,city,name" %}
-
 {% place theaters/taiwan.yaml %}
 
 ## 日本 / Japan
-
 {% place_list theaters/japan.yaml group_by="country,city,name" group_summary_at="country,city,name" %}
-
 {% place theaters/japan.yaml %}
