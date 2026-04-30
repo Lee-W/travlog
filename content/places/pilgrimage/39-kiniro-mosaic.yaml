@@ -1,3 +1,18 @@
 anime: 黃金拼圖 | きんいろモザイク
 tags: [動畫]
 locations:
+- name: Fosse Farmhouse B & B
+  lat: 51.500927
+  lon: -2.24568
+  notes: ''
+  date:
+  - '2025-07-23'
+  - '2025-07-23'
+  - '2025-07-23'
+  country: 英國
+  city: Wiltshire
+  tags: []
+  images:
+  - /images/pilgrimage/39-kiniro-mosaic/fosse-farmhouse-b-and-b.JPG  # wrong GPS
+  - /images/pilgrimage/39-kiniro-mosaic/fosse-farmhouse-b-and-b-1.JPG
+  - /images/pilgrimage/39-kiniro-mosaic/fosse-farmhouse-b-and-b-2.JPG

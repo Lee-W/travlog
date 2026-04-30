@@ -1,3 +1,13 @@
 anime: 哈利波特 | Harry Potter
 tags: [動畫]
 locations:
+- name: The Potters House
+  lat: 51.416533
+  lon: -2.120257
+  notes: ''
+  date: '2025-07-24'
+  country: 英國
+  city: Chippenham
+  tags: []
+  images:
+  - /images/pilgrimage/41-harry-potter/the-potters-house.JPG  # wrong GPS

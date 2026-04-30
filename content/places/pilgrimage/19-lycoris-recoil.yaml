@@ -1,3 +1,14 @@
 anime: 莉可莉絲 | リコリス・リコイル
 tags: [動畫]
 locations:
+- name: 晴空塔
+  lat: 35.713036
+  lon: 139.794069
+  notes: 電波塔
+  date: '2023-05-25'
+  country: 日本
+  city: 東京
+  tags:
+  - 塔
+  images:
+  - /images/pilgrimage/19-lycoris-recoil/tokyo-skytree.JPG
