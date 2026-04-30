@@ -11,15 +11,5 @@ locations:
   city: 達沃
   tags:
   - 餐廳
-  images: []
-
-- name: Lapu-Lapu St
-  lat: 7.080986894518865
-  lon: 125.62075864052505
-  notes: ""
-  date: 2025-06-20
-  country: 菲律賓
-  city: 達沃
-  tags:
-  - 街道
-  images: []
+  images:
+  - /images/pilgrimage/35-mobile-suit-gundam-hathaway/jollibee.jpeg
