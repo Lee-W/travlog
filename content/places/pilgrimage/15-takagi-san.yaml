@@ -1,3 +1,66 @@
 anime: 擅長捉弄人的高木同學 | からかい上手の高木さん
 tags: [動畫]
 locations:
+- name: 高木神社
+  lat: 35.716875
+  lon: 139.815493
+  notes: ''
+  date: '2023-03-21'
+  country: 日本
+  city: 東京
+  tags:
+  - 神社
+  images:
+  - /images/pilgrimage/15-takagi-san/takagi-shrine.JPG # wrong GPS
+- name: 太陽的贈禮
+  lat: 34.489183
+  lon: 134.173664
+  notes: ''
+  date: '2024-12-27'
+  country: 日本
+  city: 香川
+  tags: []
+  images:
+  - /images/pilgrimage/15-takagi-san/sun-gift.JPG
+- name: 小瀨石鎚神社 重岩
+  lat: 34.478792
+  lon: 134.148603
+  notes: ''
+  date: '2024-12-28'
+  country: 日本
+  city: 香川
+  tags:
+  - 神社
+  images:
+  - /images/pilgrimage/15-takagi-san/kose-ishizuchi-shrine-okuiwa.JPG
+- name: 鹿島明神社
+  lat: 34.474283
+  lon: 134.169899
+  notes: ''
+  date: '2024-12-28'
+  country: 日本
+  city: 香川
+  tags:
+  - 神社
+  images:
+  - /images/pilgrimage/15-takagi-san/kashima-myojin-shrine.JPG # wrong GPS
+- name: 中山千枚田
+  lat: 34.504257
+  lon: 134.239473
+  notes: ''
+  date: '2024-12-28'
+  country: 日本
+  city: 香川
+  tags: []
+  images:
+  - /images/pilgrimage/15-takagi-san/nakayama-senmaida.JPG  # wrong GPS
+- name: とのしょうBASE
+  lat: 34.489417
+  lon: 134.174119
+  notes: ''
+  date: '2024-12-29'
+  country: 日本
+  city: 香川
+  tags: []
+  images:
+  - /images/pilgrimage/15-takagi-san/tonosho-base.JPG

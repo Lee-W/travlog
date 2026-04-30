@@ -4,7 +4,6 @@ locations:
 - name: 豐鄉小學校
   lat: 35.203569
   lon: 136.232431
-  category: ''
   notes: ''
   date: '2018-12-07'
   country: 日本
@@ -12,3 +11,14 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/10-k-on/toyosato-elementary-school.JPG
+- name: Hotel ibis London Earl's Court
+  lat: 51.488975
+  lon: -0.191783
+  notes: ''
+  date: '2025-07-24'
+  country: 英國
+  city: 倫敦
+  tags:
+  - 飯店
+  images:
+  - /images/pilgrimage/10-k-on/hotel-ibis-london-earls-court.JPG

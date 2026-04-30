@@ -1,3 +1,87 @@
 anime: Fate 系列 | Fate系列
 tags: [動畫]
 locations:
+- name: 神戶大橋
+  lat: 34.678500
+  lon: 135.203773
+  notes: ''
+  date: '2023-03-11'
+  country: 日本
+  city: 兵庫
+  tags:
+  - 橋
+  images:
+  - /images/pilgrimage/12-fate-series/kobe-ohashi-bridge.JPG # wrong GPS
+- name: 織田家長屋門
+  lat: 34.651020
+  lon: 134.988610
+  notes: ''
+  date: '2023-03-12'
+  country: 日本
+  city: 兵庫
+  tags: []
+  images:
+  - /images/pilgrimage/12-fate-series/oda-family-nagaya-gate.JPG # wrong GPS
+- name: 風見雞之館
+  lat: 34.701081
+  lon: 135.189417
+  notes: ''
+  date:
+  - '2023-03-13'
+  country: 日本
+  city: 兵庫
+  tags: []
+  images:
+  - /images/pilgrimage/12-fate-series/kazamidori-no-yakata.JPG
+- name: 魚鱗之家
+  lat: 34.701933
+  lon: 135.193242
+  notes: 間桐家
+  date: '2023-03-13'
+  country: 日本
+  city: 兵庫
+  tags: []
+  images:
+  - /images/pilgrimage/12-fate-series/uorindo-house.JPG
+- name: 聖方濟天主堂
+  lat: 35.345704
+  lon: 136.989866
+  notes: 切嗣單抽五星
+  date: '2023-03-17'
+  country: 日本
+  city: 愛知
+  tags: []
+  images:
+  - /images/pilgrimage/12-fate-series/st-francis-church.JPG # wrong GPS
+- name: 帝國賓館中央玄關
+  lat: 35.347812
+  lon: 136.988863
+  notes: Fate/Zero 轉圈圈
+  date: '2023-03-17'
+  country: 日本
+  city: 愛知
+  tags: []
+  images:
+  - /images/pilgrimage/12-fate-series/imperial-hotel-central-entrance.JPG # wrong GPS
+- name: Glastonbury Abbey
+  lat: 51.146536
+  lon: -2.716331
+  notes: ''
+  date:
+  - '2025-07-22'
+  country: 英國
+  city: Glastonbury
+  tags: []
+  images:
+  - /images/pilgrimage/12-fate-series/glastonbury-abbey.JPG
+  - /images/pilgrimage/12-fate-series/glastonbury-abbey-2.JPG
+- name: Glastonbury Tor
+  lat: 51.147343
+  lon: -2.698096
+  notes: ''
+  date: '2025-07-22'
+  country: 英國
+  city: Glastonbury
+  tags: []
+  images:
+  - /images/pilgrimage/12-fate-series/glastonbury-tor.JPG # wrong GPS

@@ -4,7 +4,6 @@ locations:
 - name: 名古屋国際会議場
   lat: 35.142931
   lon: 136.901756
-  category: ''
   notes: ''
   date: '2018-11-26'
   country: 日本
@@ -15,7 +14,6 @@ locations:
 - name: 久美子椅
   lat: 34.889603
   lon: 135.808358
-  category: ''
   notes: ''
   date: '2018-12-05'
   country: 日本

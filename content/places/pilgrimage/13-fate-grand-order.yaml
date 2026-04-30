@@ -1,3 +1,14 @@
 anime: Fate/Grand Order
 tags: [動畫]
 locations:
+- name: 姬路城
+  lat: 34.829003
+  lon: 134.6942
+  notes: ''
+  date: '2023-03-12'
+  country: 日本
+  city: 兵庫
+  tags:
+  - 城堡
+  images:
+  - /images/pilgrimage/13-fate-grand-order/himeji-castle.JPG

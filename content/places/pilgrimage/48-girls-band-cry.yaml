@@ -1,3 +1,14 @@
 anime: 少女樂團 吶喊吧 | ガールズバンドクライ
 tags: [動畫]
 locations:
+- name: 川崎車站
+  lat: 35.530497
+  lon: 139.698075
+  notes: 遇見桃香
+  date: '2026-03-02'
+  country: 日本
+  city: 神奈川
+  tags:
+  - 車站
+  images:
+  - /images/pilgrimage/48-girls-band-cry/kawasaki-station.jpg

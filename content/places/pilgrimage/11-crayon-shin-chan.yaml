@@ -1,3 +1,14 @@
 anime: 蠟筆小新 | クレヨンしんちゃん
 tags: [動畫]
 locations:
+- name: 春日部站
+  lat: 35.980047
+  lon: 139.7498
+  notes: ''
+  date: '2019-09-12'
+  country: 日本
+  city: 埼玉
+  tags:
+  - 車站
+  images:
+  - /images/pilgrimage/11-crayon-shin-chan/kasukabe-station.JPG

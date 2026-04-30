@@ -2,13 +2,23 @@ anime: 幸運星 | らき☆すた
 tags: [動畫]
 locations:
 - name: 地主神社
-  lat: 34.986822
-  lon: 135.751956
-  category: ''
+  lat: 34.995440
+  lon: 135.785076
   notes: '修學旅行'
   date: '2018-12-06'
   country: 日本
   city: 京都
   tags: []
   images:
-  - /images/pilgrimage/09-lucky-star/jishu-shrine.JPG
+  - /images/pilgrimage/09-lucky-star/jishu-shrine.JPG # wrong GPS
+- name: 鷲宮神社
+  lat: 36.031747
+  lon: 139.713839
+  notes: '小鏡家神社'
+  date: '2019-09-12'
+  country: 日本
+  city: 埼玉
+  tags:
+  - 神社
+  images:
+  - /images/pilgrimage/09-lucky-star/washinomiya-shrine.JPG
