@@ -743,20 +743,70 @@ def _parse_latlng(text: str) -> tuple[float, float]:
     return float(parts[0]), float(parts[1])
 
 
+def _q_pick_country(data: dict, default: str = "日本") -> str:
+    import questionary
+
+    countries = sorted(
+        set(
+            loc.get("country", "")
+            for loc in (data.get("locations") or [])
+            if loc.get("country")
+        )
+    )
+    if not countries:
+        return questionary.text("國家", default=default).ask() or default
+
+    choices = [questionary.Choice(c, value=c) for c in countries]
+    choices.append(questionary.Choice("＋ 新增國家", value="__new__"))
+
+    result = questionary.select("國家", choices=choices).ask()
+    if result == "__new__" or result is None:
+        new_val = questionary.text("新增國家", default=default).ask()
+        return new_val or default
+    return result
+
+
+def _q_pick_city(data: dict, country: str, default: str = "") -> str:
+    import questionary
+
+    cities = sorted(
+        set(
+            loc.get("city", "")
+            for loc in (data.get("locations") or [])
+            if loc.get("country") == country and loc.get("city")
+        )
+    )
+    if not cities:
+        return questionary.text("縣市", default=default).ask() or default
+
+    choices = [questionary.Choice(c, value=c) for c in cities]
+    choices.append(questionary.Choice("＋ 新增縣市", value="__new__"))
+
+    result = questionary.select("縣市", choices=choices).ask()
+    if result == "__new__" or result is None:
+        new_val = questionary.text("新增縣市", default=default).ask()
+        return new_val or default
+    return result
+
+
 def _wizard_one(src: Path, idx: int, total: int, dry_run: bool) -> bool:
     import questionary
 
     print(f"\n{BOLD}{'─' * 48}  {idx}/{total}{RESET}")
 
     exif = get_exif(src)
-    lat = exif.get("GPSLatitude")
-    lon = exif.get("GPSLongitude")
+    exif_lat = exif.get("GPSLatitude")
+    exif_lon = exif.get("GPSLongitude")
     date_raw = exif.get("DateTimeOriginal", "")
     date_str = date_raw[:10].replace(":", "-") if date_raw else None
 
     rel = src.relative_to(Path.cwd()) if src.is_relative_to(Path.cwd()) else src
     print(f"{BOLD}📷 {rel}{RESET}")
-    gps_str = f"{lat:.5f}, {lon:.5f}" if lat and lon else f"{YELLOW}無 GPS{RESET}"
+    gps_str = (
+        f"{exif_lat:.5f}, {exif_lon:.5f}"
+        if exif_lat and exif_lon
+        else f"{YELLOW}無 GPS{RESET}"
+    )
     print(f"  GPS：{gps_str}    日期：{date_str or f'{YELLOW}無{RESET}'}")
     print()
 
@@ -775,206 +825,226 @@ def _wizard_one(src: Path, idx: int, total: int, dry_run: bool) -> bool:
                 print(f"  {DIM}[dry-run] 將刪除{RESET}")
         return False
 
-    # GPS — allow correction whether missing or potentially wrong
-    gps_comment: str | None = None
-    if not (lat and lon):
-        gps_comment = "no GPS"
-        if questionary.confirm("手動輸入 GPS 座標？", default=True).ask():
-            latlng = questionary.text(
-                "GPS（lat, lon）", validate=_validate_latlng
-            ).ask()
-            if latlng:
-                lat, lon = _parse_latlng(latlng)
-                gps_comment = None
-                subprocess.run(
-                    ["open", f"maps://?ll={lat},{lon}&q={lat},{lon}"], check=False
-                )
-    else:
-        subprocess.run(["open", f"maps://?ll={lat},{lon}&q={lat},{lon}"], check=False)
-        if not questionary.confirm(
-            f"GPS 正確？（{lat:.5f}, {lon:.5f}）", default=True
-        ).ask():
-            latlng = questionary.text(
-                "GPS（lat, lon）",
-                default=f"{lat:.5f}, {lon:.5f}",
-                validate=_validate_latlng,
-            ).ask()
-            if latlng:
-                lat, lon = _parse_latlng(latlng)
-                gps_comment = "wrong GPS"
-
-    # Determine anime
-    yaml_path = find_yaml_for_dir(src.parent.name)
-    if yaml_path:
-        yml, data = load_yaml(yaml_path)
-        print(f"  系列：{data.get('anime')}")
-    else:
-        result = _q_select_anime(lat, lon)
-        if result is None:
-            return False
-        yaml_path, yml, data = result
-
-    # Pick location
-    loc_result = _q_pick_location(data, lat, lon)
-    if loc_result == "skip" or loc_result is None:
-        return False
-
-    is_new = loc_result == "new"
-    existing_loc: dict | None = None if is_new else loc_result
-
-    # ── Collect all values before touching loc ──────────────────────────────
-
-    # Step 3: name
-    name = questionary.text(
-        "地點名稱", default=(existing_loc.get("name") or "") if existing_loc else ""
-    ).ask()
-    if name is None:
-        return False
-    name = name or (existing_loc.get("name") if existing_loc else "") or "TODO"
-
-    # Step 4: filename
-    is_heic = src.suffix.lower() == ".heic"
-    ext = ".jpg" if is_heic else src.suffix
-    dest_dir = IMAGES_DIR / yaml_path.stem
-    default_stem = (
-        _next_stem(existing_loc, dest_dir, ext) if existing_loc else src.stem
-    ) or src.stem
-    stem = questionary.text("檔案名稱", default=default_stem).ask()
-    if stem is None:
-        return False
-    stem = stem or default_stem
-
-    # Step 5: unfilled fields
-    need_city = is_new or not (existing_loc and existing_loc.get("city"))
-    city = (existing_loc.get("city") or "") if existing_loc else ""
-    if need_city:
-        city = questionary.text("縣市", default=city).ask() or city
-
-    country = (existing_loc.get("country") or "日本") if existing_loc else "日本"
-    if is_new:
-        country = questionary.text("國家", default=country).ask() or country
-
-    notes = (existing_loc.get("notes") or "") if existing_loc else ""
-    if not notes:
-        notes = questionary.text("備註（選填）", default="").ask() or ""
-
-    existing_tags = list(existing_loc.get("tags") or []) if existing_loc else []
-    tags_raw = (
-        questionary.text(
-            "tags（逗號分隔，選填）",
-            default="、".join(existing_tags) if existing_tags else "",
-        ).ask()
-        or ""
-    )
-    tags = (
-        [t.strip() for t in tags_raw.replace("、", ",").split(",") if t.strip()]
-        if tags_raw
-        else existing_tags
-    )
-
-    # Destination — never overwrite
-    naive_dest = dest_dir / (stem + ext)
-    dest = _safe_dest(dest_dir, stem, ext)
-    dest_name = dest.name
-    web_path = yaml_image_path(dest)
-
-    # Collect overwrite warnings before showing summary
-    overwrite_warnings: list[str] = []
-    if naive_dest.exists() and naive_dest.resolve() != dest.resolve():
-        overwrite_warnings.append(
-            f"{YELLOW}⚠ 檔案 {naive_dest.name} 已存在，已自動改名為 {dest.name}{RESET}"
-        )
-    if dest.exists() and not (
-        src.is_relative_to(IMAGES_DIR) and src.resolve() == dest.resolve()
-    ):
-        overwrite_warnings.append(
-            f"{RED}✗ 目標路徑 {dest.name} 已存在，寫入將覆蓋！{RESET}"
-        )
-    # Check if web_path already appears in another location's images
-    for loc_entry in data.get("locations") or []:
-        if loc_entry is existing_loc:
-            continue
-        for img in loc_entry.get("images") or []:
-            if img == web_path:
-                overwrite_warnings.append(
-                    f"{YELLOW}⚠ 圖片路徑 {web_path} 已被其他地點參照{RESET}"
-                )
-                break
-
-    # ── Build or update loc ─────────────────────────────────────────────────
-
-    if is_new:
-        # Build in schema field order: name lat lon notes date country city tags images
-        loc: CommentedMap = CommentedMap()
-        loc["name"] = name
-        loc["lat"] = round(lat, 6) if lat else 0.0
-        loc["lon"] = round(lon, 6) if lon else 0.0
-        loc["notes"] = notes
-        if date_str:
-            loc["date"] = date_str
-        loc["country"] = country
-        loc["city"] = city
-        loc["tags"] = CommentedSeq(tags)
-        loc["images"] = CommentedSeq([web_path])
-    else:
-        loc = existing_loc
-        loc["name"] = name
-        if city:
-            loc["city"] = city
-        if notes:
-            loc["notes"] = notes
-        if tags != existing_tags:
-            loc["tags"] = CommentedSeq(tags)
-        # Append date aligned with the new image
-        if date_str:
-            existing_date = loc.get("date")
-            if existing_date is None:
-                loc["date"] = date_str
-            elif isinstance(existing_date, list):
-                existing_date.append(date_str)
-            else:
-                loc["date"] = CommentedSeq([str(existing_date), date_str])
-
-    # Step 6: summary
-    print(f"\n  {BOLD}── 確認 ──{RESET}")
-    print(f"  系列：{data.get('anime')}")
-    print(f"  地點：{name}")
-    src_rel = (
-        str(src.relative_to(Path.cwd())) if src.is_relative_to(Path.cwd()) else str(src)
-    )
-    dest_rel = str(dest.relative_to(Path.cwd()))
-    if src_rel != dest_rel:
-        if is_heic:
-            action = "HEIC→JPEG"
-        elif src.is_relative_to(IMAGES_DIR):
-            action = "重新命名" if src.parent == dest_dir else "移動"
+    # ── Metadata collection loop (allows retry on wrong input) ──────────────
+    while True:
+        # Determine anime (use exif GPS for hints only)
+        yaml_path = find_yaml_for_dir(src.parent.name)
+        if yaml_path:
+            yml, data = load_yaml(yaml_path)
+            print(f"  系列：{data.get('anime')}")
         else:
-            action = "複製"
-        print(f"  檔案：{Path(src_rel).name} → {dest_rel}  {DIM}({action}){RESET}")
-    else:
-        print(f"  檔案：{dest_name}")
-    if city:
-        print(f"  縣市：{city}")
-    if notes:
-        print(f"  備註：{notes}")
-    if tags:
-        print(f"  tags：{', '.join(tags)}")
-    if date_str:
-        print(f"  日期：{date_str}")
-    if overwrite_warnings:
+            result = _q_select_anime(exif_lat, exif_lon)
+            if result is None:
+                return False
+            yaml_path, yml, data = result
+
+        # Pick location (exif GPS used for distance hints only)
+        loc_result = _q_pick_location(data, exif_lat, exif_lon)
+        if loc_result == "skip" or loc_result is None:
+            return False
+
+        is_new = loc_result == "new"
+        existing_loc: dict | None = None if is_new else loc_result
+
+        # GPS — only needed for new locations (to store lat/lon)
+        gps_comment: str | None = None
+        loc_lat, loc_lon = exif_lat, exif_lon
+
+        if is_new:
+            if not (exif_lat and exif_lon):
+                gps_comment = "no GPS"
+                if questionary.confirm("手動輸入 GPS 座標？", default=True).ask():
+                    latlng = questionary.text(
+                        "GPS（lat, lon）", validate=_validate_latlng
+                    ).ask()
+                    if latlng:
+                        loc_lat, loc_lon = _parse_latlng(latlng)
+                        gps_comment = None
+                        subprocess.run(
+                            ["open", f"maps://?ll={loc_lat},{loc_lon}&q={loc_lat},{loc_lon}"],
+                            check=False,
+                        )
+            else:
+                subprocess.run(
+                    ["open", f"maps://?ll={exif_lat},{exif_lon}&q={exif_lat},{exif_lon}"],
+                    check=False,
+                )
+                if not questionary.confirm(
+                    f"GPS 正確？（{exif_lat:.5f}, {exif_lon:.5f}）", default=True
+                ).ask():
+                    latlng = questionary.text(
+                        "GPS（lat, lon）",
+                        default=f"{exif_lat:.5f}, {exif_lon:.5f}",
+                        validate=_validate_latlng,
+                    ).ask()
+                    if latlng:
+                        loc_lat, loc_lon = _parse_latlng(latlng)
+                        gps_comment = "wrong GPS"
+
+        # Name
+        name = questionary.text(
+            "地點名稱",
+            default=(existing_loc.get("name") or "") if existing_loc else "",
+        ).ask()
+        if name is None:
+            return False
+        name = name or (existing_loc.get("name") if existing_loc else "") or "TODO"
+
+        # Filename
+        is_heic = src.suffix.lower() == ".heic"
+        ext = ".jpg" if is_heic else src.suffix
+        dest_dir = IMAGES_DIR / yaml_path.stem
+        default_stem = (
+            _next_stem(existing_loc, dest_dir, ext) if existing_loc else src.stem
+        ) or src.stem
+        stem = questionary.text("檔案名稱", default=default_stem).ask()
+        if stem is None:
+            return False
+        stem = stem or default_stem
+
+        # Country (select from existing in this YAML, or add new)
+        need_country = is_new or not (existing_loc and existing_loc.get("country"))
+        country = (existing_loc.get("country") or "日本") if existing_loc else "日本"
+        if need_country:
+            country = _q_pick_country(data, default=country)
+
+        # City (select from existing cities for chosen country, or add new)
+        need_city = is_new or not (existing_loc and existing_loc.get("city"))
+        city = (existing_loc.get("city") or "") if existing_loc else ""
+        if need_city:
+            city = _q_pick_city(data, country, default=city)
+
+        notes = (existing_loc.get("notes") or "") if existing_loc else ""
+        if not notes:
+            notes = questionary.text("備註（選填）", default="").ask() or ""
+
+        existing_tags = list(existing_loc.get("tags") or []) if existing_loc else []
+        tags_raw = (
+            questionary.text(
+                "tags（逗號分隔，選填）",
+                default="、".join(existing_tags) if existing_tags else "",
+            ).ask()
+            or ""
+        )
+        tags = (
+            [t.strip() for t in tags_raw.replace("、", ",").split(",") if t.strip()]
+            if tags_raw
+            else existing_tags
+        )
+
+        # Destination — never overwrite
+        naive_dest = dest_dir / (stem + ext)
+        dest = _safe_dest(dest_dir, stem, ext)
+        dest_name = dest.name
+        web_path = yaml_image_path(dest)
+
+        # Collect overwrite warnings before showing summary
+        overwrite_warnings: list[str] = []
+        if naive_dest.exists() and naive_dest.resolve() != dest.resolve():
+            overwrite_warnings.append(
+                f"{YELLOW}⚠ 檔案 {naive_dest.name} 已存在，已自動改名為 {dest.name}{RESET}"
+            )
+        if dest.exists() and not (
+            src.is_relative_to(IMAGES_DIR) and src.resolve() == dest.resolve()
+        ):
+            overwrite_warnings.append(
+                f"{RED}✗ 目標路徑 {dest.name} 已存在，寫入將覆蓋！{RESET}"
+            )
+        for loc_entry in data.get("locations") or []:
+            if loc_entry is existing_loc:
+                continue
+            for img in loc_entry.get("images") or []:
+                if img == web_path:
+                    overwrite_warnings.append(
+                        f"{YELLOW}⚠ 圖片路徑 {web_path} 已被其他地點參照{RESET}"
+                    )
+                    break
+
+        # ── Build or update loc ─────────────────────────────────────────────
+
+        if is_new:
+            loc: CommentedMap = CommentedMap()
+            loc["name"] = name
+            loc["lat"] = round(loc_lat, 6) if loc_lat else 0.0
+            loc["lon"] = round(loc_lon, 6) if loc_lon else 0.0
+            loc["notes"] = notes
+            if date_str:
+                loc["date"] = date_str
+            loc["country"] = country
+            loc["city"] = city
+            loc["tags"] = CommentedSeq(tags)
+            loc["images"] = CommentedSeq([web_path])
+        else:
+            loc = existing_loc
+            loc["name"] = name
+            if city:
+                loc["city"] = city
+            if country:
+                loc["country"] = country
+            if notes:
+                loc["notes"] = notes
+            if tags != existing_tags:
+                loc["tags"] = CommentedSeq(tags)
+            if date_str:
+                existing_date = loc.get("date")
+                if existing_date is None:
+                    loc["date"] = date_str
+                elif isinstance(existing_date, list):
+                    existing_date.append(date_str)
+                else:
+                    loc["date"] = CommentedSeq([str(existing_date), date_str])
+
+        # Summary
+        print(f"\n  {BOLD}── 確認 ──{RESET}")
+        print(f"  系列：{data.get('anime')}")
+        print(f"  地點：{name}")
+        src_rel = (
+            str(src.relative_to(Path.cwd()))
+            if src.is_relative_to(Path.cwd())
+            else str(src)
+        )
+        dest_rel = str(dest.relative_to(Path.cwd()))
+        if src_rel != dest_rel:
+            if is_heic:
+                action = "HEIC→JPEG"
+            elif src.is_relative_to(IMAGES_DIR):
+                action = "重新命名" if src.parent == dest_dir else "移動"
+            else:
+                action = "複製"
+            print(f"  檔案：{Path(src_rel).name} → {dest_rel}  {DIM}({action}){RESET}")
+        else:
+            print(f"  檔案：{dest_name}")
+        if country:
+            print(f"  國家：{country}")
+        if city:
+            print(f"  縣市：{city}")
+        if notes:
+            print(f"  備註：{notes}")
+        if tags:
+            print(f"  tags：{', '.join(tags)}")
+        if date_str:
+            print(f"  日期：{date_str}")
+        if overwrite_warnings:
+            print()
+            for w in overwrite_warnings:
+                print(f"  {w}")
         print()
-        for w in overwrite_warnings:
-            print(f"  {w}")
-    print()
 
-    # Step 7: confirm + write
-    confirm_msg = (
-        "確定寫入？（有警告，n = 放棄此張）" if overwrite_warnings else "寫入？"
-    )
-    confirm_default = False if overwrite_warnings else True
-    if not questionary.confirm(confirm_msg, default=confirm_default).ask():
-        return False
+        # Confirm + write (or retry)
+        confirm_msg = (
+            "確定寫入？（有警告，n = 放棄或重填）" if overwrite_warnings else "寫入？（n = 重新填寫）"
+        )
+        confirm_default = False if overwrite_warnings else True
+        if questionary.confirm(confirm_msg, default=confirm_default).ask():
+            break  # proceed to write
 
+        # User said no → offer retry or skip
+        if not questionary.confirm("重新填寫此照片？", default=True).ask():
+            return False
+        # Loop back to location selection
+        print(f"\n  {DIM}── 重新填寫 ──{RESET}")
+
+    # ── Write ────────────────────────────────────────────────────────────────
     if not dry_run:
         dest_dir.mkdir(parents=True, exist_ok=True)
         if src.is_relative_to(IMAGES_DIR):
