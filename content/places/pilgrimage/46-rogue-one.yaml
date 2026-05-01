@@ -1,0 +1,14 @@
+anime: "俠盜一號 | Rogue One: A Star Wars Story"
+tags: ["電影"]
+locations:
+- name: Canary Wharf Jubilee Line Station
+  lat: 51.503862
+  lon: -0.019599
+  notes: ''
+  date: '2025-07-27'
+  country: 英國
+  city: London
+  tags:
+  - 車站
+  images:
+  - /images/pilgrimage/46-rogue-one/canary-wharf-jubilee-line-station.JPG

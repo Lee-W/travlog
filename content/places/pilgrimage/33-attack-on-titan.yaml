@@ -1,0 +1,23 @@
+anime: 進擊的巨人 | 進撃の巨人
+tags: [動畫]
+locations:
+- name: 進撃の巨人 大山ダム銅像
+  lat: 33.245468
+  lon: 130.956704
+  notes: ''
+  date: '2025-01-11'
+  country: 日本
+  city: 日田
+  tags: []
+  images:
+  - /images/pilgrimage/33-attack-on-titan/attack-on-titan-oyama-dam-statue.JPG  # wrong GPS
+- name: Kirchturm Daniel
+  lat: 48.850717
+  lon: 10.487522
+  notes: ''
+  date: '2025-07-13'
+  country: 德國
+  city: Nördlingen
+  tags: []
+  images:
+  - /images/pilgrimage/33-attack-on-titan/kirchturm-daniel.JPG

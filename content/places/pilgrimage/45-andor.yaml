@@ -1,0 +1,26 @@
+anime: 安道爾 | Andor
+tags: [動畫]
+locations:
+- name: Adams Pl Bridge
+  lat: 51.506102
+  lon: -0.019065
+  notes: 'ISB 大樓'
+  date:
+  - '2025-07-25'
+  - '2025-07-25'
+  country: 英國
+  city: London
+  tags: []
+  images:
+  - /images/pilgrimage/45-andor/adams-place-bridge.JPG
+  - /images/pilgrimage/45-andor/adams-place-bridge-1.JPG
+- name: Barbican Centre
+  lat: 51.521186
+  lon: -0.093918
+  notes: 'Luthen'
+  date: '2025-07-27'
+  country: 英國
+  city: London
+  tags: []
+  images:
+  - /images/pilgrimage/45-andor/barbican-centre.JPG

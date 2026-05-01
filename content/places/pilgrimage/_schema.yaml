@@ -12,6 +12,7 @@ properties:
   anime:
     type: string
     title: 作品
+    x-osm-map-layer: true
     x-osm-list-i18n:
       title:
         en: Work

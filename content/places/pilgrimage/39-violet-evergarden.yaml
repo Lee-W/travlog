@@ -1,0 +1,35 @@
+anime: 紫羅蘭永恆花園 | ヴァイオレット・エヴァーガーデン
+tags: [動畫]
+locations:
+- name: Schildgasse 2A
+  lat: 49.457228
+  lon: 11.078003
+  notes: ''
+  date: '2025-07-14'
+  country: 德國
+  city: Nürnberg
+  tags:
+  - 街道
+  images:
+  - /images/pilgrimage/39-violet-evergarden/schildgasse-2a.JPG  # wrong GPS
+- name: Hauptmarkt
+  lat: 49.453564
+  lon: 11.077911
+  notes: ''
+  date: '2025-07-14'
+  country: 德國
+  city: Nürnberg
+  tags: []
+  images:
+  - /images/pilgrimage/39-violet-evergarden/hauptmarkt.JPG
+- name: Königstraße 49
+  lat: 49.44936
+  lon: 11.079388
+  notes: ''
+  date: '2025-07-14'
+  country: 德國
+  city: Nürnberg
+  tags:
+  - 街道
+  images:
+  - /images/pilgrimage/39-violet-evergarden/Königstraße-49.JPG  # wrong GPS

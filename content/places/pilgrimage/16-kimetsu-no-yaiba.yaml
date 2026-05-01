@@ -1,0 +1,23 @@
+anime: 鬼滅之刃 | 鬼滅の刃
+tags: [動畫]
+locations:
+- name: 日本赤十字社中央病院病棟
+  lat: 35.345956
+  lon: 136.989133
+  notes: 蝶屋敷
+  date: '2023-03-17'
+  country: 日本
+  city: 愛知
+  tags: []
+  images:
+  - /images/pilgrimage/16-kimetsu-no-yaiba/japanese-red-cross-medical-center-ward.JPG
+- name: 松山城
+  lat: 33.845764
+  lon: 132.76561
+  notes: 它自己說是無限城，那就這樣吧
+  date: '2025-10-05'
+  country: 日本
+  city: 愛媛
+  tags: []
+  images:
+  - /images/pilgrimage/16-kimetsu-no-yaiba/matsuyama-castle.JPG

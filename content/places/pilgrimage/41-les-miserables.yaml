@@ -1,0 +1,14 @@
+anime: 悲慘世界 | Les Misérables
+tags: [動畫]
+locations:
+- name: Pulteney Bridge
+  lat: 51.383235
+  lon: -2.358008
+  notes: Javert 投河自盡的拍攝點
+  date: '2025-07-23'
+  country: 英國
+  city: Bath
+  tags:
+  - 橋
+  images:
+  - /images/pilgrimage/41-les-miserables/pulteney-bridge.JPG  # wrong GPS
