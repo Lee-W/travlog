@@ -289,7 +289,7 @@ requires-dist = [
     { name = "pelican-heatmap", specifier = ">=0.3.1" },
     { name = "pelican-i18n-subsites", specifier = ">=1.0.0" },
     { name = "pelican-neighbors", specifier = ">=1.2.0" },
-    { name = "pelican-osm", extras = ["validate"], specifier = ">=0.11.0" },
+    { name = "pelican-osm", extras = ["validate"], specifier = ">=0.12.0" },
     { name = "pelican-random-article", specifier = ">=0.2.0" },
     { name = "pelican-render-math", specifier = ">=1.0.3" },
     { name = "pelican-seo", specifier = ">=1.2.2" },
@@ -732,15 +732,15 @@ wheels = [
 
 [[package]]
 name = "pelican-osm"
-version = "0.11.0"
+version = "0.12.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pelican" },
     { name = "pyyaml" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/23/0f/6ff60dc480d32757490205287f88bbe123922edb025fbb50f7a45c3c7a05/pelican_osm-0.11.0.tar.gz", hash = "sha256:8f7d413095d6637ddbb72dcffd7f7025983ad8887f8f72f0ede82bef064d136a", size = 45483, upload-time = "2026-04-30T11:15:06.344Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/a0/6a/0806368d0726f1334f35272f7b594377a014707611c621f34fc70e82cf26/pelican_osm-0.12.0.tar.gz", hash = "sha256:88b5c309f2acdb907e6106d02ea654ba632462e93766d804c1324de9647d3c8e", size = 47287, upload-time = "2026-05-01T07:31:08.708Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/8f/80/0ff7a05eec001ba3b43d8637e3bf348c4af17ebdd634be73b711054991f3/pelican_osm-0.11.0-py3-none-any.whl", hash = "sha256:0430ee4fc7a7c98cd1e1ddfe36d6dcb8b58b33d02397f0ef9a78cdf8db60040c", size = 46098, upload-time = "2026-04-30T11:15:04.797Z" },
+    { url = "https://files.pythonhosted.org/packages/fe/89/1dd90343c24a5bf4def714d7e348e94d8e62352c3c79ac33ad4cc04d39d9/pelican_osm-0.12.0-py3-none-any.whl", hash = "sha256:0bb1ac603a47dab6cc07a80c8fe31c195c86ded2fbad709c9fb953f791149f3f", size = 47811, upload-time = "2026-05-01T07:31:07.009Z" },
 ]
 
 [package.optional-dependencies]
