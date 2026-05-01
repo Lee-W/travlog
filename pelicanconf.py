@@ -73,6 +73,10 @@ MARKDOWN = {
         "markdown.extensions.nl2br": {},
         "markdown.extensions.toc": {"toc_depth": "1-3"},
         "markdown_del_ins": {},
+        "pymdownx.blocks.caption": {},
+        "pymdownx.details": {},
+        "pymdownx.snippets": {},
+        "pymdownx.superfences": {},
         "pymdownx.tasklist": {},
     },
     "output_format": "html5",
@@ -165,8 +169,7 @@ DEFAULT_CATEGORY = "Travel"
 # Theme Setting
 PYGMENTS_STYLE = "default"
 AUTHOR_META = {
-    # TODO: need a fix in attila
-    "wei lee": {
+    "Wei Lee": {
         "image": "/images/avatar.jpg",
     }
 }
