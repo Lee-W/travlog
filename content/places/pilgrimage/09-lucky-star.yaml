@@ -15,10 +15,13 @@ locations:
   lat: 36.031747
   lon: 139.713839
   notes: '小鏡家神社'
-  date: '2019-09-12'
+  date:
+  - '2019-09-12'
+  - '2023-10-21'
   country: 日本
   city: 埼玉
   tags:
   - 神社
   images:
   - /images/pilgrimage/09-lucky-star/washinomiya-shrine.JPG
+  - /images/pilgrimage/09-lucky-star/washinomiya-shrine-1.JPG

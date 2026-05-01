@@ -1,3 +1,14 @@
 anime: 舞伎家的料理人 | 舞妓さんちのまかないさん
 tags: [動畫]
 locations:
+- name: 八坂神社本殿
+  lat: 34.980889
+  lon: 135.770436
+  notes: ''
+  date: '2024-12-24'
+  country: 日本
+  city: 京都
+  tags:
+  - 神社
+  images:
+  - /images/pilgrimage/14-kiyo-in-kyoto/yasaka-shrine-main-hall.JPG

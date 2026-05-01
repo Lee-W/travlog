@@ -12,3 +12,24 @@ locations:
   - 城堡
   images:
   - /images/pilgrimage/13-fate-grand-order/himeji-castle.JPG
+- name: 大英博物館 - 向日葵
+  lat: 51.51962
+  lon: -0.126903
+  notes: 抽得到梵谷嗎
+  date: '2025-07-26'
+  country: 英國
+  city: London
+  tags:
+  - 博物館
+  images:
+  - /images/pilgrimage/13-fate-grand-order/british-museum-sunflowers.JPG
+- name: 夏洛克·福爾摩斯雕像
+  lat: 51.522688
+  lon: -0.156567
+  notes: ''
+  date: '2025-07-27'
+  country: 英國
+  city: London
+  tags: []
+  images:
+  - /images/pilgrimage/13-fate-grand-order/sherlock-holmes-statue.JPG

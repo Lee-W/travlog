@@ -63,6 +63,28 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/12-fate-series/imperial-hotel-central-entrance.JPG # wrong GPS
+- name: 清浄光寺（遊行寺）
+  lat: 35.348713
+  lon: 139.488552
+  notes: '柳洞寺本體'
+  date: '2025-04-25'
+  country: 日本
+  city: 神奈川
+  tags:
+  - 寺廟
+  images:
+  - /images/pilgrimage/12-fate-series/seijokoji-yugyoji.JPG
+- name: 円覚寺
+  lat: 35.339527
+  lon: 139.5482
+  notes: '柳洞寺步道'
+  date: '2025-04-25'
+  country: 日本
+  city: 神奈川
+  tags:
+  - 寺廟
+  images:
+  - /images/pilgrimage/12-fate-series/engakuji.JPG
 - name: Glastonbury Abbey
   lat: 51.146536
   lon: -2.716331
@@ -96,3 +118,13 @@ locations:
   - 街道
   images:
   - /images/pilgrimage/12-fate-series/grove-st.JPG  # wrong GPS
+- name: 特拉法加廣場
+  lat: 51.508093
+  lon: -0.12807
+  notes: Return to AVALON
+  date: '2025-07-26'
+  country: 英國
+  city: London
+  tags: []
+  images:
+  - /images/pilgrimage/12-fate-series/trafalgar-square.JPG

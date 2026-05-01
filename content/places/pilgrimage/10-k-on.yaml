@@ -22,3 +22,45 @@ locations:
   - 飯店
   images:
   - /images/pilgrimage/10-k-on/hotel-ibis-london-earls-court.JPG
+- name: Troubadour
+  lat: 51.488772
+  lon: -0.191679
+  notes: ''
+  date: '2025-07-25'
+  country: 英國
+  city: London
+  tags: []
+  images:
+  - /images/pilgrimage/10-k-on/roubadour.JPG
+- name: ALDGATE EAST
+  lat: 51.515505
+  lon: -0.071884
+  notes: ''
+  date: '2025-07-25'
+  country: 英國
+  city: London
+  tags:
+  - 車站
+  images:
+  - /images/pilgrimage/10-k-on/aldgate-east.JPG
+- name: Jubilee Gardens
+  lat: 51.504334
+  lon: -0.118407
+  notes: ''
+  date: '2025-07-26'
+  country: 英國
+  city: London
+  tags: []
+  images:
+  - /images/pilgrimage/10-k-on/jubilee-gardens.JPG
+- name: JEUGIA 三条本店
+  lat: 35.008712
+  lon: 135.767656
+  notes: ''
+  date: '2018-12-03'
+  country: 日本
+  city: 京都
+  tags:
+  - 樂器店
+  images:
+  - /images/pilgrimage/10-k-on/jeugia-sanjo-main-store.JPG  # wrong GPS

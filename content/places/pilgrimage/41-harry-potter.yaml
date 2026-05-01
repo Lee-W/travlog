@@ -11,3 +11,13 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/41-harry-potter/the-potters-house.JPG  # wrong GPS
+- name: Platform 9¾
+  lat: 51.53222
+  lon: -0.124086
+  notes: 其實是八又二分之1
+  date: '2025-07-27'
+  country: 英國
+  city: London
+  tags: []
+  images:
+  - /images/pilgrimage/41-harry-potter/platform-9-3-4.JPG

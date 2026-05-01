@@ -11,6 +11,17 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/06-chuunibyou-demo-koi-ga-shitai/sakajiri-coast.JPG
+- name: 京都水族館
+  lat: 34.648172
+  lon: 135.516175
+  notes: ''
+  date: '2018-12-03'
+  country: 日本
+  city: 京都
+  tags:
+  - 水族館
+  images:
+  - /images/pilgrimage/06-chuunibyou-demo-koi-ga-shitai/kyoto-aquarium.JPG
 - name: 旧鎌掛小学校
   lat: 34.989023
   lon: 136.259943

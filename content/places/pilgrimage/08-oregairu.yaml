@@ -11,3 +11,34 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/08-oregairu/ryoanji.JPG # wrong GPS
+- name: 鶴岡八幡宮
+  lat: 35.326187
+  lon: 139.556303
+  notes: 大老師名子由來
+  date: '2025-04-25'
+  country: 日本
+  city: 神奈川
+  tags:
+  - 神社
+  images:
+  - /images/pilgrimage/08-oregairu/tsurugaoka-hachimangu.JPG
+- name: 鎌倉雪ノ下郵便局
+  lat: 35.322522
+  lon: 139.554273
+  notes: 沒辦法拍整個雪之下，只好找個好拍的標的
+  date: '2025-04-25'
+  country: 日本
+  city: 神奈川
+  tags: []
+  images:
+  - /images/pilgrimage/08-oregairu/kamakura-yukinoshita-post-office.JPG
+- name: 由比ガ浜
+  lat: 35.310015
+  lon: 139.542015
+  notes: 離八幡太遠了...
+  date: '2025-04-25'
+  country: 日本
+  city: 神奈川
+  tags: []
+  images:
+  - /images/pilgrimage/08-oregairu/yuigahama.JPG

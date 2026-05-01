@@ -1,3 +1,24 @@
 anime: 學姊是男孩 | 先輩はおとこのこ
 tags: [動畫]
 locations:
+- name: テラスモール湘南
+  lat: 35.33879
+  lon: 139.446144
+  notes: ''
+  date: '2025-04-25'
+  country: 日本
+  city: 神奈川
+  tags: []
+  images:
+  - /images/pilgrimage/32-senpai-wa-otokonoko/terrace-mall-shonan.JPG
+- name: 片瀬江ノ島駅
+  lat: 35.309576
+  lon: 139.483529
+  notes: ''
+  date: '2025-04-28'
+  country: 日本
+  city: 神奈川
+  tags:
+  - 車站
+  images:
+  - /images/pilgrimage/32-senpai-wa-otokonoko/katase-enoshima-station.JPG

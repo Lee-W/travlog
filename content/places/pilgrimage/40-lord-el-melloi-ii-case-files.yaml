@@ -11,3 +11,13 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/40-lord-el-melloi-ii-case-files/the-manor-house.JPG  # wrong GPS
+- name: Big Ben
+  lat: 51.50093
+  lon: -0.124593
+  notes: 魔術協會
+  date: '2025-07-26'
+  country: 日本
+  city: London
+  tags: []
+  images:
+  - /images/pilgrimage/40-lord-el-melloi-ii-case-files/big-ben.JPG

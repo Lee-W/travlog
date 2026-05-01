@@ -21,3 +21,24 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/01-hibike-euphonium/kumiko-bench.JPG
+- name: 大吉山展望台
+  lat: 34.893098
+  lon: 135.81288
+  notes: 愛の告白
+  date: '2023-03-16'
+  country: 日本
+  city: 京都
+  tags: []
+  images:
+  - /images/pilgrimage/01-hibike-euphonium/daikichiyama-observatory.JPG  # wrong GPS
+- name: 宇治橋
+  lat: 34.893113
+  lon: 135.806261
+  notes: 上手くなりたい
+  date: '2024-12-24'
+  country: 日本
+  city: 京都
+  tags:
+  - 橋
+  images:
+  - /images/pilgrimage/01-hibike-euphonium/uji-bridge.JPG  # wrong GPS
