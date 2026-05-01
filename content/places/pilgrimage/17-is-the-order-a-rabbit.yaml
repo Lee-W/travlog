@@ -1,3 +1,17 @@
 anime: 請問您今天要來點兔子嗎？| ご注文はうさぎですか？
 tags: [動畫]
 locations:
+- name: るぽ・コーヒーハウス
+  lat: 35.781094
+  lon: 139.530653
+  notes: ''
+  date:
+  - '2023-05-26'
+  - '2023-05-26'
+  country: 日本
+  city: 東京
+  tags:
+  - 已歇業
+  images:
+  - /images/pilgrimage/17-is-the-order-a-rabbit/lupo-coffee-house.JPG
+  - /images/pilgrimage/17-is-the-order-a-rabbit/lupo-coffee-house-1.JPG

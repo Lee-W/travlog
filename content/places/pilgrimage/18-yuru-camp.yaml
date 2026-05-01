@@ -1,7 +1,6 @@
 anime: 搖曳露營△ | ゆるキャン△
 tags: [動畫]
 locations:
-
 - name: みのぶ自然の里
   lat: 35.472445
   lon: 138.407858
@@ -9,11 +8,56 @@ locations:
   date: 2023-05-27
   country: 日本
   city: 山梨
-  tags: ["已歇業", 露營場]
+  tags:
+  - 已歇業
+  - 露營場
   images:
   - "/images/pilgrimage/18-yuru-camp/Minobu-Shizen-no-Sato.jpeg"
   - "/images/pilgrimage/18-yuru-camp/Minobu-Shizen-no-Sato-2.jpeg"
-
+- name: 下部小・中学校跡
+  lat: 35.44991064679377
+  lon: 138.48100944523816
+  notes: ""
+  date:
+  - '2023-05-27'
+  country: 日本
+  city: 山梨
+  tags:
+  - 廢校
+  images:
+  - /images/pilgrimage/18-yuru-camp/Shimobe-junior-high.JPG
+  - /images/pilgrimage/18-yuru-camp/Shimobe-junior-high-1.JPG
+- name: 本棲高校野外活動部社辦
+  lat: 35.44882
+  lon: 138.48143
+  notes: ''
+  date: '2023-05-27'
+  country: 日本
+  city: 山梨
+  tags: []
+  images:
+  - /images/pilgrimage/18-yuru-camp/motosu-high-school-outdoor-activities-club-room.JPG  # wrong GPS
+- name: 凜家
+  lat: 35.446037
+  lon: 138.4834
+  notes: 印象中有人住，這個點抓得離實際點比較遠
+  date: '2023-05-27'
+  country: 日本
+  city: 山梨
+  tags: []
+  images:
+  - /images/pilgrimage/18-yuru-camp/shimarin-house.JPG  # wrong GPS
+- name: 鰍沢中部小学校跡地
+  lat: 35.520994
+  lon: 138.450904
+  notes: ''
+  date: '2023-05-27'
+  country: 日本
+  city: ''
+  tags:
+  - 廢校
+  images:
+  - /images/pilgrimage/18-yuru-camp/kachizawa-chubu-elementary-school-site.JPG  # wrong GPS
 - name: 浩庵キャンプ場
   lat: 35.47335774834706
   lon: 138.57474790674635
@@ -23,15 +67,27 @@ locations:
   city: 山梨
   tags:
   - 露營場
-  images: ["/images/pilgrimage/18-yuru-camp/Kouan.JPG"]
-
-- name: 下部小・中学校跡
-  lat: 35.44991064679377
-  lon: 138.48100944523816
-  notes: ""
-  date: 2023-11-13
+  images:
+  - "/images/pilgrimage/18-yuru-camp/Kouan.JPG"
+- name: セルバ みのぶ店
+  lat: 35.432911
+  lon: 138.441447
+  notes: ''
+  date: '2024-06-09'
   country: 日本
   city: 山梨
   tags:
-  - 廢校
-  images: ["/images/pilgrimage/18-yuru-camp/Shimobe-junior-high.JPG"]
+  - 超市
+  images:
+  - /images/pilgrimage/18-yuru-camp/selva-minobu-branch.JPG
+- name: 寸又峡 夢のつり橋
+  lat: 35.181317
+  lon: 138.111933
+  notes: ''
+  date: '2024-06-09'
+  country: 日本
+  city: 靜岡
+  tags:
+  - 橋
+  images:
+  - /images/pilgrimage/18-yuru-camp/sumata-kyo-yume-no-tsuribashi.JPG

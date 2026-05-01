@@ -1,3 +1,23 @@
 anime: 佐賀偶像是傳奇 | ゾンビランドサガ
 tags: [動畫]
 locations:
+- name: 唐津城
+  lat: 33.453508
+  lon: 129.978664
+  notes: ''
+  date: '2025-01-04'
+  country: 日本
+  city: 佐賀
+  tags: []
+  images:
+  - /images/pilgrimage/29-zombieland-saga/karatsu-castle.JPG
+- name: 唐津市歷史民俗資料館（舊三菱合資会社唐津支店本館）
+  lat: 33.471921
+  lon: 129.954215
+  notes: ''
+  date: '2025-01-05'
+  country: 日本
+  city: 佐賀
+  tags: []
+  images:
+  - /images/pilgrimage/29-zombieland-saga/karatsu-city-history-and-folklore-museum.JPG  # wrong GPS

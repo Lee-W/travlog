@@ -85,3 +85,14 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/12-fate-series/glastonbury-tor.JPG # wrong GPS
+- name: Grove St
+  lat: 51.383373
+  lon: -2.357251
+  notes: ''
+  date: '2025-07-23'
+  country: 英國
+  city: Bath
+  tags:
+  - 街道
+  images:
+  - /images/pilgrimage/12-fate-series/grove-st.JPG  # wrong GPS
