@@ -3,13 +3,13 @@ title: Pilgrimage locations
 description: >
   動漫聖地巡禮。locations-based 形式：top-level 為檔案層 metadata（合併進每筆 location），
   locations 為地點清單。Property order mirrors current column display order
-  (group_by="anime,country,city" group_summary_at="anime") — reorder freely.
+  (group_by="work,country,city" group_summary_at="work") — reorder freely.
 type: object
 required: [locations]
 properties:
 
   # ── File-level metadata (merged into every location) ───────────────────
-  anime:
+  work:
     type: string
     title: 作品
     x-osm-map-layer: true

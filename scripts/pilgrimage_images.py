@@ -271,7 +271,7 @@ def pick_anime_interactive(
         best_idx, _ = best_location_match(data, lat, lon)
         loc_name = data["locations"][best_idx]["name"] if best_idx is not None else "?"
         print(
-            f"  GPS 自動匹配：{BOLD}{data.get('anime')}{RESET} → {loc_name}  {DIM}({dist:.1f} km){RESET}"
+            f"  GPS 自動匹配：{BOLD}{data.get('work')}{RESET} → {loc_name}  {DIM}({dist:.1f} km){RESET}"
         )
         try:
             confirm = input("  [Enter 確認 / n 手動選擇] ").strip().lower()
@@ -287,7 +287,7 @@ def pick_anime_interactive(
     def _show_full_list() -> tuple[Path, YAML, dict] | tuple[None, None, None]:
         print("\n  所有系列：")
         for i, (_, p, _, d) in enumerate(entries, start=1):
-            print(f"  [{i:2}] {d.get('anime', p.stem)}")
+            print(f"  [{i:2}] {d.get('work', p.stem)}")
         print("  [ 0] 跳過")
         choice = _prompt_choice(f"  選擇 [0–{len(entries)}]: ", 0, len(entries))
         if choice is None or choice == 0:
@@ -298,7 +298,7 @@ def pick_anime_interactive(
     if gps_ranked and lat is not None:
         print("  GPS 鄰近系列：")
         for i, (dist, p, _, d) in enumerate(gps_ranked, start=1):
-            print(f"  [{i}] {d.get('anime', p.stem)}  {DIM}({dist:.1f} km){RESET}")
+            print(f"  [{i}] {d.get('work', p.stem)}  {DIM}({dist:.1f} km){RESET}")
         print("  [m] 顯示全部系列")
         print("  [0] 跳過")
         choice = _prompt_choice(
@@ -324,7 +324,7 @@ def cmd_check(no_images: bool = False) -> int:
         # Report YAML locations that have no images
         for yaml_path in all_yaml_files():
             _, data = load_yaml(yaml_path)
-            anime = data.get("anime", yaml_path.stem)
+            anime = data.get("work", yaml_path.stem)
             for loc in data.get("locations") or []:
                 if not loc.get("images"):
                     name = loc.get("name", "?")
@@ -557,7 +557,7 @@ def cmd_batch(dry_run: bool, interactive: bool) -> int:
             continue
 
         print(
-            f"\n{BOLD}【{data.get('anime', subdir.name)}】{RESET}  {DIM}({len(pending)} 張待加入){RESET}"
+            f"\n{BOLD}【{data.get('work', subdir.name)}】{RESET}  {DIM}({len(pending)} 張待加入){RESET}"
         )
         for img in pending:
             total += 1
@@ -673,7 +673,7 @@ def _q_select_anime(
 
     choices = []
     for dist, p, yml, data in entries:
-        anime = data.get("anime", p.stem)
+        anime = data.get("work", p.stem)
         suffix = f"  ({dist:.1f} km)" if dist < float("inf") else ""
         marker = " ←" if dist < float("inf") and dist <= GPS_MATCH_THRESHOLD_KM else ""
         choices.append(questionary.Choice(f"{anime}{suffix}{marker}", value=p))
@@ -831,7 +831,7 @@ def _wizard_one(src: Path, idx: int, total: int, dry_run: bool) -> bool:
         yaml_path = find_yaml_for_dir(src.parent.name)
         if yaml_path:
             yml, data = load_yaml(yaml_path)
-            print(f"  系列：{data.get('anime')}")
+            print(f"  系列：{data.get('work')}")
         else:
             result = _q_select_anime(exif_lat, exif_lon)
             if result is None:
@@ -996,7 +996,7 @@ def _wizard_one(src: Path, idx: int, total: int, dry_run: bool) -> bool:
 
         # Summary
         print(f"\n  {BOLD}── 確認 ──{RESET}")
-        print(f"  系列：{data.get('anime')}")
+        print(f"  系列：{data.get('work')}")
         print(f"  地點：{name}")
         src_rel = (
             str(src.relative_to(Path.cwd()))

@@ -15,4 +15,4 @@ Slug: pilgrimage
 
 {% place pilgrimage %}
 
-{% place_list pilgrimage group_by="anime" group_summary_at="anime" %}
+{% place_list pilgrimage group_by="work" group_summary_at="work" %}
