@@ -9,7 +9,7 @@ vieshow-songren:
   items:
     - hall: "2 廳"
       format: 2D 廳
-      recommended_rows: "E"
+      recommended_rows: "D"
       alt_rows: ""
       hall_note: 普通
       seat_note: ""
