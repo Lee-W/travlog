@@ -26,3 +26,12 @@ locations:
     urls:
       - label: "隱家拉麵 赤峰店"
         href: "{filename}/posts/review/2026/16-kakuregaramen.md"
+  - id: ebisobaichigen
+    name: 一幻拉麵 台北信義店
+    lat: 25.035722
+    lon: 121.568134
+    address: 臺北市信義區松壽路30號1樓
+    tags: [拉麵]
+    urls:
+      - label: "隱家拉麵 赤峰店"
+        href: "{filename}/posts/review/2026/20-ebisobaichigen.md"
