@@ -1,5 +1,5 @@
 work: 安道爾 | Andor
-tags: [動畫]
+tags: [影集]
 locations:
 - name: Adams Pl Bridge
   lat: 51.506102
@@ -17,10 +17,15 @@ locations:
 - name: Barbican Centre
   lat: 51.521186
   lon: -0.093918
-  notes: 'Luthen'
+  notes: 'Luthen...'
   date: '2025-07-27'
   country: 英國
   city: London
   tags: []
   images:
   - /images/pilgrimage/45-andor/barbican-centre.JPG
+  - /images/pilgrimage/45-andor/barbican-centre-1.JPG
+  - /images/pilgrimage/45-andor/barbican-centre-2.JPG
+  - /images/pilgrimage/45-andor/barbican-centre-3.JPG
+  - /images/pilgrimage/45-andor/barbican-centre-4.JPG
+  - /images/pilgrimage/45-andor/barbican-centre-5.JPG
