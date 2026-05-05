@@ -26,7 +26,7 @@ jobs:
       - name: Build
         env:
           UMAMI_WEBSITE_ID: ${{ secrets.UMAMI_WEBSITE_ID }}
-        run: uv run inv build-publish
+        run: uv run inv build-publish --build-pagefind
 
       - name: Deploy
         uses: cloudflare/wrangler-action@v3
