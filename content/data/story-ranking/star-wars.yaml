@@ -1,0 +1,79 @@
+- title: 'Rogue One: A Star Wars Story'
+  group: Movie
+- title: 'Star Wars: Episode V - The Empire Strikes Back'
+  group: Movie
+- title: 'Star Wars: Episode IV - A New Hope'
+  group: Movie
+- title: 'Star Wars: Episode III – Revenge of the Sith'
+  group: Movie
+- title: 'Star Wars: Episode VI - Return of the Jedi'
+  group: Movie
+- title: 'Star Wars: Episode II - Attack of the Clones'
+  group: Movie
+- title: 'Star Wars: Episode I - The Phantom Menace'
+  group: Movie
+- title: 'Solo: A Star Wars Story'
+  group: Movie
+- title: 'Star Wars: Episode VII - The Force Awakens'
+  group: Movie
+- title: 'Star Wars: Episode VIII - The Last Jedi'
+  group: Movie
+- title: 'Star Wars: Episode IX - The Rise of Skywalker'
+  group: Movie
+- title: 'Star Wars: Andor'
+  group: Series
+  reviews:
+  - text: '2023'
+    href: '{filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#star-wars-andor'
+- title: 曼達洛人
+  group: Series
+  reviews:
+  - text: '2022'
+    href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_28'
+- title: 'Star Wars: Ashoka'
+  group: Series
+  reviews:
+  - text: '2024'
+    href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#star-wars-ashoka'
+- title: The Book of Boba Fett
+  group: Series
+  reviews:
+  - text: '2023'
+    href: '{filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#the-book-of-boba-fett'
+- title: Obi-Wan Kenobi
+  group: Series
+  reviews:
+  - text: '2023'
+    href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#obi-wan-kenobi'
+- title: 'Star Wars: The Clone Wars'
+  group: Anime
+- title: 'Star Wars: Rebels'
+  group: Anime
+- title: 'Star Wars: Tale of Jedi'
+  group: Anime
+  reviews:
+  - text: '2023'
+    href: '{filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#star-wars-tale-of-jedi'
+- title: 'Star Wars: Resistance'
+  group: Anime
+- title: 星際大戰：視界
+  group: Anime
+  reviews:
+  - text: '2022'
+    href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_13'
+- title: 星際大戰：瑕疵小隊
+  group: Anime
+  reviews:
+  - text: '2022'
+    href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_12'
+- title: 'Star Wars: The Bad Batch Season 2'
+  group: Anime
+  reviews:
+  - text: '2023'
+    href: '{filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#star-wars-the-bad-batch-season-2'
+- title: 頭盔下的波巴費特
+  group: Other
+- title: 'Star Wars: 探秘飛航'
+  group: Other
+- title: 'Star Wars: 星球之旅'
+  group: Other
