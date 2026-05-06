@@ -30,6 +30,7 @@ dependencies = [
   "pelican-osm[validate]>=0.12.0",
   "pelican-summary-link>=0.2.2",
   "pelican-random-article>=0.2.0",
+  "pelican-tabular>=0.2.1",
 ]
 
 [dependency-groups]
