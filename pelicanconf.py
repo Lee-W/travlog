@@ -124,6 +124,7 @@ PLUGINS = [
     "pelican.plugins.webassets",
     "pelican.plugins.heatmap",
     "pelican.plugins.osm",
+    "pelican.plugins.tabular",
 ]
 PAGEFIND_ENABLED = True
 SUMMARY_LINK_FORMAT = ""
