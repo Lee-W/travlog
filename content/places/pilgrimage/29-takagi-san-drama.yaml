@@ -11,6 +11,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/29-takagi-san-drama/olive-beach.JPG  # wrong GPS
+  urls: []
 - name: 西村高木明神 社叢
   lat: 34.479192
   lon: 134.28881
@@ -22,3 +23,4 @@ locations:
   - 神社
   images:
   - /images/pilgrimage/29-takagi-san-drama/nishimura-takagi-myojin-shrine-forest.JPG  # wrong GPS
+  urls: []

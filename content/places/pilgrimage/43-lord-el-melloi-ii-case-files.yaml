@@ -11,6 +11,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/43-lord-el-melloi-ii-case-files/the-manor-house.JPG  # wrong GPS
+  urls: []
 - name: Big Ben
   lat: 51.50093
   lon: -0.124593
@@ -21,3 +22,4 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/43-lord-el-melloi-ii-case-files/big-ben.JPG
+  urls: []

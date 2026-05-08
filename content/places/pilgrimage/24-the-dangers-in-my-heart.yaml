@@ -11,6 +11,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/24-the-dangers-in-my-heart/onomichi-seaside-walkway.jpeg
+  urls: []
 - name: 東急目黑站B4F
   lat: 35.635587
   lon: 139.716644
@@ -22,6 +23,7 @@ locations:
   - 車站
   images:
   - /images/pilgrimage/24-the-dangers-in-my-heart/tokyu-meguro-station-b4f.JPG
+  urls: []
 - name: ファミリーマート 原町二丁目店
   lat: 35.613852
   lon: 139.691574
@@ -33,6 +35,7 @@ locations:
   - 便利商店
   images:
   - /images/pilgrimage/24-the-dangers-in-my-heart/familymart-haramachi-2-chome-branch.JPG
+  urls: []
 - name: 洗足駅前ふれあい広場
   lat: 35.610719
   lon: 139.694633
@@ -43,6 +46,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/24-the-dangers-in-my-heart/senzoku-ekimae-fureai-hiroba.JPG
+  urls: []
 - name: 洗足駅
   lat: 35.610604
   lon: 139.694423
@@ -54,3 +58,4 @@ locations:
   - 車站
   images:
   - /images/pilgrimage/24-the-dangers-in-my-heart/senzoku-station.JPG
+  urls: []

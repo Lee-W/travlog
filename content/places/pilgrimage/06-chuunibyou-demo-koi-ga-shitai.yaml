@@ -11,6 +11,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/06-chuunibyou-demo-koi-ga-shitai/sakajiri-coast.JPG
+  urls: []
 - name: 京都水族館
   lat: 34.648172
   lon: 135.516175
@@ -22,6 +23,7 @@ locations:
   - 水族館
   images:
   - /images/pilgrimage/06-chuunibyou-demo-koi-ga-shitai/kyoto-aquarium.JPG
+  urls: []
 - name: 旧鎌掛小学校
   lat: 34.989023
   lon: 136.259943
@@ -32,3 +34,4 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/06-chuunibyou-demo-koi-ga-shitai/old-kamakake-elementary-school.JPG # wrong GPS
+  urls: []

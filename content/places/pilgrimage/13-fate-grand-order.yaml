@@ -12,6 +12,7 @@ locations:
   - 城堡
   images:
   - /images/pilgrimage/13-fate-grand-order/himeji-castle.JPG
+  urls: []
 - name: 大英博物館 - 向日葵
   lat: 51.51962
   lon: -0.126903
@@ -23,6 +24,7 @@ locations:
   - 博物館
   images:
   - /images/pilgrimage/13-fate-grand-order/british-museum-sunflowers.JPG
+  urls: []
 - name: 夏洛克·福爾摩斯雕像
   lat: 51.522688
   lon: -0.156567
@@ -33,3 +35,4 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/13-fate-grand-order/sherlock-holmes-statue.JPG
+  urls: []

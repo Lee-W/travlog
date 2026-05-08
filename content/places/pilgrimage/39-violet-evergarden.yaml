@@ -12,6 +12,7 @@ locations:
   - 街道
   images:
   - /images/pilgrimage/39-violet-evergarden/schildgasse-2a.JPG  # wrong GPS
+  urls: []
 - name: Hauptmarkt
   lat: 49.453564
   lon: 11.077911
@@ -22,6 +23,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/39-violet-evergarden/hauptmarkt.JPG
+  urls: []
 - name: Königstraße 49
   lat: 49.44936
   lon: 11.079388
@@ -33,3 +35,4 @@ locations:
   - 街道
   images:
   - /images/pilgrimage/39-violet-evergarden/Königstraße-49.JPG  # wrong GPS
+  urls: []

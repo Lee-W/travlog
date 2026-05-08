@@ -12,6 +12,7 @@ locations:
   - 神社
   images:
   - /images/pilgrimage/15-takagi-san/takagi-shrine.JPG # wrong GPS
+  urls: []
 - name: 太陽的贈禮
   lat: 34.489183
   lon: 134.173664
@@ -22,6 +23,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/15-takagi-san/sun-gift.JPG
+  urls: []
 - name: 小瀨石鎚神社 重岩
   lat: 34.478792
   lon: 134.148603
@@ -33,6 +35,7 @@ locations:
   - 神社
   images:
   - /images/pilgrimage/15-takagi-san/kose-ishizuchi-shrine-okuiwa.JPG
+  urls: []
 - name: 鹿島明神社
   lat: 34.474283
   lon: 134.169899
@@ -44,6 +47,7 @@ locations:
   - 神社
   images:
   - /images/pilgrimage/15-takagi-san/kashima-myojin-shrine.JPG # wrong GPS
+  urls: []
 - name: 中山千枚田
   lat: 34.504257
   lon: 134.239473
@@ -54,6 +58,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/15-takagi-san/nakayama-senmaida.JPG  # wrong GPS
+  urls: []
 - name: とのしょうBASE
   lat: 34.489417
   lon: 134.174119
@@ -64,3 +69,4 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/15-takagi-san/tonosho-base.JPG
+  urls: []

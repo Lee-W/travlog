@@ -15,6 +15,7 @@ locations:
   images:
   - /images/pilgrimage/17-bocchi-the-rock/times-shimokitazawa-no-8.JPG
   - /images/pilgrimage/17-bocchi-the-rock/times-shimokitazawa-no.JPG  # wrong GPS
+  urls: []
 - name: どんぐりひろば公園
   lat: 35.664386
   lon: 139.668686
@@ -25,6 +26,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/17-bocchi-the-rock/donguri-hiroba-park.JPG
+  urls: []
 - name: 下北沢SHELTER
   lat: 35.661578
   lon: 139.669486
@@ -41,6 +43,7 @@ locations:
   - /images/pilgrimage/17-bocchi-the-rock/shimokitazawa-shelter.JPG
   - /images/pilgrimage/17-bocchi-the-rock/shimokitazawa-shelter-1.JPG  # wrong GPS
   - /images/pilgrimage/17-bocchi-the-rock/shimokitazawa-shelter-2.JPG  # wrong GPS
+  urls: []
 - name: 本多劇場
   lat: 35.661728
   lon: 139.668763
@@ -52,6 +55,7 @@ locations:
   - 劇場
   images:
   - /images/pilgrimage/17-bocchi-the-rock/honda-theater.JPG  # wrong GPS
+  urls: []
 - name: 江の島シーキャンドル
   lat: 35.299681
   lon: 139.479042
@@ -62,3 +66,4 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/17-bocchi-the-rock/enoshima-sea-candle.JPG
+  urls: []

@@ -11,6 +11,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/09-lucky-star/jishu-shrine.JPG # wrong GPS
+  urls: []
 - name: 鷲宮神社
   lat: 36.031747
   lon: 139.713839
@@ -25,3 +26,4 @@ locations:
   images:
   - /images/pilgrimage/09-lucky-star/washinomiya-shrine.JPG
   - /images/pilgrimage/09-lucky-star/washinomiya-shrine-1.JPG
+  urls: []

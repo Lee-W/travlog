@@ -12,6 +12,7 @@ locations:
   - 橋
   images:
   - /images/pilgrimage/12-fate-series/kobe-ohashi-bridge.JPG # wrong GPS
+  urls: []
 - name: 織田家長屋門
   lat: 34.651020
   lon: 134.988610
@@ -22,6 +23,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/12-fate-series/oda-family-nagaya-gate.JPG # wrong GPS
+  urls: []
 - name: 風見雞之館
   lat: 34.701081
   lon: 135.189417
@@ -33,6 +35,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/12-fate-series/kazamidori-no-yakata.JPG
+  urls: []
 - name: 魚鱗之家
   lat: 34.701933
   lon: 135.193242
@@ -43,6 +46,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/12-fate-series/uorindo-house.JPG
+  urls: []
 - name: 聖方濟天主堂
   lat: 35.345704
   lon: 136.989866
@@ -53,6 +57,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/12-fate-series/st-francis-church.JPG # wrong GPS
+  urls: []
 - name: 帝國賓館中央玄關
   lat: 35.347812
   lon: 136.988863
@@ -63,6 +68,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/12-fate-series/imperial-hotel-central-entrance.JPG # wrong GPS
+  urls: []
 - name: 清浄光寺（遊行寺）
   lat: 35.348713
   lon: 139.488552
@@ -74,6 +80,7 @@ locations:
   - 寺廟
   images:
   - /images/pilgrimage/12-fate-series/seijokoji-yugyoji.JPG
+  urls: []
 - name: 円覚寺
   lat: 35.339527
   lon: 139.5482
@@ -85,6 +92,7 @@ locations:
   - 寺廟
   images:
   - /images/pilgrimage/12-fate-series/engakuji.JPG
+  urls: []
 - name: Glastonbury Abbey
   lat: 51.146536
   lon: -2.716331
@@ -97,6 +105,7 @@ locations:
   images:
   - /images/pilgrimage/12-fate-series/glastonbury-abbey.JPG
   - /images/pilgrimage/12-fate-series/glastonbury-abbey-2.JPG
+  urls: []
 - name: Glastonbury Tor
   lat: 51.147343
   lon: -2.698096
@@ -107,6 +116,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/12-fate-series/glastonbury-tor.JPG # wrong GPS
+  urls: []
 - name: Grove St
   lat: 51.383373
   lon: -2.357251
@@ -118,6 +128,7 @@ locations:
   - 街道
   images:
   - /images/pilgrimage/12-fate-series/grove-st.JPG  # wrong GPS
+  urls: []
 - name: 特拉法加廣場
   lat: 51.508093
   lon: -0.12807
@@ -128,3 +139,4 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/12-fate-series/trafalgar-square.JPG
+  urls: []

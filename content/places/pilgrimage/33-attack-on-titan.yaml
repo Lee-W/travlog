@@ -11,6 +11,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/33-attack-on-titan/attack-on-titan-oyama-dam-statue.JPG  # wrong GPS
+  urls: []
 - name: Kirchturm Daniel
   lat: 48.850717
   lon: 10.487522
@@ -21,3 +22,4 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/33-attack-on-titan/kirchturm-daniel.JPG
+  urls: []

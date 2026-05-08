@@ -11,6 +11,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/01-hibike-euphonium/nagoya-international-conference-center.JPG
+  urls: []
 - name: 久美子椅
   lat: 34.889603
   lon: 135.808358
@@ -21,6 +22,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/01-hibike-euphonium/kumiko-bench.JPG
+  urls: []
 - name: 大吉山展望台
   lat: 34.893098
   lon: 135.81288
@@ -31,6 +33,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/01-hibike-euphonium/daikichiyama-observatory.JPG  # wrong GPS
+  urls: []
 - name: 宇治橋
   lat: 34.893113
   lon: 135.806261
@@ -42,3 +45,4 @@ locations:
   - 橋
   images:
   - /images/pilgrimage/01-hibike-euphonium/uji-bridge.JPG  # wrong GPS
+  urls: []

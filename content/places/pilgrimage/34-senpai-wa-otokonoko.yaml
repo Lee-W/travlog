@@ -11,6 +11,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/34-senpai-wa-otokonoko/terrace-mall-shonan.JPG
+  urls: []
 - name: 片瀬江ノ島駅
   lat: 35.309576
   lon: 139.483529
@@ -22,3 +23,4 @@ locations:
   - 車站
   images:
   - /images/pilgrimage/34-senpai-wa-otokonoko/katase-enoshima-station.JPG
+  urls: []

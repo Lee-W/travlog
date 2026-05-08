@@ -11,6 +11,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/26-oshi-no-ko/tokyo-dome.JPG
+  urls: []
 - name: 天鈿女命(ウズメノミコト)
   lat: 32.708632
   lon: 131.30049
@@ -21,6 +22,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/26-oshi-no-ko/amenouzume-no-mikoto.JPG  # wrong GPS
+  urls: []
 - name: 荒立神社
   lat: 32.712262
   lon: 131.317034
@@ -32,3 +34,4 @@ locations:
   - 神社
   images:
   - /images/pilgrimage/26-oshi-no-ko/aratate-shrine.JPG  # wrong GPS
+  urls: []

@@ -23,6 +23,7 @@ locations:
   - 已歇業
   images:
   - /images/pilgrimage/25-bang-dream-series/subway-sunshine-city-alpa-branch.JPG  # wrong GPS
+  urls: []
 - name: サンシャインシティ
   lat: 35.731675
   lon: 139.710847
@@ -36,3 +37,4 @@ locations:
   images:
   - /images/pilgrimage/25-bang-dream-series/sunshine-city.JPG
   - /images/pilgrimage/25-bang-dream-series/sunshine-city-1.JPG
+  urls: []

@@ -11,6 +11,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/08-oregairu/ryoanji.JPG # wrong GPS
+  urls: []
 - name: 鶴岡八幡宮
   lat: 35.326187
   lon: 139.556303
@@ -22,6 +23,7 @@ locations:
   - 神社
   images:
   - /images/pilgrimage/08-oregairu/tsurugaoka-hachimangu.JPG
+  urls: []
 - name: 鎌倉雪ノ下郵便局
   lat: 35.322522
   lon: 139.554273
@@ -32,6 +34,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/08-oregairu/kamakura-yukinoshita-post-office.JPG
+  urls: []
 - name: 由比ガ浜
   lat: 35.310015
   lon: 139.542015
@@ -42,3 +45,4 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/08-oregairu/yuigahama.JPG
+  urls: []

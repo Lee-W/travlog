@@ -12,3 +12,6 @@ locations:
   - 車站
   images:
   - /images/pilgrimage/46-rogue-one/canary-wharf-jubilee-line-station.JPG
+  urls:
+  - label: Andor、Rogue One 倫敦聖地巡禮
+    href: "{filename}/posts/travel/2026/03-andor-pilgrimage.md"

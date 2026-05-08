@@ -11,6 +11,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/31-zombieland-saga/karatsu-castle.JPG
+  urls: []
 - name: 唐津市歷史民俗資料館（舊三菱合資会社唐津支店本館）
   lat: 33.471921
   lon: 129.954215
@@ -21,3 +22,4 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/31-zombieland-saga/karatsu-city-history-and-folklore-museum.JPG  # wrong GPS
+  urls: []

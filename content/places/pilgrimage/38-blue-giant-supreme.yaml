@@ -12,6 +12,7 @@ locations:
   - 機場
   images:
   - /images/pilgrimage/38-blue-giant-supreme/munich-airport.JPG
+  urls: []
 - name: Innere Ludwigsbrücke 附近
   lat: 48.134703
   lon: 11.588417
@@ -23,6 +24,7 @@ locations:
   - 橋
   images:
   - /images/pilgrimage/38-blue-giant-supreme/innere-ludwigsbrucke.JPG
+  urls: []
 - name: 瑪利亞廣場
   lat: 48.137706
   lon: 11.575887
@@ -33,3 +35,4 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/38-blue-giant-supreme/marienplatz.JPG  # wrong GPS
+  urls: []

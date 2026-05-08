@@ -14,6 +14,9 @@ locations:
   images:
   - /images/pilgrimage/45-andor/adams-place-bridge.JPG
   - /images/pilgrimage/45-andor/adams-place-bridge-1.JPG
+  urls:
+  - label: Andor、Rogue One 倫敦聖地巡禮
+    href: "{filename}/posts/travel/2026/03-andor-pilgrimage.md"
 - name: Barbican Centre
   lat: 51.521186
   lon: -0.093918
@@ -29,3 +32,6 @@ locations:
   - /images/pilgrimage/45-andor/barbican-centre-3.JPG
   - /images/pilgrimage/45-andor/barbican-centre-4.JPG
   - /images/pilgrimage/45-andor/barbican-centre-5.JPG
+  urls:
+  - label: Andor、Rogue One 倫敦聖地巡禮
+    href: "{filename}/posts/travel/2026/03-andor-pilgrimage.md"

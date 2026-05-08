@@ -11,6 +11,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/16-kimetsu-no-yaiba/japanese-red-cross-medical-center-ward.JPG
+  urls: []
 - name: 松山城
   lat: 33.845764
   lon: 132.76561
@@ -21,3 +22,4 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/16-kimetsu-no-yaiba/matsuyama-castle.JPG
+  urls: []

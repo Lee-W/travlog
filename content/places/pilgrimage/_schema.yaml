@@ -86,3 +86,12 @@ properties:
           items:
             type: string
           x-osm-list-hidden: true
+        urls:
+          type: array
+          items:
+            type: object
+            properties:
+              label:
+                type: string
+              href:
+                type: string

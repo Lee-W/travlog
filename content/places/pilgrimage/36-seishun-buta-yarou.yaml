@@ -11,6 +11,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/36-seishun-buta-yarou/enoshima-aquarium.JPG
+  urls: []
 - name: 片瀬西浜・鵠沼海水浴場
   lat: 35.308998
   lon: 139.479975
@@ -21,3 +22,4 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/36-seishun-buta-yarou/katase-nishihama-kugenuma-beach.JPG
+  urls: []

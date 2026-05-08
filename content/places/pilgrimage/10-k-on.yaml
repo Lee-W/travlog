@@ -11,6 +11,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/10-k-on/toyosato-elementary-school.JPG
+  urls: []
 - name: Hotel ibis London Earl's Court
   lat: 51.488975
   lon: -0.191783
@@ -22,6 +23,7 @@ locations:
   - 飯店
   images:
   - /images/pilgrimage/10-k-on/hotel-ibis-london-earls-court.JPG
+  urls: []
 - name: Troubadour
   lat: 51.488772
   lon: -0.191679
@@ -32,6 +34,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/10-k-on/roubadour.JPG
+  urls: []
 - name: ALDGATE EAST
   lat: 51.515505
   lon: -0.071884
@@ -43,6 +46,7 @@ locations:
   - 車站
   images:
   - /images/pilgrimage/10-k-on/aldgate-east.JPG
+  urls: []
 - name: Jubilee Gardens
   lat: 51.504334
   lon: -0.118407
@@ -53,6 +57,7 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/10-k-on/jubilee-gardens.JPG
+  urls: []
 - name: JEUGIA 三条本店
   lat: 35.008712
   lon: 135.767656
@@ -64,3 +69,4 @@ locations:
   - 樂器店
   images:
   - /images/pilgrimage/10-k-on/jeugia-sanjo-main-store.JPG  # wrong GPS
+  urls: []
