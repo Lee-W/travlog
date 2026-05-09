@@ -1,5 +1,6 @@
 Title: 宇宙神遊 9 週年抽抽
 Date: 2026-05-08 23:59 +0800
+Modified: 2026-05-09 11:17 +0800
 Category: Review
 Tags: FGO
 Slug: fgo-9-th-aniversary-lottery
@@ -65,6 +66,8 @@ Authors: Wei Lee
 原本想就小抽一下就好
 丟個 20 抽，抽中了黑聖杯，好不容易滿破，可以見好就收
 
+![IMG_3162](/images/post-images/2026/fgo-9-th-aniversary-lottery/IMG_3162.jpeg)
+
 但晚上睡前莫名覺得精神上疲倦，需要快速的多巴安補充
 就繼續抽下去了......
 中間讓術尼托、CEO、月月寶 5
@@ -78,4 +81,9 @@ Authors: Wei Lee
 ![IMG_0881](/images/post-images/2026/fgo-9-th-aniversary-lottery/IMG_0881.jpeg)
 ![IMG_0882](/images/post-images/2026/fgo-9-th-aniversary-lottery/IMG_0882.jpeg)
 
-第一張呼符就中水艾雷，最後花了 188 抽
+第一張呼符就中水艾蕾，最後花了 188 抽
+
+---
+
+已達到好感度 7 以上的 Darling ，艾蕾的笑容
+![IMG_0883](/images/post-images/2026/fgo-9-th-aniversary-lottery/IMG_0883.jpeg)
