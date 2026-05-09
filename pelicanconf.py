@@ -161,6 +161,7 @@ MENUITEMS = (
     ("🥘 料理", "/category/cook.html"),
     ("🏷️ 標籤", "/tags.html"),
     ("🗄️ 歸檔", "/archives.html"),
+    ("📚 系列文章", "/series_list.html"),
     ("🎲 隨機", "/random/index.html"),
 )
 
