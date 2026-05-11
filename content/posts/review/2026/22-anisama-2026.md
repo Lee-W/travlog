@@ -4,7 +4,7 @@ Date: 2026-05-11 12:05 +0800
 Category: Review
 Tags: Concert
 Slug: anisama-in-taipei-2026-dosha
-Cover: /images/post-images/2026/anisama-in-taipeiIMG_3215.jpeg
+Cover: /images/post-images/2026/anisama-in-taipei/2026/anisama-in-taipei/IMG_3215.jpeg
 Authors: Wei Lee
 
 壞朋友因為 Anisama 有李子之前就有分享資訊給我
@@ -37,37 +37,37 @@ Authors: Wei Lee
 壓線到的我還在外面悠哉地拍花籃
 
 佐佐木李子
-![IMG_3197](/images/post-images/IMG_3197.jpeg)
-![IMG_3198](/images/post-images/IMG_3198.jpeg)
+![IMG_3197](/images/post-images/2026/anisama-in-taipei/IMG_3197.jpeg)
+![IMG_3198](/images/post-images/2026/anisama-in-taipei/IMG_3198.jpeg)
 
 平野綾
-![IMG_3201](/images/post-images/IMG_3201.jpeg)
+![IMG_3201](/images/post-images/2026/anisama-in-taipei/IMG_3201.jpeg)
 
 ReoNa
-![IMG_3203](/images/post-images/IMG_3203.jpeg)
+![IMG_3203](/images/post-images/2026/anisama-in-taipei/IMG_3203.jpeg)
 
 仲村宗悟
-![IMG_3196](/images/post-images/IMG_3196.jpeg)
-![IMG_3205](/images/post-images/IMG_3205.jpeg)
+![IMG_3196](/images/post-images/2026/anisama-in-taipei/IMG_3196.jpeg)
+![IMG_3205](/images/post-images/2026/anisama-in-taipei/IMG_3205.jpeg)
 
 Ave Mujica 來探班初華的表演
 （海希約會去了沒來，信任-1）
-![IMG_3199](/images/post-images/IMG_3199.jpeg)
+![IMG_3199](/images/post-images/2026/anisama-in-taipei/IMG_3199.jpeg)
 
 當然還是要有一張小祥獨照
-![IMG_3200](/images/post-images/IMG_3200.jpeg)
+![IMG_3200](/images/post-images/2026/anisama-in-taipei/IMG_3200.jpeg)
 
 還有之前在 [FF 46]({filename}/posts/review/2026/08-ff-46.md) 買到了[通り雨](https://www.instagram.com/tooriame.hk/)老師畫的[初華]({filename}/posts/review/2026/09-thanks-my-otaku-friend.md)
-![IMG_3216](/images/post-images/IMG_3216.jpeg)
+![IMG_3216](/images/post-images/2026/anisama-in-taipei/IMG_3216.jpeg)
 
 ---
 
 後來進去其實視野還不錯，這說不定是我這輩子跟李子最近的距離了
-![IMG_3207](/images/post-images/IMG_3207.jpeg)
+![IMG_3207](/images/post-images/2026/anisama-in-taipei/IMG_3207.jpeg)
 
 戰區的大家都很 high，旁邊還有人帶了隻小光劍跟一整個吉他袋的邦娃
 （現場邦邦濃度蠻高的）
-![IMG_3208](/images/post-images/IMG_3208.jpeg)
+![IMG_3208](/images/post-images/2026/anisama-in-taipei/IMG_3208.jpeg)
 
 另一區戰區似乎又更 high 了不少，複數孔雀出沒
 
@@ -259,5 +259,5 @@ ReoNa 有提到今年三月，她有在她的故鄉南方的島辦演唱會
 尤其是 Lost my music 跟 JO☆STARS 之後，中間也好幾次 high 到快缺氧
 最後決定來參加真是太好了！
 
-![IMG_3211](/images/post-images/IMG_3211.jpeg)
-![IMG_3215](/images/post-images/IMG_3215.jpeg)
+![IMG_3211](/images/post-images/2026/anisama-in-taipei/IMG_3211.jpeg)
+![IMG_3215](/images/post-images/2026/anisama-in-taipei/IMG_3215.jpeg)
