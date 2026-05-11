@@ -71,9 +71,9 @@ Ave Mujica 來探班初華的表演
 
 另一區戰區似乎又更 high 了不少，複數孔雀出沒
 
-寫這篇文的時候找到傑歐大大的推文，有這次表演的所有曲目
+官方今早已經公布了，所有的曲目
 
-<blockquote class="twitter-tweet"><p lang="in" dir="ltr">ANISAMA in TAIPEI 2026 -DOSHA！-<a href="https://twitter.com/hashtag/anisama?src=hash&amp;ref_src=twsrc%5Etfw">#anisama</a> <a href="https://twitter.com/hashtag/%E3%82%A2%E3%83%8B%E3%82%B5%E3%83%9E?src=hash&amp;ref_src=twsrc%5Etfw">#アニサマ</a> <a href="https://t.co/dEIwOrC3FU">pic.twitter.com/dEIwOrC3FU</a></p>&mdash; 傑歐 (@GJO_Ling) <a href="https://twitter.com/GJO_Ling/status/2053501125744304622?ref_src=twsrc%5Etfw">May 10, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">■━━━━━━━━━━━━━━□<br>ANISAMA in TAIPEI 2026 -DOSHA!-<br>🎧セットリスト公開🎧<br>□━━━━━━━━━━━━━━■<br><br>📢公演セットリストを公開しました！🎧<br>熱いステージの雰囲気を是非お楽しみください✨<br><br>♪God knows... / 平野綾×茅原実里<br>BAND…</p>&mdash; Animelo Summer Live (@anisama) <a href="https://twitter.com/anisama/status/2053672660064936359?ref_src=twsrc%5Etfw">May 11, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -205,8 +205,7 @@ ReoNa 有提到今年三月，她有在她的故鄉南方的島辦演唱會
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">於「ANISAMA in TAIPEI 2026 -DOSHA!」首次公開的特別影像《結々の唄 -台北特別影像-》，確定將於ReoNa官方YouTube頻道進行首播！<br><br>歡迎大家於以下時間一同收看直播！<br><br>▼觀看連結<a href="https://t.co/31TXahYKno"><https://t.co/31TXahYKno></a><br><br>🗓️ Monday, May 11<br><br>Tokyo — 10:00 PM<br>Taipei — 9:00 PM<br>Jakarta — 8:00 PM<br>Hong Kong — 9:00…</p>&mdash; ReoNaStaff (@ReoNaStaff) <a href="https://twitter.com/ReoNaStaff/status/2053471936152514737?ref_src=twsrc%5Etfw">May 10, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-第四首是 ANIMA ，好像是地錯的歌（？）
-一樣是沒看 😆
+第四首是 ANIMA ，是 SAO 的歌，一樣是沒看 😆
 但這首很紅、很好聽，所以也聽過了很多次
 聽現場真的很過癮
 
