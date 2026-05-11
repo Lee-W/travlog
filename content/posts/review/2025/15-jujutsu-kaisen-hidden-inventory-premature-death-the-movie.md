@@ -3,7 +3,7 @@ Subtitle: 夏油傑：「死猴子」
 Date: 2025-10-23 10:30 +0800
 Category: Review
 Tags: Movie
-Slug: jujutsu-kaisen-hidden-inventory-premature-death–the-movie
+Slug: jujutsu-kaisen-hidden-inventory-premature-death-the-movie
 Cover: /images/post-images/2025-what-i-watched-in-2025-fall/jujutsu-kaisen.jpeg
 Authors: Wei Lee
 
