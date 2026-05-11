@@ -4,7 +4,7 @@ Date: 2026-05-11 12:05 +0800
 Category: Review
 Tags: Concert
 Slug: anisama-in-taipei-2026-dosha
-Cover: /images/post-images/2026/anisama-in-taipei/2026/anisama-in-taipei/IMG_3215.jpeg
+Cover: /images/post-images/2026/anisama-in-taipei/IMG_3215.jpeg
 Authors: Wei Lee
 
 壞朋友因為 Anisama 有李子之前就有分享資訊給我
