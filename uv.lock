@@ -290,7 +290,7 @@ requires-dist = [
     { name = "pelican-heatmap", specifier = ">=0.3.1" },
     { name = "pelican-i18n-subsites", specifier = ">=1.0.0" },
     { name = "pelican-neighbors", specifier = ">=1.2.0" },
-    { name = "pelican-osm", extras = ["validate"], specifier = ">=0.12.1" },
+    { name = "pelican-osm", extras = ["validate"], specifier = ">=0.13.0" },
     { name = "pelican-random-article", specifier = ">=0.2.0" },
     { name = "pelican-render-math", specifier = ">=1.0.3" },
     { name = "pelican-seo", specifier = ">=1.2.2" },
@@ -341,11 +341,11 @@ wheels = [
 
 [[package]]
 name = "idna"
-version = "3.13"
+version = "3.14"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/ce/cc/762dfb036166873f0059f3b7de4565e1b5bc3d6f28a414c13da27e442f99/idna-3.13.tar.gz", hash = "sha256:585ea8fe5d69b9181ec1afba340451fba6ba764af97026f92a91d4eef164a242", size = 194210, upload-time = "2026-04-22T16:42:42.314Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/05/b1/efac073e0c297ecf2fb33c346989a529d4e19164f1759102dee5953ee17e/idna-3.14.tar.gz", hash = "sha256:466d810d7a2cc1022bea9b037c39728d51ae7dad40d480fc9b7d7ecf98ba8ee3", size = 198272, upload-time = "2026-05-10T20:32:15.935Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/5d/13/ad7d7ca3808a898b4612b6fe93cde56b53f3034dcde235acb1f0e1df24c6/idna-3.13-py3-none-any.whl", hash = "sha256:892ea0cde124a99ce773decba204c5552b69c3c67ffd5f232eb7696135bc8bb3", size = 68629, upload-time = "2026-04-22T16:42:40.909Z" },
+    { url = "https://files.pythonhosted.org/packages/6c/3c/3f62dee257eb3d6b2c1ef2a09d36d9793c7111156a73b5654d2c2305e5ce/idna-3.14-py3-none-any.whl", hash = "sha256:e677eaf072e290f7b725f9acf0b3a2bd55f9fd6f7c70abe5f0e34823d0accf69", size = 72184, upload-time = "2026-05-10T20:32:14.295Z" },
 ]
 
 [[package]]
@@ -734,15 +734,15 @@ wheels = [
 
 [[package]]
 name = "pelican-osm"
-version = "0.12.1"
+version = "0.13.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pelican" },
     { name = "pyyaml" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/17/60/1337316e8cb4f8e70508e6b853838104a4c7bfe43c4595987802b9a86b70/pelican_osm-0.12.1.tar.gz", hash = "sha256:ceb660ed30f0becf5fe912ca68d0a18d99747bcdba3eadf7122ca6ac9bd55ff8", size = 47559, upload-time = "2026-05-07T16:20:13.99Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/72/2b/2644a6fb8e76295806a83cda975e982ac0f11f9bd2b5600679b5ddd6c0c5/pelican_osm-0.13.0.tar.gz", hash = "sha256:2f7083b8c0c8923066bd4e899ac9b472fa1a17c7d3e037fe4858aa2fd7266f8c", size = 51373, upload-time = "2026-05-11T14:10:11.654Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/7e/9a/4d974b5241894fec904c1572d24d0d4bc72253778b406d27db24e92e2d0d/pelican_osm-0.12.1-py3-none-any.whl", hash = "sha256:9f65fd06a9811ea700b5bddb14ac25c5f4c6b457053aeb05237a9fad310c7eaf", size = 48087, upload-time = "2026-05-07T16:20:12.427Z" },
+    { url = "https://files.pythonhosted.org/packages/b0/2d/cea801df9f962f8d45946693bab3dea827d51b571af1435db50a1bd9907e/pelican_osm-0.13.0-py3-none-any.whl", hash = "sha256:804436742a5140cecc2e443b4c59462031afcdbbc41d6350e6b0b0b291feb8d9", size = 51914, upload-time = "2026-05-11T14:10:09.711Z" },
 ]
 
 [package.optional-dependencies]
@@ -1316,11 +1316,11 @@ wheels = [
 
 [[package]]
 name = "tomlkit"
-version = "0.14.0"
+version = "0.15.0"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/c3/af/14b24e41977adb296d6bd1fb59402cf7d60ce364f90c890bd2ec65c43b5a/tomlkit-0.14.0.tar.gz", hash = "sha256:cf00efca415dbd57575befb1f6634c4f42d2d87dbba376128adb42c121b87064", size = 187167, upload-time = "2026-01-13T01:14:53.304Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/51/db/03eaf4331631ef6b27d6e3c9b68c54dc6f0d63d87201fed600cc409307fd/tomlkit-0.15.0.tar.gz", hash = "sha256:7d1a9ecba3086638211b13814ea79c90dd54dd11993564376f3aa92271f5c7a3", size = 161875, upload-time = "2026-05-10T07:38:22.245Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/b5/11/87d6d29fb5d237229d67973a6c9e06e048f01cf4994dee194ab0ea841814/tomlkit-0.14.0-py3-none-any.whl", hash = "sha256:592064ed85b40fa213469f81ac584f67a4f2992509a7c3ea2d632208623a3680", size = 39310, upload-time = "2026-01-13T01:14:51.965Z" },
+    { url = "https://files.pythonhosted.org/packages/6a/43/8bd850ee71a191bf072e31302c73a66be413fecdd98fdcd111ecbcce13ca/tomlkit-0.15.0-py3-none-any.whl", hash = "sha256:4dbc8f0fc024412b57ced8757ac7461305126a648ff8c2c807fcb8e133a78738", size = 41328, upload-time = "2026-05-10T07:38:23.517Z" },
 ]
 
 [[package]]
