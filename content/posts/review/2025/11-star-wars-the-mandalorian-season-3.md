@@ -2,7 +2,7 @@ Title: Star Wars: The Mandalorian Season 3
 Subtitle: Gideon is as clumsy as he is stupid
 Date: 2025-05-26 22:40 +0800
 Category: Review
-Tags: Star Wars, Series
+Tags: Star Wars
 Slug: star-wars-the-mandalorian-season-3
 Authors: Wei Lee
 

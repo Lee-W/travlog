@@ -2,7 +2,7 @@ Title: 宇宙神遊 9 週年抽抽
 Date: 2026-05-08 23:59 +0800
 Modified: 2026-05-09 11:17 +0800
 Category: Review
-Tags: FGO
+Tags: Fate, FGO
 Slug: fgo-9-th-aniversary-lottery
 Authors: Wei Lee
 

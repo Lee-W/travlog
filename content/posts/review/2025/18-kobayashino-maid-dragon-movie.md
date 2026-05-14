@@ -2,7 +2,7 @@ Title: 小林家的龍女僕：害怕寂寞的龍
 Subtitle: 我們不一樣
 Date: 2025-11-10 21:30 +0800
 Category: Review
-Tags: Anime, Movie
+Tags: Anime, Movie, Kyoto Anime, 小林家的龍女僕
 Slug: kobayashino-maid-dragon-movie
 Cover: /images/post-images/2025-what-i-watched-in-2025-summer/kobayashi.JPEG
 Authors: Wei Lee

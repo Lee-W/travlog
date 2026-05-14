@@ -1,7 +1,7 @@
 Title: 鬼滅之刃 刀匠村篇
 Date: 2023-07-01 15:45 +0800
 Category: Review
-Tags: Anime, 2023 春番
+Tags: Anime
 Slug: demon-slayer-to-the-swordsmith-village
 Authors: Wei Lee
 

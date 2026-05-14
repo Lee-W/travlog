@@ -2,7 +2,7 @@ Title: 2023 巴哈動漫朝聖團
 Subtitle: 被推坑的人推坑
 Date: 2023-06-22 18:36 +0800
 Category: Travel
-Tags: 聖地巡禮, 孤獨搖滾, 搖曳露營△, 莉可麗絲, 請問你要來點兔子嗎, 路人超能 100
+Tags: Japan, 聖地巡禮, 孤獨搖滾, 搖曳露營△, 莉可麗絲, 請問你要來點兔子嗎, 路人超能 100
 Slug: bahamut-anime-tourism-2023
 Cover: /images/post-images/2023-bahamut-anime-tourism-2023/16875991250182.jpg
 Authors: Wei Lee

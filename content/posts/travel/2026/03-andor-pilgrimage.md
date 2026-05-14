@@ -2,7 +2,7 @@ Title: Andor、Rogue One 倫敦聖地巡禮
 Subtitle: May the Fourth be with You
 Date: 2026-05-05 00:40 +0800
 Category: Travel
-Tags: 聖地巡禮, Star Wars, Andor, Rogue One
+Tags: UK, 聖地巡禮, Star Wars, Andor, Rogue One
 Slug: andor-rogue-one-london-pilgrimage
 Cover: /images/pilgrimage/45-andor/barbican-centre.JPG
 Authors: Wei Lee

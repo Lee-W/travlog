@@ -2,7 +2,7 @@ Title: BanG Dream! Ave Mujica
 Subtitle: 瘋狂星期四
 Date: 2026-01-04 13:16 +0800
 Category: Review
-Tags: Animate
+Tags: Anime
 Slug: bang-dream-ave-mujica
 Cover: /images/post-images/2025-what-i-watch-in-2025-winter/ave-mujica.png
 Authors: Wei Lee

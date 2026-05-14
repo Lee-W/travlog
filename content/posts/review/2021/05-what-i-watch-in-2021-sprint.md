@@ -2,7 +2,7 @@ Title: 2021 春季看什麼
 Subtitle: 近期最強原創季
 Date: 2021-10-10 16:30 +0800
 Category: Review
-Tags: Anime, Movie, Series,當季看什麼
+Tags: Anime, Movie, 當季看什麼
 Slug: what-i-watch-in-2021-sprint
 Authors: Wei Lee
 

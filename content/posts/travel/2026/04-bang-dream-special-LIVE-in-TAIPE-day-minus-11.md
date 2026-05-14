@@ -2,7 +2,7 @@ Title: 《BanG Dream! Special LIVE in TAIPEI》Day -11
 Subtitle: 大家都別想走出大佳了
 Date: 2026-05-09 11:18 +0800
 Category: Travel
-Tags: Bang Dream, 娃: 睦
+Tags: BanG Dream, 娃: 睦
 Slug: bang-dream-special-LIVE-in-TAIPE-day-minus-11
 Series: 《BanG Dream! Special LIVE in TAIPEI》
 Cover: /images/post-images/2026/bang-dream-special-LIVE-in-TAIPE-day/day-minus-11-ad-1.jpeg

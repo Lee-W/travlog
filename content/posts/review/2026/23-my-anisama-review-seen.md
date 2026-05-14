@@ -1,7 +1,7 @@
 Title: Anisama 的心得文被看見了，好耶～
 Date: 2026-05-12 23:05 +0800
 Category: Review
-Tags: Concert
+Tags: Anime, Music, Concert
 Slug: anisama-review-seen
 Cover: /images/meme/mygo-vain-moment.jpg
 Authors: Wei Lee

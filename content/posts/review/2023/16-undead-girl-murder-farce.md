@@ -2,7 +2,7 @@ Title: 不死少女的謀殺鬧劇
 Subtitle: 走過路過別錯過
 Date: 2023-10-04 19:00 +0800
 Category: Review
-Tags: Anime, 2023 夏番
+Tags: Anime
 Slug: undead-girl-murder-farce
 Cover: /images/post-images/2023-undead-girl-murder-farce/dont-miss.jpg
 Authors: Wei Lee

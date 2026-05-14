@@ -2,7 +2,7 @@ Title: 2024 秋季看什麼
 Subtitle: 一半的新番都續播到冬季去了...
 Date: 2025-04-05 16:00 +0800
 Category: Review
-Tags: Anime
+Tags: Anime, 當季看什麼
 Slug: what-i-watched-in-2024-fall
 Authors: Wei Lee
 

@@ -2,7 +2,7 @@ Title: ANISAMA in TAIPEI 2026 -DOSHA！
 Subtitle: 原來我低估了涼宮春日在心中的重量
 Date: 2026-05-11 12:05 +0800
 Category: Review
-Tags: Concert
+Tags: Anime, Music, Concert
 Slug: anisama-in-taipei-2026-dosha
 Cover: /images/post-images/2026/anisama-in-taipei/IMG_3215.jpeg
 Authors: Wei Lee

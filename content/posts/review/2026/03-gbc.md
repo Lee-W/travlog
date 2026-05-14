@@ -2,7 +2,7 @@ Title: 少女樂團 吶喊吧
 Subtitle: 少女、樂團、哭
 Date: 2026-01-04 16:55 +0800
 Category: Review
-Tags: Animate
+Tags: Anime
 Slug: girls-band-cry
 Cover: /images/post-images/2025-what-i-watch-in-2025-winter/gbc.png
 Authors: Wei Lee
