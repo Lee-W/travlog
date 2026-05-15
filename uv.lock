@@ -287,7 +287,7 @@ requires-dist = [
     { name = "pagefind", extras = ["extended"], specifier = ">=1.4.0" },
     { name = "pelican", extras = ["markdown"], specifier = ">=4.12.0" },
     { name = "pelican-deadlinks", git = "https://github.com/pelican-plugins/deadlinks" },
-    { name = "pelican-heatmap", specifier = ">=0.3.1" },
+    { name = "pelican-heatmap", specifier = ">=0.4.0" },
     { name = "pelican-i18n-subsites", specifier = ">=1.0.0" },
     { name = "pelican-neighbors", specifier = ">=1.2.0" },
     { name = "pelican-osm", extras = ["validate"], specifier = ">=0.13.0" },
@@ -670,14 +670,14 @@ dependencies = [
 
 [[package]]
 name = "pelican-heatmap"
-version = "0.3.1"
+version = "0.4.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pelican" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/f2/4c/c97253f848077a511cf0da157d95769154fcb041079b50de591210276d81/pelican_heatmap-0.3.1.tar.gz", hash = "sha256:66487ce28bba11ac4f550985f9f20a1ce976b2b3d47d7d561e52f34ed312d0af", size = 11972, upload-time = "2026-04-25T07:45:34.5Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/59/61/9ba19ae657233a0d5892ceb871e584af6b3cfb50ab0d2146b5c25c1c4308/pelican_heatmap-0.4.0.tar.gz", hash = "sha256:4ac40c6f7a2ca8c999c6445f8211b35ac57bef769550ef8900e7ee1a134bd8c2", size = 12206, upload-time = "2026-05-15T00:38:30.134Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/a0/6f/8ce88564fa3a179d1321e8ce3c511dbd031dcd8e05425cfd1710d3d0e354/pelican_heatmap-0.3.1-py3-none-any.whl", hash = "sha256:d436c15e26c81b8d7f540ed39e1c8abc0395734be4d3d4112b6d03bb7b56d5af", size = 13008, upload-time = "2026-04-25T07:45:33.21Z" },
+    { url = "https://files.pythonhosted.org/packages/54/61/e27ae38f71fd9373e5d4901002510f488c2c917abf484f6c18139a2256bf/pelican_heatmap-0.4.0-py3-none-any.whl", hash = "sha256:cc6f77ede42b336ecbecc5c60e6edcfbd10af6dfe73769254244684dafd337b1", size = 13244, upload-time = "2026-05-15T00:38:28.963Z" },
 ]
 
 [[package]]
@@ -1136,7 +1136,7 @@ wheels = [
 
 [[package]]
 name = "requests"
-version = "2.34.1"
+version = "2.34.2"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "certifi" },
@@ -1144,9 +1144,9 @@ dependencies = [
     { name = "idna" },
     { name = "urllib3" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/24/36/7180e7f077c38108945dbbdf60fe04db681c3feb6e96419f8c6dc8723741/requests-2.34.1.tar.gz", hash = "sha256:0fc5669f2b69704449fe1552360bd2a73a54512dfd03e65529157f1513322beb", size = 142783, upload-time = "2026-05-13T19:20:24.662Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/ac/c3/e2a2b89f2d3e2179abd6d00ebd70bff6273f37fb3e0cc209f48b39d00cbf/requests-2.34.2.tar.gz", hash = "sha256:f288924cae4e29463698d6d60bc6a4da69c89185ad1e0bcc4104f584e960b9ed", size = 142856, upload-time = "2026-05-14T19:25:27.735Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/15/5a/4a949d170476de3c04ac036b5466422fbcbf348a917d8042eedf2cac7d1b/requests-2.34.1-py3-none-any.whl", hash = "sha256:bf38a3ff993960d3dd819c08862c40b3c703306eb7c744fcd9f4ddbb95b548f0", size = 73085, upload-time = "2026-05-13T19:20:22.827Z" },
+    { url = "https://files.pythonhosted.org/packages/a0/f4/c67b0b3f1b9245e8d266f0f112c500d50e5b4e83cb6f3b71b6528104182a/requests-2.34.2-py3-none-any.whl", hash = "sha256:2a0d60c172f83ac6ab31e4554906c0f3b3588d37b5cb939b1c061f4907e278e0", size = 73075, upload-time = "2026-05-14T19:25:26.443Z" },
 ]
 
 [[package]]
