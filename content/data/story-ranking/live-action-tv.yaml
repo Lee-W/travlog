@@ -62,6 +62,16 @@
   reviews:
   - text: '2022'
     href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_7'
+- title: 初戀
+  tier: A
+  reviews:
+  - text: '2025'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_18'
+- title: 我推的孩子（真人影集）
+  tier: B
+  reviews:
+  - text: '2025'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_19'
 - title: 舞伎家的料理人
   tier: C
   reviews:

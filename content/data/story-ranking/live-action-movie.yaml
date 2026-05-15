@@ -84,6 +84,21 @@
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_16'
 - title: 我只是個計程車司機
   tier: S
+- title: 犬之島
+  tier: S
+  reviews:
+  - text: '2025'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_12'
+- title: 喵的奇幻漂流
+  tier: S
+  reviews:
+  - text: '2025'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_14'
+- title: YOASOBI 5th ANNIVERSARY DOME LIVE YOASOBI
+  tier: S
+  reviews:
+  - text: '2025'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#yoasobi-5th-anniversary-dome-live-yoasobi'
 - title: 無敵破壞王2：網路大暴走
   tier: A
 - title: 天外奇蹟
@@ -170,6 +185,11 @@
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_21'
   - text: '2025'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_13'
+- title: '[我推的孩子] -The Final Act-'
+  tier: A
+  reviews:
+  - text: '2025'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#-the-final-act-'
 - title: 全面啟動
   tier: B
   reviews:

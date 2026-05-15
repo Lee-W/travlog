@@ -273,7 +273,7 @@ ED 也很魔性
 
 <!--TODO-->
 
-### 誰怕誰 <!--1-->
+### 誰怕誰 <!--A-->
 * 觀看平台: [KOBO](https://www.kobo.com/tw/zh/ebook/RJdfVQHd2DGi8qvhOwQwMw?sId=e0d11647-d6d9-49cf-be2f-7c7e2cb1b5b3)
 
 <!--TODO-->

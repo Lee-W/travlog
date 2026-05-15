@@ -29,7 +29,10 @@
   - text: '2025'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_22'
 - title: BLUE GIANT EXPLORER
-  tier: SS
+  tier: S
+  reviews:
+  - text: '2025'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#blue-giant-explorer'
 - title: 影宅
   tier: S
   reviews:
@@ -44,6 +47,11 @@
   tier: S
 - title: SLAM DUNK
   tier: S
+- title: 我在意的對象並不是男人
+  tier: S
+  reviews:
+  - text: '2025'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_24'
 - title: CITY
   tier: A
   reviews:
@@ -94,6 +102,21 @@
   tier: A
 - title: 会社と私生活－オンとオフ－
   tier: A
+- title: 百合是我的工作
+  tier: A
+  reviews:
+  - text: '2025'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_25'
+- title: 我的兒子似乎轉生去了異世界 full ver.
+  tier: A
+  reviews:
+  - text: '2025'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#full-ver'
+- title: JOJO的奇妙冒險 PART 9 The JOJOLands
+  tier: A
+  reviews:
+  - text: '2025'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#jojo-part-9-the-jojolands'
 - title: 這個美術社大有問題!
   tier: B
   reviews:
