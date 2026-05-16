@@ -44,6 +44,13 @@ repos:
         args: ["--categories", "Cook,Review,Travel"]
         files: ^content/posts/.*\.md$
 
+      - id: check-story-ranking
+        name: Check story-ranking YAML anchors
+        language: system
+        pass_filenames: false
+        entry: uv run python scripts/check_story_ranking.py
+        files: ^(content/data/story-ranking/.*\.yaml|content/posts/review/.*\.md)$
+
       # - id: remove-gps-from-image-exif
       #   name: Remove GPS Info from image exif
       #   language: system
