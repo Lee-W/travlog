@@ -130,12 +130,6 @@ ED 也很魔性
 後期開始重力展開，就開始好看了起來
 果然這個時代不夠重的樂團不是好樂團啊
 
-## 真人影集
-### Star Wars: The Mandalorian Season 3
-* 觀看平台： [Disney+](https://www.disneyplus.com/browse/entity-422f6dcc-226f-44e7-98d4-22de69b31cf3)
-
-👉 [Star Wars: The Mandalorian Season 3 - Gideon is as clumsy as he is stupid]({filename}/posts/review/2025/11-star-wars-the-mandalorian-season-3.md)
-
 ## 動畫電影
 
 ### 劇場版「進撃の巨人」完結編 THE LAST ATTACK <!--s-->
@@ -201,25 +195,6 @@ ED 也很魔性
 
 <!--TODO-->
 
-## 真人影集
-
-### 初戀 <!--a-->
-* 觀看平台： [Netflix](https://www.netflix.com/title/81137509)
-
-👉 [《First Love 初戀》 - 一切都是時臣的錯]({filename}/posts/review/2025/04-first-love.md)
-
-### 我推的孩子 <!--b-->
-* 觀看平台： [Amazon Prime Video](https://www.primevideo.com/detail/0PX9K2V1TODIEJJQJ1MRVVXP9Y?jic=8%7CEgNhbGw%3D)
-
-<!--TODO-->
-
-## 連載小說
-### 處刑少女的生存之道(01) ─然後，她將甦醒 <!--s-->
-* 觀看平台： [KOBO](https://www.kobo.com/tw/zh/ebook/59Nj6I2PvjyTmtGK49zWlg)
-
-<!--TODO-->
-
-## 真人電影
 ### 哥吉拉 -1.0
 * 觀看平台: 美麗華杜比廳
 
@@ -231,6 +206,28 @@ ED 也很魔性
 * 觀看平台: 松仁 3 廳
 
 ![IMG_4266](/images/post-images/2025-what-i-watch-in-2025-winter/IMG_4266.jpeg)
+
+<!--TODO-->
+
+## 真人影集
+### Star Wars: The Mandalorian Season 3
+* 觀看平台： [Disney+](https://www.disneyplus.com/browse/entity-422f6dcc-226f-44e7-98d4-22de69b31cf3)
+
+👉 [Star Wars: The Mandalorian Season 3 - Gideon is as clumsy as he is stupid]({filename}/posts/review/2025/11-star-wars-the-mandalorian-season-3.md)
+
+### 初戀 <!--a-->
+* 觀看平台： [Netflix](https://www.netflix.com/title/81137509)
+
+👉 [《First Love 初戀》 - 一切都是時臣的錯]({filename}/posts/review/2025/04-first-love.md)
+
+### 我推的孩子 <!--b-->
+* 觀看平台： [Amazon Prime Video](https://www.primevideo.com/detail/0PX9K2V1TODIEJJQJ1MRVVXP9Y?jic=8%7CEgNhbGw%3D)
+
+<!--TODO-->
+
+## 小說
+### 處刑少女的生存之道(01) ─然後，她將甦醒 <!--s-->
+* 觀看平台： [KOBO](https://www.kobo.com/tw/zh/ebook/59Nj6I2PvjyTmtGK49zWlg)
 
 <!--TODO-->
 

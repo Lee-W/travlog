@@ -25,11 +25,11 @@
   reviews:
   - text: '2023'
     href: '{filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#star-wars-andor'
-- title: 曼達洛人
+- title: 'Star Wars: The Mandalorian'
   group: Series
   reviews:
   - text: '2022'
-    href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_28'
+    href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#star-wars-the-mandalorian'
   - text: 'Star Wars: The Mandalorian Season 3'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#star-wars-the-mandalorian-season-3'
 - title: 'Star Wars: Ashoka'
@@ -58,24 +58,24 @@
     href: '{filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#star-wars-tale-of-jedi'
 - title: 'Star Wars: Resistance'
   group: Anime
-- title: 星際大戰：視界
+- title: 'Star Wars: Visions'
   group: Anime
   reviews:
   - text: '2022'
-    href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_13'
-- title: 星際大戰：瑕疵小隊
+    href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#star-wars-visions'
+- title: 'Star Wars: The Bad Batch'
   group: Anime
   reviews:
   - text: '2022'
-    href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_12'
+    href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#star-wars-the-bad-batch'
 - title: 'Star Wars: The Bad Batch Season 2'
   group: Anime
   reviews:
   - text: '2023'
     href: '{filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#star-wars-the-bad-batch-season-2'
-- title: 頭盔下的波巴費特
+- title: 'Under the Helmet: The Legacy of Boba Fett'
   group: Other
-- title: 'Star Wars: 探秘飛航'
+- title: Star Wars Vehicle Flythroughs
   group: Other
-- title: 'Star Wars: 星球之旅'
+- title: 'Star Wars: Biomes'
   group: Other

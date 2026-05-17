@@ -31,6 +31,8 @@ Authors: Wei Lee
 
 [TOC]
 
+## 新番
+
 ### 輝夜姬想讓人告白－永不結束的初吻－
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=33277)
 

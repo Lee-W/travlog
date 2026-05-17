@@ -80,7 +80,7 @@ DECA - DENCE 是我這季新番中每週最期待的作品
 雖然我沒什麼釣過魚，但在細節上應該是蠻講究的
 包含什麼樣的魚要用什麼樣的餌才釣得到、要怎麼殺魚才是正確的都有提到
 
-## 舊番
+## 補番
 ### 鋼之鍊金術師 （09版）
 * 觀看平台: [Netflix](https://www.netflix.com/tw/title/70204981)
 
@@ -375,7 +375,7 @@ Fate / stay night 是一個分為三個攻略路線的遊戲
 
 ![sumikkogurashi good to be in the corner]({static}/images/post-images/2020-what-i-watch-in-2020-summer/sumikkogurashi.jpg)
 
-## 其他
+## 小說
 ### Fate / Zero （輕小說）
 
 ![Fate / Zero]({static}/images/post-images/2020-what-i-watch-in-2020-summer/fate-zero.jpg)
@@ -387,7 +387,8 @@ Fate / stay night 是一個分為三個攻略路線的遊戲
 動畫跟小說對於不同的篇章都有不同的細節描寫
 所以想補完每一個描寫的細節的話，當然最好是全部都看起來 XD
 
-### 逃避雖可恥卻有用（日劇）
+## 真人影集
+### 逃避雖可恥卻有用
 * 觀看平台: [KKTV](https://www.kktv.me/titles/01000190)
 
 台灣的翻譯其實是月薪嬌妻
@@ -404,7 +405,8 @@ Fate / stay night 是一個分為三個攻略路線的遊戲
 每次把鏡頭帶到他，我都會覺得很有趣
 尤其我又有個學弟長得跟他很像（笑
 
-### 天能（其他電影）
+## 真人電影
+### 天能
 * 觀看平台： 京站 7 廳
 
 ![tenet]({static}/images/post-images/2020-what-i-watch-in-2020-summer/tenet.jpg)

@@ -182,7 +182,7 @@ ED 則由 ReoNa 演唱的 [ないない](https://www.youtube.com/watch?v=M8LwhRk
 扣除這點的話，它就是一部普通的日常作品，沒有特別優秀
 我還蠻意外會出第二季的，但我還是會繼續看下去就是了 😆
 
-## 舊番
+## 補番
 
 ### JOJO 的奇妙冒險
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=6107)

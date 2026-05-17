@@ -23,6 +23,8 @@ DDDD 的話，我則是想等電影看完
 
 [TOC]
 
+## 新番
+
 ### 鹿乃子乃子乃子虎視眈眈
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=38892)
 
