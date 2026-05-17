@@ -2,7 +2,7 @@ Title: BanG Dream! Ave Mujica
 Subtitle: 瘋狂星期四
 Date: 2026-01-04 13:16 +0800
 Category: Review
-Tags: Anime
+Tags: Anime, BanG Dream
 Slug: bang-dream-ave-mujica
 Cover: /images/post-images/2025-what-i-watch-in-2025-winter/ave-mujica.png
 Authors: Wei Lee
@@ -13,6 +13,9 @@ Authors: Wei Lee
 <!--more-->
 
 ![ave-mujica](/images/post-images/2025-what-i-watch-in-2025-winter/ave-mujica.png)
+/// caption
+© BanG Dream! Project｜圖源：[巴哈姆特動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=42663)
+///
 
 尤其是一看就知道評價兩極的初華讀白
 啊...好美，我真的是愛到瘋掉
@@ -38,5 +41,8 @@ Authors: Wei Lee
 同時我也會
 
 ![mygo-oshiyawaseni](/images/meme/mygo-oshiyawaseni.jpg)
+/// caption
+© BanG Dream! Project｜出自 [BanG Dream! It's MyGO!!!!! [13]](https://ani.gamer.com.tw/animeVideo.php?sn=34714)
+///
 
 所以不要來找我吵架

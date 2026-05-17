@@ -7,12 +7,13 @@ Slug: kotaro-lives-alone
 Cover: /images/post-images/2023-kotaro-lives-alone/kotaro-lives-alone.png
 Authors: Wei Lee
 
+扣除掉小太郎真的一個人生活（社會局都去哪了）這點稍微奇幻外
+大致上是個溫馨日常作品
+
 <!--more-->
 
 * 觀看平台： [Netflix](https://www.netflix.com/tw/title/81275353)
 
-扣除掉小太郎真的一個人生活（社會局都去哪了）這點稍微奇幻外
-大致上是個溫馨日常作品
 小太郎雖然比較成熟，但不至於讓人感到太超過
 透過他的過去能多少看出為什麼會變成這樣的一個人
 也反映的現實社會中的忽視、家暴可能造成的問題

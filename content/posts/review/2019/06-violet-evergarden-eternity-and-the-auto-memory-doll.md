@@ -7,10 +7,10 @@ Authors: Wei Lee
 
 ![ticket]({static}/images/post-images/2019-11-05-06-violet-evergarden-movie/ticket.jpg)
 
-<!--more-->
-
 最近台灣真的是京阿尼電影連發
 三部上低音號，再加上這部紫羅蘭
+
+<!--more-->
 不過比起上低音號，看紫羅蘭的人多了很多
 
 不知道是不是前一天才看了上低音號，還沈浸在它的情緒中

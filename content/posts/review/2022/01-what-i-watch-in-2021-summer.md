@@ -495,7 +495,7 @@ OP ちいさな日々 跟 ED 君は天然色 都會在適合的時機點出現
 ### 回憶三部曲
 * 觀看平台： 京站威秀 1 廳
 
-👉 [回憶三部曲 - 經得起時間考驗的好作品]({filename}/posts/review/2021/04-memories.md))
+👉 [回憶三部曲 - 經得起時間考驗的好作品]({filename}/posts/review/2021/04-memories.md)
 
 ### Fate Grand Order-神聖圓桌領域卡美洛- Paladin; Agateram
 * 觀看平台： 京站威秀 7 廳

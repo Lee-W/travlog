@@ -3,6 +3,7 @@ Date: 2026-02-19 17:48 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: virgin-punk
+Cover: /images/post-images/2026/what-i-watched-in-2026-winter/virgin-punk.jpeg
 Authors: Wei Lee
 
 畢竟是一部只有 35 分鐘的電影，觀影壓力非常的低

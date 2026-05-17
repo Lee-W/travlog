@@ -3,7 +3,7 @@ Subtitle: 這部不需要 4DX ...
 Date: 2025-08-30 18:05 +0800
 Category: Review
 Tags: Movie
-Slug: kakukakujikajika
+Slug: kakukakushikajika
 Cover: /images/post-images/2025-kakukakushikajika/screen.JPEG
 Authors: Wei Lee
 
@@ -26,7 +26,7 @@ Hisa さん說得對 💪
 
 ![buy-first](/images/post-images/buy-first.jpeg)
 
-於是立刻買下了 F 排的兩張票  
+於是立刻買下了 F 排的兩張票
 
 ![ticket](/images/post-images/2025-kakukakushikajika/ticket.JPEG)
 

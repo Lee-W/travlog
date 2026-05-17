@@ -4,6 +4,7 @@ Date: 2025-08-19 10:30 +0800
 Category: Review
 Tags: Anime
 Slug: re-0-season-3
+Cover: /images/post-images/2025-what-i-watch-in-2025-winter/re-zero-3.jpg
 Authors: Wei Lee
 
 第三季什麼都棒
@@ -15,6 +16,9 @@ Authors: Wei Lee
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=40260)
 
 ![re-zero-3](/images/post-images/2025-what-i-watch-in-2025-winter/re-zero-3.jpg)
+/// caption
+© 長月達平・KADOKAWA／Re:ゼロから始める異世界生活製作委員会｜圖源：[巴哈姆特動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=40260)
+///
 
 明明看了那 90 分鐘的第一集就有完完整整滿足到啊
 後面的品質只有升沒有降

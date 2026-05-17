@@ -14,6 +14,9 @@ Girls Band Cry 有正式譯名前
 <!--more-->
 
 ![gbc](/images/post-images/2025-what-i-watch-in-2025-winter/gbc.png)
+/// caption
+© 東映アニメーション｜圖源：[巴哈姆特動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=40645)
+///
 
 這是一個 **證明「我沒有錯」** 的故事
 非常的好看，音樂也都很好聽
@@ -32,6 +35,9 @@ Girls Band Cry 有正式譯名前
 而且我會
 
 ![mygo-oshiyawaseni](/images/meme/mygo-oshiyawaseni.jpg)
+/// caption
+© BanG Dream! Project｜出自 [BanG Dream! It's MyGO!!!!! [13]](https://ani.gamer.com.tw/animeVideo.php?sn=34714)
+///
 
 所以我還是多喜歡 MyGO!!!!! 一點
 我在迷失中前進就好了

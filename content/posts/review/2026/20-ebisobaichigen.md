@@ -2,7 +2,7 @@ Title: 一幻拉麵 台北信義店
 Subtitle: 犒賞一下辛苦的小祥
 Date: 2026-05-03 23:20 +0800
 Category: Review
-Tags: 拉麵
+Tags: Food, 拉麵
 Slug: ebisobaichigen
 Cover: /images/post-images/2026/ebisobaichigen/ebisobaichigen.jpeg
 Authors: Wei Lee

@@ -12,8 +12,7 @@ Authors: Wei Lee
 
 {% place restaurant.yaml#kakuregaramen %}
 
-![kakuregaramen](/images/post-images/2026/restaurant/kakuregaramen.jpeg
-)
+![kakuregaramen](/images/post-images/2026/restaurant/kakuregaramen.jpeg)
 
 這次點了`黃金雞湯拉麵（雞）` (NT$ 260)
 湯頭的味道清爽，不油膩

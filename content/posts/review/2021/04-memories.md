@@ -2,7 +2,7 @@ Title: 回憶三部曲
 Subtitle: 經得起時間考驗的好作品
 Date: 2021-09-04 13:10 +0800
 Category: Review
-Tags: Anime
+Tags: Anime, Movie
 Slug: memories
 Cover: /images/post-images/2021-memories/memories.jpeg
 Authors: Wei Lee
@@ -25,7 +25,7 @@ Authors: Wei Lee
 
 ![memories](/images/post-images/2021-memories/memories.jpeg)
 
-### 她的回憶
+## 她的回憶
 故事發生在 2092 年的宇宙，主角們收到神秘的遇難船發出的求救訊號
 在尋找訊號來源的過程中，被拉進了許久以前「她」的回憶之中
 眼前看到的她到底是不是真的存在？
@@ -38,7 +38,7 @@ Authors: Wei Lee
 除此之外，宇宙畫面的呈現也相當優秀，讓人置身在宇宙中的感覺
 甚至讓我想起前年去星戰樂園玩 [Rise of Resistance]({filename}/posts/travel/2019/02-rise-of-the-resistance.md) 的體驗
 
-### 最臭兵器
+## 最臭兵器
 在三個故事中，這是比較搞笑的一個
 戲院中的大家也笑得很開心 😆
 整體的節奏相當緊湊，緊張的場景都有好好的帶出來
@@ -48,7 +48,7 @@ Authors: Wei Lee
 雖然很早就能猜到故事會怎麼走，我還是蠻慶幸我沒有被爆到雷
 所以我就也不說到底會發生什麼事了～
 
-### 大砲之街
+## 大砲之街
 比起說一個故事，大砲之街更像是單純地在描繪世界觀
 從一個小家庭的一天帶到整個國家都為了大砲而生
 全國努力的唯一目標就是十二點鐘發射大砲

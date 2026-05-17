@@ -287,7 +287,7 @@ Authors: Wei Lee
 真的是部不簡單的作品
 推薦收聽[EP146：如果曠世奇片拍出來會怎麼樣！？《王立宇宙軍》《GAINAX》《FLCL》](https://neildrinkmilk.firstory.io/episodes/clh1ec7w70gxz01tb0k62b6ov)
 
-![The Wings of Honneamise](/images/post-images/2023-what-i-watch-in-2023-sprint/The%20Wings%20of%20Honneamise.jpeg)
+![The Wings of Honneamise](/images/post-images/2023-what-i-watch-in-2023-sprint/the-wings-of-honneamise.jpeg)
 
 ### 超級瑪利歐兄弟電影版
 * 觀看平台： 大直美麗華 IMAX 廳

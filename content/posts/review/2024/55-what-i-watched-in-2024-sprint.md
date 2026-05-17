@@ -53,7 +53,7 @@ Authors: Wei Lee
 
 都親上去了，濃度過關
 
-👉 [夜晚的水母不會游泳 - そういう問題じゃない!]({filename}/posts/review/2024/45-the-death-boy-and-the-black-maid.md)
+👉 [夜晚的水母不會游泳 - そういう問題じゃない!]({filename}/posts/review/2024/54-yuru-kura.md)
 
 ### 搖曳露營△ 第三季
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=37842)
@@ -203,7 +203,7 @@ Authors: Wei Lee
 
 ## 真人影集
 ### 擅長捉弄人的高木同學
-* 觀看平台： [Netflix](https://www.netflix.com/title81729961)
+* 觀看平台： [Netflix](https://www.netflix.com/title/81729961)
 
 👉 [(日劇) 擅長捉弄人的高木同學 - 我詛咒你，高木同學]({filename}/posts/review/2024/46-drama-teasing-master-takagi-san.md)
 
@@ -285,7 +285,7 @@ Authors: Wei Lee
 我覺得改得蠻好的啊 👀
 兩邊我都看得很快樂
 
-![Life Lessons with Uramichi Oniisan](/images/post-images/2024-what-i-watched-in-2024-sprint/Life%20Lessons%20with%20Uramichi%20Oniisan.jpg)
+![Life Lessons with Uramichi Oniisan](/images/post-images/2024-what-i-watched-in-2024-sprint/life-lessons-with-uramichi-oniisan.jpg)
 
 ### 夢的化石
 * 觀看平台: [KOBO](https://www.kobo.com/tw/zh/ebook/d_qOsSYv3TqT1mDMc6brHA)

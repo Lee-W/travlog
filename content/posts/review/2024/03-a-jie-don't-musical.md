@@ -46,7 +46,7 @@ Authors: Wei Lee
 最後再貼一次購票連結，先要買再考慮好
 
 * [臺灣首部迷因音樂劇《吼呦～杰哥不要啦！！》](https://www.opentix.life/event/1697167981154205697)
-* [果陀劇場《我在詐騙公司上班》2024好評加演](https://tixfun.com/UTK0201_?PRODUCT_ID=Q015T9ZQ))
+* [果陀劇場《我在詐騙公司上班》2024好評加演](https://tixfun.com/UTK0201_?PRODUCT_ID=Q015T9ZQ)
 
 ### Podcast
 

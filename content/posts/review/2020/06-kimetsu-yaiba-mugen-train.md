@@ -9,9 +9,9 @@ Authors: Wei Lee
 
 ![kimetsu]({static}/images/post-images/2020-kimetsu-yaiba-mugen-train/kimetsu.jpg)
 
-<!--more-->
-
 其實我上映第二天就去看了，只是到現在才寫這篇文 XD
+
+<!--more-->
 上次在松仁威秀的 titan 廳看「Fate/Stay Night Heaven's Feel 春櫻之歌」的體驗實在太好了
 聽說無限列車又~~燒了更多經費~~做了更好的特效，當然就更不能不在這看
 

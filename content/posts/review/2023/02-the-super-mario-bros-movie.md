@@ -1,7 +1,7 @@
 Title: 超級瑪利歐兄弟電影版
 Date: 2023-04-12 20:49 +0800
 Category: Review
-Tags: Movie
+Tags: Animation, Movie
 Slug: the-super-mario-bros-movie
 Cover: /images/post-images/2023-the-super-mario-bros-movie/the-super-mario-bros-movie-2.jpeg
 Authors: Wei Lee

@@ -152,7 +152,7 @@ Authors: Wei Lee
 ### 異世界自殺突擊隊 <!--b-->
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=38827)
 
-👉 [異世界自殺突擊隊 - 有趣的嘗試，但不能說是成功的嘗試]({filename}/posts/review/2024/63-egumi-legacy.md)
+👉 [異世界自殺突擊隊 - 有趣的嘗試，但不能說是成功的嘗試]({filename}/posts/review/2024/58-Suicide-Squad-ISEKAI.md)
 
 ## 補番
 
@@ -231,6 +231,9 @@ Authors: Wei Lee
 每次重刷都可以想起爲什麼  One more chance, one more time 就跟春日影一樣
 
 ![mygo-good-song](/images/meme/mygo-good-song.jpg)
+/// caption
+© BanG Dream! Project｜出自 [BanG Dream! It's MyGO!!!!! [2]](https://ani.gamer.com.tw/animeVideo.php?sn=34031)
+///
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3akr0ZrJxLMBLIFeNNKffW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

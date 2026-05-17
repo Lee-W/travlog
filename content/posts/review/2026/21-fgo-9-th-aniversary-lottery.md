@@ -4,6 +4,7 @@ Modified: 2026-05-09 11:17 +0800
 Category: Review
 Tags: Fate, FGO
 Slug: fgo-9-th-aniversary-lottery
+Cover: /images/post-images/2026/fgo-9-th-aniversary-lottery/IMG_0883.jpeg
 Authors: Wei Lee
 
 我曾是一個不能理解「為什麼有人會一直農手遊」的人

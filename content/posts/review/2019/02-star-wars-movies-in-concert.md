@@ -1,7 +1,7 @@
 Title: Star Wars Movies - In Concert
 Date: 2019-09-29 16:26 +0800
 Category: Review
-Tags: Star Wars, Concert
+Tags: Star Wars, Concert, Music
 Slug: star-wars-movies-in-concert
 Authors: Wei Lee
 

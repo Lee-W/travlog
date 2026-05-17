@@ -2,7 +2,7 @@ Title: BanG Dream! It's MyGO!!!!! 前編　春の陽だまり、迷い猫
 Subtitle: 我們仍未知道那天為何演奏春日影
 Date: 2024-10-19 10:30 +0800
 Category: Review
-Tags: Movie, Anime
+Tags: Movie, Anime, BanG Dream
 Slug: band-dream-it-s-my-go-movie-1
 Cover: /images/post-images/2024-band-dream-it-s-my-go-movie-1/mygo.jpg
 Authors: Wei Lee
@@ -59,6 +59,9 @@ Authors: Wei Lee
 真的可以這麼幸福嗎
 
 ![mygo-good-song](/images/meme/mygo-good-song.jpg)
+/// caption
+© BanG Dream! Project｜出自 [MyGO [2]](https://ani.gamer.com.tw/animeVideo.php?sn=34031)
+///
 
 跟我同行的朋友，原本以為爽世在演奏春日影時有在水
 但沒有！

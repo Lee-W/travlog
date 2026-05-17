@@ -2,7 +2,7 @@ Title: 身延自然之里停業
 Subtitle: 聖地且去且珍惜
 Date: 2026-03-26 21:40 +0800
 Category: Travel
-Tags: Japan, 搖曳露營△, 露營
+Tags: Japan, 聖地巡禮, 搖曳露營△, 露營
 Slug: Minobu-Shizen-no-Sato-close
 Cover: /images/pilgrimage/yuru-camp/Minobu-Shizen-no-Sato-2.jpeg
 Authors: Wei Lee
@@ -26,7 +26,7 @@ Authors: Wei Lee
 ![Minobu-Shizen-no-Sato.jpeg](/images/pilgrimage/yuru-camp/Minobu-Shizen-no-Sato.jpeg)
 
 後來在同年的年底，因為四尾連湖訂不到
-所以還有跟台灣野活部的遠征團再去一次身延自然之理
+所以還有跟台灣野活部的遠征團再去一次身延自然之里
 當初還有種「才剛去過，怎麼又來了」的感覺
 但現在回頭看，只會覺得 - 還好有再去一次！！！
 

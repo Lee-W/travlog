@@ -16,7 +16,7 @@ Authors: Wei Lee
 
 ![drama-teasing-master-takagi-san](/images/post-images/2024-drama-teasing-master-takagi-san/drama-teasing-master-takagi-san.png)
 
-* 觀看平台： [Netflix](https://www.netflix.com/title81729961)
+* 觀看平台： [Netflix](https://www.netflix.com/title/81729961)
 
 幾乎每集的觀感都有比前一集再好一些
 第一集戀愛成分太重，第二集就平衡回來

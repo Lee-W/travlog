@@ -2,7 +2,7 @@ Title: 小林家的龍女僕 交響音樂會 台北站
 Subtitle: Taiwan No.1
 Date: 2025-12-06 16:10 +0800
 Category: Review
-Tags: Concert, Kyoto Anime, 小林家的龍女僕
+Tags: Concert, Anime, Music, Kyoto Anime, 小林家的龍女僕
 Slug: kobayashino-maid-dragon-concert
 Cover: /images/post-images/2025-kobayashino-maid-dragon-concert/IMG_0031.jpeg
 Authors: Wei Lee

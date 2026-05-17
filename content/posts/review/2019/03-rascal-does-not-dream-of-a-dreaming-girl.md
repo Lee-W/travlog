@@ -7,10 +7,10 @@ Authors: Wei Lee
 
 ![poster]({static}/images/post-images/2019-10-02-rascal-does-not-dream-of-a-dreaming-girl/15699803588522.jpg){: width="80%"}
 
-<!--more-->
-
 「青春豬頭少年不會夢到懷夢美少女」是「青春豬頭少年不會夢到兔女郎學姊」這部動畫的劇場版
 名字真的很長...
+
+<!--more-->
 原本我對這部動畫興趣一直不是很高
 畢竟名字實在太像後宮番了，所以當初我並沒有追這部
 

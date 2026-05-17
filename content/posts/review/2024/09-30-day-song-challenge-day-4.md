@@ -1,5 +1,5 @@
 Title: 30 天歌挑戰 - Day 4
-Subtitle: A song that minds you of someone
+Subtitle: A song that reminds you of someone
 Date: 2024-04-25 12:00 +0800
 Modified: 2024-05-08 12:45 +0800
 Category: Review

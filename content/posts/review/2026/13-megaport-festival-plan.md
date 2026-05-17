@@ -4,6 +4,7 @@ Date: 2026-03-15 22:35 +0800
 Category: Review
 Tags: Music Festival, 大港開唱
 Slug: megaport-festival-plan
+Cover: /images/post-images/2026/megarport-festival-plan/day-1-plan.png
 Authors: Wei Lee
 
 上一次參加大港開唱已經是 2023 年了

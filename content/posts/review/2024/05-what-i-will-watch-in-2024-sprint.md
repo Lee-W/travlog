@@ -152,7 +152,7 @@ Authors: Wei Lee
 
 ## 真人影集
 ### 擅長捉弄人的高木同學
-* 觀看平台： [Netflix](https://www.netflix.com/title81729961)
+* 觀看平台： [Netflix](https://www.netflix.com/title/81729961)
 
 ![takagisan](/images/post-images/2024-what-i-will-watch-in-2024-sprint/takagisan.png)
 

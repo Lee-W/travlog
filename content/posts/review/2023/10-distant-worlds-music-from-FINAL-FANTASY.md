@@ -2,7 +2,7 @@ Title: Distant Worlds: music from FINAL FANTASY
 Subtitle: 一閉上眼就能進入奇幻世界
 Date: 2023-07-18 00:05 +0800
 Category: Review
-Tags: Concert, Final Fantasy
+Tags: Concert, Music, Final Fantasy
 Slug: distant-worlds-music-from-FINAL-FANTASY
 Cover: /images/post-images/2023-distant-worlds-music-from-FINAL-FANTASY/distant-worlds-music-from-FINAL-FANTASY.jpg
 Authors: Wei Lee

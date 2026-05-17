@@ -3,6 +3,7 @@ Date: 2026-05-01 22:15 +0800
 Category: Review
 Tags: Article
 Slug: update-my-theatre-preference-page
+Cover: /images/post-images/2026/update-my-theatre-preference-page/after.png
 Authors: Wei Lee
 
 當初只是想要把我在各電影院喜歡坐的位置公開在網路上
@@ -24,11 +25,13 @@ Authors: Wei Lee
 
 下面兩張圖片很長，點開不要嚇到 xD
 
+<!-- rumdl-disable -->
 ??? 更新前
     ![before](/images/post-images/2026/update-my-theatre-preference-page/before.png)
 
 ??? 更新後
     ![after](/images/post-images/2026/update-my-theatre-preference-page/after.png)
+<!-- rumdl-enable -->
 
 [電影院座位個人喜好]: {filename}/pages/theaters-preference.md
 [pelican-osm]: https://pypi.org/project/pelican-osm/

@@ -34,11 +34,17 @@ JOJO 之前跟我說「地太重了，所以一直還沒跟上進度」
 看了第一集才知道，竟然是架空的故事
 
 ![aot-disappoint](/images/meme/aot-disappoint.jpg)
+/// caption
+© 諫山創・講談社／アニメ「進撃の巨人」製作委員会｜出自 [進撃の巨人 The Final Season 完結篇 前篇](https://ani.gamer.com.tw/animeVideo.php?sn=33047)
+///
 
 然而看完如此精彩的故事
 我對曾經為這種小事感到失望的自己
 
 ![aot-disappoint](/images/meme/aot-disappoint.jpg)
+/// caption
+© 諫山創・講談社／アニメ「進撃の巨人」製作委員会｜出自 [進撃の巨人 The Final Season 完結篇 前篇](https://ani.gamer.com.tw/animeVideo.php?sn=33047)
+///
 
 比起科學的探討，地更多探討的是哲學、是思想
 卻同時也是部相當好入口的作品
@@ -126,6 +132,9 @@ JOJO 之前跟我說「地太重了，所以一直還沒跟上進度」
 故事都是出乎意料的方式傳承下去，我很喜歡這樣的設計
 
 ![touched](/images/post-images/2025-what-i-watch-in-2025-winter/touched.png)
+/// caption
+© 魚豊・小学館｜出自 [地。—關於地球的運動—(01)](https://www.kobo.com/tw/zh/ebook/Pbze620HRj-zmo9o9aiV7w)
+///
 
 這是第一章中，我最喜歡的一幕
 也許也是貫穿整部作品的核心

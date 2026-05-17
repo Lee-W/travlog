@@ -57,7 +57,7 @@ Authors: Wei Lee
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3PXRF7j2pKqRodaPKYXxof?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-我猜是因為電影版上映，今年七月台灣的 Netflix 也上了[小林家的龍女僕](https://embed.release-stage.netflix.com/tw/title/80186349)
+我猜是因為電影版上映，今年七月台灣的 Netflix 也上了[小林家的龍女僕](https://www.netflix.com/tw/title/80186349)
 如果你只是快速隨意的補完一部作品，那也許它不適合你
 它美好的點在於它細細鋪成的情感
 直到現在，每每想起都會讓人覺得有些溫暖

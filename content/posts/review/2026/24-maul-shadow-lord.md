@@ -48,11 +48,11 @@ Authors: Wei Lee
 但...反正複製人戰爭[^3]真的超好看
 所以，現在就訂閱 Disney+ 開始看吧！！！
 
-[^1]: Star Wars: Episode I – The Phantom Menace
+[^1]: [Star Wars: Episode I – The Phantom Menace](https://www.disneyplus.com/browse/entity-e0a9fee4-2959-4077-ad8c-8fab4fd6e4d1)
 [^2]: Maul
-[^3]: Clone Wars
+[^3]: [Clone Wars](https://www.disneyplus.com/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e)
 [^4]: 劇中設定是女巫的法術，實則是資本的魔法，大家太愛它了
 [^5]: Darth Sidious
 [^6]: Siege of Mandalore
-[^7]: Star Wars: Maul – Shadow Lord
-[^8]: Solo: A Star Wars Story
+[^7]: [Star Wars: Maul – Shadow Lord](https://www.disneyplus.com/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e)
+[^8]: [Solo: A Star Wars Story](https://www.disneyplus.com/browse/entity-791bc772-d930-40c9-83ec-5ef85923573e)

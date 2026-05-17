@@ -2,7 +2,7 @@ Title: 2024 夏季嚐百草
 Subtitle: 🦌
 Date: 2024-07-16 23:05 +0800
 Category: Review
-Tags: Anime
+Tags: Anime, 新番嚐百草
 Slug: what-i-will-watch-in-2024-summer
 Cover: /images/post-images/2024-what-i-will-watch-in-2024-summer/shika.png
 Authors: Wei Lee

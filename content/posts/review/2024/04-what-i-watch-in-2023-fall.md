@@ -222,7 +222,7 @@ The circle is now complete.
 ### ACCA13 區監察課 Regards
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=14862)
 
-![ACCA13 Regards](/images/post-images/2024-what-i-watch-in-2023-fall/ACCA13%20Regards.jpeg)
+![ACCA13 Regards](/images/post-images/2024-what-i-watch-in-2023-fall/acca13-regards.jpeg)
 
 ACCA 13 的後日談，一小時的特別篇
 大致上有抓住 ACCA 13 的感覺
@@ -375,7 +375,7 @@ PA Works 的工作女孩系列又一新作
 劇情有幾次的反轉，也都在情理之中
 確實是很精彩的一部經典作
 
-![Infernal Affairs](/images/post-images/2024-what-i-watch-in-2023-fall/Infernal%20Affairs.png)
+![Infernal Affairs](/images/post-images/2024-what-i-watch-in-2023-fall/infernal-affairs.png)
 
 ### 旺卡
 * 觀看平台： 信義威秀 8 廳

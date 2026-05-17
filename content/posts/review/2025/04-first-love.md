@@ -53,6 +53,9 @@ Authors: Wei Lee
 但是
 
 ![star-wars-this-close](/images/meme/star-wars-this-close.jpg)
+/// caption
+© & ™ Lucasfilm Ltd.｜出自 [Rogue One: A Star Wars Story](https://www.disneyplus.com/browse/entity-5ec74210-f970-42b7-a39f-8653c0a9eab8)
+///
 
 主線收得有點太美好了，一切都發展得太過於順利
 不會不好看

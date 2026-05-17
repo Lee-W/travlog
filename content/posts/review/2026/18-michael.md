@@ -2,7 +2,7 @@ Title: 麥可傑克森（Michael）
 Subtitle: 筆咧
 Date: 2026-04-27 10:20 +0800
 Category: Review
-Tags: Movie
+Tags: Movie, Music
 Slug: michael
 Cover: /images/post-images/2026/what-i-watched-in-2026-sprint/michael.jpeg
 Authors: Wei Lee

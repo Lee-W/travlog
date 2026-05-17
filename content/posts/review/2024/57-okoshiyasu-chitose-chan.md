@@ -4,7 +4,7 @@ Date: 2024-08-27 22:55 +0800
 Category: Review
 Tags: Anime
 Slug: okoshiyasu-chitose-chan
-Cover: /images/post-images/2024-what-i-watched-in-2024-summer/Okoshiyasu,%20Chitose-chan.png
+Cover: /images/post-images/2024-what-i-watched-in-2024-summer/okoshiyasu-chitose-chan.png
 Authors: Wei Lee
 
 感謝四貓又推薦好作品
@@ -16,7 +16,7 @@ Authors: Wei Lee
 
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=17286)
 
-![Okoshiyasu, Chitose-chan](/images/post-images/2024-what-i-watched-in-2024-summer/Okoshiyasu,%20Chitose-chan.png)
+![Okoshiyasu, Chitose-chan](/images/post-images/2024-what-i-watched-in-2024-summer/okoshiyasu-chitose-chan.png)
 
 其實本身也沒什麼劇情，是比吉伊卡哇長一點，但就不太多
 故事在說京都有一隻大家都熟識的企鵝千歲，在京都走來走去的溫馨故事

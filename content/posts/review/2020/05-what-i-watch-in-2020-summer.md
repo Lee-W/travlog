@@ -201,7 +201,7 @@ DECA - DENCE 是我這季新番中每週最期待的作品
 ### 藍色恐懼
 * 觀看平台: 信義威秀 8 廳
 
-![perfect blue]({static}/images/post-images/2020-what-i-watch-in-2020-summer/perfect blue.jpg)
+![perfect blue]({static}/images/post-images/2020-what-i-watch-in-2020-summer/perfect-blue.jpg)
 
 這是我第一部看的今敏的作品，大師不愧是大師
 歷久不衰的作品自然有它的優秀之處
@@ -248,7 +248,7 @@ Fate / stay night 是一個分為三個攻略路線的遊戲
 甚至在一些整個在旋轉的場景，還會讓我感到有些暈眩
 後面兩刷的感受就遠低於松仁威秀
 
-![fate wall]({static}/images/post-images/2020-what-i-watch-in-2020-summer/fate wall.jpg)
+![fate wall]({static}/images/post-images/2020-what-i-watch-in-2020-summer/fate-wall.jpg)
 
 光是因為這樣的製作好像很值得來電影院體驗，我就三刷了 XD
 大概就跟「終局之戰」的大場面會想去美麗華 IMAX 看的心情一樣
@@ -262,11 +262,11 @@ Fate / stay night 是一個分為三個攻略路線的遊戲
 節奏上稍微有點快，但又覺得是必要的刪減，畢竟這部電影都已經兩個小時了
 不過重要的情感鋪成上，沒有任何一段有被馬虎的帶過
 
-![fate 1]({static}/images/post-images/2020-what-i-watch-in-2020-summer/fate 1.jpg)
+![fate 1]({static}/images/post-images/2020-what-i-watch-in-2020-summer/fate-1.jpg)
 
-![fate 2]({static}/images/post-images/2020-what-i-watch-in-2020-summer/fate 2.jpg)
+![fate 2]({static}/images/post-images/2020-what-i-watch-in-2020-summer/fate-2.jpg)
 
-![fate 3]({static}/images/post-images/2020-what-i-watch-in-2020-summer/fate 3.jpg)
+![fate 3]({static}/images/post-images/2020-what-i-watch-in-2020-summer/fate-3.jpg)
 
 ### Fate/stay night [Heaven's Feel] I. 預示之花
 * 觀看平台: [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=11471)
@@ -317,7 +317,7 @@ Fate / stay night 是一個分為三個攻略路線的遊戲
 之前有一段時間聽著 One time one more ，覺得好像也那麼好聽
 原來是因為太久沒複習秒速五公分，忘了結尾這首歌帶來的情感
 
-![a chain of short stories about their distance]({static}/images/post-images/2020-what-i-watch-in-2020-summer/a chain of short stories about their distance.jpg)
+![a chain of short stories about their distance]({static}/images/post-images/2020-what-i-watch-in-2020-summer/a-chain-of-short-stories-about-their-distance.jpg)
 
 ### THE END OF EVANGELION - AIR / 真心為你
 * 觀看平台： [Netflix](https://www.netflix.com/tw-en/title/60024788)
@@ -342,7 +342,7 @@ Fate / stay night 是一個分為三個攻略路線的遊戲
 這部有點沒打到我
 不至於到難看，但屬於看完我可能就忘了的作品
 
-![The place promised in our early days]({static}/images/post-images/2020-what-i-watch-in-2020-summer/The place promised in our early days.jpeg)
+![The place promised in our early days]({static}/images/post-images/2020-what-i-watch-in-2020-summer/the-place-promised-in-our-early-days.jpeg)
 
 ### 魔法少女☆伊莉雅 百變嘉年華
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=14568)

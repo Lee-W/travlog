@@ -1,7 +1,7 @@
 Title: 不知恥的紫煙
 Subtitle: 福葛的救贖
 Date: 2021-12-14 23:37 +0800
-Modified: 2021-12-15 9:36
+Modified: 2021-12-15 09:36 +0800
 Category: Review
 Tags: Anime, JOJO, Novel
 Slug: purple-haze-feedback
