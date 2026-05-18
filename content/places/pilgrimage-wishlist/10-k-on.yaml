@@ -1,0 +1,30 @@
+work: K-ON | けいおん！
+tags: [動畫]
+locations:
+- name: 修学院駅
+  lat: 35.050514
+  lon: 135.790359
+  notes: ''
+  country: 日本
+  city: 京都
+  tags: []
+  images: []
+  urls: []
+- name: 水路閣
+  lat: 35.010739
+  lon: 135.794010
+  notes: ''
+  country: 日本
+  city: 京都
+  tags: []
+  images: []
+  urls: []
+- name: 京都府立図書館
+  lat: 35.013220
+  lon: 135.782235
+  notes: ''
+  country: 日本
+  city: 京都
+  tags: []
+  images: []
+  urls: []
