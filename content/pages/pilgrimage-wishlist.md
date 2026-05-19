@@ -100,6 +100,7 @@ Slug: pilgrimage-wishlist
 
 ### 25 BanG Dream! 系列 | BanG Dream!系列
 - [バンドリMyGO!!!!!＆Ave Mujica聖地巡礼MAP](https://www.google.com/maps/d/u/0/viewer?mid=1pYIw74PacEBLK1C0mApbQjeET8BIyXo&femb=1&ll=35.754950110521804%2C139.73336983250323&z=16)
+- [MyGO!!!!! ＆ Ave Mujica 関連聖地マップ - Google 我的地圖](https://www.google.com/maps/d/u/0/viewer?mid=1gQBwA5syRo9xgqLWliYk7WmqLfDZe7M&g_ep=CAISEjI1LjM3LjEuODA1MDE3NzYxMBgBIN1iKj8sOTQyODQ0OTMsOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsOTQyODY4NjlCAkhL&skid=7d9b4816-46bb-4182-9c7d-5b8a21a410ee&g_st=ic&ll=48.60587343180586%2C70.24904280000004&z=3)
 
 ### 27 敗北女角太多了 | 負けヒロインが多すぎる！
 - [聖地巡礼マップ | TVアニメ「負けヒロインが多すぎる！」公式サイト](https://makeine-anime.com/special/map/)
