@@ -60,7 +60,7 @@ Authors: Wei Lee
 
 ![mygo-good-song](/images/meme/mygo-good-song.jpg)
 /// caption
-© BanG Dream! Project｜出自 [MyGO [2]](https://ani.gamer.com.tw/animeVideo.php?sn=34031)
+© BanG Dream! Project｜出自 [BanG Dream! It's MyGO!!!!! [2]](https://ani.gamer.com.tw/animeVideo.php?sn=34031)
 ///
 
 跟我同行的朋友，原本以為爽世在演奏春日影時有在水

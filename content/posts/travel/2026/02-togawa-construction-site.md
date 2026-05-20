@@ -14,7 +14,7 @@ Ave Mujica 的世界觀瀕臨瓦解
 
 ![收入實在太少了](/images/meme/ave-mujica-1-income-too-low.jpg)
 /// caption
-出自 [BanG Dream! Ave Mujica [1]](https://ani.gamer.com.tw/animeVideo.php?sn=41638)
+© BanG Dream! Project｜出自 [BanG Dream! Ave Mujica [1]](https://ani.gamer.com.tw/animeVideo.php?sn=41638)
 ///
 
 前段時間忘了在哪看到市政府附近有交管小祥

@@ -4,7 +4,7 @@ Date: 2026-03-26 21:40 +0800
 Category: Travel
 Tags: Japan, 聖地巡禮, 搖曳露營△, 露營
 Slug: Minobu-Shizen-no-Sato-close
-Cover: /images/pilgrimage/yuru-camp/Minobu-Shizen-no-Sato-2.jpeg
+Cover: /images/pilgrimage/yuru-camp/19-Minobu-Shizen-no-Sato-2.jpeg
 Authors: Wei Lee
 
 如同 [推しは推せる時に推せる](https://blog.wei-lee.me/posts/random-thoughts/2025/05/support-your-oshi-while-you-can/)
@@ -30,7 +30,7 @@ Authors: Wei Lee
 當初還有種「才剛去過，怎麼又來了」的感覺
 但現在回頭看，只會覺得 - 還好有再去一次！！！
 
-![Minobu-Shizen-no-Sato-2.jpeg](/images/pilgrimage/yuru-camp/Minobu-Shizen-no-Sato-2.jpeg)
+![Minobu-Shizen-no-Sato-2.jpeg](/images/pilgrimage/19-yuru-camp/Minobu-Shizen-no-Sato-2.jpeg)
 
 每次跟台灣野活部一起出門，都會覺得很快樂
 但我的遊記產出速度實在太慢了

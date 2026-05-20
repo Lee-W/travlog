@@ -30,7 +30,7 @@ Authors: Wei Lee
 
 ![我愛慕虛榮啦](/images/meme/mygo-vain-moment.jpg)
 /// caption
-出自 [BanG Dream! It's MyGO!!!!! [10]](https://ani.gamer.com.tw/animeVideo.php?sn=34517)
+© BanG Dream! Project｜出自 [BanG Dream! It's MyGO!!!!! [10]](https://ani.gamer.com.tw/animeVideo.php?sn=34517)
 ///
 
 有時候還是會想分享到社群媒體，讓子彈飛一下
