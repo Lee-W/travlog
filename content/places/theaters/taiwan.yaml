@@ -467,6 +467,12 @@ vieshow-linkou:
       alt_rows: ""
       hall_note: ""
       seat_note: ""
+    - hall: "2 廳"
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: ""
+      hall_note: ""
+      seat_note: "理想，D 可能會太前面"
     - hall: "6 廳"
       format: 2D 廳
       recommended_rows: "F"
