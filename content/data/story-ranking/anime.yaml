@@ -241,6 +241,16 @@
     href: '{filename}/posts/review/2022/05-what-i-watch-in-2022-winter.md#_12'
   - text: 海盜戰記 第二季
     href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_2'
+- title: mono女孩
+  tier: SS
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#mono'
+- title: 歲月流逝飯菜依舊美味
+  tier: SS
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#_4'
 - title: 女高中生的虛度日常
   tier: S
 - title: 擅長捉弄人的高木同學 (第一季、第二季)
@@ -492,6 +502,8 @@
   reviews:
   - text: '2025'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_3'
+  - text: '小市民系列 第二季'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#_3'
 - title: 深夜 Punch
   tier: S
   reviews:
@@ -502,6 +514,8 @@
   reviews:
   - text: '2025'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_4'
+  - text: '學姊是男孩劇場版：雨後天晴'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#_15'
 - title: 哎咕島消失的舔甜歌姬
   tier: S
   reviews:
@@ -732,6 +746,16 @@
   reviews:
   - text: '2025'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#the-last-attack'
+- title: 隨興旅－That's Journey－
+  tier: S
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#-thats-journey-'
+- title: 搖滾樂是淑女的嗜好
+  tier: S
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#_5'
 - title: New Game
   tier: A
 - title: 冰菓
@@ -746,6 +770,9 @@
   tier: A
 - title: 流汗吧！ 健身少女
   tier: A
+  reviews:
+  - text: '流汗吧！健身少女（二刷）'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#_11'
 - title: 三顆星彩色冒險
   tier: A
 - title: 萌獸寵物店
@@ -949,6 +976,8 @@
   reviews:
   - text: '2023'
     href: '{filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#lycoris-recoil'
+  - text: '友誼是時間的竊賊'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#lycoris-recoil'
 - title: 即使如此依舊步步進逼
   tier: A
   reviews:
@@ -1059,6 +1088,8 @@
   reviews:
   - text: '2023'
     href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_6'
+  - text: '劇場版 我與機器子'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#_14'
 - title: 【我推的孩子】
   tier: A
   reviews:
@@ -1283,6 +1314,8 @@
   reviews:
   - text: '2025'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_17'
+  - text: '續 夏目友人帳'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#_12'
 - title: 吹響吧！上低音號～
   tier: A
   reviews:
@@ -1453,6 +1486,41 @@
   reviews:
   - text: '2025'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_5'
+- title: 賽馬娘 蘆毛灰姑娘
+  tier: A
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#_6'
+- title: 忍者與殺手的兩人生活
+  tier: A
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#_7'
+- title: LAZARUS 拉撒路
+  tier: A
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#lazarus'
+- title: 九龍大眾浪漫
+  tier: A
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#_8'
+- title: 搞笑漫畫日和 第五季
+  tier: A
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#_9'
+- title: Hello！！黃金拼圖
+  tier: A
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#hello'
+- title: 黃金拼圖Thank You！
+  tier: A
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#thank-you'
 - title: 飛翔的魔女
   tier: B
 - title: 非洲的動物上班族
@@ -1771,6 +1839,11 @@
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#psycho-pass-season-2'
   - text: PSYCHO-PASS 3 心靈判官3　FIRST INSPECTOR
     href: '{filename}/posts/review/2022/05-what-i-watch-in-2022-winter.md#psycho-pass-3-3-first-inspector'
+- title: 記憶花園
+  tier: B
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#_16'
 - title: 同居人是貓
   tier: C
 - title: 放學後桌遊俱樂部

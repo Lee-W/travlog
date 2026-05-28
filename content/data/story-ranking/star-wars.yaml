@@ -1,5 +1,8 @@
 - title: 'Rogue One: A Star Wars Story'
   group: Movie
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#rogue-one-a-star-wars-story'
 - title: 'Star Wars: Episode V - The Empire Strikes Back'
   group: Movie
 - title: 'Star Wars: Episode IV - A New Hope'
@@ -28,6 +31,8 @@
   reviews:
   - text: '2023'
     href: '{filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#star-wars-andor'
+  - text: 'Andor Season 2'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#star-wars-andor-season-2'
 - title: 'Star Wars: The Mandalorian'
   group: Series
   reviews:
@@ -66,6 +71,8 @@
   reviews:
   - text: '2022'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#star-wars-visions'
+  - text: 'Visions Volume 2'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#star-wars-visions-volume-2'
 - title: 'Star Wars: The Bad Batch'
   group: Anime
   reviews:
@@ -76,9 +83,24 @@
   reviews:
   - text: '2023'
     href: '{filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#star-wars-the-bad-batch-season-2'
+- title: 'Star Wars: Tales of the Underworld'
+  group: Anime
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#star-wars-tales-of-the-underworld'
+- title: 'Star Wars: Tales of the Empire'
+  group: Anime
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#star-wars-tales-of-the-empire'
 - title: 'Under the Helmet: The Legacy of Boba Fett'
   group: Other
 - title: Star Wars Vehicle Flythroughs
   group: Other
 - title: 'Star Wars: Biomes'
   group: Other
+- title: 'Star Wars: Rise of the Resistance'
+  group: Other
+  reviews:
+  - text: '2025 春'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-sprint.md#star-wars-rise-of-the-resistance'
