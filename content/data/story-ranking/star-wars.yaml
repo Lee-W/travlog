@@ -22,7 +22,7 @@
   group: Movie
   reviews:
   - text: '2019'
-    href: '{filename}/posts/2019/08-star-wars-rise-of-skywalker.md'
+    href: '{filename}/posts/review/2019/08-star-wars-rise-of-skywalker.md'
 - title: 'Star Wars: Andor'
   group: Series
   reviews:
