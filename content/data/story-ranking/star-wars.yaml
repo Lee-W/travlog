@@ -20,6 +20,9 @@
   group: Movie
 - title: 'Star Wars: Episode IX - The Rise of Skywalker'
   group: Movie
+  reviews:
+  - text: '2019'
+    href: '{filename}/posts/2019/08-star-wars-rise-of-skywalker.md'
 - title: 'Star Wars: Andor'
   group: Series
   reviews:
