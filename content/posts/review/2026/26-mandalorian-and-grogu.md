@@ -49,5 +49,5 @@ Authors: Wei Lee
     作為復出的第一部電影，其實是滿好的策略
 <!-- rumdl-enable -->
 
-[^1]: [Star Wars: The Rise of Skywalker]({filename}/posts/2019/08-star-wars-rise-of-skywalker.md) 看了一下當年的心得，我的負評比我想像的少，時隔多年的我，真的很討厭這部電影，可能有接近我心中的糞作頂點 [Obi Wan]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#obi-wan-kenobi) 了
+[^1]: [Star Wars: The Rise of Skywalker]({filename}/posts/review/2019/08-star-wars-rise-of-skywalker.md) 看了一下當年的心得，我的負評比我想像的少，時隔多年的我，真的很討厭這部電影，可能有接近我心中的糞作頂點 [Obi Wan]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#obi-wan-kenobi) 了
 [^2]: [Alphabet Squadron](https://starwars.fandom.com/wiki/Alphabet_Squadron_(novel)) 星際大戰小說中獲得大量好評的一部作品，但我...第一次看完的時候沒有太看懂...要花點時間重看一次
