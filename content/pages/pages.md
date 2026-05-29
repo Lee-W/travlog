@@ -44,4 +44,18 @@ Slug: pages
       <span class="pages-card-desc">我去過的餐廳</span>
     </span>
   </a>
+  <a class="pages-card" href="/pages/concerts.html">
+    <span class="pages-card-icon">🎵</span>
+    <span class="pages-card-body">
+      <strong class="pages-card-title">演唱會紀錄</strong>
+      <span class="pages-card-desc">我參加過的演唱會</span>
+    </span>
+  </a>
+  <a class="pages-card" href="/pages/stage-performances.html">
+    <span class="pages-card-icon">🎭</span>
+    <span class="pages-card-body">
+      <strong class="pages-card-title">舞台表演紀錄</strong>
+      <span class="pages-card-desc">我看過的音樂劇、舞台劇、2.5次元舞台等</span>
+    </span>
+  </a>
 </div>

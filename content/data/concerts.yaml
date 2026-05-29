@@ -1,0 +1,526 @@
+# 演唱會紀錄
+# fields: flag, title ({text, href} 或純字串), date, venue ({text, href} 或純字串), reviews (選填)
+
+- flag: 🇹🇼
+  title:
+    text: "ANISAMA in TAIPEI 2026 -DOSHA！"
+    href: https://daydreamerstudio.kktix.cc/events/a3b6c62e
+  date: 2026-05-10
+  year: 2026
+  venue: 台北南港展覽館一館四樓
+
+- flag: 🇹🇼
+  title:
+    text: 'BanG Dream! Special LIVE in TAIPEI - DAY2: Poppin''Party×Roselia「DREAMS GO ON」'
+    href: https://bang-dream.com/bsl-taipei2026
+  date: 2026-04-12
+  year: 2026
+  venue:
+    text: 大佳河濱公園
+    href: https://www.openstreetmap.org/?#map=16/25.07484/121.53364
+
+- flag: 🇹🇼
+  title:
+    text: 'BanG Dream! Special LIVE in TAIPEI - DAY1 MyGO!!!!!×Ave Mujica「" moment/memory"」'
+    href: https://bang-dream.com/bsl-taipei2026
+  date: 2026-04-11
+  year: 2026
+  venue:
+    text: 大佳河濱公園
+    href: https://www.openstreetmap.org/?#map=16/25.07484/121.53364
+
+- flag: 🇹🇼
+  title: 大港開唱 2026
+  date: 2026-03-21
+  year: 2026
+
+- flag: 🇯🇵
+  title:
+    text: 'MyGO!!!!!×Ave Mujica ツーマンライブ「"moment / memory"」'
+    href: https://bang-dream.com/events/mygo-avemujica2026
+  date: 2026-03-01
+  year: 2026
+  venue:
+    text: Kアリーナ横浜
+    href: https://www.openstreetmap.org/?mlat=35.4658&mlon=139.6246#map=17/35.4658/139.6246
+
+- flag: 🇹🇼
+  title:
+    text: Mong Tong × XTRUX 《明日音》專場
+    href: https://ocftw.kktix.cc/events/mongtong
+  date: 2025-11-30
+  year: 2025
+  venue:
+    text: 臺北流行音樂中心 表演廳
+    href: https://www.openstreetmap.org/?mlat=25.0513&mlon=121.5990#map=19/25.051331/121.599037
+
+- flag: 🇹🇼
+  title:
+    text: "BanG Cover！夢想連彈"
+    href: https://go.fansi.me/events/170086
+  date: 2025-11-29
+  year: 2025
+  venue:
+    text: 樂悠悠之口 光復南
+    href: https://www.openstreetmap.org/?mlat=25.0436&mlon=121.5565#map=17/25.0436/121.5565
+
+- flag: 🇹🇼
+  title:
+    text: 小林家的龍女僕 交響音樂會 台北站
+    href: https://ticket.ibon.com.tw/ActivityInfo/Details/39082
+  date: 2025-11-09
+  year: 2025
+  venue:
+    text: 臺灣戲曲中心
+    href: https://www.openstreetmap.org/?mlat=25.0882&mlon=121.5250#map=17/25.0882/121.5250
+
+- flag: 💻
+  title:
+    text: "『Fate/stay night』20周年記念コンサート Finale"
+    href: https://concert.fate-sn.com/news/?id=66253
+  date: 2025-05-18
+  year: 2025
+  venue: 線上
+
+- flag: 🇯🇵
+  title:
+    text: "MyGO!!!!!×Ave Mujica 合同ライブ"
+    href: https://bang-dream.com/events/mygo-avemujica2025
+  date: 2025-04-26
+  year: 2025
+  venue:
+    text: Kアリーナ横浜
+    href: https://www.openstreetmap.org/?mlat=35.4658&mlon=139.6246#map=17/35.4658/139.6246
+
+- flag: 🇹🇼
+  title:
+    text: 姜根新番組！GINGER ROOT LIVE IN TAIPEI 2025
+    href: https://offtimemusic.kktix.cc/events/gingerroot2025
+  date: 2025-03-12
+  year: 2025
+
+- flag: 🇯🇵
+  title: Aimer Hall Tour 2024-2025
+  date: 2025-01-13
+  year: 2025
+  venue:
+    text: 福岡太陽宮
+    href: https://www.openstreetmap.org/?mlat=33.5936&mlon=130.4017#map=17/33.5936/130.4017
+
+- flag: 🇯🇵
+  title: Aimer Hall Tour 2024-2025
+  date: 2025-01-12
+  year: 2025
+  venue:
+    text: 福岡太陽宮
+    href: https://www.openstreetmap.org/?mlat=33.5936&mlon=130.4017#map=17/33.5936/130.4017
+
+- flag: 🇯🇵
+  title: Aimer Hall Tour 2024-2025
+  date: 2024-12-15
+  year: 2024
+  venue:
+    text: 橫濱國際平和會議場 國立大廳
+    href: https://www.openstreetmap.org/?mlat=35.4570&mlon=139.6365#map=17/35.4570/139.6365
+
+- flag: 🇯🇵
+  title: Aimer Hall Tour 2024-2025
+  date: 2024-12-14
+  year: 2024
+  venue:
+    text: 橫濱國際平和會議場 國立大廳
+    href: https://www.openstreetmap.org/?mlat=35.4570&mlon=139.6365#map=17/35.4570/139.6365
+
+- flag: 🇹🇼
+  title: "伍佰 & China Blue 2024 搖滾音樂會－台北站"
+  date: 2024-11-17
+  year: 2024
+  venue:
+    text: Legacy Taipei
+    href: https://www.openstreetmap.org/?#map=19/25.045006/121.529077
+
+- flag: 💻
+  title:
+    text: 'KESSOKU BAND Zepp Tour "We Will"'
+    href: https://intl.stagecrowd.live/s/scint/group/detail/i10162
+  date: 2024-11-03
+  year: 2024
+  venue: 線上
+
+- flag: 🇹🇼
+  title: "2024藥師寺寬邦亞洲巡迴演唱會「悟」-Satori"
+  date: 2024-10-25
+  year: 2024
+
+- flag: 💻
+  title:
+    text: "「Fate/stay night」20周年記念コンサート - Unlimited Blade Work"
+    href: https://concert.fate-sn.com/
+  date: 2024-09-22
+  year: 2024
+  venue: 線上
+
+- flag: 💻
+  title:
+    text: "「Fate/stay night」20周年記念コンサート - Heaven's Feel"
+    href: https://concert.fate-sn.com/
+  date: 2024-09-21
+  year: 2024
+  venue: 線上
+
+- flag: 💻
+  title:
+    text: 'Attack on Titan 10th ANNIVERSARY "ATTACK FES"「Attack 音 体感 Final」'
+    href: https://ponycanyon.zaiko.io/e/aotfes
+  date: 2024-08-17
+  year: 2024
+  venue: 線上
+
+- flag: 🇹🇼
+  title:
+    text: "平野綾 ASIA TOUR 2024 〜RE:BOOT〜 in Taipei"
+    href: https://atctwn.kktix.cc/events/f0afd041
+  date: 2024-08-16
+  year: 2024
+  venue:
+    text: Legacy Taipei
+    href: https://www.openstreetmap.org/?#map=19/25.045006/121.529077
+
+- flag: 🇹🇼
+  title:
+    text: HIKARU UTADA SCIENCE FICTION TOUR 2024
+    href: https://ticketplus.com.tw/activity/3febb9827897f445ab3c1eb5b2974ac2
+  date: 2024-08-11
+  year: 2024
+  venue:
+    text: 台北小巨蛋
+    href: https://www.openstreetmap.org/?mlat=25.0515&mlon=121.5505#map=17/25.0515/121.5505
+
+- flag: 🇹🇼
+  title:
+    text: Aimer 3 nuits tour 2024
+    href: https://amuse-binlive.kktix.cc/events/f628bb3d
+  date: 2024-06-22
+  year: 2024
+  venue:
+    text: 林口體育館
+    href: https://www.openstreetmap.org/?mlat=25.0695&mlon=121.3647#map=17/25.0695/121.3647
+
+- flag: 🇯🇵
+  title: ゆるキャン△音楽祭2024
+  date: 2024-06-08
+  year: 2024
+  venue:
+    text: JR甲府駅北口よっちゃばれ広場・歴史公園
+    href: https://www.openstreetmap.org/?mlat=35.6675&mlon=138.5706#map=19/35.667518/138.570659
+
+- flag: 🇹🇼
+  title:
+    text: "NieR：Orchestra Concert 12024 [ the end of data ]"
+    href: https://www.tmc.taipei/blog/show/nierorchestra-concert-12024/
+  date: 2024-06-01
+  year: 2024
+  venue:
+    text: 臺北流行音樂中心 表演廳
+    href: https://www.openstreetmap.org/?mlat=25.0513&mlon=121.5990#map=19/25.051331/121.599037
+
+- flag: 💻
+  title:
+    text: "Poppin'Party×MyGO!!!!! 合同ライブ「Divide/Unite」"
+    href: https://ib.eplus.jp/pp_mygo_st
+  date: 2024-04-29
+  year: 2024
+  venue: 線上
+
+- flag: 🇹🇼
+  title: ALI 愛楽舞貳零貳肆台灣
+  date: 2024-03-23
+  year: 2024
+  venue:
+    text: Legacy Taipei
+    href: https://www.openstreetmap.org/?#map=19/25.045006/121.529077
+
+- flag: 🇺🇸
+  title:
+    text: "TWICE 5TH WORLD TOUR 'READY TO BE' ONCE MORE"
+    href: https://www.allegiantstadium.com/events/detail/twice-2024
+  date: 2024-03-16
+  year: 2024
+  venue:
+    text: Allegiant Stadium
+    href: https://www.openstreetmap.org/?mlat=36.0908&mlon=-115.1830#map=17/36.0908/-115.1830
+
+- flag: 💻
+  title:
+    text: "MyGO!!!!! ZEPP TOUR 2024「彷徨する渇望」"
+    href: https://bang-dream.com/events/mygo_tour2024
+  date: 2024-02-12
+  year: 2024
+  venue: 線上
+
+- flag: 🇹🇼
+  title:
+    text: 'Ado THE FIRST WORLD TOUR "Wish"'
+    href: https://ticketplus.com.tw/activity/54fdee72c71c18cc2b694801e11e77cd
+  date: 2024-02-07
+  year: 2024
+  venue:
+    text: 臺北流行音樂中心 表演廳
+    href: https://www.openstreetmap.org/?mlat=25.0513&mlon=121.5990#map=19/25.051331/121.599037
+
+- flag: 🇹🇼
+  title:
+    text: fhána - Beautiful Dreamer ASIA Tour 2024
+    href: https://gutsrecords.kktix.cc/events/ejfjo
+  date: 2024-01-20
+  year: 2024
+  venue:
+    text: NUZONE展演空間
+    href: https://www.openstreetmap.org/?mlat=25.0442&mlon=121.5382#map=19/25.044267/121.538205
+
+- flag: 💻
+  title: ANIPLEX 20th Anniversary Event -THANX-
+  date: 2024-01-07
+  year: 2024
+  venue: 線上
+
+- flag: 🇹🇼
+  title: BANG!ACG 音樂祭
+  date: 2023-12-23
+  year: 2023
+
+- flag: 🇹🇼
+  title: "Hey Taipei，I'm milet※追加場"
+  date: 2023-11-30
+  year: 2023
+  venue:
+    text: Zepp New Taipei
+    href: https://www.openstreetmap.org/node/13353295908#map=19/25.059661/121.449499
+
+- flag: 🇯🇵
+  title: HIROMI ～SOLO～
+  date: 2023-11-18
+  year: 2023
+
+- flag: 💻
+  title: 第6回京都アニメーションファン感謝イベント KYOANI MUSIC FESTIVAL ―トキメキのキセキ―
+  date: 2023-11-11
+  year: 2023
+  venue: 線上
+
+- flag: 🇹🇼
+  title: 30th Anniversary Yuki Kajiura LIVE vol.#18〜The PARADE goes on〜 in Taipei
+  date: 2023-11-04
+  year: 2023
+  venue:
+    text: Zepp New Taipei
+    href: https://www.openstreetmap.org/node/13353295908#map=19/25.059661/121.449499
+
+- flag: 🇹🇼
+  title: 2023兩廳院夏日爵士 庫特．艾靈與查理．杭特《SuperBlue》
+  date: 2023-08-18
+  year: 2023
+
+- flag: 🇹🇼
+  title: RADWIMPS Asian Tour 2023 in Taipei
+  date: 2023-07-23
+  year: 2023
+  venue:
+    text: Zepp New Taipei
+    href: https://www.openstreetmap.org/node/13353295908#map=19/25.059661/121.449499
+
+- flag: 🇹🇼
+  title: "Distant Worlds: music from FINAL FANTASY"
+  date: 2023-07-14
+  year: 2023
+
+- flag: 🇹🇼
+  title: Real Collective Jazz Quartet 爵士精選四重奏
+  date: 2023-06-21
+  year: 2023
+
+- flag: 💻
+  title: 結束バンドLIVE-恒星-
+  date: 2023-05-21
+  year: 2023
+  venue: 線上
+
+- flag: 🇹🇼
+  title: 大港開唱 2023
+  date: 2023-04-01
+  year: 2023
+
+- flag: 🇯🇵
+  title: Aimer Arena Tour 2023 -nuit immersive-
+  date: 2023-03-18
+  year: 2023
+
+- flag: 🇹🇼
+  title: 落日飛車【夕陽流行音樂中心】演唱會
+  date: 2022-11-26
+  year: 2022
+  venue:
+    text: 臺北流行音樂中心 表演廳
+    href: https://www.openstreetmap.org/?mlat=25.0513&mlon=121.5990#map=19/25.051331/121.599037
+
+- flag: 🇹🇼
+  title: Yuki Kajiura LIVE vol.#17 台灣播映場
+  date: 2022-10-30
+  year: 2022
+  venue:
+    text: Zepp New Taipei
+    href: https://www.openstreetmap.org/node/13353295908#map=19/25.059661/121.449499
+
+- flag: 🇹🇼
+  title: 天外奇蹟 | 電影交響音樂會
+  date: 2022-10-10
+  year: 2022
+
+- flag: 💻
+  title: Sony Music AnimeSongs ONLINE 2022
+  date: 2022-01-08
+  year: 2022
+  venue: 線上
+
+- flag: 🇹🇼
+  title: 小地方補完計畫 - Listen. to Her Voice 特別篇（江松霖）
+  date: 2021-12-18
+  year: 2021
+
+- flag: 🇹🇼
+  title: 此刻。（江松霖）
+  date: 2021-11-21
+  year: 2021
+  venue: Legacy mini @ 好丘
+
+- flag: 💻
+  title: 第5回京阿尼粉絲感謝祭 KYOANI MUSIC FESTIVAL ―致未來的感動―
+  date: 2021-11-20
+  year: 2021
+  venue: 線上
+
+- flag: 💻
+  title: Zombieland Saga LIVE ～FranChouChou Saga yo tomoni waite kure～
+  date: 2021-10-16
+  year: 2021
+  venue: 線上
+
+- flag: 💻
+  title: 'Aimer 10th Anniversary Live in SAITAMA SUPER ARENA "night world"'
+  date: 2021-09-21
+  year: 2021
+  venue: 線上
+
+- flag: 💻
+  title: Aniplex Online Fest 2021
+  date: 2021-07-04
+  year: 2021
+  venue: 線上
+
+- flag: 💻
+  title: 'Aimer Live at Anywhere 2021 "Walpurgis"'
+  date: 2021-05-01
+  year: 2021
+  venue: 線上
+
+- flag: 💻
+  title: Aimer Live at Anywhere
+  date: 2020-11-27
+  year: 2020
+  venue: 線上
+
+- flag: 🇹🇼
+  title: SOFA SO GOOD—鬆軟同樂會！（江松霖）
+  date: 2020-10-21
+  year: 2020
+  venue: Legacy mini @ amba
+
+- flag: 🇹🇼
+  title: 2020森林市集 - 江松霖
+  date: 2020-09-27
+  year: 2020
+
+- flag: 🇹🇼
+  title: WAU！ Vol. 1 - 防疫新生活（廖文強 / 江松霖）
+  date: 2020-06-25
+  year: 2020
+
+- flag: 🇹🇼
+  title: 雨不停地落下 - 江松霖台北小地方專場
+  date: 2019-10-25
+  year: 2019
+
+- flag: 🇹🇼
+  title: LisAni！LIVE TAIWAN 2019
+  date: 2019-10-19
+  year: 2019
+
+- flag: 🇹🇼
+  title: STAR WARS：The Force Awakens in Concert
+  date: 2019-09-08
+  year: 2019
+
+- flag: 🇹🇼
+  title: STAR WARS：Return of the Jedi in Concert
+  date: 2019-09-07
+  year: 2019
+
+- flag: 🇹🇼
+  title: 江松霖【 時光曬衣場 】 春季小巡迴
+  date: 2019-04-13
+  year: 2019
+
+- flag: 🇹🇼
+  title: Star Wars A New Hope - In Concert
+  date: 2019-01-19
+  year: 2019
+
+- flag: 🇹🇼
+  title: 江松霖「佳日提案＿晚春巡迴」
+  date: 2018-04-29
+  year: 2018
+
+- flag: 🇹🇼
+  title: 耶誕金曲音樂派對
+  date: 2017-12-23
+  year: 2017
+
+- flag: 🇹🇼
+  title: 江松霖【 日 日 好 光 景 】 高雄場
+  date: 2017-11-04
+  year: 2017
+
+- flag: 🇹🇼
+  title: 「轉動高雄青春夢」
+  date: 2017-10-06
+  year: 2017
+
+- flag: 🇹🇼
+  title: 內地小搖滾（江松霖）
+  date: 2017-09-09
+  year: 2017
+
+- flag: 🇹🇼
+  title: "江松霖『 1 7 : 4 2 』 春季巡迴"
+  date: 2017-05-19
+  year: 2017
+
+- flag: 🇹🇼
+  title: 午後時光音樂會
+  date: 2017-03-04
+  year: 2017
+
+- flag: 🇹🇼
+  title: 草悟野餐音樂節
+  date: 2016-10-08
+  year: 2016
+
+- flag: 🇹🇼
+  title: 南國音樂節
+  date: 2016-08-27
+  year: 2016
+
+- flag: 🇹🇼
+  title: 里民日常 @ 女巫店
+  date: 2016-07-02
+  year: 2016

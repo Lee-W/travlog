@@ -1,0 +1,135 @@
+# 舞台表演紀錄
+# fields: flag, title ({text, href} 或純字串), date, venue ({text, href} 或純字串), reviews (選填)
+
+- flag: 💻
+  title:
+    text: "LIVE STAGE「ぼっち・ざ・ろっく！」2024 PARTⅡ 秀華祭"
+    href: https://bocchi.rocks/stage/news/?id=69328
+  date: 2026-01-04
+  year: 2026
+  venue: 線上
+
+- flag: 🇯🇵
+  title:
+    text: "ミュージカル「Fate/Zero ~A Hero of Justice~」"
+    href: https://stage-fatezero.com/
+  date: 2025-09-14
+  year: 2025
+
+- flag: 🇹🇼
+  title:
+    text: 我在詐騙公司上班
+    href: https://godot.org.tw/site/article/627
+  date: 2025-08-16
+  year: 2025
+
+- flag: 💻
+  title:
+    text: "ミュージカル「Fate/Zero」〜The Sword of Promised Victory〜"
+    href: https://stage-fatezero.com/streaming/
+  date: 2025-02-01
+  year: 2025
+  venue: 線上
+
+- flag: 🇯🇵
+  title:
+    text: "「進撃の巨人」-The Musical-"
+    href: https://www.shingeki-musical.com/
+  date: 2024-12-18
+  year: 2024
+
+- flag: 🇯🇵
+  title:
+    text: "演劇【推しの子】2.5次元舞台編"
+    href: https://www.marv.jp/special/theater_lalalai/blade/
+  date: 2024-12-17
+  year: 2024
+
+- flag: 🇹🇼
+  title:
+    text: 《神明便利商店》音樂劇
+    href: https://www.opentix.life/event/1823201256034107393
+  date: 2024-12-08
+  year: 2024
+
+- flag: 🇹🇼
+  title: 2024百老匯經典音樂劇《芝加哥》
+  date: 2024-08-07
+  year: 2024
+
+- flag: 💻
+  title:
+    text: "舞台「リコリス・リコイル」life won't wait."
+    href: https://l-tike.zaiko.io/item/364630
+  date: 2024-06-23
+  year: 2024
+  venue: 線上
+
+- flag: 💻
+  title:
+    text: "VINLAND SAGA the STAGE ~The Resurrection of a Hero~"
+    href: https://l-tike.zaiko.io/e/vinlandsaga
+  date: 2024-04-29
+  year: 2024
+  venue: 線上
+
+- flag: 💻
+  title:
+    text: "VINLAND SAGA the STAGE ~The End of the Sea~"
+    href: https://l-tike.zaiko.io/e/vinlandsaga
+  date: 2024-04-28
+  year: 2024
+  venue: 線上
+
+- flag: 🇹🇼
+  title: 2024TIFA 國家兩廳院✕瑞士洛桑維蒂劇院——里米尼紀錄劇團《這不是個大使館》
+  date: 2024-04-12
+  year: 2024
+
+- flag: 🇺🇸
+  title: KÀ by CIRQUE DU SOLEIL
+  date: 2024-03-11
+  year: 2024
+
+- flag: 🇯🇵
+  title: ジョジョの奇妙な冒険
+  date: 2024-02-28
+  year: 2024
+
+- flag: 🇹🇼
+  title: 《吼呦～杰哥不要啦！！》
+  date: 2023-12-02
+  year: 2023
+
+- flag: 💻
+  title: "LIVE STAGE「ぼっち・ざ・ろっく！」"
+  date: 2023-08-12
+  year: 2023
+  venue: 線上
+
+- flag: 🇹🇼
+  title: 全本音樂劇《貓》CATS
+  date: 2023-08-09
+  year: 2023
+
+- flag: 🇹🇼
+  title: 我在詐騙公司上班
+  date: 2022-11-13
+  year: 2022
+
+- flag: 🇹🇼
+  title: 2021TIFA 黃翊工作室 +《小螞蟻與機器人：遊牧咖啡館》
+  date: 2021-04-23
+  year: 2021
+
+- flag: 🇺🇸
+  title:
+    text: Sleep No More
+    href: https://mckittrickhotel.com/sleep-no-more/
+  date: 2019-11-26
+  year: 2019
+
+- flag: 🇺🇸
+  title: 悲慘世界
+  date: 2019-05-25
+  year: 2019
