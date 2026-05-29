@@ -146,7 +146,7 @@
   reviews:
   - text: '2023 冬'
     href: '{filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#the-first-slam'
-  - text: 2023 春（應援場）
+  - text: '2023 春 （應援場）'
     href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_21'
 - title: 藍色恐懼
   tier: SS
@@ -155,14 +155,17 @@
     href: '{filename}/posts/review/2020/05-what-i-watch-in-2020-summer.md#_8'
   - text: '2023 春'
     href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_20'
-  - text: 2024 春（4K）
+  - text: '2024 春 （4K）'
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#4k'
 - title: 魔法少女小圓
   tier: SS
   reviews:
   - text: '2020 冬'
     href: '{filename}/posts/review/2020/02-what-i-watch-in-2020-winter.md#_10'
-  - text: 魔法少女小圓 新編：叛逆的物語(特別場)
+- title: 魔法少女小圓 新編：叛逆的物語
+  tier: SS
+  reviews:
+  - text: '2021 秋 （特別場）'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_2'
 - title: 莉茲與青鳥
   tier: SS
@@ -192,9 +195,9 @@
   reviews:
   - text: 進擊的巨人 劇場版 CHRONICLE
     href: '{filename}/posts/review/2021/01-what-i-watch-in-2020-fall.md#chronicle'
-  - text: 進撃的巨人 The Final Season
+  - text: 進擊的巨人 The Final Season
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#the-final-season'
-  - text: 進撃的巨人 The Final Season - Part 2
+  - text: 進擊的巨人 The Final Season - Part 2
     href: '{filename}/posts/review/2022/05-what-i-watch-in-2022-winter.md#the-final-season-part-2'
   - text: 進擊的巨人 The Final Season 完結篇 前篇
     href: '{filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#the-final-season'
@@ -488,7 +491,7 @@
   reviews:
   - text: '2023 秋'
     href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_2'
-- title: SPY x FAMILY 間諜家家酒 Season 2
+- title: SPY×FAMILY 間諜家家酒 Season 2
   tier: S
   reviews:
   - text: '2023 秋'
@@ -598,7 +601,7 @@
   reviews:
   - text: '2023 春'
     href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_22'
-  - text: '2023 夏（ATMOS）'
+  - text: '2023 夏 （ATMOS）'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#atmos'
   - text: '2023 秋 （極音）'
     href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_11'
@@ -645,12 +648,15 @@
   reviews:
   - text: '2020 春'
     href: '{filename}/posts/review/2020/04-what-i-watch-in-2020-sprint.md#4dx'
-- title: 為美好的世界獻上祝福
+- title: 為美好的世界獻上爆焰！
   tier: S
   reviews:
-  - text: 為美好的世界獻上爆焰！
+  - text: '2023 春'
     href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_4'
-  - text: 為美好的世界獻上祝福！3
+- title: 為美好的世界獻上祝福！3
+  tier: S
+  reviews:
+  - text: '2024 春'
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#3'
 - title: 四疊半神話大系
   tier: S
@@ -715,7 +721,7 @@
     href: '{filename}/posts/review/2020/05-what-i-watch-in-2020-summer.md#re'
   - text: Re：從零開始的異世界生活 第二季 下半
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#re'
-  - text: Re:從零開始的異世界生活 第三季
+  - text: Re：從零開始的異世界生活 第三季
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#re'
 - title: Fate/stay night [Unlimited Blade Works]
   tier: S
@@ -839,7 +845,7 @@
 - title: 流汗吧！ 健身少女
   tier: A
   reviews:
-  - text: '2025 春（二刷）'
+  - text: '2025 春 （二刷）'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_11'
 - title: 三顆星彩色冒險
   tier: A
@@ -1064,7 +1070,7 @@
   reviews:
   - text: '2022 夏'
     href: '{filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_8'
-- title: '電影版 奇巧計程車 : 撲朔謎林'
+- title: 電影版 奇巧計程車：撲朔謎林
   tier: A
   reviews:
   - text: '2022 夏'
@@ -1221,7 +1227,7 @@
   reviews:
   - text: '2023 秋'
     href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_4'
-  - text: '2025 冬（京都動亂）'
+  - text: '2025 冬 （京都動亂）'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_6'
 - title: 黑暗集會
   tier: A
@@ -1724,7 +1730,7 @@
   reviews:
   - text: '2021 冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_22'
-- title: '宿命迴響: 命運節拍'
+- title: 宿命迴響：命運節拍
   tier: B
   reviews:
   - text: '2021 秋'
