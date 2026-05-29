@@ -29,31 +29,34 @@
 - title: 'Star Wars: Andor'
   group: Series
   reviews:
-  - text: '2023'
+  - text: 'Season 1'
     href: '{filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#star-wars-andor'
-  - text: 'Andor Season 2'
+  - text: 'Season 2'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#star-wars-andor-season-2'
 - title: 'Star Wars: The Mandalorian'
   group: Series
   reviews:
-  - text: '2022'
+  - text: 'Season 1-2'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#star-wars-the-mandalorian'
-  - text: 'Star Wars: The Mandalorian Season 3'
-    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#star-wars-the-mandalorian-season-3'
 - title: 'Star Wars: Ashoka'
   group: Series
   reviews:
-  - text: '2024'
+  - text: '2023 夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#star-wars-ashoka'
+- title: 'Star Wars: The Mandalorian'
+  group: Series
+  reviews:
+  - text: 'Season 3'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#star-wars-the-mandalorian-season-3'
 - title: The Book of Boba Fett
   group: Series
   reviews:
-  - text: '2023'
+  - text: '2022 夏'
     href: '{filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#the-book-of-boba-fett'
 - title: Obi-Wan Kenobi
   group: Series
   reviews:
-  - text: '2023'
+  - text: '2022 春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#obi-wan-kenobi'
 - title: 'Star Wars: The Clone Wars'
   group: Anime
@@ -62,26 +65,26 @@
 - title: 'Star Wars: Tale of Jedi'
   group: Anime
   reviews:
-  - text: '2023'
+  - text: '2022 秋'
     href: '{filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#star-wars-tale-of-jedi'
 - title: 'Star Wars: Resistance'
   group: Anime
 - title: 'Star Wars: Visions'
   group: Anime
   reviews:
-  - text: '2022'
+  - text: '2021 秋 (Volume 1)'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#star-wars-visions'
-  - text: 'Visions Volume 2'
+  - text: '2025 春 (Volume 2)'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#star-wars-visions-volume-2'
 - title: 'Star Wars: The Bad Batch'
   group: Anime
   reviews:
-  - text: '2022'
+  - text: '2021 秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#star-wars-the-bad-batch'
 - title: 'Star Wars: The Bad Batch Season 2'
   group: Anime
   reviews:
-  - text: '2023'
+  - text: '2023 冬'
     href: '{filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#star-wars-the-bad-batch-season-2'
 - title: 'Star Wars: Tales of the Underworld'
   group: Anime
