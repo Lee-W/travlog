@@ -37,8 +37,8 @@ wheels = [
 
 [[package]]
 name = "attila"
-version = "2.11.1"
-source = { git = "https://github.com/Lee-W/attila/#024615ccb264bc9eee3ed032ad5f52b0dd9a0d8f" }
+version = "2.12.0"
+source = { git = "https://github.com/Lee-W/attila/#045ff0329b9caf82d1c9390c7f528fbab9dd5480" }
 dependencies = [
     { name = "pelican" },
     { name = "pelican-heatmap" },
@@ -312,7 +312,7 @@ requires-dist = [
     { name = "pelican-share-post", specifier = ">=1.1.0" },
     { name = "pelican-statistics", specifier = ">=1.0.0" },
     { name = "pelican-summary-link", specifier = ">=0.2.2" },
-    { name = "pelican-tabular", specifier = ">=0.2.1" },
+    { name = "pelican-tabular", specifier = ">=0.3.1" },
     { name = "pelican-tag-cloud", specifier = ">=1.0.1" },
     { name = "pelican-webassets", specifier = ">=2.0.0" },
     { name = "pillow", specifier = ">=11.0.0" },
@@ -879,15 +879,15 @@ wheels = [
 
 [[package]]
 name = "pelican-tabular"
-version = "0.2.1"
+version = "0.3.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pelican" },
     { name = "pyyaml" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/ec/2d/d15e1c8d6620602837a0adddb3ffcdb518d7887eeb16e42a239b9f8250c3/pelican_tabular-0.2.1.tar.gz", hash = "sha256:10071e01a568fa60f8a3db2637e2429ce5a674569640a1ed5ad0452a9c9e0ab4", size = 8356, upload-time = "2026-05-06T01:00:33.013Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/9c/03/859e001a1b0ce1753ae21275ed530d372f61aa47b21ee472ebf597af0582/pelican_tabular-0.3.1.tar.gz", hash = "sha256:35772eea745fa0f86409491b9671e62f5826a713669158317af32036091a6174", size = 10076, upload-time = "2026-05-29T11:25:06.143Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/80/5d/4073b65eeddc3026ddd82c30a2045b99c97aa8b4abea0850d33f6f10fabd/pelican_tabular-0.2.1-py3-none-any.whl", hash = "sha256:b370c6dd241f486c1939042ab50ff42c041e61ca478a357c1bd092a843a939b0", size = 8608, upload-time = "2026-05-06T01:00:31.436Z" },
+    { url = "https://files.pythonhosted.org/packages/c8/75/1ef507b09b72d806c12a2c1445e9136b60d8e3cbc3f7fe62b72ea0a34b2e/pelican_tabular-0.3.1-py3-none-any.whl", hash = "sha256:19faa2257281bb133f723a5896cec6b5bd43c0f3de7adb61c13b2191ddfbd423", size = 10358, upload-time = "2026-05-29T11:25:05.017Z" },
 ]
 
 [[package]]
