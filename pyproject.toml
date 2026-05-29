@@ -40,6 +40,8 @@ dev = [
   "livereload>=2.7.0",
   "pip-audit>=2.7.3",
   "pre-commit-hooks>=5.0.0",
+  "rich>=15.0.0",
+  "ruamel-yaml>=0.19.1",
   "ruff>=0.6.9",
 ]
 

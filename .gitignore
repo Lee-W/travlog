@@ -131,3 +131,4 @@ dmypy.json
 output
 seo_report.html
 cache
+scripts/.story_ranking_sort_cache/
