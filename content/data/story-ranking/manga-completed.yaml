@@ -32,19 +32,25 @@
   reviews:
   - text: '2023 春'
     href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_28'
-  - text: 藍色巨星：歐洲篇
+  - text: '2023 夏 （歐洲篇）- 連載時'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_24'
-  - text: BLUE GIANT SUPREME藍色巨星 歐洲篇
+  - text: '2024 秋 （歐洲篇）'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#blue-giant-supreme'
 - title: 魔法少女小圓
   tier: SS
   reviews:
-  - text: 魔法少女小圓 [新篇] 叛逆物語
-    href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_23'
-  - text: 魔法少女小圓~The different story~
-    href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#the-different-story'
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_27'
+- title: 魔法少女小圓 [新篇] 叛逆物語
+  tier: SS
+  reviews:
+  - text: '2021 春'
+    href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_23'
+- title: 魔法少女小圓~The different story~
+  tier: SS
+  reviews:
+  - text: '2021 冬'
+    href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#the-different-story'
 - title: 抽屜裡的生態箱(全)
   tier: S
   reviews:
@@ -102,9 +108,9 @@
 - title: 輝夜姬想讓人告白~天才們的戀愛頭腦戰
   tier: S
   reviews:
-  - text: 輝夜姬想讓人告白~天才們的戀愛頭腦戰~
+  - text: '2021 冬 - 連載時'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_26'
-  - text: 輝夜姬想讓人告白
+  - text: '2024 夏'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_28'
 - title: 日常
   tier: A
