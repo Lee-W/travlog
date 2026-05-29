@@ -7,6 +7,8 @@ Slug: what-i-watched-in-2025-summer
 Authors: Wei Lee
 Status: Draft
 
+依然是寶藏滿滿的一季
+
 <!--more-->
 
 [TOC]
@@ -16,6 +18,7 @@ Status: Draft
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=43983)
 
 果然還是勝者的早餐才能贏得勝利
+雖然
 
 ### City the animation <!--s-->
 * 觀看平台： [Amazon Prime Video](https://www.primevideo.com//detail/CITY-THE-ANIMATION/0S1DSDV3YPNM8W8GZQK8FJTZ9H)
