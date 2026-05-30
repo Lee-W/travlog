@@ -37,8 +37,8 @@ wheels = [
 
 [[package]]
 name = "attila"
-version = "2.12.0"
-source = { git = "https://github.com/Lee-W/attila/#045ff0329b9caf82d1c9390c7f528fbab9dd5480" }
+version = "2.12.1"
+source = { git = "https://github.com/Lee-W/attila/#524892906d541a22d49917be70ad9bc14603cc13" }
 dependencies = [
     { name = "pelican" },
     { name = "pelican-heatmap" },
@@ -301,17 +301,17 @@ requires-dist = [
     { name = "pagefind", extras = ["extended"], specifier = ">=1.4.0" },
     { name = "pelican", extras = ["markdown"], specifier = ">=4.12.0" },
     { name = "pelican-deadlinks", git = "https://github.com/pelican-plugins/deadlinks" },
-    { name = "pelican-heatmap", specifier = ">=0.4.0" },
+    { name = "pelican-heatmap", specifier = ">=0.4.1" },
     { name = "pelican-i18n-subsites", specifier = ">=1.0.0" },
     { name = "pelican-neighbors", specifier = ">=1.2.0" },
-    { name = "pelican-osm", extras = ["validate"], specifier = ">=0.13.0" },
-    { name = "pelican-random-article", specifier = ">=0.2.0" },
+    { name = "pelican-osm", extras = ["validate"], specifier = ">=0.13.1" },
+    { name = "pelican-random-article", specifier = ">=0.2.1" },
     { name = "pelican-render-math", specifier = ">=1.0.3" },
     { name = "pelican-seo", specifier = ">=1.2.2" },
     { name = "pelican-series", specifier = ">=3.0.0" },
     { name = "pelican-share-post", specifier = ">=1.1.0" },
     { name = "pelican-statistics", specifier = ">=1.0.0" },
-    { name = "pelican-summary-link", specifier = ">=0.2.2" },
+    { name = "pelican-summary-link", specifier = ">=0.2.3" },
     { name = "pelican-tabular", specifier = ">=0.3.1" },
     { name = "pelican-tag-cloud", specifier = ">=1.0.1" },
     { name = "pelican-webassets", specifier = ">=2.0.0" },
@@ -686,14 +686,14 @@ dependencies = [
 
 [[package]]
 name = "pelican-heatmap"
-version = "0.4.0"
+version = "0.4.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pelican" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/59/61/9ba19ae657233a0d5892ceb871e584af6b3cfb50ab0d2146b5c25c1c4308/pelican_heatmap-0.4.0.tar.gz", hash = "sha256:4ac40c6f7a2ca8c999c6445f8211b35ac57bef769550ef8900e7ee1a134bd8c2", size = 12206, upload-time = "2026-05-15T00:38:30.134Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/8f/b7/0790a1a1e197bb69c8788d29bd64a2bf96bdb3d1290cb699e268ee4b7532/pelican_heatmap-0.4.1.tar.gz", hash = "sha256:c3217cd7aa29a4dcf8a1f1b4d37005ab4b12f0c14b008d43943df0181ac11db3", size = 12317, upload-time = "2026-05-30T01:28:52.515Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/54/61/e27ae38f71fd9373e5d4901002510f488c2c917abf484f6c18139a2256bf/pelican_heatmap-0.4.0-py3-none-any.whl", hash = "sha256:cc6f77ede42b336ecbecc5c60e6edcfbd10af6dfe73769254244684dafd337b1", size = 13244, upload-time = "2026-05-15T00:38:28.963Z" },
+    { url = "https://files.pythonhosted.org/packages/85/c4/fc2b971ce5e0a57cb0b812c4bfdb4c3eb63c71140984bab23844041a572d/pelican_heatmap-0.4.1-py3-none-any.whl", hash = "sha256:5d47985d929b9739d149b9ffcd12ad4a0f85fa4fb6802657db8f373a01a6c3b2", size = 13274, upload-time = "2026-05-30T01:28:50.891Z" },
 ]
 
 [[package]]
@@ -750,15 +750,15 @@ wheels = [
 
 [[package]]
 name = "pelican-osm"
-version = "0.13.0"
+version = "0.13.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pelican" },
     { name = "pyyaml" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/72/2b/2644a6fb8e76295806a83cda975e982ac0f11f9bd2b5600679b5ddd6c0c5/pelican_osm-0.13.0.tar.gz", hash = "sha256:2f7083b8c0c8923066bd4e899ac9b472fa1a17c7d3e037fe4858aa2fd7266f8c", size = 51373, upload-time = "2026-05-11T14:10:11.654Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/ad/59/e8e788e8b37bc9f14026afa8cda9592c16e3e7f3a03eaec37f04c019e6e0/pelican_osm-0.13.1.tar.gz", hash = "sha256:a8656df5ad5317d24851dfe8fc571656fda137fa5f5bf097f6a5869f1ddd711b", size = 51402, upload-time = "2026-05-30T01:27:30.441Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/b0/2d/cea801df9f962f8d45946693bab3dea827d51b571af1435db50a1bd9907e/pelican_osm-0.13.0-py3-none-any.whl", hash = "sha256:804436742a5140cecc2e443b4c59462031afcdbbc41d6350e6b0b0b291feb8d9", size = 51914, upload-time = "2026-05-11T14:10:09.711Z" },
+    { url = "https://files.pythonhosted.org/packages/81/e1/8280929f63983a601de5073e5bcb870031debcecb2c1004cc572cecfd066/pelican_osm-0.13.1-py3-none-any.whl", hash = "sha256:602c236986a9e5849ea79eba9747d29646f2ef7b6dc1477e8896bcc64b279d21", size = 51891, upload-time = "2026-05-30T01:27:28.963Z" },
 ]
 
 [package.optional-dependencies]
@@ -768,14 +768,14 @@ validate = [
 
 [[package]]
 name = "pelican-random-article"
-version = "0.2.0"
+version = "0.2.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pelican" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/d1/08/27eb033598b99be708e9f79429e98d7b2a180129641bb08d7af23a54c42a/pelican_random_article-0.2.0.tar.gz", hash = "sha256:838d9ef8fc74acc60e4dc8f4e5bd32b94b8f018b3b8c214b5711427ff8723e36", size = 4183, upload-time = "2026-03-15T08:15:30.97Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/90/cf/7d7e51b020fe08dca6601b0617b115343c857bb60b1dd11e5ab845fe09ce/pelican_random_article-0.2.1.tar.gz", hash = "sha256:f57802e14c2e38f3aa8b6c87e66dead0f59b1013361c77521c37a6fbe480bedc", size = 4159, upload-time = "2026-05-30T01:23:08.465Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/b3/40/d3a1eeb7ef7360059f7d761be0bfe85b953a44e461b80d23adb3fe404033/pelican_random_article-0.2.0-py3-none-any.whl", hash = "sha256:4338a3758b1f5797344211baa484565b58f3e15622ef11a04ae8385861d6c743", size = 4551, upload-time = "2026-03-15T08:15:30.022Z" },
+    { url = "https://files.pythonhosted.org/packages/4e/3a/f28c120c87461572003b5559f692d34a2b702957a85af3667f8ff59c7c81/pelican_random_article-0.2.1-py3-none-any.whl", hash = "sha256:31933df3d3363411362e6a1620dd3b544bb7740fa3d369c2d394e022095d225d", size = 4522, upload-time = "2026-05-30T01:23:07.105Z" },
 ]
 
 [[package]]
@@ -867,14 +867,14 @@ wheels = [
 
 [[package]]
 name = "pelican-summary-link"
-version = "0.2.2"
+version = "0.2.3"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pelican" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/98/cd/d82dfd4010138001c07bc0ffa866f939daa5c1eeb19488d6a12033b86b78/pelican_summary_link-0.2.2.tar.gz", hash = "sha256:eb72c3e4fbd0f9fbf2381f722f45565b6c88de11fd9472b61bd21e33256621b8", size = 3436, upload-time = "2026-04-27T00:39:08.691Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/74/58/00f9cd4a9900a5b6b2e35927390582add0a6203ce94d7ed3da501960c070/pelican_summary_link-0.2.3.tar.gz", hash = "sha256:b1c73ceab88b37c0e8718afa4c728b121fe55778b359eb1bf1015269f3486ba2", size = 3502, upload-time = "2026-05-29T16:40:59.122Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/e7/ae/e0e651355e19052fc5803b19a7f9d4dbe57b1d9a2c38d7f9d563cc2894c5/pelican_summary_link-0.2.2-py3-none-any.whl", hash = "sha256:05e1ccaaa71748c3bb3ebb8e64a172ac89e2f33c09c07a87343466b7f555f6b6", size = 3937, upload-time = "2026-04-27T00:39:07.223Z" },
+    { url = "https://files.pythonhosted.org/packages/9c/95/333b64ebf80b60697cde1671072b02aa8fbb92c05b7bf237e079a6ddf597/pelican_summary_link-0.2.3-py3-none-any.whl", hash = "sha256:2530df02f11b624e49d58370831ac466a1477087f1bfdf0adce16d43620d7614", size = 3933, upload-time = "2026-05-29T16:40:58.091Z" },
 ]
 
 [[package]]
