@@ -105,7 +105,7 @@ I18N_SUBSITES = {
     "en": {
         "CATEGORY_TRANSLATIONS": {},
         "COMMENTS_INTRO": "Do you like this article? What do you think about it? Leave your comment below",
-        "CURRENT_LANG": "EN",
+        "CURRENT_LANG": "en",
         "SOCIAL_PROFILE_LABEL": "Keep In Touch",
     },
 }
