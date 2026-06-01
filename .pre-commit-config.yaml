@@ -37,10 +37,10 @@ repos:
 
   - repo: local
     hooks:
-      - id: no-local-attila
-        name: Ensure attila uses remote source (not local path)
+      - id: no-local-uv-source
+        name: Ensure no local path in uv sources
         language: pygrep
-        entry: 'attila\s*=\s*\{[^}]*path'
+        entry: '\{\s*path\s*='
         files: ^pyproject\.toml$
 
       - id: check-post-metadata
