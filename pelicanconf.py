@@ -61,7 +61,6 @@ SOCIAL = (
     ("Linkedin", "https://tw.linkedin.com/in/clleew"),
     ("GitHub", "https://github.com/Lee-W"),
     ("Twitter", "https://twitter.com/clleew"),
-    ("Blog", "https://blog.wei-lee.me"),
     ("RSS", f"https://{HOST}/feeds/all.atom.xml"),
 )
 JINJA_GLOBALS = {"POST_SHARE_MASTODON_DOMAIN": "g0v.social"}
