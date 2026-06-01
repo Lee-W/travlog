@@ -1,0 +1,23 @@
+# lychee configuration
+# https://github.com/lycheeverse/lychee/blob/master/lychee.example.toml
+
+# 排除常見誤報的網站（擋爬蟲）
+exclude = [
+    "twitter\\.com",
+    "x\\.com",
+    "linkedin\\.com",
+    "facebook\\.com",
+    "instagram\\.com",
+]
+
+# 視為正常的 HTTP 狀態碼（有些舊連結會 301 redirect）
+accept = [200, 301, 302, 429]
+
+# 連線逾時秒數
+timeout = 20
+
+# 失敗時重試次數
+max_retries = 3
+
+# 並行請求數
+max_concurrency = 8
