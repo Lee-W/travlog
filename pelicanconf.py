@@ -61,6 +61,7 @@ SOCIAL = (
     ("Linkedin", "https://tw.linkedin.com/in/clleew"),
     ("GitHub", "https://github.com/Lee-W"),
     ("Twitter", "https://twitter.com/clleew"),
+    ("Blog", "https://blog.wei-lee.me"),
     ("RSS", f"https://{HOST}/feeds/all.atom.xml"),
 )
 JINJA_GLOBALS = {"POST_SHARE_MASTODON_DOMAIN": "g0v.social"}
@@ -127,6 +128,7 @@ PLUGINS = [
     "pelican.plugins.tabular",
 ]
 PAGEFIND_ENABLED = True
+RANDOM_ARTICLE_BUTTON = True
 SUMMARY_LINK_FORMAT = ""
 
 # Local plugins
@@ -155,7 +157,7 @@ UTTERANCES_REPO = "Lee-W/travlog"
 MENUITEMS = (
     ("🏠 首頁", "/"),
     ("🙋 關於", "/pages/about.html"),
-    ("📚 頁面", "/pages/pages.html"),
+    ("📂 收藏", "/pages/pages.html"),
     ("🍿 評論", "/category/review.html"),
     ("✈️ 旅遊", "/category/travel.html"),
     ("🥘 料理", "/category/cook.html"),
@@ -197,7 +199,7 @@ I18N_SUBSITES["en"].update(
             ("🥘 Cook", "/en/category/cook.html"),
             ("🏷️ Tags", "/en/tags.html"),
             ("🗄️ Archives", "/en/archives.html"),
-            ("📚 Pages", "/en/pages/pages.html"),
+            ("📂 Collections", "/en/pages/pages.html"),
             ("🎲 Random", "/en/random/index.html"),
         ),
         "SITENAME": "Those things no one cares about",
