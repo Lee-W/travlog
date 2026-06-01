@@ -59,7 +59,7 @@ pelican-random-article =false
 pelican-tabular = false
 
 [tool.uv.sources]
-attila = { git = "https://github.com/Lee-W/attila/"}
+attila = { git = "https://github.com/Lee-W/attila/" }
 pelican-deadlinks = { git = "https://github.com/pelican-plugins/deadlinks" }
 
 
