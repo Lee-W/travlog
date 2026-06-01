@@ -37,6 +37,12 @@ repos:
 
   - repo: local
     hooks:
+      - id: no-local-attila
+        name: Ensure attila uses remote source (not local path)
+        language: pygrep
+        entry: 'attila\s*=\s*\{[^}]*path'
+        files: ^pyproject\.toml$
+
       - id: check-post-metadata
         name: Check post metadata style
         language: system
