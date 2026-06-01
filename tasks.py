@@ -182,6 +182,7 @@ def format(c):
     python_targets = "pelicanconf.py publishconf.py tasks.py"
     c.run(
         f"""
+        uv run ruff format {python_targets} && \
         uv run ruff check {python_targets} --fix
         """
     )
@@ -252,6 +253,12 @@ def _create_post_from_template(
 def new_post(c, title, category, slug="", lang="zh-tw"):
     """Create a new post file from template"""
     _create_post_from_template("post.md", title, category, slug, {"lang": lang})
+
+
+@task
+def new_draft(c, title, category, slug="", lang="zh-tw"):
+    """Create a new draft file from template"""
+    _create_post_from_template("draft.md", title, category, slug, {"lang": lang})
 
 
 @task
