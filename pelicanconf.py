@@ -84,7 +84,7 @@ MARKDOWN = {
 
 # Utterance (comment system)
 UTTERANCES_LABEL = "blog-comment"
-COMMENTS_INTRO = "你喜歡這篇文章嗎？你覺得怎麼樣？歡迎在下方留言。"
+COMMENTS_INTRO = '喜歡這篇文章的話，歡迎在下方留言（需要 GitHub 帳號），或是<a href="mailto:weilee.rx+travlog@gmail.com">寄 Email 找我聊聊！</a>'
 
 # Theme Setting
 THEME = attila.get_path()
@@ -103,7 +103,7 @@ CURRENT_LANG = "zh-tw"
 I18N_SUBSITES = {
     "en": {
         "CATEGORY_TRANSLATIONS": {},
-        "COMMENTS_INTRO": "Do you like this article? What do you think about it? Leave your comment below",
+        "COMMENTS_INTRO": 'If you enjoyed this article, feel free to leave a comment below (GitHub account required), or <a href="mailto:weilee.rx+travlog@gmail.com">drop me an email to chat!</a>',
         "CURRENT_LANG": "en",
         "SOCIAL_PROFILE_LABEL": "Keep In Touch",
     },
