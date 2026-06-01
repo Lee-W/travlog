@@ -156,7 +156,7 @@ UTTERANCES_REPO = "Lee-W/travlog"
 MENUITEMS = (
     ("🏠 首頁", "/"),
     ("🙋 關於", "/pages/about.html"),
-    ("📂 收藏", "/pages/pages.html"),
+    ("🗝️ 私藏", "/pages/pages.html"),
     ("🍿 評論", "/category/review.html"),
     ("✈️ 旅遊", "/category/travel.html"),
     ("🥘 料理", "/category/cook.html"),

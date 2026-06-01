@@ -1,4 +1,4 @@
-Title: Pages
+Title: 🗝️私藏
 Slug: pages
 
 <div class="pages-grid">
