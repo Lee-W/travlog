@@ -22,6 +22,7 @@ jobs:
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@v7
         with:
+          enable-cache: true
           version: "latest"
 
       - name: Install dependencies
