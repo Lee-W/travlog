@@ -18,7 +18,6 @@ jobs:
         with:
           fetch-depth: 0
           ref: '${{ github.event.inputs.git_rev }}'
-          submodule: true
 
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@v7
