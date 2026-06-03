@@ -9,6 +9,7 @@ exclude-newer-span = "P4D"
 [options.exclude-newer-package]
 attila = false
 pelican-osm = false
+pelican-on-this-day = false
 pelican-summary-link = false
 pelican-random-article = false
 pelican-tabular = false
@@ -262,6 +263,7 @@ dependencies = [
     { name = "pelican-heatmap" },
     { name = "pelican-i18n-subsites" },
     { name = "pelican-neighbors" },
+    { name = "pelican-on-this-day" },
     { name = "pelican-osm", extra = ["validate"] },
     { name = "pelican-random-article" },
     { name = "pelican-render-math" },
@@ -304,6 +306,7 @@ requires-dist = [
     { name = "pelican-heatmap", specifier = ">=0.4.1" },
     { name = "pelican-i18n-subsites", specifier = ">=1.0.0" },
     { name = "pelican-neighbors", specifier = ">=1.2.0" },
+    { name = "pelican-on-this-day", specifier = ">=0.1.0" },
     { name = "pelican-osm", extras = ["validate"], specifier = ">=0.13.1" },
     { name = "pelican-random-article", specifier = ">=0.2.1" },
     { name = "pelican-render-math", specifier = ">=1.0.3" },
@@ -746,6 +749,18 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/31/e1/d5dfde3080c9ef32984da5001ecdec181d135013edeef2931532d7dcd855/pelican-neighbors-1.2.0.tar.gz", hash = "sha256:1cbeee08f4d2e135452c044924c3f8e5e39ff083dcfb7485e8eeafdab9d2e445", size = 16834, upload-time = "2021-05-04T15:26:19.873Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/8d/ad/f2ad5fa3c1d35681707cf809a4573dda85a67dac007c59ff9371dae87b29/pelican_neighbors-1.2.0-py3-none-any.whl", hash = "sha256:963df1d27dd8b34ac7b85320e63184d3f4e396e4570a3d49f5911246387a35bb", size = 16792, upload-time = "2021-05-04T15:26:20.979Z" },
+]
+
+[[package]]
+name = "pelican-on-this-day"
+version = "0.2.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "pelican" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/77/07/86f56f71f7690f036129cdfb5c9348f684b213f017982185e6d64f8e47b1/pelican_on_this_day-0.2.0.tar.gz", hash = "sha256:796d626bfb5ddee2c613c9de448f7f6fbb1d573e2ee72e1c8dfafe1ae1d50dcd", size = 4018, upload-time = "2026-06-03T04:53:16.659Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/db/8f/f69d6a97782e055a114f512d6b1b27560932c03e9f2420d689c805721bc8/pelican_on_this_day-0.2.0-py3-none-any.whl", hash = "sha256:c925e0e14a1e6266b2d577ba05debc7e227b1d6a5f46913fe0ee3b55220ec11b", size = 5684, upload-time = "2026-06-03T04:53:15.541Z" },
 ]
 
 [[package]]

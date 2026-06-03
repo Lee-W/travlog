@@ -125,6 +125,7 @@ PLUGINS = [
     "pelican.plugins.heatmap",
     "pelican.plugins.osm",
     "pelican.plugins.tabular",
+    "pelican.plugins.on_this_day",
 ]
 PAGEFIND_ENABLED = True
 RANDOM_ARTICLE_BUTTON = True
