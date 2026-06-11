@@ -4,7 +4,7 @@ Modified: 2026-06-11 09:31 +0800
 Slug: blogroll
 Lang: zh-tw
 
-這裡是我透過 [RSS]({filename}/posts/random-thoughts/2025/02-get-your-retention-back-through-rss.md) 訂閱的各種部落格們
+這裡是我透過 [RSS](https://blog.wei-lee.me/posts/random-thoughts/2025/01/get-your-retention-back-through-rss/) 訂閱的各種部落格們
 
 | 部落格 | 備註 |
 | --- | --- |

@@ -4,7 +4,7 @@ Date: 2026-03-26 21:40 +0800
 Category: Travel
 Tags: Japan, 聖地巡禮, 搖曳露營△, 露營
 Slug: Minobu-Shizen-no-Sato-close
-Cover: /images/pilgrimage/yuru-camp/19-Minobu-Shizen-no-Sato-2.jpeg
+Cover: /images/pilgrimage/19-yuru-camp/Minobu-Shizen-no-Sato-2.jpeg
 Authors: Wei Lee
 
 如同 [推しは推せる時に推せる](https://blog.wei-lee.me/posts/random-thoughts/2025/05/support-your-oshi-while-you-can/)
@@ -23,7 +23,7 @@ Authors: Wei Lee
 直到現在回想起來，那趟旅行還是充滿快樂的記憶
 也交到不少很棒的朋友
 
-![Minobu-Shizen-no-Sato.jpeg](/images/pilgrimage/yuru-camp/Minobu-Shizen-no-Sato.jpeg)
+![Minobu-Shizen-no-Sato.jpeg](/images/pilgrimage/19-yuru-camp/Minobu-Shizen-no-Sato.jpeg)
 
 後來在同年的年底，因為四尾連湖訂不到
 所以還有跟台灣野活部的遠征團再去一次身延自然之里

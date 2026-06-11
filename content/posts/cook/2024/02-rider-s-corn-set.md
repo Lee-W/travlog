@@ -111,7 +111,7 @@ Authors: Wei Lee
 照片中間的是另一道料理
 也是同樣拖了快一年沒寫的，下一篇應該會寫啦...
 
-![IMG_5629](/images/post-images/2024-rider-s-corn-set/IMG_5629%20copy.jpeg)
+![IMG_5629](/images/post-images/2024-rider-s-corn-set/IMG_5629-copy.jpeg)
 
 ![IMG_5633](/images/post-images/2024-rider-s-corn-set/IMG_5633.jpeg)
 

@@ -3,7 +3,7 @@ Date: 2020-10-27 16:45 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-salmon
-Cover: /images/post-images/2020-emiya-s-salmon/anime 2.png
+Cover: /images/post-images/2020-emiya-s-salmon/anime-2.png
 Authors: Wei Lee
 
 今年因為疫情的關係，沒機會到國外做聖地巡禮
@@ -32,9 +32,9 @@ Authors: Wei Lee
 至於最後要點綴的洋香菜，就單純是我忘了
 反正最後成品也很好吃，就將錯就錯了 🤣
 
-![anime 1]({static}/images/post-images/2020-emiya-s-salmon/anime 1.jpg)
+![anime 1]({static}/images/post-images/2020-emiya-s-salmon/anime-1.jpg)
 
-![step 1]({static}/images/post-images/2020-emiya-s-salmon/step 1.jpg)
+![step 1]({static}/images/post-images/2020-emiya-s-salmon/step-1.jpg)
 
 ## 步驟
 ~~播放 BGM Emiya~~
@@ -46,14 +46,14 @@ Authors: Wei Lee
 
 彈幕說這裡加的鹽主要是用來去腥，還不是為了調味
 
-![step 2]({static}/images/post-images/2020-emiya-s-salmon/step 2.jpg)
+![step 2]({static}/images/post-images/2020-emiya-s-salmon/step-2.jpg)
 
 > 魚片釋出水分之後，用廚房紙巾擦乾
 
 > 接著將洋蔥切絲，胡蘿波切絲
 > 鴻禧菇撥碎
 
-![step 3]({static}/images/post-images/2020-emiya-s-salmon/step 3.jpg)
+![step 3]({static}/images/post-images/2020-emiya-s-salmon/step-3.jpg)
 
 > 鮭魚撒上鹽跟胡椒調味
 
@@ -63,7 +63,7 @@ Authors: Wei Lee
 
 > 洋蔥跟胡蘿蔔鋪在下面
 
-![step 4]({static}/images/post-images/2020-emiya-s-salmon/step 4.jpg)
+![step 4]({static}/images/post-images/2020-emiya-s-salmon/step-4.jpg)
 
 聽說不用鋁箔紙，用烘焙紙也可以，我就拿家裡現有的烘焙紙來試了
 
@@ -71,35 +71,35 @@ Authors: Wei Lee
 
 這就是我用來取代動畫中蔬菜高湯粉的義大利香料
 
-![step 5]({static}/images/post-images/2020-emiya-s-salmon/step 5.jpg)
+![step 5]({static}/images/post-images/2020-emiya-s-salmon/step-5.jpg)
 
 > 放入鮭魚和鴻禧菇
 > 最後放上奶油
 
-![step 6]({static}/images/post-images/2020-emiya-s-salmon/step 6.jpg)
+![step 6]({static}/images/post-images/2020-emiya-s-salmon/step-6.jpg)
 
 > 鋁箔紙兩端包好
 
 但其實放了這麼大一塊有點包不好，所以最後我又把它切成兩半
 
-![step 7]({static}/images/post-images/2020-emiya-s-salmon/step 7.jpg)
+![step 7]({static}/images/post-images/2020-emiya-s-salmon/step-7.jpg)
 
-![step 8]({static}/images/post-images/2020-emiya-s-salmon/step 8.jpg)
+![step 8]({static}/images/post-images/2020-emiya-s-salmon/step-8.jpg)
 
 > 蓋上鍋蓋
 > 小火悶煮15~20分鐘
 
-![step 9]({static}/images/post-images/2020-emiya-s-salmon/step 9.jpg)
+![step 9]({static}/images/post-images/2020-emiya-s-salmon/step-9.jpg)
 
 > 最後用洋香菜點綴
 
 最後就完成了！！！
 
-![anime 2]({static}/images/post-images/2020-emiya-s-salmon/anime 2.png)
+![anime 2]({static}/images/post-images/2020-emiya-s-salmon/anime-2.png)
 
-![finish 1]({static}/images/post-images/2020-emiya-s-salmon/finish 1.jpg)
+![finish 1]({static}/images/post-images/2020-emiya-s-salmon/finish-1.jpg)
 
-![finish 2]({static}/images/post-images/2020-emiya-s-salmon/finish 2.jpg)
+![finish 2]({static}/images/post-images/2020-emiya-s-salmon/finish-2.jpg)
 
 ---
 

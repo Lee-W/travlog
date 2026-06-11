@@ -24,7 +24,7 @@ Authors: Wei Lee
 雖然不確定會不會有人想一起看，但猶豫就會敗北啊！
 Hisa さん說得對 💪
 
-![buy-first](/images/post-images/buy-first.jpeg)
+![buy-first](/images/post-images/2025-kakukakushikajika/buy-first.jpeg)
 
 於是立刻買下了 F 排的兩張票
 
