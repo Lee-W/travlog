@@ -161,6 +161,7 @@ MENUITEMS = (
     ("🍿 評論", "/category/review.html"),
     ("✈️ 旅遊", "/category/travel.html"),
     ("🥘 料理", "/category/cook.html"),
+    ("📜 部落卷", "/pages/blogroll.html"),
     ("🏷️ 標籤", "/tags.html"),
     ("🗄️ 歸檔", "/archives.html"),
     ("📚 系列文章", "/series_list.html"),
