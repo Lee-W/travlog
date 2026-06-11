@@ -112,7 +112,7 @@ def load_yaml(path: Path) -> tuple[YAML, dict]:
     yml = YAML()
     yml.preserve_quotes = True
     yml.width = 4096
-    data = yml.load(path)
+    data = yml.load(path) or {}
     return yml, data
 
 
@@ -152,7 +152,7 @@ def _prompt_choice(
     while True:
         try:
             raw = input(prompt).strip().lower()
-        except EOFError, KeyboardInterrupt:
+        except (EOFError, KeyboardInterrupt):
             print()
             return None
         if not raw:
@@ -275,7 +275,7 @@ def pick_anime_interactive(
         )
         try:
             confirm = input("  [Enter 確認 / n 手動選擇] ").strip().lower()
-        except EOFError, KeyboardInterrupt:
+        except (EOFError, KeyboardInterrupt):
             print()
             return None, None, None
         if confirm not in ("n", "no"):

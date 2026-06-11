@@ -1,0 +1,45 @@
+work: 上伊那牡丹，醉姿如百合 | 上伊那牡丹、酔いどれ姿は百合の花
+tags: [動畫]
+locations:
+- name: 外澳沙灘
+  lat: 24.876978
+  lon: 121.843761
+  notes: ED 8
+  date: '2026-06-07'
+  country: 台灣
+  city: 宜蘭
+  tags:
+  - 海灘
+  images:
+  - /images/pilgrimage/55-botan-kamiina-fully-blossoms-when-drunk/waiao-beach.JPG
+  urls:
+  - label: 張景嵐曾待過的宜蘭
+    href: "{filename}/posts/travel/2026/06-chang-chin-lan.md"
+- name: 大福海邊觀景平台
+  lat: 24.802592
+  lon: 121.819322
+  notes: ED 8
+  date: '2026-06-07'
+  country: 台灣
+  city: 宜蘭
+  tags:
+  - 海灘
+  images:
+  - /images/pilgrimage/55-botan-kamiina-fully-blossoms-when-drunk/dafu-seaside-viewpoint.JPG
+  urls:
+  - label: 張景嵐曾待過的宜蘭
+    href: "{filename}/posts/travel/2026/06-chang-chin-lan.md"
+- name: 永鎮觀景台
+  lat: 24.776019
+  lon: 121.818094
+  notes: ED 8
+  date: '2026-06-07'
+  country: 台灣
+  city: 宜蘭
+  tags:
+  - 海灘
+  images:
+  - /images/pilgrimage/55-botan-kamiina-fully-blossoms-when-drunk/yongzhen-viewpoint.JPG
+  urls:
+  - label: 張景嵐曾待過的宜蘭
+    href: "{filename}/posts/travel/2026/06-chang-chin-lan.md"
