@@ -12,6 +12,18 @@ locations:
   images:
   - /images/pilgrimage/10-k-on/toyosato-elementary-school.JPG
   urls: []
+- name: JEUGIA 三条本店
+  lat: 35.008712
+  lon: 135.767656
+  notes: ''
+  date: '2018-12-03'
+  country: 日本
+  city: 京都
+  tags:
+  - 樂器店
+  images:
+  - /images/pilgrimage/10-k-on/jeugia-sanjo-main-store.JPG  # wrong GPS
+  urls: []
 - name: Hotel ibis London Earl's Court
   lat: 51.488975
   lon: -0.191783
@@ -57,16 +69,4 @@ locations:
   tags: []
   images:
   - /images/pilgrimage/10-k-on/jubilee-gardens.JPG
-  urls: []
-- name: JEUGIA 三条本店
-  lat: 35.008712
-  lon: 135.767656
-  notes: ''
-  date: '2018-12-03'
-  country: 日本
-  city: 京都
-  tags:
-  - 樂器店
-  images:
-  - /images/pilgrimage/10-k-on/jeugia-sanjo-main-store.JPG  # wrong GPS
   urls: []
