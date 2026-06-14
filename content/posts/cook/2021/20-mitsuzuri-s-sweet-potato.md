@@ -3,7 +3,7 @@ Date: 2021-11-18 17:15 +0800
 Category: Cook
 Tags: Fate, 衛宮家今天的餐桌風景
 Slug: mitsuzuri-s-sweet-potato
-Cover: /images/post-images/2021-mitsuzuri-s-sweet-potato//finish-1.jpeg
+Cover: /images/post-images/2021-mitsuzuri-s-sweet-potato/finish-1.jpeg
 Authors: Wei Lee
 
 由於 PyCon TW 2021 售票個人票破 200 且總售票破 500
@@ -97,7 +97,7 @@ Authors: Wei Lee
 
 不過整個味道是不錯的，甜甜的，但又不會太膩
 
-![finish-1](/images/post-images/2021-mitsuzuri-s-sweet-potato//finish-1.jpeg)
+![finish-1](/images/post-images/2021-mitsuzuri-s-sweet-potato/finish-1.jpeg)
 
 ![finish-2](/images/post-images/2021-mitsuzuri-s-sweet-potato/finish-2.jpeg)
 

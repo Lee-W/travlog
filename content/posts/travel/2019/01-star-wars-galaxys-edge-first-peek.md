@@ -90,7 +90,7 @@ Then, this part is for you.
 工作人員會用遠端操控 R2 來跟我們打招呼
 另外還放著帶著 Yoda 頭飾的 Porg
 
-![yoda-porg]({static}/images/post-images/2019-06-12-star-war-galaxys-edge-first-peek/P1140392.JPG)
+![yoda-porg]({static}/images/post-images/2019-06-12-star-war-galaxys-edge-first-peek/P1140392.jpg)
 
 一不小心就失手買了好像有一點實用的杯子跟限量版的別針
 這個別針要 15 美元，其實真的還蠻貴的
@@ -292,7 +292,7 @@ Hando 會根據你的表現扣掉 Falcon 的損傷給你獎賞
 
 看到 Grand Admiral Thrawn 的畫，真的很心動 QQ
 
-![grand admiral thrawn]({static}/images/post-images/2019-06-12-star-war-galaxys-edge-first-peek/P1140530.jpg)
+![grand admiral thrawn]({static}/images/post-images/2019-06-12-star-war-galaxys-edge-first-peek/P1140530.JPG)
 
 左下角的就是這間店的老闆 [Dok-Ondar](https://starwars.fandom.com/wiki/Dok-Ondar)
 
