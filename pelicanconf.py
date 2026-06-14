@@ -158,13 +158,23 @@ MENUITEMS = (
     ("🏠 首頁", "/"),
     ("🙋 關於", "/pages/about.html"),
     ("🗝️ 私藏", "/pages/pages.html"),
-    ("🍿 評論", "/category/review.html"),
-    ("✈️ 旅遊", "/category/travel.html"),
-    ("🥘 料理", "/category/cook.html"),
-    ("📜 部落卷", "/pages/blogroll.html"),
-    ("🏷️ 標籤", "/tags.html"),
-    ("🗄️ 歸檔", "/archives.html"),
-    ("📚 系列文章", "/series_list.html"),
+    (
+        "📂 分類",
+        (
+            ("🍿 評論", "/category/review.html"),
+            ("✈️ 旅遊", "/category/travel.html"),
+            ("🥘 料理", "/category/cook.html"),
+        ),
+    ),
+    (
+        "🧭 探索",
+        (
+            ("🏷️ 標籤", "/tags.html"),
+            ("🗄️ 歸檔", "/archives.html"),
+            ("📚 系列文章", "/series_list.html"),
+            ("📜 部落卷", "/pages/blogroll.html"),
+        ),
+    ),
     ("🎲 隨機", "/random/index.html"),
 )
 
@@ -195,12 +205,23 @@ I18N_SUBSITES["en"].update(
         "MENUITEMS": (
             ("🏠 Home", "/en/"),
             ("🙋 About", "/en/pages/about.html"),
-            ("🍿 Review", "/en/category/review.html"),
-            ("✈️ Travel", "/en/category/travel.html"),
-            ("🥘 Cook", "/en/category/cook.html"),
-            ("🏷️ Tags", "/en/tags.html"),
-            ("🗄️ Archives", "/en/archives.html"),
-            ("📂 Collections", "/en/pages/pages.html"),
+            ("🗝️ Collections", "/en/pages/pages.html"),
+            (
+                "📂 Categories",
+                (
+                    ("🍿 Review", "/en/category/review.html"),
+                    ("✈️ Travel", "/en/category/travel.html"),
+                    ("🥘 Cook", "/en/category/cook.html"),
+                ),
+            ),
+            (
+                "🧭 Explore",
+                (
+                    ("🏷️ Tags", "/en/tags.html"),
+                    ("🗄️ Archives", "/en/archives.html"),
+                    ("📜 Blogroll", "/en/pages/blogroll.html"),
+                ),
+            ),
             ("🎲 Random", "/en/random/index.html"),
         ),
         "SITENAME": "Those things no one cares about",
