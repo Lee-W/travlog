@@ -103,7 +103,7 @@ CD1 那側有一本小冊子，第一頁是曲目
 我在六月的時候也有去目黑、洗足一帶走走
 ![P1240197](/images/post-images/2024-bokuyaba-ost/P1240197.JPG)
 
-![P1240217](/images/post-images/2024-bokuyaba-ost/P1240217.JPG)
+![P1240217](/images/pilgrimage/24-the-dangers-in-my-heart/senzoku-ekimae-fureai-hiroba.JPG)
 
 說到 OST ，還是想再感謝上次大大送我藍色巨星跟 CODA 的 OST
 （對不起，我還沒有時間看 CODA 嗚嗚嗚）

@@ -31,7 +31,7 @@ Authors: Wei Lee
 
 ## 一刷： 新竹巨城威秀 9 廳
 
-![first](/images/post-images/2024-blue-giant/first.jpg)
+![first](/images/post-images/2023-what-i-watch-in-2023-sprint/blue-giant.jpg)
 
 剛好去參加朋友的偽單身派對，剛好時間對的上就在新竹看了
 新竹巨城威秀影廳還不錯，體感比京站威秀稍微好一些

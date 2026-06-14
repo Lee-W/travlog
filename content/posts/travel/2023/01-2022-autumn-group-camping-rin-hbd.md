@@ -64,7 +64,7 @@ Authors: Wei Lee
 ### 午餐
 午餐弄的是凜醬 solo 的時候做的[義大利湯麵]({filename}/posts/cook/2023/02-yuru-camp-rin-s-soup-pasta.md)
 
-![pasta](/images/post-images/2023-2022-autumn-group-camping-rin-hbd/pasta.jpg)
+![pasta](/images/post-images/2023-yuru-camp-rin-s-soup-pasta/finish-2.jpg)
 
 這次的活動非常的豐富，一吃完午餐就緊接著許多的活動
 每次報到後拿到物資的時候，都會覺得「誒不是，也太過用心了吧」
