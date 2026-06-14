@@ -93,7 +93,7 @@ Authors: Wei Lee
 當下小葵的那種失落感還記憶猶新
 再加上這所廢校實際的背景故事
 
-![school](/images/post-images/2023-bahamut-anime-tourism-2023/16874352703490.jpg)
+![school](/images/pilgrimage/19-yuru-camp/kachizawa-chubu-elementary-school-site.JPG)
 
 藤義的晚餐是撫子吃過的炸蝦飯
 真的很好吃，份量也蠻多的

@@ -78,7 +78,7 @@ Authors: Wei Lee
 
 ## 三刷： 西門 in89 COACH 廳
 
-![third](/images/post-images/2024-blue-giant/third.jpg)
+![third](/images/post-images/2024-what-i-watch-in-2023-summer/16915104493979.jpg)
 
 畢竟是音樂作品，畢竟是上了杜比版
 我能不在刷嗎，當然是不行

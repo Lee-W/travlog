@@ -83,7 +83,7 @@ Authors: Wei Lee
 ### 迷宮飯 第二季
 * 觀看平台： [Netflix](https://www.netflix.com/title/81564899)
 
-![Danjon-Meshi](/images/post-images/2024-what-i-will-watch-in-2024-sprint/Danjon-Meshi.png)
+![Danjon-Meshi](/images/post-images/2024-what-i-watched-in-2024-winter/17136214591974.jpg)
 
 最近才發現，大家認為這可以是勝者的早餐？
 反正就算沒有百合，先西也是每集都在做飯，也夠好吃了
