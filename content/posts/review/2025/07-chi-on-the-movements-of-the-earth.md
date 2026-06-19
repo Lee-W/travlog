@@ -8,7 +8,7 @@ Cover: /images/post-images/2024-what-i-will-watch-in-2024-fall/Orb.jpg
 Authors: Wei Lee
 
 JOJO 之前跟我說「地太重了，所以一直還沒跟上進度」
-我笑了，怎默會呢
+我笑了，怎麼會呢
 我們地最直來直往了
 母雞卡還在情勒的時候，地都是直接物理把你勒死
 
