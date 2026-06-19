@@ -1,0 +1,10 @@
+locations:
+  - id: dart-taipei
+    name: d/art taipei
+    lat: 25.0445397
+    lon: 121.5079867
+    address: 臺北市萬華區武昌街二段14號2F
+    tags: [藝廊]
+    urls:
+      - label: "愛麗絲夢遊仙境特展"
+        href: "{filename}/posts/review/2026/30-alice-in-wonderland-exhibition.md"
