@@ -51,6 +51,11 @@
   reviews:
   - text: '2021 冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#the-different-story'
+- title: 章魚嗶的原罪
+  tier: S
+  reviews:
+  - text: '2025 夏'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_20'
 - title: 抽屜裡的生態箱(全)
   tier: S
   reviews:
@@ -112,6 +117,21 @@
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_26'
   - text: '2024 夏'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_28'
+- title: 異國日記
+  tier: A
+  reviews:
+  - text: '2025 夏'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_21'
+- title: 我推的孩子
+  tier: A
+  reviews:
+  - text: '2025 夏'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_22'
+- title: 入伍吧！魔法少女
+  tier: A
+  reviews:
+  - text: '2025 夏'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_23'
 - title: 日常
   tier: A
   reviews:

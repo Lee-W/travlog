@@ -5,6 +5,11 @@
     href: '{filename}/posts/review/2020/04-what-i-watch-in-2020-sprint.md#_12'
   - text: '2024 冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_15'
+- title: 章魚嗶的原罪
+  tier: SS
+  reviews:
+  - text: '2025 夏'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_2'
 - title: 中二病也想談戀愛
   tier: SS
 - title: 乒乓
@@ -280,6 +285,26 @@
   reviews:
   - text: '2025 春 （第二季）'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_3'
+- title: City the animation
+  tier: S
+  reviews:
+  - text: '2025 夏'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#city-the-animation'
+- title: 明天，美食廣場見。
+  tier: S
+  reviews:
+  - text: '2025 夏'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_3'
+- title: 歌聲是法式千層酥
+  tier: S
+  reviews:
+  - text: '2025 夏'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_4'
+- title: 戀上換裝娃娃
+  tier: S
+  reviews:
+  - text: '2025 夏 （Season 2）'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#season-2'
 - title: 女高中生的虛度日常
   tier: S
 - title: 擅長捉弄人的高木同學 (第一季、第二季)
@@ -680,6 +705,8 @@
     href: '{filename}/posts/review/2019/07-miss-kobayashi-s-dragon-maid.md'
   - text: '2021 夏 （小林家的龍女僕 S）'
     href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#s'
+  - text: '2025 （電影版 害怕寂寞的龍）'
+    href: '{filename}/posts/review/2025/18-kobayashino-maid-dragon-movie.md'
 - title: 搖曳露營
   tier: S
   reviews:
@@ -805,6 +832,8 @@
   reviews:
   - text: '2025 冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_8'
+  - text: '2025 夏 （劇場版総集編 前編 青春狂走曲）'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_12'
 - title: PLUTO 冥王
   tier: S
   reviews:
@@ -830,6 +859,16 @@
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_5'
+- title: 去唱卡拉 OK 吧！
+  tier: A
+  reviews:
+  - text: '2025 夏'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#ok'
+- title: 為你著迷
+  tier: A
+  reviews:
+  - text: '2025 夏'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_5'
 - title: New Game
   tier: A
 - title: 冰菓
@@ -1342,8 +1381,10 @@
 - title: 膽大黨
   tier: A
   reviews:
-  - text: '2024 秋'
+  - text: '2024 秋 （第一季）'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_2'
+  - text: '2025 夏 （第二季）'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_6'
 - title: 妻子變成小學生。
   tier: A
   reviews:
@@ -1354,6 +1395,8 @@
   reviews:
   - text: '2024 秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#no-game-no-life'
+  - text: '2025 夏 （遊戲人生 ZERO 劇場版）'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#no-game-no-life-zero'
 - title: 競速 overtake
   tier: A
   reviews:
@@ -1459,6 +1502,8 @@
     href: '{filename}/posts/review/2022/05-what-i-watch-in-2022-winter.md#_7'
   - text: '2024 春 （柱訓練篇）'
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_7'
+  - text: '2025 夏 （劇場版 無限城篇 第一章 猗窩座再襲）'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_13'
 - title: 星際牛仔
   tier: A
   reviews:
@@ -1616,6 +1661,16 @@
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#thank-you'
+- title: 碰之道
+  tier: B
+  reviews:
+  - text: '2025 夏'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_8'
+- title: 突然降臨的埃及神 第二季
+  tier: B
+  reviews:
+  - text: '2025 夏'
+    href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_9'
 - title: 飛翔的魔女
   tier: B
 - title: 非洲的動物上班族
