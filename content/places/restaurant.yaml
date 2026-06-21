@@ -44,3 +44,12 @@ locations:
     urls:
       - label: "貓妝自家烘焙咖啡館"
         href: "{filename}/posts/review/2026/29-maskcatcafe.md"
+  - id: hanoi-pho
+    name: 河內河粉
+    lat: 25.05290678993742
+    lon: 121.56071028009838
+    address: 臺北市松山區南京東路五段123巷4弄1之3號
+    tags: [越式河粉]
+    urls:
+      - label: "河內河粉"
+        href: "{filename}/posts/review/2026/32-hanoi-pho.md"
