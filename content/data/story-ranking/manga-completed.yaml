@@ -172,6 +172,11 @@
   reviews:
   - text: '2024 秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_23'
+- title: 誰怕誰
+  tier: A
+  reviews:
+  - text: '2025 冬'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_26'
 - title: 四月是你的謊言 最後樂章
   tier: B
   reviews:
@@ -187,11 +192,6 @@
   reviews:
   - text: '2021 春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_27'
-- title: 誰怕誰
-  tier: A
-  reviews:
-  - text: '2025 冬'
-    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_26'
 - title: 巴歐來訪者
   tier: C
   reviews:
