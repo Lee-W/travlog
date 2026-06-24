@@ -859,6 +859,11 @@
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_5'
+- title: 流汗吧！ 健身少女
+  tier: S
+  reviews:
+  - text: '2025 春 （二刷）'
+    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_11'
 - title: 去唱卡拉 OK 吧！
   tier: A
   reviews:
@@ -881,11 +886,6 @@
   tier: A
 - title: 一拳超人
   tier: A
-- title: 流汗吧！ 健身少女
-  tier: A
-  reviews:
-  - text: '2025 春 （二刷）'
-    href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_11'
 - title: 三顆星彩色冒險
   tier: A
 - title: 萌獸寵物店
@@ -1615,7 +1615,7 @@
   tier: A
   reviews:
   - text: '2025 冬'
-    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#re'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_14'
 - title: 機動戰士Gundam GQuuuuuuX -Beginning-
   tier: A
   reviews:
