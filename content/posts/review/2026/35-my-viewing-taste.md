@@ -1,5 +1,5 @@
 Title: 你看的是「作者的真心與手藝」
-Date: 2026-06-28 08:00 +0800
+Date: 2026-06-30 08:00 +0800
 Category: Review
 Tags: Blog, AI
 Slug: my-viewing-taste
