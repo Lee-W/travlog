@@ -47,7 +47,7 @@ Lang: zh-tw
 | [只贏](https://www.onlywin.work/) | | |
 | [ikuka 的第一個家](https://blog.ikukaroom.com/) | | |
 | [Eddie Lv](https://eddielv.com/) | | |
-| [Shuyu Pixelart](https://shuyulin1127.com) | | [![Shuyu Pixelart](https://bear-images.sfo2.cdn.digitaloceanspaces.com/shuyulin1127/shuyupixelart_88x31.gif)](https://shuyulin1127.com) |
+| [Shuyu Pixelart](https://shuyulin1127.com) | Pixel Art 超可愛！| [![Shuyu Pixelart](https://bear-images.sfo2.cdn.digitaloceanspaces.com/shuyulin1127/shuyupixelart_88x31.gif)](https://shuyulin1127.com) |
 
 ## 新聞媒體
 
