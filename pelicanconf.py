@@ -108,6 +108,7 @@ I18N_SUBSITES = {
         "SOCIAL_PROFILE_LABEL": "Keep In Touch",
     },
 }
+I18N_UNTRANSLATED_ARTICLES = "remove"
 
 # Plugin-setting
 PLUGINS = [
