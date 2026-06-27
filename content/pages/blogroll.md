@@ -1,6 +1,6 @@
 Title: 部落卷
 Date: 2026-06-10 22:00 +0800
-Modified: 2026-06-11 09:31 +0800
+Modified: 2026-06-27 17:25 +0800
 Slug: blogroll
 Lang: zh-tw
 
@@ -31,20 +31,23 @@ Lang: zh-tw
 | [高見龍](https://kaochenlong.com/) | |
 | [Iqbal's Weblog](https://iqbalabdullah.net/en/) | |
 | [Core Dispatch](https://coredispatch.xyz/) | CPython 核心開發的一些紀錄 |
+| [Toomore Chiang](https://toomore.net/) | |
+| [Neil's Blog](https://blog.neil-lin.com/) | |
 
 ## BlogBlog 宇宙
 
-| 部落格 | 備註 |
-| --- | --- |
-| [BlogBlog.Club 部落部落俱樂部](https://blogblog.club/blog) | 大家一起出乃寫部落格啊！ |
-| [Wiwi.Blog](https://wiwi.blog/blog) | |
-| [yunColorBlog](https://yuncolorblog.com/) | |
-| [LQ7 的創作與想像](https://lq7.tw/) | 宇宙中第一個在我的部落格留言的大大，給了我繼續寫文章的動力！ |
-| [Shuo-jen Blog](https://shuojen.com/blog) | 曾特別寫文章推薦我的部落格，也讓我更有繼續寫作的動力！ |
-| [資工小廢物 - JN](https://blog.giveanornot.com/) | 部落格很漂亮！直接讓我放棄花時間調部落格主題，認真回來寫文章（？！） |
-| [只贏](https://www.onlywin.work/) | |
-| [ikuka 的第一個家](https://blog.ikukaroom.com/) | |
-| [Eddie Lv](https://eddielv.com/) | |
+| 部落格 | 備註 | 徽章 |
+| --- | --- | --- |
+| [BlogBlog.Club 部落部落俱樂部](https://blogblog.club/blog) | 大家一起出乃寫部落格啊！ | |
+| [Wiwi.Blog](https://wiwi.blog/blog) | | |
+| [yunColorBlog](https://yuncolorblog.com/) | | |
+| [LQ7 的創作與想像](https://lq7.tw/) | 宇宙中第一個在我的部落格留言的大大，給了我繼續寫文章的動力！ | |
+| [Shuo-jen Blog](https://shuojen.com/blog) | 曾特別寫文章推薦我的部落格，也讓我更有繼續寫作的動力！ | |
+| [資工小廢物 - JN](https://blog.giveanornot.com/) | 部落格很漂亮！直接讓我放棄花時間調部落格主題，認真回來寫文章（？！） | [![資工小廢物 - JN](https://blog.giveanornot.com/logo.webp)](https://blog.giveanornot.com/) |
+| [只贏](https://www.onlywin.work/) | | |
+| [ikuka 的第一個家](https://blog.ikukaroom.com/) | | |
+| [Eddie Lv](https://eddielv.com/) | | |
+| [Shuyu Pixelart](https://shuyulin1127.com) | | [![Shuyu Pixelart](https://bear-images.sfo2.cdn.digitaloceanspaces.com/shuyulin1127/shuyupixelart_88x31.gif)](https://shuyulin1127.com) |
 
 ## 新聞媒體
 
