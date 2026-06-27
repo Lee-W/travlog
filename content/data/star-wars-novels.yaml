@@ -2,143 +2,282 @@
   rating: 10
   difficulty: 3
   year: 2017
+  era: "0 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#rogue-one-a-star-wars-story'
 - title: "Star Wars: Darth Plagueis"
   rating: 9.5
   difficulty: 4.8
   year: 2017
+  era: "67–32 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-darth-plagueis-legend'
 - title: "Star Wars: Revenge of the Sith"
   rating: 9
   difficulty: 4
   year: 2017
+  era: "19 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-revenge-of-the-sith'
 - title: "Catalyst: A Rogue One Novel"
   rating: 8
   difficulty: 3.5
   year: 2017
+  era: "21–16 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#catalyst-a-rogue-one-novel'
 - title: "Star Wars: Thrawn"
   rating: 10
   difficulty: 3.5
   year: 2018
+  era: "19–2 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#thrawn'
 - title: "Thrawn: Alliances"
   rating: 9
   difficulty: 3.5
   year: 2018
+  era: "1 BBY（含複製人戰爭回憶）"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#thrawn-alliances'
 - title: "Star Wars: Ahsoka"
   rating: 8.5
   difficulty: 1
   year: 2018
+  era: "18 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-ahsoka-tano'
 - title: "Leia, Princess of Alderaan"
   rating: 8
   difficulty: 1
   year: 2018
+  era: "3 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#leia-princess-of-alderaan'
 - title: "From a Certain Point of View"
   rating: 7.5
   difficulty: 3
   year: 2018
+  era: "0 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#from-a-certain-point-of-view'
 - title: "Star Wars: Lost Stars"
   rating: 9.5
   difficulty: 1.5
   year: 2019
+  era: "13 BBY–5 ABY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-lost-star'
 - title: "Dooku: Jedi Lost"
   rating: 9
   difficulty: 3
   year: 2019
+  era: "83–32 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#dooku-jedi-lost'
 - title: "Thrawn: Treason"
   rating: 8.5
   difficulty: 3.5
   year: 2019
+  era: "1 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#thrawn-treason'
 - title: "Battlefront 2: Inferno Squad"
   rating: 8.5
   difficulty: 2.5
   year: 2019
+  era: "0 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#battlefront-2-inferno-squad'
 - title: "Star Wars: Bloodline"
   rating: 8
   difficulty: 3.5
   year: 2019
+  era: "28 ABY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-bloodline'
 - title: "Galaxy's Edge: Black Spire"
   rating: 8
   difficulty: 3
   year: 2019
+  era: "34 ABY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#galaxys-edge-black-spire'
 - title: "Star Wars: Dark Disciple"
   rating: 7.9
   difficulty: 3
   year: 2019
+  era: "19 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-dark-disciple'
 - title: "Star Wars: The Rise of the Empire"
   rating: 7.5
   difficulty: 3.5
   year: 2019
+  era: "14–11 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-the-rise-of-the-empire-3-stories'
 - title: "Star Wars: Life Debt"
   rating: 7.5
   difficulty: 3.5
   year: 2019
+  era: "5 ABY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-life-debt'
 - title: "Phasma"
   rating: 7.5
   difficulty: 3.5
   year: 2019
+  era: "34 ABY（含過往回憶）"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#phasma'
 - title: "Resistance Reborn: Journey to Star Wars: The Rise of Skywalker"
   rating: 7.5
   difficulty: 3
   year: 2019
+  era: "34 ABY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#resistance-reborn'
 - title: "Tarkin"
   rating: 7.2
   difficulty: 4.5
   year: 2019
+  era: "14 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#tarkin'
 - title: "A New Dawn"
   rating: 7
   difficulty: 4
   year: 2019
+  era: "11 BBY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#a-new-dawn'
 - title: "Star Wars: Empire's End"
   rating: 7
   difficulty: 3.5
   year: 2019
+  era: "5 ABY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-empires-end'
 - title: "Star Wars: Aftermath"
   rating: 5
   difficulty: 3.5
   year: 2019
+  era: "4 ABY"
+  reviews:
+  - text: '2019 前我看過的 23 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-aftermath'
 - title: "Doctor Aphra (Star Wars)"
   rating: 8.2
   difficulty: 2
   year: 2020
+  era: "0–3 ABY"
+  reviews:
+  - text: '2020 我看過的 7 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/08-star-wars-novel-i-read-before-2020.md#doctor-aphra'
 - title: "Master & Apprentice (Star Wars)"
   rating: 8
   difficulty: 3
   year: 2020
+  era: "40 BBY"
+  reviews:
+  - text: '2020 我看過的 7 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/08-star-wars-novel-i-read-before-2020.md#master-apprentice'
 - title: "Star Wars: Rebel Rising"
   rating: 7.8
   difficulty: 2.5
   year: 2020
+  era: "13–0 BBY"
+  reviews:
+  - text: '2020 我看過的 7 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/08-star-wars-novel-i-read-before-2020.md#star-wars-rebel-rising'
 - title: "Battlefront: Twilight Company"
   rating: 7.7
   difficulty: 3.5
   year: 2020
+  era: "3 ABY"
+  reviews:
+  - text: '2020 我看過的 7 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/08-star-wars-novel-i-read-before-2020.md#battlefront-twilight-company'
 - title: "Lord of The Sith"
   rating: 7.7
   difficulty: 3
   year: 2020
+  era: "14 BBY"
+  reviews:
+  - text: '2020 我看過的 7 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/08-star-wars-novel-i-read-before-2020.md#lord-of-the-sith'
 - title: "Star Wars: Galaxy's Edge: A Crash of Fate"
   rating: 7.4
   difficulty: 2
   year: 2020
+  era: "34 ABY"
+  reviews:
+  - text: '2020 我看過的 7 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/08-star-wars-novel-i-read-before-2020.md#galaxys-edge-a-crash-of-fate'
 - title: "Last Shot"
   rating: 4
   difficulty: 3.5
   year: 2020
+  era: "10 BBY／2 ABY"
+  reviews:
+  - text: '2020 我看過的 7 本 Star Wars 小說'
+    href: '{filename}/posts/review/2020/08-star-wars-novel-i-read-before-2020.md#last-shot'
 - title: "Victory's Price"
   rating: 8
   difficulty: 3.5
   year: 2022
+  era: "5 ABY"
 - title: "Shadow Fall"
   rating: 7.8
   difficulty: 3.5
   year: 2022
+  era: "5 ABY"
 - title: "Alphabet Squadron"
   rating: 7.7
   difficulty: 3.5
   year: 2022
+  era: "5 ABY"
 - title: "Queen's Shadow"
   rating: 8
   difficulty: 2
   year: 2023
+  era: "28 BBY"
 - title: "From a Certain Point of View: The Empire Strikes Back"
   rating: 7
   difficulty: 3
   year: 2024
+  era: "3 ABY"
+- title: "Star Wars: Queen's Peril"
+  rating: 8
+  difficulty: 3
+  year: 2026
+  era: "33–32 BBY"
+- title: "Star Wars: Brotherhood"
+  rating: 7.8
+  difficulty: 3
+  year: 2026
+  era: "22 BBY"
