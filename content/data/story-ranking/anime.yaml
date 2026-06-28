@@ -10,6 +10,21 @@
   reviews:
   - text: '2025 夏'
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_2'
+- title: BanG Dream! It's MyGO!!!!! 後編 唱吧、成為我們羈絆的詩歌&FILM LIVE
+  tier: SS
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#bang-dream-its-mygofilm-live'
+- title: 100 公尺。
+  tier: SS
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#100'
+- title: 劇場版 鏈鋸人 蕾潔篇
+  tier: SS
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_13'
 - title: 中二病也想談戀愛
   tier: SS
 - title: 乒乓
@@ -290,6 +305,43 @@
   reviews:
   - text: '2025 夏'
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#city-the-animation'
+- title: 金牌得主
+  tier: S
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_5'
+- title: 琉璃的寶石
+  tier: S
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_6'
+- title: 我們不可能成為戀人！絕對不行。
+  tier: S
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_7'
+- title: 光逝去的夏天
+  tier: S
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_9'
+- title: 青春豬頭少年不會夢到聖誕服女郎
+  tier: S
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_8'
+- title: 賽馬娘 灰髮灰姑娘 第二部分
+  tier: S
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_2'
+- title: 藤本樹17-26
+  tier: S
+  reviews:
+  - text: '2025 秋 （PART 1）'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#17-26part-1'
+  - text: '2025 秋 （PART 2）'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#17-26part-2'
 - title: 明天，美食廣場見。
   tier: S
   reviews:
@@ -605,6 +657,8 @@
   reviews:
   - text: '2024 夏'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#bang-dream-its-mygo'
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#bang-dream-its-mygo'
 - title: 心靈遊戲
   tier: S
   reviews:
@@ -886,6 +940,26 @@
   tier: A
 - title: 一拳超人
   tier: A
+- title: 小魔女學園
+  tier: A
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_10'
+- title: 拳願阿修羅
+  tier: A
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_11'
+- title: 空之境界 第一章 俯瞰風景
+  tier: A
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#-_1'
+- title: 空之境界 第二章 殺人考察（前）
+  tier: A
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#-'
 - title: 三顆星彩色冒險
   tier: A
 - title: 萌獸寵物店
@@ -1463,6 +1537,8 @@
     href: '{filename}/posts/review/2022/05-what-i-watch-in-2022-winter.md#0'
   - text: '2023 夏 （懷玉玉折篇）'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_4'
+  - text: '2025 （劇場版 懷玉・玉折）'
+    href: '{filename}/posts/review/2025/15-jujutsu-kaisen-hidden-inventory-premature-death-the-movie.md'
 - title: 機動戰士鋼彈 水星的魔女
   tier: A
   reviews:
@@ -1518,6 +1594,8 @@
     href: '{filename}/posts/review/2020/02-what-i-watch-in-2020-winter.md#_7'
   - text: '2023 冬 （劇場版 異世界四重奏 ～Another World～）'
     href: '{filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#another-world'
+  - text: '2025 秋 （3）'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#3'
 - title: 極道主夫
   tier: A
   reviews:
@@ -1626,7 +1704,7 @@
   reviews:
   - text: '2024 秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_5'
-- title: 賽馬娘 蘆毛灰姑娘
+- title: 賽馬娘 灰髮灰姑娘
   tier: A
   reviews:
   - text: '2025 春'
@@ -1927,6 +2005,11 @@
     href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_15'
   - text: '2023 秋 （澀谷事變篇）'
     href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_7'
+- title: 一拳超人(第三季)
+  tier: B
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_3'
 - title: 弦音
   tier: B
   reviews:

@@ -46,6 +46,11 @@
   reviews:
   - text: '2025'
     href: '{filename}/posts/review/2025/13-kakukakushikajika.md'
+- title: 國寶
+  tier: S
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_16'
 - title: 岸邊露伴一動也不動 懺悔室
   tier: S
   reviews:
@@ -121,6 +126,11 @@
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_19'
 - title: 無敵破壞王2：網路大暴走
   tier: A
+- title: 去唱卡拉 OK 吧！
+  tier: A
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#ok'
 - title: 天外奇蹟
   tier: A
 - title: 玩具總動員 4
@@ -215,6 +225,11 @@
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_20'
+- title: 九龍大眾浪漫
+  tier: B
+  reviews:
+  - text: '2025 秋'
+    href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_17'
 - title: 全面啟動
   tier: B
   reviews:

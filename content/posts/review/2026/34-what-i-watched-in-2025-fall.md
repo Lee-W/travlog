@@ -1,11 +1,10 @@
 Title: 2025 秋季看什麼
 Subtitle: S 級以上作品連發
-Date: 2026-06-28 08:00 +0800
+Date: 2026-06-28 08:05 +0800
 Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watched-in-2025-fall
 Authors: Wei Lee
-Status: Draft
 
 這一季是補番的回合，新番看得蠻少的 🤔
 但真的整理下來這季還真的是看了不少寶藏作品耶
