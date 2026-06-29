@@ -11,7 +11,7 @@ Authors: Wei Lee
 
 <!--more-->
 
-看完買食譜送漫畫的[衛宮家今天的餐桌風景](({filename}/pages/emiya-toc.md))憧憬著正義の味方（？？？），而開始重現料理、甜點
+看完買食譜送漫畫的[衛宮家今天的餐桌風景]({filename}/pages/emiya-toc.md)憧憬著正義の味方（？？？），而開始重現料理、甜點
 
 被[輝夜姬想讓人告白](https://twitter.com/Leek653124710/status/1251641679460708352?s=20)和 Fate/Stay Night Heaven's Feel 對弓道細節的描寫而感動，開始上弓道課
 
