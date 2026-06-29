@@ -53,7 +53,7 @@ Modified: 2026-05-29 11:50 +0800
 {% table data/story-ranking/live-action-tv.yaml group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
 
 ## 紀錄片
-{% table data/story-ranking/documentary.yaml field_labels="title:作品,reviews:評論" %}
+{% table data/story-ranking/documentary.yaml group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
 
 ## 星際大戰
 {% table data/story-ranking/star-wars.yaml group_by="group" group_summary_at="group" field_labels="title:作品,reviews:評論" %}
