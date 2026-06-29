@@ -21,6 +21,7 @@ from __future__ import annotations
 import argparse
 import json
 import math
+import re as _re
 import shutil
 import subprocess
 import sys
@@ -577,9 +578,6 @@ def cmd_batch(dry_run: bool, interactive: bool) -> int:
 
 
 # ── process wizard (questionary) ─────────────────────────────────────────────
-
-import re as _re
-
 
 def _next_stem(loc: dict, dest_dir: Path, ext: str) -> str:
     """Return the next available filename stem for a location.

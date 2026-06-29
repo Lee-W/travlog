@@ -20,10 +20,12 @@ FIELD_ORDER = [
     "Cover",
     "Authors",
     "Lang",
+    "Status",
 ]
 DATE_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2} \d{2}:\d{2} \+\d{4}$")
 SLUG_PATTERN = re.compile(r"^[a-zA-Z0-9][a-zA-Z0-9-]*[a-zA-Z0-9]$|^[a-zA-Z0-9]$")
 VALID_LANGS = {"zh-tw", "en"}
+VALID_STATUSES = {"draft"}
 
 
 def parse_metadata(path: Path) -> tuple[dict[str, str], list[str]]:
@@ -76,6 +78,15 @@ def check_file(path: Path, valid_categories: list[str]) -> list[str]:
     if "Lang" in metadata and metadata["Lang"] not in VALID_LANGS:
         errors.append(
             f"  Lang must be one of {sorted(VALID_LANGS)}, got '{metadata['Lang']}'"
+        )
+
+    if (
+        "Status" in metadata
+        and metadata["Status"].lower() not in VALID_STATUSES
+    ):
+        errors.append(
+            f"  Status must be one of {sorted(VALID_STATUSES)}, "
+            f"got '{metadata['Status']}'"
         )
 
     known_present = [f for f in FIELD_ORDER if f in order]

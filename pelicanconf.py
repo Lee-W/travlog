@@ -11,7 +11,9 @@ SITEURL = "http://localhost:8000"
 STATIC_SITEURL = SITEURL
 SITELOGO = "/images/avatar.jpg"
 BROWSER_COLOR = "#333333"
-HEADER_COVER = "/images/cover.jpeg"
+HEADER_COVER = "images/cover.jpeg"
+SITE_DESCRIPTION = "動畫、電影、音樂、料理與旅遊的觀後感與生活紀錄"
+SITESUBTITLE = SITE_DESCRIPTION
 DEFAULT_DATE_FORMAT = "%Y/%m/%d - %a"
 TIMEZONE = "Asia/Taipei"
 SHOW_ARTICLE_MODIFIED_TIME = True
@@ -40,6 +42,9 @@ SERIES_LIST_SAVE_AS = "series_list.html"
 ARTICLE_URL = "posts/{category}/{date:%Y}/{date:%m}/{slug}"
 ARTICLE_SAVE_AS = "posts/{category}/{date:%Y}/{date:%m}/{slug}/index.html"
 STATIC_PATHS = ["images", "extra", "static"]
+EXTRA_PATH_METADATA = {
+    "extra/robots.txt": {"path": "robots.txt"},
+}
 
 # License
 CC_LICENSE = {
@@ -91,24 +96,12 @@ THEME = attila.get_path()
 
 # i18n
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
-OG_LOCALE = "zh-tw"
+OG_LOCALE = "zh_TW"
 DEFAULT_LANG = "zh-tw"
 I18N_TEMPLATES_LANG = "en"
-LANGUAGES = [("zh-tw", "/"), ("en", "/en/")]
-LANGUAGE_NAMES = {
-    "zh-tw": "台灣漢語",
-    "en": "English",
-}
+LANGUAGES = ()
 CURRENT_LANG = "zh-tw"
-I18N_SUBSITES = {
-    "en": {
-        "CATEGORY_TRANSLATIONS": {},
-        "COMMENTS_INTRO": 'If you enjoyed this article, feel free to leave a comment below (GitHub account required), or <a href="mailto:hello+travlog@wei-lee.me">drop me an email to chat!</a>',
-        "CURRENT_LANG": "en",
-        "SOCIAL_PROFILE_LABEL": "Keep In Touch",
-    },
-}
-I18N_UNTRANSLATED_ARTICLES = "remove"
+I18N_SUBSITES = {}
 
 # Plugin-setting
 PLUGINS = [
@@ -117,6 +110,7 @@ PLUGINS = [
     "pelican.plugins.random_article",
     "pelican.plugins.render_math",
     "pelican.plugins.seo",
+    "pelican.plugins.sitemap",
     "pelican.plugins.series",
     "pelican.plugins.share_post",
     "pelican.plugins.statistics",
@@ -131,19 +125,28 @@ PLUGINS = [
 PAGEFIND_ENABLED = True
 RANDOM_ARTICLE_BUTTON = True
 SUMMARY_LINK_FORMAT = ""
+SITEMAP = {
+    "format": "xml",
+    "changefreqs": {
+        "articles": "monthly",
+        "pages": "monthly",
+        "indexes": "weekly",
+    },
+}
 
 # Local plugins
 LOCAL_PLUGINS = [
     "pelican.plugins.deadlinks",
+    "image_markup",
 ]
+PLUGIN_PATHS = ["plugins"]
 PLUGINS.extend(LOCAL_PLUGINS)
 DEADLINKS_VALIDATION = False
-
 # pelican-seo settings
 SEO_REPORT = True  # SEO report is enabled by default
-SEO_ENHANCER = True  # SEO enhancer is disabled by default
-SEO_ENHANCER_OPEN_GRAPH = True  # Subfeature of SEO enhancer
-SEO_ENHANCER_TWITTER_CARDS = True  # Subfeature of SEO enhancer
+SEO_ENHANCER = False
+SEO_ENHANCER_OPEN_GRAPH = False
+SEO_ENHANCER_TWITTER_CARDS = False
 
 
 # ----this blog only----
@@ -190,41 +193,9 @@ AUTHOR_META = {
     }
 }
 
-# i18n
+# Category labels
 CATEGORY_TRANSLATIONS = {
     "Cook": "料理",
     "Review": "評論",
     "Travel": "旅遊",
 }
-I18N_SUBSITES["en"].update(
-    {
-        "CATEGORY_TRANSLATIONS": {
-            "Cook": "Cook",
-            "Review": "Review",
-            "Travel": "Travel",
-        },
-        "MENUITEMS": (
-            ("🏠 Home", "/en/"),
-            ("🙋 About", "/en/pages/about.html"),
-            ("🗝️ Collections", "/en/pages/pages.html"),
-            (
-                "📂 Categories",
-                (
-                    ("🍿 Review", "/en/category/review.html"),
-                    ("✈️ Travel", "/en/category/travel.html"),
-                    ("🥘 Cook", "/en/category/cook.html"),
-                ),
-            ),
-            (
-                "🧭 Explore",
-                (
-                    ("🏷️ Tags", "/en/tags.html"),
-                    ("🗄️ Archives", "/en/archives.html"),
-                    ("📜 Blogroll", "/en/pages/blogroll.html"),
-                ),
-            ),
-            ("🎲 Random", "/en/random/index.html"),
-        ),
-        "SITENAME": "Those things no one cares about",
-    }
-)

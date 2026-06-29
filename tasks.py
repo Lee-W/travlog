@@ -10,6 +10,7 @@ from collections.abc import Sequence
 from pathlib import Path
 from string import Template
 
+from invoke.exceptions import Exit
 from invoke.main import program
 from invoke.tasks import task
 from pelican import main as pelican_main
@@ -38,11 +39,10 @@ CONFIG = {
 
 
 def _build_pagefind():
-    if (
-        subprocess.call(["uv", "run", "python", "-m", "pagefind", "--site", "output"])
-        == 1
-    ):
-        print("failed to call 'uv run python -m pagefind --site output'")
+    subprocess.run(
+        ["uv", "run", "python", "-m", "pagefind", "--site", "output"],
+        check=True,
+    )
 
 
 @task
@@ -109,6 +109,7 @@ def reserve(c):
 def preview(c):
     """Build production version of site"""
     pelican_run("-s {settings_publish}".format(**CONFIG))
+    _build_pagefind()
 
 
 @task
@@ -150,12 +151,11 @@ def livereload(c):
     server.serve(host=CONFIG["host"], port=CONFIG["port"], root=CONFIG["deploy_path"])
 
 
-@task(optional=["--build-pagefind"])
-def build_publish(c, build_pagefind=False):
+@task
+def build_publish(c):
     """Build pages with publishconf.py"""
     pelican_run("-s {settings_publish}".format(**CONFIG))
-    if build_pagefind:
-        _build_pagefind()
+    _build_pagefind()
 
 
 def pelican_run(cmd):
@@ -163,22 +163,33 @@ def pelican_run(cmd):
     pelican_main(shlex.split(cmd))
 
 
-@task
-def style(c):
+@task(optional=["rev_range"])
+def style(c, rev_range="origin/main.."):
     """Run style check on python code"""
-    python_targets = "pelicanconf.py publishconf.py tasks.py"
-    c.run(
-        f"""
-        uv run ruff check {python_targets} && \
-        uv run cz check --rev-range origin/main..
-        """
+    python_targets = "pelicanconf.py publishconf.py tasks.py scripts plugins"
+    c.run(f"uv run ruff check {python_targets}")
+
+    commit_count = subprocess.run(
+        ["git", "rev-list", "--count", rev_range],
+        check=False,
+        capture_output=True,
+        text=True,
     )
+    if commit_count.returncode != 0:
+        print(f"Skipping commit style check: invalid rev range {rev_range!r}")
+        return
+
+    if commit_count.stdout.strip() == "0":
+        print(f"Skipping commit style check: no commits in {rev_range!r}")
+        return
+
+    c.run(f"uv run cz check --rev-range {shlex.quote(rev_range)}")
 
 
 @task
 def format(c):
     """Run autoformater on python code"""
-    python_targets = "pelicanconf.py publishconf.py tasks.py"
+    python_targets = "pelicanconf.py publishconf.py tasks.py scripts plugins"
     c.run(
         f"""
         uv run ruff format {python_targets} && \
@@ -197,6 +208,26 @@ def security_check(c):
         rm -rf requirements.txt
         """
     )
+
+
+@task
+def check_content(c):
+    """Run local content quality checks."""
+    post_files = sorted(str(path) for path in Path("content/posts").rglob("*.md"))
+    metadata_check = subprocess.run(
+        [
+            sys.executable,
+            "scripts/check_post_metadata.py",
+            "--categories",
+            "Review,Cook,Travel",
+            *post_files,
+        ],
+        check=False,
+    )
+    if metadata_check.returncode != 0:
+        raise Exit(metadata_check.returncode)
+
+    check_image_usage(c)
 
 
 _SEASONS = {
