@@ -25,13 +25,14 @@ dependencies = [
   "python-gettext>=5.0",
   "typogrify>=2.0.7",
   "webassets>=2.0",
-  "attila>=2.17.0",
+  "attila>=3.0.1",
   "pelican-heatmap>=0.4.1",
   "pelican-osm[validate]>=0.13.1",
   "pelican-summary-link>=0.2.3",
   "pelican-random-article>=0.2.1",
   "pelican-tabular>=0.4.0",
   "pelican-on-this-day>=0.4.0",
+  "pelican-sitemap>=1.2.2",
 ]
 
 [dependency-groups]

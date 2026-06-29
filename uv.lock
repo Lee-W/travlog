@@ -38,8 +38,8 @@ wheels = [
 
 [[package]]
 name = "attila"
-version = "2.17.0"
-source = { git = "https://github.com/Lee-W/attila/#abe5b0b508d77242ee5ce4d61388ae2a0c469761" }
+version = "3.0.1"
+source = { git = "https://github.com/Lee-W/attila/#06405fca85d653d647ab6f410914c72fb98af48f" }
 dependencies = [
     { name = "pelican" },
     { name = "pelican-heatmap" },
@@ -270,6 +270,7 @@ dependencies = [
     { name = "pelican-seo" },
     { name = "pelican-series" },
     { name = "pelican-share-post" },
+    { name = "pelican-sitemap" },
     { name = "pelican-statistics" },
     { name = "pelican-summary-link" },
     { name = "pelican-tabular" },
@@ -313,6 +314,7 @@ requires-dist = [
     { name = "pelican-seo", specifier = ">=1.2.2" },
     { name = "pelican-series", specifier = ">=3.0.0" },
     { name = "pelican-share-post", specifier = ">=1.1.0" },
+    { name = "pelican-sitemap", specifier = ">=1.2.2" },
     { name = "pelican-statistics", specifier = ">=1.0.0" },
     { name = "pelican-summary-link", specifier = ">=0.2.3" },
     { name = "pelican-tabular", specifier = ">=0.4.0" },
