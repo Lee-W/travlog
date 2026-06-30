@@ -166,7 +166,7 @@ def pelican_run(cmd):
 @task(optional=["rev_range"])
 def style(c, rev_range="origin/main.."):
     """Run style check on python code"""
-    python_targets = "pelicanconf.py publishconf.py tasks.py scripts plugins"
+    python_targets = "pelicanconf.py publishconf.py tasks.py scripts plugins tests"
     c.run(f"uv run ruff check {python_targets}")
 
     commit_count = subprocess.run(
@@ -189,7 +189,7 @@ def style(c, rev_range="origin/main.."):
 @task
 def format(c):
     """Run autoformater on python code"""
-    python_targets = "pelicanconf.py publishconf.py tasks.py scripts plugins"
+    python_targets = "pelicanconf.py publishconf.py tasks.py scripts plugins tests"
     c.run(
         f"""
         uv run ruff format {python_targets} && \

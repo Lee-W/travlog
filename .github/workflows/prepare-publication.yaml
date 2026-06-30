@@ -1,0 +1,68 @@
+name: Prepare publication
+
+on:
+  pull_request_target:
+    types:
+      - auto_merge_enabled
+
+permissions:
+  contents: read
+
+concurrency:
+  group: prepare-publication-${{ github.event.pull_request.number }}
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    if: >-
+      github.event.pull_request.head.repo.full_name == github.repository &&
+      startsWith(github.event.pull_request.title, 'new post:')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Require publication token
+        env:
+          PUBLISH_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
+        run: |
+          if [ -z "$PUBLISH_TOKEN" ]; then
+            echo "PUBLISH_TOKEN is required to update the PR and retrigger CI."
+            exit 1
+          fi
+
+      - name: Check out trusted automation
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+          path: automation
+          persist-credentials: false
+          ref: ${{ github.event.pull_request.base.sha }}
+
+      - name: Check out pull request branch
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          path: pull-request
+          ref: ${{ github.event.pull_request.head.ref }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          token: ${{ secrets.PUBLISH_TOKEN }}
+
+      - name: Prepare publication metadata
+        working-directory: pull-request
+        run: >-
+          python3 ../automation/scripts/prepare_publication.py prepare
+          --base-ref origin/${{ github.event.pull_request.base.ref }}
+
+      - name: Commit and push metadata
+        working-directory: pull-request
+        env:
+          HEAD_REF: ${{ github.event.pull_request.head.ref }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          if git diff --quiet; then
+            echo "Publication metadata is already prepared."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/posts
+          git commit -m "post metadata: prepare publication for #${PR_NUMBER}"
+          git push origin "HEAD:${HEAD_REF}"
