@@ -41,6 +41,20 @@ content/
   extra/       # Extra static files
 ```
 
+## Publishing
+
+Drafts (`uv run inv new_draft ...`) carry `Status: draft` and are excluded from
+the build. To publish one:
+
+1. Open a pull request titled `new post: <title>`.
+2. Enable auto-merge.
+
+Before the PR merges, a GitHub Actions workflow removes the draft status and
+rewrites the post's `Date` to the moment it ships, so the published date is
+accurate without manual editing. See
+[`.github/workflows/prepare-publication.yaml`](.github/workflows/prepare-publication.yaml)
+for the details.
+
 ## Deployment
 
 Build the production output (including Pagefind), then deploy it via `wrangler`:
