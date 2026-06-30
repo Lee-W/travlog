@@ -48,16 +48,25 @@ class AniListStoryRankingTest(unittest.TestCase):
 
         self.assertTrue(any("no story-ranking mapping" in error for error in errors))
 
-    def test_validate_rejects_duplicate_id(self):
+    def test_validate_accepts_duplicate_id_for_multiple_ranking_entries(self):
         ranking = [
             RankingEntry("anime.yaml", "First", "S", "ANIME", (1,)),
             RankingEntry("anime.yaml", "Second", "S", "ANIME", (1,)),
         ]
         collections = {"ANIME": {1: media_entry(1, 8)}, "MANGA": {}}
 
+        self.assertEqual(validate(ranking, collections), [])
+
+    def test_validate_rejects_pending_and_ranked_duplicate(self):
+        ranking = [
+            RankingEntry("anime.yaml", "Ranked", "S", "ANIME", (1,)),
+            RankingEntry("anilist-pending.yaml", "Pending", None, None, (1,)),
+        ]
+        collections = {"ANIME": {1: media_entry(1, 8)}, "MANGA": {}}
+
         errors = validate(ranking, collections)
 
-        self.assertTrue(any("mapped twice" in error for error in errors))
+        self.assertTrue(any("both pending and ranked" in error for error in errors))
 
     def test_load_allows_rows_without_anilist_ids(self):
         with tempfile.TemporaryDirectory() as directory:

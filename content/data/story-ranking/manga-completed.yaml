@@ -42,6 +42,9 @@
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_26'
 - title: DDDD 惡魔的破壞
   tier: SS
+  external_ids:
+    anilist:
+    - 85316
   reviews:
   - text: '2024 夏'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#dddd_3'
@@ -234,6 +237,8 @@
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_22'
 - title: 入伍吧！魔法少女
   tier: A
+  external_unavailable:
+  - anilist
   reviews:
   - text: '2025 夏'
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_23'
@@ -247,6 +252,9 @@
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_25'
 - title: 海歸線
   tier: A
+  external_ids:
+    anilist:
+    - 35427
   reviews:
   - text: '2024 冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_27'
@@ -268,16 +276,22 @@
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_26'
 - title: 我在詐騙公司上班
   tier: A
+  external_unavailable:
+  - anilist
   reviews:
   - text: '2021 春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_24'
 - title: 神明便利商店
   tier: A
+  external_unavailable:
+  - anilist
   reviews:
   - text: '2024 秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_23'
 - title: 誰怕誰
   tier: A
+  external_unavailable:
+  - anilist
   reviews:
   - text: '2025 冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_26'
@@ -291,6 +305,9 @@
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_29'
 - title: 夢的化石
   tier: B
+  external_ids:
+    anilist:
+    - 64601
   reviews:
   - text: '2024 春'
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_25'
@@ -310,3 +327,9 @@
   reviews:
   - text: '2025 冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_27'
+
+# TODO: Kobo 讀過、待排進榜（讀過=想排；下次免爬 Kobo）
+# - 夜晚的水母不會游泳  # anilist:176730 FINISHED
+# - 少女終末旅行  # anilist:85412 FINISHED
+# - 淡島百景  # anilist:55878 FINISHED
+# - 秒速5公分  # anilist:53419 FINISHED

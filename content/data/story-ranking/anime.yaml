@@ -967,6 +967,12 @@
     href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#acca13'
 - title: 迷宮飯 第一季
   tier: S
+  external_ids:
+    anilist:
+    - 153518
+  external_scores:
+    anilist:
+      153518: 9
   reviews:
   - text: '2024 冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_4'
@@ -1020,6 +1026,9 @@
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#punch'
 - title: 學姊是男孩
   tier: S
+  external_ids:
+    anilist:
+    - 163133
   reviews:
   - text: '2024 夏 （TV 版）'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_4'
@@ -1458,6 +1467,12 @@
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#pretty-derby'
 - title: 劇場版「進撃の巨人」完結編 THE LAST ATTACK
   tier: S
+  external_ids:
+    anilist:
+    - 146984 # AniList 以「The Final Chapters」收錄，沒有獨立電影條目
+  external_scores:
+    anilist:
+      146984: 9
   reviews:
   - text: '2025 冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#the-last-attack'
@@ -1580,6 +1595,9 @@
     href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_11'
 - title: 空之境界 第一章 俯瞰風景
   tier: A
+  external_ids:
+    anilist:
+    - 2593
   reviews:
   - text: '2025 秋'
     href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#-_1'
@@ -2372,11 +2390,20 @@
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_14'
 - title: 《鋼之鍊金術師BROTHERHOOD 15周年特別版》
   tier: A
+  external_ids:
+    anilist:
+    - 5114 # AniList 沒有 15 周年版條目，沿用原版
+  external_scores:
+    anilist:
+      5114: 8
   reviews:
   - text: '2024 秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#brotherhood-15'
 - title: 【推しの子】 Mother and Children
   tier: A
+  external_ids:
+    anilist:
+    - 150672 # AniList 沒有電影版條目，沿用第一季
   reviews:
   - text: '2024 春'
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#mother-and-children'
@@ -2637,6 +2664,10 @@
     - 14813
 - title: 青春豬頭少年系列
   tier: A
+  external_ids:
+    anilist:
+    - 104157
+    - 154967
   reviews:
   - text: '2019 （青春豬頭少年不會夢到懷夢美少女）'
     href: '{filename}/posts/review/2019/03-rascal-does-not-dream-of-a-dreaming-girl.md'
@@ -2762,11 +2793,17 @@
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_14'
 - title: 機動戰士Gundam GQuuuuuuX -Beginning-
   tier: A
+  external_ids:
+    anilist:
+    - 185213 # AniList 沒有電影版條目，沿用 TV 版
   reviews:
   - text: '2025 冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#gundam-gquuuuuux-beginning-'
 - title: 去參加聯誼，卻發現完全沒有女生在場
   tier: A
+  external_ids:
+    anilist:
+    - 169931
   reviews:
   - text: '2024 秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_5'
@@ -2812,6 +2849,9 @@
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#hello'
 - title: 黃金拼圖Thank You！
   tier: A
+  external_ids:
+    anilist:
+    - 116676
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#thank-you'
@@ -3166,6 +3206,9 @@
     href: '{filename}/posts/review/2020/04-what-i-watch-in-2020-sprint.md#_21'
 - title: 謝謝你，在世界的角落找到我
   tier: B
+  external_ids:
+    anilist:
+    - 15227
   reviews:
   - text: '2020 冬'
     href: '{filename}/posts/review/2020/02-what-i-watch-in-2020-winter.md#_15'
@@ -3195,6 +3238,8 @@
     href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_24'
 - title: 戽斗星球
   tier: B
+  external_unavailable:
+  - anilist
   reviews:
   - text: '2023 秋'
     href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_6'
@@ -3425,6 +3470,8 @@
     - 19021
 - title: 清晨的兔子小姐
   tier: C
+  external_unavailable:
+  - anilist
   reviews:
   - text: '2021 秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_18'
@@ -3645,6 +3692,9 @@
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_9'
 - title: Fate/Grand Order 神聖圓桌領域卡美洛 前篇
   tier: C
+  external_ids:
+    anilist:
+    - 103276
   reviews:
   - text: '2021 冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#fategrand-order-'
