@@ -66,7 +66,12 @@ def publication_date(now: datetime.datetime | None = None) -> str:
 
 
 def prepare_post(path: Path, date: str) -> bool:
-    """Remove draft status and update the date; return whether it changed."""
+    """Update the publication date and drop any draft status.
+
+    A post may reach this step with ``Status: draft`` already removed on the
+    branch; in that case the date is still refreshed to the publication time.
+    Returns whether the file content changed.
+    """
     original = path.read_text(encoding="utf-8")
     trailing_newline = original.endswith("\n")
     lines = original.splitlines()
@@ -75,21 +80,20 @@ def prepare_post(path: Path, date: str) -> bool:
     status_indexes = [
         index for index, line in enumerate(header) if STATUS_LINE.match(line)
     ]
-    if not status_indexes:
-        return False
-    if len(status_indexes) != 1:
-        raise ValueError(f"{path}: expected one Status field")
-
-    status_match = STATUS_LINE.match(header[status_indexes[0]])
-    if status_match is None or status_match.group(1).lower() != "draft":
-        raise ValueError(f"{path}: expected Status: draft")
+    if len(status_indexes) > 1:
+        raise ValueError(f"{path}: expected at most one Status field")
+    if status_indexes:
+        status_match = STATUS_LINE.match(header[status_indexes[0]])
+        if status_match is None or status_match.group(1).lower() != "draft":
+            raise ValueError(f"{path}: expected Status: draft")
 
     date_indexes = [index for index, line in enumerate(header) if DATE_LINE.match(line)]
     if len(date_indexes) != 1:
         raise ValueError(f"{path}: expected one Date field")
 
     lines[date_indexes[0]] = f"Date: {date}"
-    del lines[status_indexes[0]]
+    for index in status_indexes:
+        del lines[index]
     updated = "\n".join(lines) + ("\n" if trailing_newline else "")
     path.write_text(updated, encoding="utf-8")
     return updated != original
@@ -111,7 +115,7 @@ def check(paths: list[Path]) -> int:
 
 
 def prepare(paths: list[Path], date: str) -> int:
-    """Prepare every changed draft post for publication."""
+    """Prepare every changed post for publication."""
     changed = [path for path in paths if prepare_post(path, date)]
     if changed:
         print(f"Publication date: {date}")

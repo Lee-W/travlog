@@ -20,21 +20,18 @@ class PreparePublicationTest(unittest.TestCase):
         self.temp_dir.cleanup()
 
     def write_post(self, status="Status: draft"):
+        header = [
+            "Title: Example",
+            "Date: 2026-01-01 12:00 +0800",
+            "Category: Review",
+            "Tags: Example",
+            "Slug: example",
+            "Authors: Wei Lee",
+        ]
+        if status:
+            header.append(status)
         self.path.write_text(
-            "\n".join(
-                [
-                    "Title: Example",
-                    "Date: 2026-01-01 12:00 +0800",
-                    "Category: Review",
-                    "Tags: Example",
-                    "Slug: example",
-                    "Authors: Wei Lee",
-                    status,
-                    "",
-                    "Body",
-                    "",
-                ]
-            ),
+            "\n".join([*header, "", "Body", ""]),
             encoding="utf-8",
         )
 
@@ -49,11 +46,31 @@ class PreparePublicationTest(unittest.TestCase):
         self.assertNotIn("Status:", content)
         self.assertTrue(content.endswith("\n"))
 
-    def test_prepare_post_is_idempotent_after_preparation(self):
+    def test_prepare_post_updates_date_when_status_already_removed(self):
+        self.write_post(status="")
+
+        changed = prepare_post(self.path, "2026-06-30 18:20 +0800")
+
+        self.assertTrue(changed)
+        content = self.path.read_text(encoding="utf-8")
+        self.assertIn("Date: 2026-06-30 18:20 +0800", content)
+        self.assertNotIn("Status:", content)
+
+    def test_prepare_post_is_idempotent_with_same_date(self):
         self.write_post()
         prepare_post(self.path, "2026-06-30 18:20 +0800")
 
-        self.assertFalse(prepare_post(self.path, "2026-06-30 18:21 +0800"))
+        self.assertFalse(prepare_post(self.path, "2026-06-30 18:20 +0800"))
+
+    def test_prepare_post_refreshes_date_after_preparation(self):
+        self.write_post()
+        prepare_post(self.path, "2026-06-30 18:20 +0800")
+
+        self.assertTrue(prepare_post(self.path, "2026-06-30 18:21 +0800"))
+        self.assertIn(
+            "Date: 2026-06-30 18:21 +0800",
+            self.path.read_text(encoding="utf-8"),
+        )
 
     def test_check_rejects_changed_draft(self):
         self.write_post()
