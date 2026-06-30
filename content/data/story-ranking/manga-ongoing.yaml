@@ -50,8 +50,6 @@
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_27'
 - title: 搖曳露營△
   tier: S
-- title: SLAM DUNK
-  tier: S
 - title: 我在意的對象並不是男人
   tier: S
   reviews:
@@ -62,6 +60,16 @@
   reviews:
   - text: '2021 春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#city'
+- title: 日常
+  tier: A
+  reviews:
+  - text: '2021 夏'
+    href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_29'
+- title: 岸邊露伴一動也不動
+  tier: A
+  reviews:
+  - text: '2021 秋'
+    href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_28'
 - title: 擅長捉弄人的(前)高木同學
   tier: A
   reviews:
@@ -108,8 +116,6 @@
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_25'
 - title: mono
-  tier: A
-- title: ルリドラゴン
   tier: A
 - title: 会社と私生活－オンとオフ－
   tier: A
