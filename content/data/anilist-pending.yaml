@@ -1,61 +1,61 @@
-# 已在 AniList 評分，但預計等後續文章完成後才加入正式 ranking。
+# TODO: 已在 AniList、待寫進排名（ID 先記，下次免爬）
 # 搬入正式 ranking 時，必須同步從這裡移除 ID，避免重複映射。
 - title: 動畫：待文章收錄
   status: pending
   external_ids:
     anilist:
-    - 182317
-    - 190327
-    - 182255
-    - 180425
-    - 177937
-    - 172463
-    - 166613
-    - 182587
-    - 166617
-    - 176370
-    - 177385
-    - 198373
-    - 187860
-    - 147105
-    - 2236
-    - 2593
-    - 181449
-    - 3783
-    - 4280
-    - 5204
-    - 5205
-    - 6954
-    - 184951
-    - 201903
-    - 194884
-    - 140337
-    - 199154
-    - 87435
-    - 184280
-    - 105595
-    - 113971
-    - 98847
-    - 101634
-    - 197868
-    - 196935
-    - 177501
-    - 187869
-    - 190143
-    - 320
-    - 204949
-    - 184351
+    - 182317 # The Dangers in My Heart: The Movie
+    - 190327 # STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE
+    - 182255 # Frieren: Beyond Journey’s End Season 2
+    - 180425 # With You and the Rain
+    - 177937 # SPY x FAMILY Season 3
+    - 172463 # JUJUTSU KAISEN Season 3: The Culling Game Part 1
+    - 166613 # Hell’s Paradise Season 2
+    - 182587 # 【OSHI NO KO】Season 3
+    - 166617 # Fate/strange Fake
+    - 176370 # 'Tis Time for "Torture," Princess Season 2
+    - 177385 # Journal with Witch
+    - 198373 # Ansatsu Kyoushitsu: Minna no Jikan
+    - 187860 # Style of Hiroshi Nohara's Lunch
+    - 147105 # Witch Hat Atelier
+    - 2236 # The Girl Who Leapt Through Time
+    - 2593 # the Garden of sinners Chapter 1: Thanatos. (Overlooking View)
+    - 181449 # VIRGIN PUNK Clockwork Girl
+    - 3783 # the Garden of sinners Chapter 3: ever cry, never life. (Remaining Sense of Pain)
+    - 4280 # the Garden of sinners Chapter 4: garan-no-dou. (The Hollow Shrine)
+    - 5204 # the Garden of sinners Chapter 6: Fairy Tale. (Oblivion Recording)
+    - 5205 # the Garden of sinners Chapter 7: ……not nothing heart. (Murder Speculation Part B)
+    - 6954 # the Garden of sinners Chapter 8: The Final Chapter
+    - 184951 # You and I Are Polar Opposites
+    - 201903 # Cosmic Princess Kaguya!
+    - 194884 # Kaguya-sama: Love Is War -Stairway to Adulthood-
+    - 140337 # Zombie Land Saga: Yumeginga Paradise
+    - 199154 # GIRLS BAND CRY: Naa, Mirai.
+    - 87435 # BanG Dream!
+    - 184280 # Sakuna: Of Rice and Ruin Kokorowa Rice Cultivation Diary
+    - 105595 # Mobile Suit Gundam Hathaway
+    - 113971 # MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe
+    - 98847 # BanG Dream! OVA
+    - 101634 # BanG Dream! 3rd Season
+    - 197868 # The Food Diary of Miss Maid
+    - 196935 # Akane-banashi
+    - 177501 # A Hundred Scenes of AWAJIMA
+    - 187869 # Botan Kamiina Fully Blossoms When Drunk
+    - 190143 # Agents of the Four Seasons: Dance of Spring
+    - 320 # Kite
+    - 204949 # Milky☆Subway: The Galactic Limited Express – the Movie
+    - 184351 # ANOTHER WORLD
 - title: 漫畫：待文章收錄
   status: pending
   external_ids:
     anilist:
-    - 128364
-    - 104617
-    - 113981
-    - 118371
-    - 119499
-    - 162088
-    - 176730
-    - 116981
-    - 85412
-    - 180028
+    - 128364 # FX Senshi Kurumi-chan
+    - 104617 # Uncle from Another World
+    - 113981 # Teito Seihai Kitan: Fate/type Redline
+    - 118371 # Medalist
+    - 119499 # Me & Roboco
+    - 162088 # Robou no Fujii: Idai Naru Bonjin kara no Tayori
+    - 176730 # Yoru no Kurage wa Oyogenai
+    - 116981 # See You Tomorrow at the Food Court
+    - 85412 # Girls' Last Tour
+    - 180028 # The Dangers in My Heart
