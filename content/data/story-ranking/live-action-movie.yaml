@@ -1,5 +1,8 @@
 - title: 媽的多重宇宙
   tier: SSS
+  external_ids:
+    letterboxd:
+    - everything-everywhere-all-at-once
   reviews:
   - text: '2022 春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_18'
@@ -7,209 +10,359 @@
     href: '{filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_20'
 - title: 婚姻故事
   tier: SS
+  external_ids:
+    letterboxd:
+    - marriage-story-2019
 - title: 王牌冤家
   tier: SS
+  external_ids:
+    letterboxd:
+    - eternal-sunshine-of-the-spotless-mind
 - title: 腦筋急轉彎
   tier: SS
+  external_ids:
+    letterboxd:
+    - inside-out-2015
 - title: 波斯語課
   tier: SS
+  external_ids:
+    letterboxd:
+    - persian-lessons
   reviews:
   - text: '2021 夏'
     href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_24'
 - title: 記憶拼圖：20週年數位修復
   tier: SS
+  external_ids:
+    letterboxd:
+    - memento
   reviews:
   - text: '2020 秋'
     href: '{filename}/posts/review/2021/01-what-i-watch-in-2020-fall.md#20'
 - title: 法蘭西特派週報
   tier: SS
+  external_ids:
+    letterboxd:
+    - the-french-dispatch-of-the-liberty-kansas
   reviews:
   - text: '2021 秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_22'
 - title: 綠洲：數位經典版
   tier: SS
+  external_ids:
+    letterboxd:
+    - oasis
   reviews:
   - text: '2022 冬'
     href: '{filename}/posts/review/2022/05-what-i-watch-in-2022-winter.md#_25'
 - title: 做工的人電影版
   tier: SS
+  external_ids:
+    letterboxd:
+    - workers-the-movie
   reviews:
   - text: '2023 春'
     href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_26'
 - title: 超時空武士
   tier: SS
+  external_ids:
+    letterboxd:
+    - a-samurai-in-time
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_18'
 - title: 塗鴉日記
   tier: S
+  external_ids:
+    letterboxd:
+    - blank-canvas-my-so-called-artists-journey
   reviews:
   - text: '2025'
     href: '{filename}/posts/review/2025/13-kakukakushikajika.md'
 - title: 國寶
   tier: S
+  external_ids:
+    letterboxd:
+    - kokuho
   reviews:
   - text: '2025 秋'
     href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_16'
 - title: 岸邊露伴一動也不動 懺悔室
   tier: S
+  external_ids:
+    letterboxd:
+    - thus-spoke-kishibe-rohan-at-a-confessional
   reviews:
   - text: '2025'
     href: '{filename}/posts/review/2025/14-thus-spoke-kjishibe-rohan-at-a-confessional.md'
 - title: 歡迎來到布達佩斯大飯店
   tier: S
+  external_ids:
+    letterboxd:
+    - the-grand-budapest-hotel
   reviews:
   - text: '2021 冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_34'
 - title: V for Vendetta
   tier: S
+  external_ids:
+    letterboxd:
+    - v-for-vendetta
 - title: 蜘蛛人：新宇宙
   tier: S
+  external_ids:
+    letterboxd:
+    - spider-man-into-the-spider-verse
 - title: 蜘蛛人：穿越新宇宙
   tier: S
+  external_ids:
+    letterboxd:
+    - spider-man-across-the-spider-verse
   reviews:
   - text: '2023 夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_12'
 - title: 無敵破壞王
   tier: S
+  external_ids:
+    letterboxd:
+    - wreck-it-ralph
 - title: 捍衛戰士：獨行俠
   tier: S
+  external_ids:
+    letterboxd:
+    - top-gun-maverick
   reviews:
   - text: '2022 春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_19'
 - title: 奧本海默
   tier: S
+  external_ids:
+    letterboxd:
+    - oppenheimer-2023
   reviews:
   - text: '2023 夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_18'
 - title: 怪物
   tier: S
+  external_ids:
+    letterboxd:
+    - monster-2023
   reviews:
   - text: '2023 夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_19'
 - title: 無間道
   tier: S
+  external_ids:
+    letterboxd:
+    - infernal-affairs
   reviews:
   - text: '2023 秋'
     href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_22'
 - title: 坂本龍一：OPUS
   tier: S
+  external_ids:
+    letterboxd:
+    - ryuichi-sakamoto-opus
   reviews:
   - text: '2024 冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#opus'
 - title: 再見機器人
   tier: S
+  external_ids:
+    letterboxd:
+    - robot-dreams
   reviews:
   - text: '2024 冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_16'
 - title: 我只是個計程車司機
   tier: S
+  external_ids:
+    letterboxd:
+    - a-taxi-driver
 - title: 犬之島
   tier: S
+  external_ids:
+    letterboxd:
+    - isle-of-dogs-2018
   reviews:
   - text: '2025 冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_11'
 - title: 喵的奇幻漂流
   tier: S
+  external_ids:
+    letterboxd:
+    - flow-2024
   reviews:
   - text: '2025 冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_13'
 - title: YOASOBI 5th ANNIVERSARY DOME LIVE YOASOBI
   tier: S
+  external_ids:
+    letterboxd:
+    - yoasobi-5th-anniversary-dome-live-2024-surrealism
   reviews:
   - text: '2025 冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#yoasobi-5th-anniversary-dome-live-yoasobi'
 - title: 秘密會議
   tier: S
+  external_ids:
+    letterboxd:
+    - conclave
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_19'
 - title: 無敵破壞王2：網路大暴走
   tier: A
+  external_ids:
+    letterboxd:
+    - ralph-breaks-the-internet
 - title: 去唱卡拉 OK 吧！
   tier: A
+  external_ids:
+    letterboxd:
+    - lets-go-karaoke
   reviews:
   - text: '2025 秋'
     href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#ok'
 - title: 天外奇蹟
   tier: A
+  external_ids:
+    letterboxd:
+    - up
 - title: 玩具總動員 4
   tier: A
+  external_ids:
+    letterboxd:
+    - toy-story-4
 - title: 可可夜總會
   tier: A
+  external_ids:
+    letterboxd:
+    - coco-2017
 - title: 蜘蛛人：無家日
   tier: A
+  external_ids:
+    letterboxd:
+    - spider-man-no-way-home
   reviews:
   - text: '2021 秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_24'
 - title: 阿拉丁
   tier: A
+  external_ids:
+    letterboxd:
+    - aladdin-2019
 - title: 返校
   tier: A
+  external_ids:
+    letterboxd:
+    - detention-2019
 - title: 重慶森林
   tier: A
+  external_ids:
+    letterboxd:
+    - chungking-express
   reviews:
   - text: '2022 春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_20'
 - title: 悲情城市
   tier: A
+  external_ids:
+    letterboxd:
+    - a-city-of-sadness
   reviews:
   - text: '2023 冬'
     href: '{filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#_15'
 - title: 寄生上流
   tier: A
+  external_ids:
+    letterboxd:
+    - parasite-2019
   reviews:
   - text: '2021 秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_23'
 - title: 超級瑪利歐兄弟電影版
   tier: A
+  external_ids:
+    letterboxd:
+    - the-super-mario-bros-movie
   reviews:
   - text: '2023 春'
     href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_23'
 - title: 亨利·休格的神奇故事
   tier: A
+  external_ids:
+    letterboxd:
+    - the-wonderful-story-of-henry-sugar
   reviews:
   - text: '2023 夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_20'
 - title: 岸邊露伴在羅浮
   tier: A
+  external_ids:
+    letterboxd:
+    - rohan-at-the-louvre
   reviews:
   - text: '2023 夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_21'
 - title: 旺卡
   tier: A
+  external_ids:
+    letterboxd:
+    - wonka
   reviews:
   - text: '2023 秋'
     href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_23'
 - title: 富都青年
   tier: A
+  external_ids:
+    letterboxd:
+    - abang-adik
   reviews:
   - text: '2024 冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_19'
 - title: 腦筋急轉彎 2
   tier: A
+  external_ids:
+    letterboxd:
+    - inside-out-2-2024
   reviews:
   - text: '2024 春'
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#2'
 - title: 星際效應
   tier: A
+  external_ids:
+    letterboxd:
+    - interstellar
   reviews:
   - text: '2024 秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_12'
 - title: 藍色時期
   tier: A
+  external_ids:
+    letterboxd:
+    - blue-period-2024
   reviews:
   - text: '2024 秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_14'
 - title: 異國日記
   tier: A
+  external_ids:
+    letterboxd:
+    - worlds-apart-2024
   reviews:
   - text: '2024 夏'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_24'
 - title: 復仇者聯盟
   tier: A
+  external_ids:
+    letterboxd:
+    - the-avengers-2012
 - title: 擅長捉弄人的高木同學
   tier: A
+  external_ids:
+    letterboxd:
+    - teasing-master-takagi-san
   reviews:
   - text: '2024 春'
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_21'
@@ -217,156 +370,322 @@
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_13'
 - title: '【我推的孩子】 -The Final Act-'
   tier: A
+  external_ids:
+    letterboxd:
+    - oshi-no-ko-the-final-act
   reviews:
   - text: '2025 冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#-the-final-act-'
 - title: 孤獨的美食家 電影版
   tier: A
+  external_ids:
+    letterboxd:
+    - the-solitary-gourmet
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_20'
 - title: 孤獨搖滾！團結Band LIVE-恆星-
   tier: A
+  external_ids:
+    letterboxd:
+    - bocchi-the-rock-kessoku-band-live-kousei
   reviews:
   - text: '2024 春'
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#band-live-'
+- title: 復仇者聯盟 3：無限之戰
+  tier: A
+  external_ids:
+    letterboxd:
+    - avengers-infinity-war
 - title: 九龍大眾浪漫
   tier: B
+  external_ids:
+    letterboxd:
+    - kowloon-generic-romance
   reviews:
   - text: '2025 秋'
     href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_17'
 - title: 全面啟動
   tier: B
+  external_ids:
+    letterboxd:
+    - inception
   reviews:
   - text: '2021 冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_35'
 - title: 荒野機器人
   tier: B
+  external_ids:
+    letterboxd:
+    - the-wild-robot
   reviews:
   - text: '2024 秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_9'
 - title: 每天回家老婆都在裝死
   tier: B
+  external_ids:
+    letterboxd:
+    - when-i-get-home-my-wife-always-pretends-to-be-dead
   reviews:
   - text: '2021 春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_19'
 - title: 無聲
   tier: B
+  external_ids:
+    letterboxd:
+    - the-silent-forest
   reviews:
   - text: '2021 春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_18'
 - title: 約定的夢幻島 真人版
   tier: B
+  external_ids:
+    letterboxd:
+    - the-promised-neverland
   reviews:
   - text: '2021 冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_19'
 - title: 朵拉與失落的黃金城
   tier: B
+  external_ids:
+    letterboxd:
+    - dora-and-the-lost-city-of-gold
 - title: 明天，我要和昨天的妳約會
   tier: B
+  external_ids:
+    letterboxd:
+    - my-tomorrow-your-yesterday
 - title: 海底總動員 2
   tier: B
+  external_ids:
+    letterboxd:
+    - finding-dory
 - title: 超人特攻隊 2
   tier: B
+  external_ids:
+    letterboxd:
+    - incredibles-2
 - title: 冰雪奇緣
   tier: B
+  external_ids:
+    letterboxd:
+    - frozen-2013
 - title: 新殺戮戰警 Shaft
   tier: B
+  external_ids:
+    letterboxd:
+    - shaft-2019
 - title: 鋼鐵人
   tier: B
+  external_ids:
+    letterboxd:
+    - iron-man-2008
 - title: 鋼鐵人 3
   tier: B
+  external_ids:
+    letterboxd:
+    - iron-man-3
 - title: Adam by Eve：動畫現場演唱會
   tier: B
+  external_ids:
+    letterboxd:
+    - adam-by-eve-a-live-in-animation
   reviews:
   - text: '2022 春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#adam-by-eve'
 - title: 燃燒的劍
   tier: B
+  external_ids:
+    letterboxd:
+    - baragaki-unbroken-samurai
   reviews:
   - text: '2022 春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_22'
 - title: 芭比
   tier: B
+  external_ids:
+    letterboxd:
+    - barbie
   reviews:
   - text: '2023 夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_22'
 - title: 老狐狸
   tier: B
+  external_ids:
+    letterboxd:
+    - old-fox
   reviews:
   - text: '2024 冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_20'
 - title: 奇異博士2：失控多重宇宙
   tier: B
+  external_ids:
+    letterboxd:
+    - doctor-strange-in-the-multiverse-of-madness
   reviews:
   - text: '2022 春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#2'
 - title: 嬰兒轉運站
   tier: B
+  external_ids:
+    letterboxd:
+    - broker-2022
   reviews:
   - text: '2022 春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_21'
 - title: 電影版 輝夜姬想讓人告白-天才們的戀愛頭腦戰-
   tier: B
+  external_ids:
+    letterboxd:
+    - kaguya-sama-love-is-war
 - title: 地下忍者
   tier: B
+  external_ids:
+    letterboxd:
+    - under-ninja-2025
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_21'
+- title: 國定殺戮日
+  tier: B
+  external_ids:
+    letterboxd:
+    - the-purge
 - title: 素還真
   tier: C
+  external_ids:
+    letterboxd:
+    - demigod-the-legend-begins
   reviews:
   - text: '2022 冬'
     href: '{filename}/posts/review/2022/05-what-i-watch-in-2022-winter.md#_26'
 - title: 金星人愛情故事
   tier: C
+  external_ids:
+    letterboxd:
+    - kinseijin-love-story
 - title: 死侍 2
   tier: C
+  external_ids:
+    letterboxd:
+    - deadpool-2
 - title: 國定殺戮日：大選之年
   tier: C
+  external_ids:
+    letterboxd:
+    - the-purge-election-year
 - title: 蜘蛛人：離家日
   tier: C
+  external_ids:
+    letterboxd:
+    - spider-man-far-from-home
 - title: 蜘蛛人：返校日
   tier: C
+  external_ids:
+    letterboxd:
+    - spider-man-homecoming
 - title: 星際異攻隊
   tier: C
+  external_ids:
+    letterboxd:
+    - guardians-of-the-galaxy
 - title: 黑豹
   tier: C
+  external_ids:
+    letterboxd:
+    - black-panther
 - title: 猛毒
   tier: C
+  external_ids:
+    letterboxd:
+    - venom-2018
 - title: 美國隊長
   tier: C
+  external_ids:
+    letterboxd:
+    - captain-america-the-first-avenger
 - title: 復仇者聯盟 2：奧創紀元
   tier: C
+  external_ids:
+    letterboxd:
+    - avengers-age-of-ultron
 - title: 鋼鐵人 2
   tier: C
+  external_ids:
+    letterboxd:
+    - iron-man-2
 - title: 驚奇隊長
   tier: C
+  external_ids:
+    letterboxd:
+    - captain-marvel
 - title: 餘命10年
   tier: C
+  external_ids:
+    letterboxd:
+    - the-last-10-years
   reviews:
   - text: '2022 春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#10'
 - title: 沙丘
   tier: C
+  external_ids:
+    letterboxd:
+    - dune-2021
   reviews:
   - text: '2021 夏'
     href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_25'
   - text: '2024 冬 （第二部）'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_21'
+- title: 沙丘：第二部
+  tier: C
+  external_ids:
+    letterboxd:
+    - dune-part-two
 - title: 天能
   tier: D
+  external_ids:
+    letterboxd:
+    - tenet
   reviews:
   - text: '2020 夏'
     href: '{filename}/posts/review/2020/05-what-i-watch-in-2020-summer.md#_17'
 - title: 好想大聲說出心底的話 真人版
   tier: D
+  external_ids:
+    letterboxd:
+    - the-anthem-of-the-heart-2017
 - title: 冰雪奇緣 2
   tier: D
+  external_ids:
+    letterboxd:
+    - frozen-2
 - title: 名偵探皮卡丘
   tier: E
+  external_ids:
+    letterboxd:
+    - pokemon-detective-pikachu
 - title: 月老
   tier: E
+  external_ids:
+    letterboxd:
+    - till-we-meet-again-2021
   reviews:
   - text: '2022 春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_23'
+
+# TODO: 已在 Letterboxd、待寫進排名（slug 先記，下次免爬）
+# 預期（之後寫到再轉正式 entry）
+# - island-of-the-winds  # Island of the Winds (2025)
+# - a-foggy-tale  # A Foggy Tale (2025)
+# - wheel-of-fortune-and-fantasy  # Wheel of Fortune and Fantasy (2021)
+# - the-presidents-cake  # The President's Cake (2025)
+# - rental-family-2025  # Rental Family (2025)
+# - poetry  # Poetry (2010)
+# - little-amelie-or-the-character-of-rain  # Little Amélie or the Character of Rain (2025)
+# - michael-2026  # Michael (2026)
+# - peppermint-candy  # Peppermint Candy (1999)
+# - the-island-and-the-trees  # The Island and the Trees (2026)
+# - tetsuyo-turned-104-living-on-her-own  # Tetsuyo Turned 104, Living on Her Own (2025)
+# - another-round  # Another Round (2020)
+# - toy-story-5  # Toy Story 5 (2026)

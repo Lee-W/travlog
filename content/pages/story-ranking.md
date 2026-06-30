@@ -47,28 +47,28 @@ Modified: 2026-05-29 11:50 +0800
 [TOC]
 
 ## 動畫
-{% table data/story-ranking/anime.yaml group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
+{% table data/story-ranking/anime.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
 
 ## 真人電影（含非日式動畫）
-{% table data/story-ranking/live-action-movie.yaml group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
+{% table data/story-ranking/live-action-movie.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
 
 ## 真人影集（含非日式動畫）
 {% table data/story-ranking/live-action-tv.yaml group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
 
 ## 紀錄片
-{% table data/story-ranking/documentary.yaml group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
+{% table data/story-ranking/documentary.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
 
 ## 星際大戰
-{% table data/story-ranking/star-wars.yaml group_by="group" group_summary_at="group" field_labels="title:作品,reviews:評論" %}
+{% table data/story-ranking/star-wars.yaml fields="title,reviews" group_by="group" group_summary_at="group" field_labels="title:作品,reviews:評論" %}
 
 ## 完結漫畫
-{% table data/story-ranking/manga-completed.yaml group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
+{% table data/story-ranking/manga-completed.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
 
 ## 連載漫畫
-{% table data/story-ranking/manga-ongoing.yaml group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
+{% table data/story-ranking/manga-ongoing.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
 
 ## 小說
-{% table data/story-ranking/novel.yaml group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
+{% table data/story-ranking/novel.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
 
 ## 設定集
 {% table data/story-ranking/artbook.yaml field_labels="title:作品,reviews:評論" %}
