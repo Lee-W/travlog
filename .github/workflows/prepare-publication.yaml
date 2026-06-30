@@ -4,6 +4,8 @@ on:
   pull_request_target:
     types:
       - auto_merge_enabled
+      - ready_for_review
+      - synchronize
 
 permissions:
   contents: read
@@ -16,6 +18,7 @@ jobs:
   prepare:
     if: >-
       github.event.pull_request.head.repo.full_name == github.repository &&
+      github.event.pull_request.auto_merge != null &&
       startsWith(github.event.pull_request.title, 'new post:')
     runs-on: ubuntu-latest
     steps:
@@ -57,6 +60,10 @@ jobs:
           HEAD_REF: ${{ github.event.pull_request.head.ref }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
         run: |
+          if git log -1 --pretty=%s | grep -q 'prepare publication for #'; then
+            echo "Branch already carries the automation publication commit."
+            exit 0
+          fi
           if git diff --quiet; then
             echo "Publication metadata is already prepared."
             exit 0

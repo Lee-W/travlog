@@ -1,11 +1,14 @@
 import datetime
+import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest import mock
 
 from scripts.prepare_publication import (
     check,
     draft_status,
+    main,
     prepare_post,
     publication_date,
 )
@@ -77,6 +80,22 @@ class PreparePublicationTest(unittest.TestCase):
 
         self.assertEqual(check([self.path]), 1)
         self.assertTrue(draft_status(self.path))
+
+    def test_prepare_mode_is_noop_when_no_posts_changed(self):
+        argv = ["prepare_publication.py", "prepare", "--base-ref", "origin/main"]
+        with (
+            mock.patch.object(sys, "argv", argv),
+            mock.patch("scripts.prepare_publication.changed_posts", return_value=[]),
+        ):
+            self.assertEqual(main(), 0)
+
+    def test_check_mode_fails_when_no_posts_changed(self):
+        argv = ["prepare_publication.py", "check", "--base-ref", "origin/main"]
+        with (
+            mock.patch.object(sys, "argv", argv),
+            mock.patch("scripts.prepare_publication.changed_posts", return_value=[]),
+        ):
+            self.assertEqual(main(), 1)
 
     def test_publication_date_uses_taiwan_timezone(self):
         utc = datetime.datetime(2026, 6, 30, 10, 20, tzinfo=datetime.UTC)

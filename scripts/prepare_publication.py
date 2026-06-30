@@ -138,7 +138,14 @@ def main() -> int:
 
     posts = changed_posts(args.base_ref)
     if not posts:
-        print("Publishing PR does not change any Markdown posts.", file=sys.stderr)
+        message = "Publishing PR does not change any Markdown posts."
+        if args.mode == "prepare":
+            # The post may already be on the base branch (e.g. a re-run after an
+            # earlier publish); there is nothing to prepare, so succeed quietly
+            # instead of failing the auto-merge workflow.
+            print(message)
+            return 0
+        print(message, file=sys.stderr)
         return 1
 
     try:
