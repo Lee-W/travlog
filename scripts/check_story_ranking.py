@@ -89,9 +89,39 @@ def check_yaml_file(
     return errors
 
 
+def check_page_references(yaml_dir: Path, page_path: Path) -> list[str]:
+    """Cross-check that every YAML in the directory is surfaced on the page,
+    and that every YAML the page references actually exists.
+
+    Catches orphan YAML files (data exists but never rendered) and dangling
+    references (page points at a missing file).
+    """
+    errors: list[str] = []
+    if not page_path.exists():
+        return [f"  page not found: {page_path.name}"]
+
+    page_text = page_path.read_text(encoding="utf-8")
+    referenced = {
+        Path(m).name
+        for m in re.findall(r"data/story-ranking/([A-Za-z0-9_-]+\.yaml)", page_text)
+    }
+    on_disk = {p.name for p in yaml_dir.glob("*.yaml")}
+
+    for name in sorted(on_disk - referenced):
+        errors.append(
+            f"  orphan YAML: {name} exists but is not referenced in {page_path.name}"
+        )
+    for name in sorted(referenced - on_disk):
+        errors.append(
+            f"  dangling reference: {page_path.name} references {name} but the file is missing"
+        )
+    return errors
+
+
 def main() -> int:
     repo_root = Path(__file__).parent.parent
     yaml_dir = repo_root / "content" / "data" / "story-ranking"
+    page_path = repo_root / "content" / "pages" / "story-ranking.md"
     anchor_cache: dict[Path, dict[str, str]] = {}
     all_errors: list[str] = []
     total_hrefs = 0
@@ -102,8 +132,10 @@ def main() -> int:
         raw = yaml.safe_load(yaml_path.read_text(encoding="utf-8")) or []
         total_hrefs += sum(len(e.get("reviews", [])) for e in raw)
 
+    all_errors.extend(check_page_references(yaml_dir, page_path))
+
     if all_errors:
-        print("story-ranking anchor errors found:", file=sys.stderr)
+        print("story-ranking errors found:", file=sys.stderr)
         for e in all_errors:
             print(e, file=sys.stderr)
         return 1
