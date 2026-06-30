@@ -175,7 +175,7 @@ def validate(
     collections: dict[str, dict[int, dict[str, Any]]],
 ) -> list[str]:
     errors: list[str] = []
-    owners: dict[tuple[str, int], RankingEntry] = {}
+    owners: dict[tuple[str, int], list[RankingEntry]] = {}
 
     for ranking in ranking_entries:
         score_overrides = dict(ranking.anilist_scores)
@@ -198,13 +198,16 @@ def validate(
             media_type = candidate_types[0]
             collection = collections[media_type]
             key = (media_type, media_id)
-            if key in owners:
+            previous = owners.get(key, [])
+            if previous and any(
+                owner.filename == "anilist-pending.yaml" for owner in previous
+            ) != (ranking.filename == "anilist-pending.yaml"):
                 errors.append(
-                    f"AniList {media_type} {media_id} is mapped twice: "
-                    f"{owners[key].label} and {ranking.label}"
+                    f"AniList {media_type} {media_id} is both pending and ranked: "
+                    f"{previous[0].label} and {ranking.label}"
                 )
                 continue
-            owners[key] = ranking
+            owners.setdefault(key, []).append(ranking)
 
             entry = collection.get(media_id)
             if entry is None:
