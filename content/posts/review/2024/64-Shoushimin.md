@@ -66,3 +66,7 @@ Authors: Wei Lee
 不知道馬卡龍有沒有機會做
 但看完動畫，我是把小說全套買下來了
 動畫沒做到，我再看就是了
+
+---
+
+收錄於：[2024 夏季看什麼]({filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_3)

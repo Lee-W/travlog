@@ -29,3 +29,7 @@ Authors: Wei Lee
 ![mentori penguin](/images/post-images/2024-what-i-watched-in-2024-summer/penguin.jpg)
 
 不用說話就能傳達一切，真是可愛 🐧
+
+---
+
+收錄於：[2024 夏季看什麼]({filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_18)

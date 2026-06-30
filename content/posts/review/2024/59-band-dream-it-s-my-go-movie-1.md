@@ -92,3 +92,7 @@ Authors: Wei Lee
 
 順手再推薦 MyGO 的[好玩遊戲](https://2pick.app/g/tczykvrr)跟[好用工具](https://nyamuchi-frontend.vercel.app/)
 ~~還有被 MyGO 迫害的[論文](https://github.com/zjukg/MyGO)~~
+
+---
+
+收錄於：[2024 夏季看什麼]({filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#bang-dream-its-mygo)、[2025 秋季看什麼]({filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#bang-dream-its-mygo)

@@ -35,3 +35,7 @@ Authors: Wei Lee
 This is what I'm waiting for!
 
 這種相愛相殺的環節...真的是太香了...
+
+---
+
+收錄於：[2024 夏季看什麼]({filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#-episode-)

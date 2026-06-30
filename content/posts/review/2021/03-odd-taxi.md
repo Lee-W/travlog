@@ -47,3 +47,7 @@ Authors: Wei Lee
 但現在補完這部好作品還不遲啊，現在就上[巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=22238)上看吧！
 請務必要配著廣播劇一起服用 📻
 都看完之後，再配上尼爾喝牛奶的[EP83 用日常編織慢熱的幽默《ODD TAXI 奇巧計程車》、《瀨戶與內海》](https://neildrinkmilk.firstory.io/episodes/ckqa881hn9qqd0880e6qm6d6f)就更好了
+
+---
+
+收錄於：[2021 春季看什麼]({filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_2)

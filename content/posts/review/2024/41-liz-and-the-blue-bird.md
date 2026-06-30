@@ -32,3 +32,7 @@ Authors: Wei Lee
 雖然是暴雷推薦，但我很喜歡尼爾喝牛奶的 [EP176：細節成就萌點《莉茲與青鳥》《我內心的糟糕念頭》《池水抽光好吃驚in台灣》](https://neildrinkmilk.firstory.io/episodes/clvjmpvh9000d01t2dplserhv)
 如果你定要去享受這樣的美好，這裡是[包場表單](https://docs.google.com/forms/d/e/1FAIpQLScLXtLTAVpDFdTutRbQd9b_PBhEK5R_b4tm7WvB_7-SOashPA/viewform)
 主辦把一切的美好都放在那了
+
+---
+
+收錄於：[2024 春季看什麼]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_18)

@@ -89,3 +89,7 @@ MyGO!!!!! 則是缺了立希
 [TVアニメ「BanG Dream! Ave Mujica」#1～#3 劇場先行上映が決定]: https://anime.bang-dream.com/avemujica/news/post-7
 [ユナイテッドシネマ キャナルシティ13]: https://maps.app.goo.gl/UW8Vq5GYRG6SqgSTA
 [KiLLKiss]: https://www.youtube.com/watch?v=FWXkipC-vqs
+
+---
+
+收錄於：[2025 冬季看什麼]({filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#tvbang-dream-ave-mujica13)

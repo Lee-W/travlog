@@ -45,3 +45,7 @@ ED 還有 Aimer 唱的遥か加持
 雖然大概可以想像這可能是從 "Curse you, Takaki-san" 翻來的
 真是謝了 🙃
 我想高木同學才想...
+
+---
+
+收錄於：[2024 春季看什麼]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_16)

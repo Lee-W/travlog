@@ -96,3 +96,7 @@ Authors: Wei Lee
 總之，雖然製作不算特別優秀
 又少了很多聲優的配音
 但作為一部粉絲向作品，我還是對它相當的滿意 💯
+
+---
+
+收錄於：[2021 秋季看什麼]({filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#fategrand-order-)

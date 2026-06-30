@@ -96,3 +96,7 @@ Authors: Wei Lee
 
 另外也推薦[A Jie](https://www.youtube.com/watch?v=hdDS85okNPA)跟[漫天大坑-Kay](https://www.youtube.com/watch?v=VekIxKUyzxE&t=15s)關於湯淺政明/心靈遊戲的解說
 很多電影的細節也是看了他們的影片，我才知道的
+
+---
+
+收錄於：[2021 秋季看什麼]({filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_15)

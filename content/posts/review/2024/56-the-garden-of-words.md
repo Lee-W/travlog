@@ -35,3 +35,7 @@ Authors: Wei Lee
 
 倒是同行友人看完後翻到了這麼篇文章[【心得】言葉之庭的故事原型：式子內親王x藤原定家(更新：實書考證完成)](https://forum.gamer.com.tw/Co.php?bsn=40077&sn=4187)
 這年頭真的書讀不夠，電影都看不懂 🤯
+
+---
+
+收錄於：[2024 夏季看什麼]({filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_21)

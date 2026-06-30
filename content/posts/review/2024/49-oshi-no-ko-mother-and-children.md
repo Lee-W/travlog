@@ -34,3 +34,7 @@ Authors: Wei Lee
 雖然已經知道劇情，也漫畫、動畫都看過了
 但再看一次還是在電影最後差點哭了
 這段的演出真的是好，極音廳的沈浸感也真的是無與倫比
+
+---
+
+收錄於：[2024 春季看什麼]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#mother-and-children)

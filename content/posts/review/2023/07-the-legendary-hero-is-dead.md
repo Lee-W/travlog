@@ -31,3 +31,7 @@ Authors: Wei Lee
 不完全是很無腦的傲天類作品
 看彈幕好像也蠻多人在說漫畫比較好看
 可能是慘遭動畫化吧 🤔
+
+---
+
+收錄於：[2023 春季看什麼]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_14)

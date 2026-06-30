@@ -59,3 +59,7 @@ Authors: Wei Lee
 第二週的特典是海報，而且真的很帥
 大家要快點去看，這海報可能很快就會被搶完了
 真的是帥爛
+
+---
+
+收錄於：[2023 夏季看什麼]({filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_21)

@@ -66,3 +66,7 @@ Authors: Wei Lee
 
 倒是當初看漫畫有一幕感動到我，最後沒有出現在劇場版
 我還期待會不會在 ED 結束後出現 😢
+
+---
+
+收錄於：[2020 秋季看什麼 - 新番/舊番/電影]({filename}/posts/review/2021/01-what-i-watch-in-2020-fall.md#_17)

@@ -25,3 +25,7 @@ Authors: Wei Lee
 對於動畫製作的紀錄片有興趣，推薦可以來試試
 
 ![flee](/images/post-images/2023-flee/flee.jpeg)
+
+---
+
+收錄於：[2022 春季看什麼]({filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_28)

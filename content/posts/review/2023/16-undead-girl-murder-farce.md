@@ -33,3 +33,7 @@ Authors: Wei Lee
 
 總之這部真的很好看
 我逢人就推，推到都讓人感到厭煩了吧（笑
+
+---
+
+收錄於：[2023 夏季看什麼]({filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_2)

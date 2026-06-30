@@ -62,3 +62,7 @@ Authors: Wei Lee
 它美好的點在於它細細鋪成的情感
 直到現在，每每想起都會讓人覺得有些溫暖
 推薦給喜歡細細品味溫馨作品的人 🤗
+
+---
+
+收錄於：[2025 夏季看什麼]({filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_11)

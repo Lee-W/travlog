@@ -5,6 +5,7 @@ Checks:
 1. Referenced post file exists
 2. Anchor exists in the post
 3. Heading at that anchor semantically matches the work title / review text
+4. A direct review article links back to its seasonal roundup
 """
 
 from __future__ import annotations
@@ -45,6 +46,22 @@ def keywords(s: str) -> set[str]:
     return set(cjk + [w.lower() for w in ascii_words])
 
 
+def review_items(entry: dict) -> list[dict]:
+    """Normalize the legacy single-review mapping and the usual review list."""
+    reviews = entry.get("reviews") or []
+    if isinstance(reviews, dict):
+        return [reviews]
+    return reviews
+
+
+def filename_post_path(href: str, repo_root: Path) -> Path | None:
+    """Resolve a content-local review href without requiring an anchor."""
+    match = re.match(r"\{filename\}(/posts/review/[^#]+\.md)(?:#.*)?$", href)
+    if not match:
+        return None
+    return repo_root / "content" / match.group(1).lstrip("/")
+
+
 def check_yaml_file(
     yaml_path: Path, repo_root: Path, anchor_cache: dict[Path, dict[str, str]]
 ) -> list[str]:
@@ -53,9 +70,19 @@ def check_yaml_file(
 
     for entry in raw:
         title: str = entry.get("title", "")
-        for rev in entry.get("reviews", []):
-            href: str = rev.get("href", "")
-            m = re.match(r"\{filename\}(/posts/review/\S+?)#(\S+)", href)
+        for rev in review_items(entry):
+            href = rev.get("href", "")
+            season_href = rev.get("season_href", "")
+
+            direct_path = filename_post_path(href, repo_root)
+            if direct_path and not direct_path.exists():
+                errors.append(
+                    f"  {yaml_path.name}: {title!r} — missing file "
+                    f"{direct_path.relative_to(repo_root)}"
+                )
+
+            anchor_href = season_href or href
+            m = re.match(r"\{filename\}(/posts/review/\S+?)#(\S+)", anchor_href)
             if not m:
                 continue
             relpath, anchor = m.group(1), m.group(2)
@@ -85,6 +112,14 @@ def check_yaml_file(
                     f"  {yaml_path.name}: {title!r} ({rev.get('text', '')!r})"
                     f"\n    href #{anchor} → heading {heading!r}  ← semantic mismatch"
                 )
+
+            if season_href and direct_path and direct_path.exists():
+                direct_content = direct_path.read_text(encoding="utf-8")
+                if season_href not in direct_content:
+                    errors.append(
+                        f"  {yaml_path.name}: {title!r} — {direct_path.name} lacks "
+                        f"seasonal backlink to {season_href}"
+                    )
 
     return errors
 
@@ -130,7 +165,10 @@ def main() -> int:
         errors = check_yaml_file(yaml_path, repo_root, anchor_cache)
         all_errors.extend(errors)
         raw = yaml.safe_load(yaml_path.read_text(encoding="utf-8")) or []
-        total_hrefs += sum(len(e.get("reviews", [])) for e in raw)
+        total_hrefs += sum(
+            sum(1 + bool(review.get("season_href")) for review in review_items(entry))
+            for entry in raw
+        )
 
     all_errors.extend(check_page_references(yaml_dir, page_path))
 

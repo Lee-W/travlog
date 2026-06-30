@@ -44,3 +44,7 @@ OP 我自己也是蠻喜歡的，也是嗑了不少
 我只是想著正在讀這篇文的大叔，也就是你
 一定會笑得很開心
 恩恩，沒錯
+
+---
+
+收錄於：[2024 春季看什麼]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#basue)

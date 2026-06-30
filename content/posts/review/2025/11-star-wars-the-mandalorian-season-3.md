@@ -48,3 +48,7 @@ Authors: Wei Lee
 什麼？你說 Gideon 逃走了
 假的，那都是你的眼睛業障重
 他已經被 Thrawn 給處決掉了
+
+---
+
+收錄於：[2025 冬季看什麼]({filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#star-wars-the-mandalorian-season-3)

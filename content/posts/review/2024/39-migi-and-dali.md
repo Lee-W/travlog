@@ -39,3 +39,7 @@ Authors: Wei Lee
 因此我想只寫到此
 希望看這篇文到這的你能自己去享受佐野老師帶來的美好
 謝謝你，佐野菜見老師
+
+---
+
+收錄於：2024 春季看什麼（[米奇與達利]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_11)、[米奇與達利 惡童物語]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_23)）

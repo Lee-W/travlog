@@ -62,7 +62,8 @@
     - workers-the-movie
   reviews:
   - text: '2023 春'
-    href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_26'
+    href: '{filename}/posts/review/2023/03-workers-the-movie.md'
+    season_href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_26'
 - title: 超時空武士
   tier: SS
   external_ids:
@@ -79,6 +80,7 @@
   reviews:
   - text: '2025'
     href: '{filename}/posts/review/2025/13-kakukakushikajika.md'
+    season_href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_15'
 - title: 國寶
   tier: S
   external_ids:
@@ -95,6 +97,7 @@
   reviews:
   - text: '2025'
     href: '{filename}/posts/review/2025/14-thus-spoke-kjishibe-rohan-at-a-confessional.md'
+    season_href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_16'
 - title: 歡迎來到布達佩斯大飯店
   tier: S
   external_ids:
@@ -288,7 +291,8 @@
     - the-super-mario-bros-movie
   reviews:
   - text: '2023 春'
-    href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_23'
+    href: '{filename}/posts/review/2023/02-the-super-mario-bros-movie.md'
+    season_href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_23'
 - title: 亨利·休格的神奇故事
   tier: A
   external_ids:
@@ -304,7 +308,8 @@
     - rohan-at-the-louvre
   reviews:
   - text: '2023 夏'
-    href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_21'
+    href: '{filename}/posts/review/2023/14-rohan-at-the-louvre.md'
+    season_href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_21'
 - title: 旺卡
   tier: A
   external_ids:
@@ -328,7 +333,8 @@
     - inside-out-2-2024
   reviews:
   - text: '2024 春'
-    href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#2'
+    href: '{filename}/posts/review/2024/52-inside-out-2.md'
+    season_href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#2'
 - title: 星際效應
   tier: A
   external_ids:
@@ -365,9 +371,11 @@
     - teasing-master-takagi-san
   reviews:
   - text: '2024 春'
-    href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_21'
+    href: '{filename}/posts/review/2024/47-drama-movie-teasing-master-takagi-san.md'
+    season_href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_21'
   - text: '2024 秋'
-    href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_13'
+    href: '{filename}/posts/review/2024/47-drama-movie-teasing-master-takagi-san.md'
+    season_href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_13'
 - title: '【我推的孩子】 -The Final Act-'
   tier: A
   external_ids:

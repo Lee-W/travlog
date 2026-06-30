@@ -47,3 +47,7 @@ Authors: Wei Lee
 
 雖然大概也不用我的推薦了，但喜歡這種壽命論的作品的話
 昨天才上的葬送的芙莉蓮絕對是不能錯過的作品
+
+---
+
+收錄於：[2023 夏季看什麼]({filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_9)

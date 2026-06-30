@@ -48,3 +48,7 @@ Authors: Wei Lee
 我記得有看到其他位置被買走，不知道是不是拿完特典就走了
 晚上九點這個時間確實是偏差
 看完就十點半了
+
+---
+
+收錄於：[2025 春季看什麼]({filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_14)

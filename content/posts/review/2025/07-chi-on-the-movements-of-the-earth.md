@@ -195,3 +195,7 @@ He does care.
 
 其實外面很冷，我並沒有出去看
 但我相信深愛著地動說的人，一定懂我在說什麼
+
+---
+
+收錄於：[2025 冬季看什麼]({filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#-)
