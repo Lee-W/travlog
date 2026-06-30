@@ -1,9 +1,7 @@
 import datetime
 import sys
-import tempfile
-import unittest
-from pathlib import Path
-from unittest import mock
+
+import pytest
 
 from scripts.prepare_publication import (
     check,
@@ -14,94 +12,87 @@ from scripts.prepare_publication import (
 )
 
 
-class PreparePublicationTest(unittest.TestCase):
-    def setUp(self):
-        self.temp_dir = tempfile.TemporaryDirectory()
-        self.path = Path(self.temp_dir.name) / "post.md"
-
-    def tearDown(self):
-        self.temp_dir.cleanup()
-
-    def write_post(self, status="Status: draft"):
-        header = [
-            "Title: Example",
-            "Date: 2026-01-01 12:00 +0800",
-            "Category: Review",
-            "Tags: Example",
-            "Slug: example",
-            "Authors: Wei Lee",
-        ]
-        if status:
-            header.append(status)
-        self.path.write_text(
-            "\n".join([*header, "", "Body", ""]),
-            encoding="utf-8",
-        )
-
-    def test_prepare_post_removes_draft_and_updates_date(self):
-        self.write_post()
-
-        changed = prepare_post(self.path, "2026-06-30 18:20 +0800")
-
-        self.assertTrue(changed)
-        content = self.path.read_text(encoding="utf-8")
-        self.assertIn("Date: 2026-06-30 18:20 +0800", content)
-        self.assertNotIn("Status:", content)
-        self.assertTrue(content.endswith("\n"))
-
-    def test_prepare_post_updates_date_when_status_already_removed(self):
-        self.write_post(status="")
-
-        changed = prepare_post(self.path, "2026-06-30 18:20 +0800")
-
-        self.assertTrue(changed)
-        content = self.path.read_text(encoding="utf-8")
-        self.assertIn("Date: 2026-06-30 18:20 +0800", content)
-        self.assertNotIn("Status:", content)
-
-    def test_prepare_post_is_idempotent_with_same_date(self):
-        self.write_post()
-        prepare_post(self.path, "2026-06-30 18:20 +0800")
-
-        self.assertFalse(prepare_post(self.path, "2026-06-30 18:20 +0800"))
-
-    def test_prepare_post_refreshes_date_after_preparation(self):
-        self.write_post()
-        prepare_post(self.path, "2026-06-30 18:20 +0800")
-
-        self.assertTrue(prepare_post(self.path, "2026-06-30 18:21 +0800"))
-        self.assertIn(
-            "Date: 2026-06-30 18:21 +0800",
-            self.path.read_text(encoding="utf-8"),
-        )
-
-    def test_check_rejects_changed_draft(self):
-        self.write_post()
-
-        self.assertEqual(check([self.path]), 1)
-        self.assertTrue(draft_status(self.path))
-
-    def test_prepare_mode_is_noop_when_no_posts_changed(self):
-        argv = ["prepare_publication.py", "prepare", "--base-ref", "origin/main"]
-        with (
-            mock.patch.object(sys, "argv", argv),
-            mock.patch("scripts.prepare_publication.changed_posts", return_value=[]),
-        ):
-            self.assertEqual(main(), 0)
-
-    def test_check_mode_fails_when_no_posts_changed(self):
-        argv = ["prepare_publication.py", "check", "--base-ref", "origin/main"]
-        with (
-            mock.patch.object(sys, "argv", argv),
-            mock.patch("scripts.prepare_publication.changed_posts", return_value=[]),
-        ):
-            self.assertEqual(main(), 1)
-
-    def test_publication_date_uses_taiwan_timezone(self):
-        utc = datetime.datetime(2026, 6, 30, 10, 20, tzinfo=datetime.UTC)
-
-        self.assertEqual(publication_date(utc), "2026-06-30 18:20 +0800")
+def write_post(path, status="Status: draft"):
+    header = [
+        "Title: Example",
+        "Date: 2026-01-01 12:00 +0800",
+        "Category: Review",
+        "Tags: Example",
+        "Slug: example",
+        "Authors: Wei Lee",
+    ]
+    if status:
+        header.append(status)
+    path.write_text("\n".join([*header, "", "Body", ""]), encoding="utf-8")
 
 
-if __name__ == "__main__":
-    unittest.main()
+@pytest.fixture
+def post_path(tmp_path):
+    return tmp_path / "post.md"
+
+
+def test_prepare_post_removes_draft_and_updates_date(post_path):
+    write_post(post_path)
+
+    changed = prepare_post(post_path, "2026-06-30 18:20 +0800")
+
+    assert changed
+    content = post_path.read_text(encoding="utf-8")
+    assert "Date: 2026-06-30 18:20 +0800" in content
+    assert "Status:" not in content
+    assert content.endswith("\n")
+
+
+def test_prepare_post_updates_date_when_status_already_removed(post_path):
+    write_post(post_path, status="")
+
+    changed = prepare_post(post_path, "2026-06-30 18:20 +0800")
+
+    assert changed
+    content = post_path.read_text(encoding="utf-8")
+    assert "Date: 2026-06-30 18:20 +0800" in content
+    assert "Status:" not in content
+
+
+def test_prepare_post_is_idempotent_with_same_date(post_path):
+    write_post(post_path)
+    prepare_post(post_path, "2026-06-30 18:20 +0800")
+
+    assert not prepare_post(post_path, "2026-06-30 18:20 +0800")
+
+
+def test_prepare_post_refreshes_date_after_preparation(post_path):
+    write_post(post_path)
+    prepare_post(post_path, "2026-06-30 18:20 +0800")
+
+    assert prepare_post(post_path, "2026-06-30 18:21 +0800")
+    assert "Date: 2026-06-30 18:21 +0800" in post_path.read_text(encoding="utf-8")
+
+
+def test_check_rejects_changed_draft(post_path):
+    write_post(post_path)
+
+    assert check([post_path]) == 1
+    assert draft_status(post_path)
+
+
+def test_prepare_mode_is_noop_when_no_posts_changed(monkeypatch):
+    argv = ["prepare_publication.py", "prepare", "--base-ref", "origin/main"]
+    monkeypatch.setattr(sys, "argv", argv)
+    monkeypatch.setattr("scripts.prepare_publication.changed_posts", lambda base_ref: [])
+
+    assert main() == 0
+
+
+def test_check_mode_fails_when_no_posts_changed(monkeypatch):
+    argv = ["prepare_publication.py", "check", "--base-ref", "origin/main"]
+    monkeypatch.setattr(sys, "argv", argv)
+    monkeypatch.setattr("scripts.prepare_publication.changed_posts", lambda base_ref: [])
+
+    assert main() == 1
+
+
+def test_publication_date_uses_taiwan_timezone():
+    utc = datetime.datetime(2026, 6, 30, 10, 20, tzinfo=datetime.UTC)
+
+    assert publication_date(utc) == "2026-06-30 18:20 +0800"

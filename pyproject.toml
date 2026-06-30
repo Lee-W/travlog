@@ -42,6 +42,7 @@ dev = [
   "livereload>=2.7.0",
   "pip-audit>=2.7.3",
   "pre-commit-hooks>=5.0.0",
+  "pytest>=9.1.1",
   "rich>=15.0.0",
   "ruamel-yaml>=0.19.1",
   "ruff>=0.6.9",
@@ -64,6 +65,11 @@ pelican-on-this-day = false
 [tool.uv.sources]
 attila = { git = "https://github.com/Lee-W/attila/" }
 pelican-deadlinks = { git = "https://github.com/pelican-plugins/deadlinks" }
+
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
 
 
 [tool.commitizen]
