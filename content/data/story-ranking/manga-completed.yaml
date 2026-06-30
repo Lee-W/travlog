@@ -1,24 +1,42 @@
 - title: 聲之形
   tier: SSS
+  external_ids:
+    anilist:
+    - 85135
 - title: 進擊的巨人
   tier: SS
+  external_ids:
+    anilist:
+    - 53390
 - title: 路人超能 100
   tier: SS
+  external_ids:
+    anilist:
+    - 85189
   reviews:
   - text: '2021 冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#100_1'
 - title: Fate/Zero
   tier: SS
+  external_ids:
+    anilist:
+    - 55191
   reviews:
   - text: '2021 冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#fatezero'
 - title: 徒然喜歡你
   tier: SS
+  external_ids:
+    anilist:
+    - 86481
   reviews:
   - text: '2021 冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_9'
 - title: 迷宮飯
   tier: SS
+  external_ids:
+    anilist:
+    - 86082
   reviews:
   - text: '2024 夏'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_26'
@@ -29,6 +47,10 @@
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#dddd_3'
 - title: 藍色巨星
   tier: SS
+  external_ids:
+    anilist:
+    - 86890
+    - 112524
   reviews:
   - text: '2023 春'
     href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_28'
@@ -38,78 +60,134 @@
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#blue-giant-supreme'
 - title: 魔法少女小圓
   tier: SS
+  external_ids:
+    anilist:
+    - 54457
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_27'
 - title: 魔法少女小圓 [新篇] 叛逆物語
   tier: SS
+  external_ids:
+    anilist:
+    - 85464
   reviews:
   - text: '2021 春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_23'
 - title: 魔法少女小圓~The different story~
   tier: SS
+  external_ids:
+    anilist:
+    - 74319
   reviews:
   - text: '2021 冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#the-different-story'
+- title: 地。—關於地球的運動—
+  tier: SS
+  external_ids:
+    anilist:
+    - 124139
+  reviews:
+  - text: '2025'
+    href: '{filename}/posts/review/2025/07-chi-on-the-movements-of-the-earth.md'
 - title: 章魚嗶的原罪
   tier: S
+  external_ids:
+    anilist:
+    - 142568
   reviews:
   - text: '2025 夏'
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_20'
 - title: 一百公尺。—100M—新裝版
   tier: S
+  external_ids:
+    anilist:
+    - 105180
   reviews:
   - text: '2025 秋'
     href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#100m'
 - title: 抽屜裡的生態箱(全)
   tier: S
+  external_ids:
+    anilist:
+    - 86495
   reviews:
   - text: '2024 秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_22'
 - title: 進擊的巨人 LOST GIRLS
   tier: S
+  external_ids:
+    anilist:
+    - 95409
   reviews:
   - text: '2021 春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#lost-girls'
 - title: Fate/stay night
   tier: S
+  external_ids:
+    anilist:
+    - 30715
   reviews:
   - text: '2021 冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#fatestay-night'
 - title: 勇者赫魯庫
   tier: S
+  external_ids:
+    anilist:
+    - 86720
   reviews:
   - text: '2024 冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_26'
 - title: 米奇與達利 惡童物語
   tier: S
+  external_ids:
+    anilist:
+    - 101687
   reviews:
   - text: '2024 春'
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_23'
 - title: 進擊的巨人番外篇~無悔的選擇
   tier: S
+  external_ids:
+    anilist:
+    - 85199
   reviews:
   - text: '2021 冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_27'
 - title: 酷愛電影的龐波小姐
   tier: S
+  external_ids:
+    anilist:
+    - 105451
   reviews:
   - text: '2022 夏'
     href: '{filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_27'
 - title: 愛在雨過天晴
   tier: S
+  external_ids:
+    anilist:
+    - 86639
   reviews:
   - text: '2023 秋'
     href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_25'
 - title: 驀然回首
   tier: S
+  external_ids:
+    anilist:
+    - 136807
 - title: 再見繪梨
   tier: S
+  external_ids:
+    anilist:
+    - 146983
   reviews:
   - text: '2024 夏'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_27'
 - title: 擅長捉弄人的高木同學
   tier: S
+  external_ids:
+    anilist:
+    - 85533
   reviews:
   - text: '2021 冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_25'
@@ -117,6 +195,9 @@
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_25'
 - title: 輝夜姬想讓人告白~天才們的戀愛頭腦戰
   tier: S
+  external_ids:
+    anilist:
+    - 86635
   reviews:
   - text: '2021 冬 - 連載時'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_26'
@@ -124,13 +205,30 @@
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_28'
 - title: SLAM DUNK
   tier: S
+  external_ids:
+    anilist:
+    - 30051
+- title: 塗鴉日記
+  tier: S
+  external_ids:
+    anilist:
+    - 74307
+  reviews:
+  - text: '2025'
+    href: '{filename}/posts/review/2025/13-kakukakushikajika.md'
 - title: 異國日記
   tier: A
+  external_ids:
+    anilist:
+    - 106331
   reviews:
   - text: '2025 夏'
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_21'
 - title: 我推的孩子
   tier: A
+  external_ids:
+    anilist:
+    - 117195
   reviews:
   - text: '2025 夏'
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_22'
@@ -141,6 +239,9 @@
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_23'
 - title: 魔法少年賈修
   tier: A
+  external_ids:
+    anilist:
+    - 157842
   reviews:
   - text: '2023 夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_25'
@@ -151,11 +252,17 @@
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_27'
 - title: 嗶伊～不思議的生物
   tier: A
+  external_ids:
+    anilist:
+    - 105318
   reviews:
   - text: '2024 冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_30'
 - title: 明天星期六
   tier: A
+  external_ids:
+    anilist:
+    - 87142
   reviews:
   - text: '2023 夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_26'
@@ -176,6 +283,9 @@
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_26'
 - title: 四月是你的謊言 最後樂章
   tier: B
+  external_ids:
+    anilist:
+    - 86158
   reviews:
   - text: '2021 冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_29'
@@ -186,11 +296,17 @@
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_25'
 - title: 進擊！巨人高校 ～青春！ 隔壁的瑪雷學園～
   tier: C
+  external_ids:
+    anilist:
+    - 106489
   reviews:
   - text: '2021 春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_27'
 - title: 巴歐來訪者
   tier: C
+  external_ids:
+    anilist:
+    - 31515
   reviews:
   - text: '2025 冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_27'

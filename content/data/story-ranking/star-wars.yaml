@@ -1,31 +1,69 @@
 - title: 'Rogue One: A Star Wars Story'
   group: Movie
+  external_ids:
+    letterboxd:
+    - rogue-one-a-star-wars-story
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#rogue-one-a-star-wars-story'
 - title: 'Star Wars: Episode V - The Empire Strikes Back'
   group: Movie
+  external_ids:
+    letterboxd:
+    - the-empire-strikes-back
 - title: 'Star Wars: Episode IV - A New Hope'
   group: Movie
+  external_ids:
+    letterboxd:
+    - star-wars
 - title: 'Star Wars: Episode III – Revenge of the Sith'
   group: Movie
+  external_ids:
+    letterboxd:
+    - star-wars-episode-iii-revenge-of-the-sith
 - title: 'Star Wars: Episode VI - Return of the Jedi'
   group: Movie
+  external_ids:
+    letterboxd:
+    - return-of-the-jedi
 - title: 'Star Wars: Episode II - Attack of the Clones'
   group: Movie
+  external_ids:
+    letterboxd:
+    - star-wars-episode-ii-attack-of-the-clones
 - title: 'Star Wars: Episode I - The Phantom Menace'
   group: Movie
+  external_ids:
+    letterboxd:
+    - star-wars-episode-i-the-phantom-menace
 - title: 'Solo: A Star Wars Story'
   group: Movie
+  external_ids:
+    letterboxd:
+    - solo-a-star-wars-story
 - title: 'Star Wars: Episode VII - The Force Awakens'
   group: Movie
+  external_ids:
+    letterboxd:
+    - star-wars-the-force-awakens
 - title: 'Star Wars: Episode VIII - The Last Jedi'
   group: Movie
+  external_ids:
+    letterboxd:
+    - star-wars-the-last-jedi
 - title: 'Star Wars: Episode IX - The Rise of Skywalker'
   group: Movie
+  external_ids:
+    letterboxd:
+    - star-wars-the-rise-of-skywalker
   reviews:
   - text: '2019'
     href: '{filename}/posts/review/2019/08-star-wars-rise-of-skywalker.md'
+- title: 'Star Wars: The Clone Wars'
+  group: Movie
+  external_ids:
+    letterboxd:
+    - star-wars-the-clone-wars
 - title: 'Star Wars: Andor'
   group: Series
   reviews:
@@ -55,6 +93,9 @@
     href: '{filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#the-book-of-boba-fett'
 - title: Obi-Wan Kenobi
   group: Series
+  external_ids:
+    letterboxd:
+    - obi-wan-kenobi
   reviews:
   - text: '2022 春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#obi-wan-kenobi'
@@ -71,6 +112,9 @@
   group: Anime
 - title: 'Star Wars: Visions'
   group: Anime
+  external_ids:
+    anilist:
+    - 138060
   reviews:
   - text: '2021 秋 (Volume 1)'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#star-wars-visions'
@@ -112,3 +156,7 @@
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#star-wars-rise-of-the-resistance'
+
+# TODO: 已在 Letterboxd、待寫進排名（slug 先記，下次免爬）
+# 預期
+# - star-wars-the-mandalorian-and-grogu  # Star Wars: The Mandalorian and Grogu (2026)
