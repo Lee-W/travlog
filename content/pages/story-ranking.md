@@ -49,6 +49,9 @@ Modified: 2026-05-29 11:50 +0800
 ## 動畫
 {% table data/story-ranking/anime.yaml group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
 
+## 真人電影（含非日式動畫）
+{% table data/story-ranking/live-action-movie.yaml group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
+
 ## 真人影集（含非日式動畫）
 {% table data/story-ranking/live-action-tv.yaml group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
 
