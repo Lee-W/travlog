@@ -50,3 +50,7 @@ Re-Zero 的 OP 跟 ED 也是每季我都很期待的部分
 
 這次的存活率好像有比之前高一點
 可以在動畫播出的時候多聽幾次
+
+---
+
+收錄於：[2025 冬季看什麼]({filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#re)

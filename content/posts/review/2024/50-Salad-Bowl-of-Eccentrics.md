@@ -32,3 +32,7 @@ Authors: Wei Lee
 ~~如果真要說明確的缺點，大概就是 OP 跟 ED 畫面會出現小黃瓜吧~~
 但音樂本身，不論是 OP [ギフにテッド](https://www.youtube.com/watch?v=UpLIEplQEW4) 還是 ED [今晩の喧嘩](https://www.youtube.com/watch?v=iiM_bhMcoug)我都很喜歡
 十分能展現出這部有點怪但又很歡樂很日常的感覺
+
+---
+
+收錄於：[2024 春季看什麼]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_8)

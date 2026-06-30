@@ -40,3 +40,7 @@ TOHO 的廣告是真的多，一度以為我走錯廳了
 結果真人版電影也來了個彩蛋
 動畫版電影可能只剩高橋李依跟梶裕貴能贏吧
 但話說回來這個大人版的西片長的也太帥
+
+---
+
+收錄於：[2024 春季看什麼]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_21)、[2024 秋季看什麼]({filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_13)

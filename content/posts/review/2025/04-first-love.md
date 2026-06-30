@@ -68,3 +68,7 @@ Authors: Wei Lee
 
 如果初戀第九集是隔了一年才出的 SP ，我可能觀影體驗也會更好
 啊！就是差了那麼一點啊！
+
+---
+
+收錄於：[2025 冬季看什麼]({filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_18)

@@ -54,3 +54,7 @@ Authors: Wei Lee
 後來去補了彈幕，果然也有人有同樣的想法呢
 雖然現在已經是 MyGO 的時代， JOJO 梗式微
 但還是不乏有堅持傳統（？）的有志之士（？？？？？）呢
+
+-----
+
+收錄於：[2024 夏季看什麼]({filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_2)

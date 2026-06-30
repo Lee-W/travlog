@@ -25,3 +25,7 @@ Authors: Wei Lee
 趕快給我去看現在還在院線的「藍色恐懼： 4K 修復版」！
 大多影城都是今天中午 12 點開始搶票
 快快快，慢了，特典海報就沒了
+
+---
+
+收錄於：[2024 春季看什麼]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_25)

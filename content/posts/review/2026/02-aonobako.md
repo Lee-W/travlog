@@ -30,3 +30,7 @@ Authors: Wei Lee
 
 畫面中的雛大人更是美如畫
 聽到這首歌想起那些畫面，還是會有些眼匡泛淚
+
+---
+
+收錄於：[2025 冬季看什麼]({filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_2)

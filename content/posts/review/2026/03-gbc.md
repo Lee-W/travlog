@@ -42,3 +42,7 @@ Girls Band Cry 有正式譯名前
 所以我還是多喜歡 MyGO!!!!! 一點
 我在迷失中前進就好了
 完全沒有興趣向任何人證明我是對的
+
+---
+
+收錄於：[2025 冬季看什麼]({filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_8)

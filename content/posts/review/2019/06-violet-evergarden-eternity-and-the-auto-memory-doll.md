@@ -91,3 +91,7 @@ Authors: Wei Lee
 謝謝京阿尼為我們帶來的這些美好
 Pray For Kyoani
 願京阿尼能再一次站起來，為我們帶來更多更好的作品
+
+---
+
+收錄於：[2020 春季看什麼]({filename}/posts/review/2020/04-what-i-watch-in-2020-sprint.md#-)

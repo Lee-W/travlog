@@ -47,3 +47,7 @@ Authors: Wei Lee
 ED hidamari 非常的好聽，搭配畫面甚至會令人有些泛淚呢
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5CongeIhMj189GWbrao7C7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+---
+
+收錄於：[2024 秋季看什麼]({filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_3)

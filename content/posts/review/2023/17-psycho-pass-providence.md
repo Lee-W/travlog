@@ -34,3 +34,7 @@ Authors: Wei Lee
 當然如果所有系列都看完，能多得到更多樂趣
 像是第三季始終不理解的狀況，巧妙的被圓回來了
 不過光朱狡糖，PSYCHO-PASS 第一季的粉絲應該就能滿足了吧 😆
+
+---
+
+收錄於：[2023 夏季看什麼]({filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#psycho-pass-providence)

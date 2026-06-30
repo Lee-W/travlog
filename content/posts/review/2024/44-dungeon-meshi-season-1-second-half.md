@@ -58,3 +58,7 @@ Authors: Wei Lee
 所以我說台版漫畫的 13, 14 集呢？
 
 ![dungeon](/images/post-images/2024-what-i-watched-in-2024-winter/17136214591974.jpg)
+
+---
+
+收錄於：[2024 春季看什麼]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_2)

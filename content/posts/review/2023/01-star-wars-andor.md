@@ -176,3 +176,7 @@ Luthen 的那句 `Everything !`
 聽說下一季可能要等到 2024
 如果等這麼點時間就能看到如此高品質的作品，我還不等爆
 好作品是值得等待的
+
+---
+
+收錄於：[2022 秋季看什麼]({filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#star-wars-andor)

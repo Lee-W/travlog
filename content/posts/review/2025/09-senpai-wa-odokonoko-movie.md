@@ -48,3 +48,7 @@ Authors: Wei Lee
 雖然果青實際場景在千葉，但名字都出自這附近
 然後現在又來了一個「真物」的討論
 卡露拉表示「不是特別的就不行嗎」
+
+---
+
+收錄於：[2025 春季看什麼]({filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_15)

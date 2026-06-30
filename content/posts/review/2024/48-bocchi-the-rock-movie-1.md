@@ -40,3 +40,7 @@ Authors: Wei Lee
 所以聲音大聲到像是從自己說出一樣
 至少我是很喜歡啦 😆
 下次有音樂電影上映，人又在日本還是會想來看
+
+---
+
+收錄於：[2024 春季看什麼]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#re)

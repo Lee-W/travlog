@@ -52,3 +52,7 @@ Authors: Wei Lee
 但聽說他們也是年代金曲，也許就是與瑪利歐上市時有關的歌吧
 
 ![the-super-mario-bros-movie-2](/images/post-images/2023-the-super-mario-bros-movie/the-super-mario-bros-movie-2.jpeg)
+
+---
+
+收錄於：[2023 春季看什麼]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_23)

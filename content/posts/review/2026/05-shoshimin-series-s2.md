@@ -27,3 +27,7 @@ Authors: Wei Lee
 小佐內快步走下樓梯那真的好可愛
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3tXmPXQBCkAlo0FICWetwz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+---
+
+收錄於：[2025 春季看什麼]({filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_3)

@@ -46,3 +46,7 @@ Authors: Wei Lee
 ///
 
 所以不要來找我吵架
+
+---
+
+收錄於：[2025 冬季看什麼]({filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#bang-dream-ave-mujica)

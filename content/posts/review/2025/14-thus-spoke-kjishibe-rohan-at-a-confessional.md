@@ -55,3 +55,7 @@ Authors: Wei Lee
 
 更新照片的替代文字的時候才想到
 這能不能算是一種 Heaven's Doll
+
+---
+
+收錄於：[2025 夏季看什麼]({filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_16)

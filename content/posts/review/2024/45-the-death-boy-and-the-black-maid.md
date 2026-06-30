@@ -143,3 +143,7 @@ Authors: Wei Lee
 這結尾真的是太漂亮
 原先還會稍微覺得，那段開場白不一定要出現這麼多次
 看完才知道，一次都不能少啊！
+
+---
+
+收錄於：2024 春季看什麼（[死神少爺與黑女僕 第三季]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_3)、[死神少爺與黑女僕]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_13)）

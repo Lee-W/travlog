@@ -30,3 +30,7 @@ Authors: Wei Lee
 > 那些說你壞話的人
 > 都是害怕妳的才華
 > 很羨慕妳罷了
+
+---
+
+收錄於：[2023 春季看什麼]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_13)

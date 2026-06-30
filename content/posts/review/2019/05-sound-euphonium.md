@@ -205,3 +205,7 @@ Pray for Kyoani
 
 另外是有多注意到板上提到的久美子跟麗奈同樣互為莉茲與青鳥的鏡頭
 第一次看的時候還以為只是對主角的 focus XD
+
+---
+
+收錄於：2020 春季看什麼（[吹響吧！上低音號～想傳達的旋律～]({filename}/posts/review/2020/04-what-i-watch-in-2020-sprint.md#_13)、[吹響吧！上低音號～誓言的終章～]({filename}/posts/review/2020/04-what-i-watch-in-2020-sprint.md#_15)、[吹響吧！上低音號～歡迎加入北宇治高中管樂社]({filename}/posts/review/2020/04-what-i-watch-in-2020-sprint.md#_18)）

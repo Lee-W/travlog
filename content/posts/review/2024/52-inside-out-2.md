@@ -34,3 +34,7 @@ Authors: Wei Lee
 也許這就是續集的原罪吧
 
 > Bing Bong, Bing Bong
+
+---
+
+收錄於：[2024 春季看什麼]({filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#2)

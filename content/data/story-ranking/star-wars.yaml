@@ -68,7 +68,8 @@
   group: Series
   reviews:
   - text: 'Season 1'
-    href: '{filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#star-wars-andor'
+    href: '{filename}/posts/review/2023/01-star-wars-andor.md'
+    season_href: '{filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#star-wars-andor'
   - text: 'Season 2'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#star-wars-andor-season-2'
 - title: 'Star Wars: The Mandalorian'
@@ -85,7 +86,8 @@
   group: Series
   reviews:
   - text: 'Season 3'
-    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#star-wars-the-mandalorian-season-3'
+    href: '{filename}/posts/review/2025/11-star-wars-the-mandalorian-season-3.md'
+    season_href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#star-wars-the-mandalorian-season-3'
 - title: The Book of Boba Fett
   group: Series
   reviews:

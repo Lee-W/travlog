@@ -58,3 +58,7 @@ Authors: Wei Lee
 想推薦給看到這篇文章的每個人，請務必點開觀賞 🙏
 
 ![egumi-sora](/images/post-images/2024-what-i-watched-in-2024-summer/egumi-sora.png)
+
+---
+
+收錄於：[2024 夏季看什麼]({filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_5)
