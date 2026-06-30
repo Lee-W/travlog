@@ -4,7 +4,6 @@ Category: Review
 Tags: Blog, AI
 Slug: my-viewing-taste
 Authors: Wei Lee
-Status: draft
 
 之前看到[一個公開的思考引擎：關於阿全老師的部落格](https://eddielv.com/musings/chatgpt-introduce-eddie-blog/)覺得非常有趣
 哪天要來試試看
