@@ -1,7 +1,24 @@
+# Stamps a draft post with its real publication time at merge.
+#
+# Drafts carry `Status: draft` and a placeholder `Date`. When a `new post:` PR
+# has auto-merge enabled, this workflow removes the draft status and rewrites
+# `Date` to "now" (Asia/Taipei), then commits the result back to the PR branch
+# so the post that lands on `main` is dated at the moment it actually shipped.
+# The metadata edit is done by scripts/prepare_publication.py (`prepare` mode);
+# ci.yaml runs the same script in `check` mode as a PR gate.
+#
+# Security: pull_request_target runs with repository secrets, so the job `if`
+# restricts it to same-repo branches, and the *automation* script is checked
+# out from the trusted base commit (not the PR head) into a separate directory
+# from the PR content it operates on.
+
 name: Prepare publication
 
 on:
   pull_request_target:
+    # auto_merge_enabled is the primary trigger; synchronize/ready_for_review
+    # re-run prepare when the branch changes after auto-merge is already on
+    # (the job `if` ignores PRs without auto-merge).
     types:
       - auto_merge_enabled
       - ready_for_review
@@ -16,6 +33,7 @@ concurrency:
 
 jobs:
   prepare:
+    # Only act on same-repo `new post:` PRs that already have auto-merge on.
     if: >-
       github.event.pull_request.head.repo.full_name == github.repository &&
       github.event.pull_request.auto_merge != null &&
@@ -31,6 +49,8 @@ jobs:
             exit 1
           fi
 
+      # The script we execute comes from the base commit (trusted), never from
+      # the PR branch, so a malicious PR can't alter what runs with the token.
       - name: Check out trusted automation
         uses: actions/checkout@v6
         with:
@@ -39,6 +59,9 @@ jobs:
           persist-credentials: false
           ref: ${{ github.event.pull_request.base.sha }}
 
+      # The PR content lives in a separate directory; PUBLISH_TOKEN is a PAT so
+      # the pushed metadata commit re-triggers required CI (the default
+      # GITHUB_TOKEN would not). fetch-depth: 0 gives the base ref for diffing.
       - name: Check out pull request branch
         uses: actions/checkout@v6
         with:
@@ -48,6 +71,8 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           token: ${{ secrets.PUBLISH_TOKEN }}
 
+      # Removes Status: draft and rewrites Date for posts this PR changes vs the
+      # base; a no-op (success) when there is nothing to prepare.
       - name: Prepare publication metadata
         working-directory: pull-request
         run: >-
@@ -60,6 +85,9 @@ jobs:
           HEAD_REF: ${{ github.event.pull_request.head.ref }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
         run: |
+          # Loop-breaker: our own push fires `synchronize`, which re-enters this
+          # job. If the branch tip is already the metadata commit, stop here so
+          # the date isn't bumped again on every self-triggered run.
           if git log -1 --pretty=%s | grep -q 'prepare publication for #'; then
             echo "Branch already carries the automation publication commit."
             exit 0
