@@ -281,3 +281,6 @@
   difficulty: 3
   year: 2026
   era: "22 BBY"
+  reviews:
+  - text: '2026'
+    href: '{filename}/posts/review/2026/37-brotherhood.md'
