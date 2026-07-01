@@ -76,3 +76,34 @@
     - 100293 # The Duke of Death and His Maid
     - 141646 # Draw This, Then Die!
     - 31045 # Knights of the Zodiac
+- title: 漫畫：BookWalker 完結・未讀完
+  status: pending
+  source: bookwalker
+  external_ids:
+    anilist:
+    - 85697   # NEW GAME!
+    - 30021   # DEATH NOTE 死亡筆記本
+    - 31047   # 聖闘士星矢 THE LOST CANVAS 冥王神話（本傳）
+    - 55916   # 聖闘士星矢 THE LOST CANVAS 冥王神話 外伝
+    - 39711   # バクマン。爆漫王
+    - 30010   # xxxHOLiC
+    - 30009   # ツバサ RESERVoir CHRoNiCLE
+    - 55096   # 銀の匙 銀之匙
+    - 30661   # さよなら絶望先生 絕望先生
+    - 97603   # かくしごと 隱瞞之事
+    - 97830   # 不滅のあなたへ 給不滅的你
+- title: 漫畫：BookWalker 連載・未讀完
+  status: pending
+  source: bookwalker
+  external_ids:
+    anilist:
+    - 87510   # 魔王城でおやすみ 在魔王城說晚安
+    - 107237  # ブルーピリオド 藍色時期
+    - 30002   # ベルセルク 烙印勇士
+    - 109319  # 映像研には手を出すな！別對映像研出手
+    - 86551   # メイドインアビス 來自深淵
+    - 86303   # 小林さんちのメイドラゴン 小林家的龍女僕
+    - 30587   # らき☆すた 幸運星
+    - 33526   # Fate/kaleid liner プリズマ☆イリヤ（無印）伊莉雅
+    - 85136   # Fate/kaleid liner プリズマ☆イリヤ ツヴァイ！（2wei!）
+    - 66131   # Fate/kaleid liner プリズマ☆イリヤ ドライ！！（3rei!!）
