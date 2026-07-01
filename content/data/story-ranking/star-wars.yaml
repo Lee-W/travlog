@@ -171,3 +171,8 @@
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#star-wars-rise-of-the-resistance'
+- title: 'Star Wars: Brotherhood'
+  group: Novel
+  reviews:
+  - text: '2026'
+    href: '{filename}/posts/review/2026/37-brotherhood.md'
