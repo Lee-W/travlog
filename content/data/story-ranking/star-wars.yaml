@@ -64,6 +64,14 @@
   external_ids:
     letterboxd:
     - star-wars-the-clone-wars
+- title: 'Star Wars: The Mandalorian and Grogu'
+  group: Movie
+  external_ids:
+    letterboxd:
+    - star-wars-the-mandalorian-and-grogu
+  reviews:
+  - text: '2026 春'
+    href: '{filename}/posts/review/2026/26-mandalorian-and-grogu.md'
 - title: 'Star Wars: Andor'
   group: Series
   reviews:
@@ -147,6 +155,11 @@
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#star-wars-tales-of-the-empire'
+- title: 'Star Wars: Maul – Shadow Lord'
+  group: Anime
+  reviews:
+  - text: '2026 春'
+    href: '{filename}/posts/review/2026/24-maul-shadow-lord.md'
 - title: 'Under the Helmet: The Legacy of Boba Fett'
   group: Other
 - title: Star Wars Vehicle Flythroughs
@@ -158,7 +171,3 @@
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#star-wars-rise-of-the-resistance'
-
-# TODO: 已在 Letterboxd、待寫進排名（slug 先記，下次免爬）
-# 預期
-# - star-wars-the-mandalorian-and-grogu  # Star Wars: The Mandalorian and Grogu (2026)
