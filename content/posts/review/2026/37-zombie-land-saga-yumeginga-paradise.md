@@ -6,7 +6,6 @@ Tags: Anime, Movie
 Slug: zombie-land-saga-yumeginga-paradise
 Cover: /images/post-images/2026/zombie-land-saga-yumeginga-paradise/giveaways-0.JPEG
 Authors: Wei Lee
-Status: Draft
 
 雖然看的時候 2026 才剛開始
 但看完這部電影的那一刻，就覺得
