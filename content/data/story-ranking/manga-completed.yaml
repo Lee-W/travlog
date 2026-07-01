@@ -222,6 +222,11 @@
   - text: '2025'
     href: '{filename}/posts/review/2025/13-kakukakushikajika.md'
     season_href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_15'
+- title: 遊戲3人娘  # 台版東立斷尾（僅 3 集），原作 15 集完結
+  tier: S
+  external_ids:
+    anilist:
+    - 97418
 - title: 異國日記
   tier: A
   external_ids:
