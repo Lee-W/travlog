@@ -138,3 +138,7 @@ Authors: Wei Lee
 
 > 這傢伙有問題吧？
 > 這傢伙...好帥啊
+
+-----
+
+收錄於：[2023 春季看什麼]({filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_22)、[2023 夏季看什麼]({filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#atmos)、[2023 秋季看什麼]({filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_11)

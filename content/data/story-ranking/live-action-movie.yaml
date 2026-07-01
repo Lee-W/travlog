@@ -405,6 +405,14 @@
   external_ids:
     letterboxd:
     - avengers-infinity-war
+- title: 麥可傑克森（Michael）
+  tier: A
+  external_ids:
+    letterboxd:
+    - michael-2026
+  reviews:
+  - text: '2026 春'
+    href: '{filename}/posts/review/2026/18-michael.md'
 - title: 九龍大眾浪漫
   tier: B
   external_ids:
@@ -691,9 +699,7 @@
 # - rental-family-2025  # Rental Family (2025)
 # - poetry  # Poetry (2010)
 # - little-amelie-or-the-character-of-rain  # Little Amélie or the Character of Rain (2025)
-# - michael-2026  # Michael (2026)
 # - peppermint-candy  # Peppermint Candy (1999)
 # - the-island-and-the-trees  # The Island and the Trees (2026)
-# - tetsuyo-turned-104-living-on-her-own  # Tetsuyo Turned 104, Living on Her Own (2025)
 # - another-round  # Another Round (2020)
 # - toy-story-5  # Toy Story 5 (2026)

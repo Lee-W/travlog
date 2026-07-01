@@ -39,6 +39,14 @@
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_23'
+- title: 104歲哲代奶奶：一個人生活
+  tier: S
+  external_ids:
+    letterboxd:
+    - tetsuyo-turned-104-living-on-her-own
+  reviews:
+  - text: '2026 春'
+    href: '{filename}/posts/review/2026/33-104-sai-tetsuyo-obasan.md'
 - title: 法蘭克札帕：從前衛到當代
   tier: A
   external_ids:

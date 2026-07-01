@@ -1134,11 +1134,14 @@
     - 140499
   reviews:
   - text: '2023 春'
-    href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_22'
+    href: '{filename}/posts/review/2024/43-blue-giant.md'
+    season_href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_22'
   - text: '2023 夏 （ATMOS）'
-    href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#atmos'
+    href: '{filename}/posts/review/2024/43-blue-giant.md'
+    season_href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#atmos'
   - text: '2023 秋 （極音）'
-    href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_11'
+    href: '{filename}/posts/review/2024/43-blue-giant.md'
+    season_href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_11'
 - title: 超時空甩尾 Redline
   tier: S
   external_ids:
@@ -1548,6 +1551,14 @@
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_6'
+- title: 純潔龐克 發條少女
+  tier: S
+  external_ids:
+    anilist:
+    - 181449
+  reviews:
+  - text: '2026 冬'
+    href: '{filename}/posts/review/2026/12-virgin-punk.md'
 - title: 學姊是男孩 劇場版：雨後天晴
   tier: A
   external_ids:
@@ -3494,6 +3505,14 @@
   external_ids:
     anilist:
     - 177709
+- title: 劇場版「暗殺教室」：我們的時光
+  tier: B
+  external_ids:
+    anilist:
+    - 198373
+  reviews:
+  - text: '2026 春'
+    href: '{filename}/posts/review/2026/14-Ansatsu-Kyoushitsu-Minna-no-Jikan.md'
 - title: 同居人是貓
   tier: C
   external_ids:
@@ -3788,6 +3807,14 @@
   reviews:
   - text: '2025 冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_9'
+- title: A KITE 風箏
+  tier: C
+  external_ids:
+    anilist:
+    - 320
+  reviews:
+  - text: '2026 春'
+    href: '{filename}/posts/review/2026/17-a-kite.md'
 - title: 庫洛魔法使 透明牌篇
   tier: D
   external_ids:
