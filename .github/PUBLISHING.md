@@ -16,15 +16,18 @@ run against the prepared commit before GitHub completes auto-merge.
 
 ## Publishing flow
 
-1. Open a pull request whose title starts with `new post:`.
+1. Push a pull request commit whose subject starts with `new post:`.
 2. Leave `Status: draft` in the post metadata.
-3. The pull-request `check` job fails and reports the changed draft posts.
+3. The required pull-request `check` job blocks until publication automation
+   has prepared the branch tip.
 4. Select **Enable auto-merge** and confirm squash merge.
 5. The `Prepare publication` workflow updates `Date`, removes `Status: draft`,
    and pushes a metadata commit to the pull-request branch.
 6. CI runs against the new commit. GitHub merges it after all required checks
    pass, then the existing `main` workflow deploys the site.
 
-Only Markdown posts changed relative to the pull request's base branch are
-prepared. Pull requests from forks are intentionally unsupported because the
-workflow writes back to the source branch.
+New Markdown posts are prepared automatically. Modified or renamed posts are
+prepared only when their base or current version is a draft, so collateral
+renames of already-published posts keep their original publication dates.
+Pull requests from forks are intentionally unsupported because the workflow
+writes back to the source branch.

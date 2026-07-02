@@ -46,7 +46,7 @@ content/
 Drafts (`uv run inv new_draft ...`) carry `Status: draft` and are excluded from
 the build. To publish one:
 
-1. Open a pull request titled `new post: <title>`.
+1. Include a commit named `new post: <title>` in the pull request.
 2. Enable auto-merge.
 
 Before the PR merges, a GitHub Actions workflow removes the draft status and

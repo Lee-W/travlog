@@ -1,10 +1,12 @@
 import datetime
 import subprocess
 import sys
+from pathlib import Path
 
 import pytest
 
 from scripts.prepare_publication import (
+    changed_posts,
     check,
     draft_status,
     has_publish_commit,
@@ -78,7 +80,7 @@ def test_check_rejects_changed_draft(post_path):
     assert draft_status(post_path)
 
 
-def test_prepare_mode_is_noop_when_no_posts_changed(monkeypatch):
+def test_prepare_mode_fails_when_no_posts_changed(monkeypatch):
     argv = ["prepare_publication.py", "prepare", "--base-ref", "origin/main"]
     monkeypatch.setattr(sys, "argv", argv)
     monkeypatch.setattr(
@@ -86,7 +88,7 @@ def test_prepare_mode_is_noop_when_no_posts_changed(monkeypatch):
     )
     monkeypatch.setattr("scripts.prepare_publication.changed_posts", lambda base_ref: [])
 
-    assert main() == 0
+    assert main() == 1
 
 
 def test_check_mode_fails_when_no_posts_changed(monkeypatch):
@@ -108,6 +110,74 @@ def test_main_is_noop_without_publish_commit(monkeypatch):
     )
 
     assert main() == 0
+
+
+def test_check_mode_requires_preparation_commit(monkeypatch, post_path):
+    write_post(post_path, status="")
+    monkeypatch.setattr(
+        sys,
+        "argv",
+        ["prepare_publication.py", "check", "--base-ref", "origin/main"],
+    )
+    monkeypatch.setattr(
+        "scripts.prepare_publication.has_publish_commit", lambda base_ref: True
+    )
+    monkeypatch.setattr(
+        "scripts.prepare_publication.changed_posts", lambda base_ref: [post_path]
+    )
+    monkeypatch.setattr("scripts.prepare_publication.head_is_prepared", lambda: False)
+
+    assert main() == 1
+
+
+def test_check_mode_accepts_prepared_branch_tip(monkeypatch, post_path):
+    write_post(post_path, status="")
+    monkeypatch.setattr(
+        sys,
+        "argv",
+        ["prepare_publication.py", "check", "--base-ref", "origin/main"],
+    )
+    monkeypatch.setattr(
+        "scripts.prepare_publication.has_publish_commit", lambda base_ref: True
+    )
+    monkeypatch.setattr(
+        "scripts.prepare_publication.changed_posts", lambda base_ref: [post_path]
+    )
+    monkeypatch.setattr("scripts.prepare_publication.head_is_prepared", lambda: True)
+
+    assert main() == 0
+
+
+def test_changed_posts_includes_renamed_draft_but_not_published_post(
+    tmp_path, monkeypatch
+):
+    monkeypatch.chdir(tmp_path)
+    subprocess.run(["git", "init", "-q"], check=True)
+    subprocess.run(["git", "config", "user.email", "test@example.com"], check=True)
+    subprocess.run(["git", "config", "user.name", "Test"], check=True)
+    posts = tmp_path / "content" / "posts"
+    posts.mkdir(parents=True)
+    draft = posts / "01-draft.md"
+    published = posts / "02-published.md"
+    write_post(draft)
+    write_post(published, status="")
+    subprocess.run(["git", "add", "content/posts"], check=True)
+    subprocess.run(["git", "commit", "-q", "-m", "config: base"], check=True)
+    subprocess.run(["git", "branch", "base"], check=True)
+
+    renamed_draft = posts / "02-draft.md"
+    renamed_published = posts / "01-published.md"
+    subprocess.run(["git", "mv", draft, renamed_draft], check=True)
+    subprocess.run(["git", "mv", published, renamed_published], check=True)
+    renamed_draft.write_text(
+        renamed_draft.read_text(encoding="utf-8").replace("Status: draft\n", ""),
+        encoding="utf-8",
+    )
+    subprocess.run(["git", "commit", "-q", "-am", "new post: example"], check=True)
+
+    assert changed_posts("base") == [
+        Path("content/posts/02-draft.md"),
+    ]
 
 
 def test_has_publish_commit_detects_prefixed_subject(tmp_path, monkeypatch):

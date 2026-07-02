@@ -18,7 +18,9 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
-          ref: '${{ github.event.inputs.git_rev }}'
+          # Publishing checks inspect the actual PR branch tip for the
+          # automation marker, not GitHub's synthetic pull-request merge commit.
+          ref: '${{ github.event.pull_request.head.sha || inputs.git_rev }}'
 
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@v7
