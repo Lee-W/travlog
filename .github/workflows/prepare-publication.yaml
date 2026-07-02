@@ -89,19 +89,16 @@ jobs:
           HEAD_REF: ${{ github.event.pull_request.head.ref }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
         run: |
-          # Loop-breaker: our own push fires `synchronize`, which re-enters this
-          # job. If the branch tip is already the metadata commit, stop here so
-          # the date isn't bumped again on every self-triggered run.
-          if git log -1 --pretty=%s | grep -q 'prepare publication for #'; then
+          # Loop-breaker: our marker push fires `synchronize`, which re-enters
+          # this job. The script also treats this branch-tip marker as prepared.
+          if git log -1 --pretty=%s | grep -q '^post metadata: prepare publication for #'; then
             echo "Branch already carries the automation publication commit."
-            exit 0
-          fi
-          if git diff --quiet; then
-            echo "Publication metadata is already prepared."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add content/posts
-          git commit -m "post metadata: prepare publication for #${PR_NUMBER}"
+          # The marker commit is the required-check handshake. Keep it even in
+          # the unlikely case where Date already equals the current minute.
+          git commit --allow-empty -m "post metadata: prepare publication for #${PR_NUMBER}"
           git push origin "HEAD:${HEAD_REF}"

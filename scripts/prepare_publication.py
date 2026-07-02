@@ -14,6 +14,7 @@ from zoneinfo import ZoneInfo
 DATE_LINE = re.compile(r"^Date:\s*.*$", re.IGNORECASE)
 STATUS_LINE = re.compile(r"^Status:\s*(.*?)\s*$", re.IGNORECASE)
 PUBLISH_COMMIT_PREFIX = "new post:"
+PREPARE_COMMIT_PREFIX = "post metadata: prepare publication for #"
 
 
 def has_publish_commit(base_ref: str) -> bool:
@@ -36,27 +37,86 @@ def has_publish_commit(base_ref: str) -> bool:
     )
 
 
+def head_is_prepared() -> bool:
+    """Return whether publication automation created the branch-tip commit."""
+    result = subprocess.run(
+        ["git", "log", "-1", "--format=%s"],
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    return result.stdout.strip().startswith(PREPARE_COMMIT_PREFIX)
+
+
+def draft_status_text(content: str, label: str | Path) -> bool:
+    """Return whether a post's metadata text declares draft status."""
+    for line in metadata_lines(content.splitlines()):
+        match = STATUS_LINE.match(line)
+        if match:
+            status = match.group(1).lower()
+            if status != "draft":
+                raise ValueError(f"{label}: unsupported Status value {status!r}")
+            return True
+    return False
+
+
+def base_draft_status(commit: str, path: str) -> bool:
+    """Return whether a post was a draft at the PR merge base."""
+    result = subprocess.run(
+        ["git", "show", f"{commit}:{path}"],
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    return draft_status_text(result.stdout, path)
+
+
 def changed_posts(base_ref: str) -> list[Path]:
-    """Return added or modified Markdown posts relative to the PR base."""
+    """Return posts that this publishing PR intends to publish.
+
+    Added posts always qualify. Modified or renamed posts qualify only when
+    either the merge-base version or current version is a draft. This includes
+    drafts whose Status field was already removed while excluding collateral
+    renames of previously published posts.
+    """
+    merge_base = subprocess.run(
+        ["git", "merge-base", base_ref, "HEAD"],
+        check=True,
+        capture_output=True,
+        text=True,
+    ).stdout.strip()
     result = subprocess.run(
         [
             "git",
             "diff",
-            "--name-only",
-            "--diff-filter=AM",
+            "--name-status",
+            "--find-renames",
+            "--diff-filter=AMR",
             "-z",
-            f"{base_ref}...HEAD",
+            merge_base,
+            "HEAD",
             "--",
             "content/posts",
         ],
         check=True,
         capture_output=True,
     )
-    return [
-        Path(name.decode())
-        for name in result.stdout.split(b"\0")
-        if name and name.decode().endswith(".md")
-    ]
+    fields = iter(field.decode() for field in result.stdout.split(b"\0") if field)
+    posts: list[Path] = []
+    for status in fields:
+        old_path = next(fields)
+        new_path = next(fields) if status.startswith("R") else old_path
+        if not new_path.endswith(".md"):
+            continue
+
+        path = Path(new_path)
+        if status == "A" or draft_status(path):
+            posts.append(path)
+        elif status == "M" and base_draft_status(merge_base, old_path):
+            posts.append(path)
+        elif status.startswith("R") and base_draft_status(merge_base, old_path):
+            posts.append(path)
+    return posts
 
 
 def metadata_lines(lines: list[str]) -> list[str]:
@@ -69,15 +129,7 @@ def metadata_lines(lines: list[str]) -> list[str]:
 
 def draft_status(path: Path) -> bool:
     """Return whether a post metadata header declares draft status."""
-    lines = path.read_text(encoding="utf-8").splitlines()
-    for line in metadata_lines(lines):
-        match = STATUS_LINE.match(line)
-        if match:
-            status = match.group(1).lower()
-            if status != "draft":
-                raise ValueError(f"{path}: unsupported Status value {status!r}")
-            return True
-    return False
+    return draft_status_text(path.read_text(encoding="utf-8"), path)
 
 
 def publication_date(now: datetime.datetime | None = None) -> str:
@@ -167,17 +219,21 @@ def main() -> int:
 
         posts = changed_posts(args.base_ref)
         if not posts:
-            message = "Publishing PR does not change any Markdown posts."
-            if args.mode == "prepare":
-                # The post may already be on the base branch (e.g. a re-run after
-                # an earlier publish); there is nothing to prepare, so succeed
-                # quietly instead of failing the auto-merge workflow.
-                print(message)
-                return 0
+            message = "Publishing PR does not contain a post to publish."
             print(message, file=sys.stderr)
             return 1
 
         if args.mode == "check":
+            if not head_is_prepared():
+                print(
+                    "Publishing metadata has not been prepared. "
+                    "Enable auto-merge to prepare it.",
+                    file=sys.stderr,
+                )
+                return 1
+            return check(posts)
+        if head_is_prepared():
+            print("Publication metadata is already prepared.")
             return check(posts)
         return prepare(posts, args.date or publication_date())
     except (OSError, ValueError, subprocess.CalledProcessError) as error:
