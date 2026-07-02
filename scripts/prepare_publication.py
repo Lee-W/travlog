@@ -13,6 +13,27 @@ from zoneinfo import ZoneInfo
 
 DATE_LINE = re.compile(r"^Date:\s*.*$", re.IGNORECASE)
 STATUS_LINE = re.compile(r"^Status:\s*(.*?)\s*$", re.IGNORECASE)
+PUBLISH_COMMIT_PREFIX = "new post:"
+
+
+def has_publish_commit(base_ref: str) -> bool:
+    """Return whether a `new post:` commit exists ahead of the PR base.
+
+    This is the source of truth for "is this a publishing PR" — PR titles are
+    freeform and easy to leave stale (e.g. reused from an earlier `new draft:`
+    PR), while the commit message follows the repo's enforced commitizen
+    convention.
+    """
+    result = subprocess.run(
+        ["git", "log", "--format=%s", f"{base_ref}..HEAD"],
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    return any(
+        subject.startswith(PUBLISH_COMMIT_PREFIX)
+        for subject in result.stdout.splitlines()
+    )
 
 
 def changed_posts(base_ref: str) -> list[Path]:
@@ -136,19 +157,26 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    posts = changed_posts(args.base_ref)
-    if not posts:
-        message = "Publishing PR does not change any Markdown posts."
-        if args.mode == "prepare":
-            # The post may already be on the base branch (e.g. a re-run after an
-            # earlier publish); there is nothing to prepare, so succeed quietly
-            # instead of failing the auto-merge workflow.
-            print(message)
-            return 0
-        print(message, file=sys.stderr)
-        return 1
-
     try:
+        if not has_publish_commit(args.base_ref):
+            print(
+                f"No {PUBLISH_COMMIT_PREFIX!r} commit ahead of {args.base_ref}; "
+                "not a publishing PR."
+            )
+            return 0
+
+        posts = changed_posts(args.base_ref)
+        if not posts:
+            message = "Publishing PR does not change any Markdown posts."
+            if args.mode == "prepare":
+                # The post may already be on the base branch (e.g. a re-run after
+                # an earlier publish); there is nothing to prepare, so succeed
+                # quietly instead of failing the auto-merge workflow.
+                print(message)
+                return 0
+            print(message, file=sys.stderr)
+            return 1
+
         if args.mode == "check":
             return check(posts)
         return prepare(posts, args.date or publication_date())

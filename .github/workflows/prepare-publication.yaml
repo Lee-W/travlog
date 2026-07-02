@@ -1,11 +1,14 @@
 # Stamps a draft post with its real publication time at merge.
 #
-# Drafts carry `Status: draft` and a placeholder `Date`. When a `new post:` PR
-# has auto-merge enabled, this workflow removes the draft status and rewrites
-# `Date` to "now" (Asia/Taipei), then commits the result back to the PR branch
-# so the post that lands on `main` is dated at the moment it actually shipped.
-# The metadata edit is done by scripts/prepare_publication.py (`prepare` mode);
-# ci.yaml runs the same script in `check` mode as a PR gate.
+# Drafts carry `Status: draft` and a placeholder `Date`. When a PR with a
+# `new post:` commit has auto-merge enabled, this workflow removes the draft
+# status and rewrites `Date` to "now" (Asia/Taipei), then commits the result
+# back to the PR branch so the post that lands on `main` is dated at the
+# moment it actually shipped. Whether a PR qualifies is decided by
+# scripts/prepare_publication.py from commit messages, not the PR title (which
+# is freeform and can go stale, e.g. reused from an earlier `new draft:` PR).
+# The metadata edit is done by that script's `prepare` mode; ci.yaml runs the
+# same script in `check` mode as a PR gate.
 #
 # Security: pull_request_target runs with repository secrets, so the job `if`
 # restricts it to same-repo branches, and the *automation* script is checked
@@ -33,11 +36,12 @@ concurrency:
 
 jobs:
   prepare:
-    # Only act on same-repo `new post:` PRs that already have auto-merge on.
+    # Only act on same-repo PRs that already have auto-merge on. Whether the PR
+    # actually publishes a post is decided by prepare_publication.py itself
+    # (via commit message, not the freeform PR title) once checked out below.
     if: >-
       github.event.pull_request.head.repo.full_name == github.repository &&
-      github.event.pull_request.auto_merge != null &&
-      startsWith(github.event.pull_request.title, 'new post:')
+      github.event.pull_request.auto_merge != null
     runs-on: ubuntu-latest
     steps:
       - name: Require publication token
