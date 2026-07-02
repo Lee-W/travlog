@@ -1,11 +1,10 @@
 Title: Star Wars: Brotherhood
 Subtitle: 初練圖書館
-Date: 2026-07-03 08:00 +0800
+Date: 2026-07-02 08:42 +0800
 Category: Review
 Tags: Star Wars, Novel
 Slug: brotherhood
 Authors: Wei Lee
-Status: draft
 
 這就是我在[大家都什麼時候看書呢？](https://blog.wei-lee.me/posts/random-thoughts/2026/02/when-do-you-read/)提到，在初練健身房聽完的那本小說
 
