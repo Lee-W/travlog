@@ -1,4 +1,5 @@
 import datetime
+import subprocess
 import sys
 
 import pytest
@@ -6,6 +7,7 @@ import pytest
 from scripts.prepare_publication import (
     check,
     draft_status,
+    has_publish_commit,
     main,
     prepare_post,
     publication_date,
@@ -79,6 +81,9 @@ def test_check_rejects_changed_draft(post_path):
 def test_prepare_mode_is_noop_when_no_posts_changed(monkeypatch):
     argv = ["prepare_publication.py", "prepare", "--base-ref", "origin/main"]
     monkeypatch.setattr(sys, "argv", argv)
+    monkeypatch.setattr(
+        "scripts.prepare_publication.has_publish_commit", lambda base_ref: True
+    )
     monkeypatch.setattr("scripts.prepare_publication.changed_posts", lambda base_ref: [])
 
     assert main() == 0
@@ -87,9 +92,45 @@ def test_prepare_mode_is_noop_when_no_posts_changed(monkeypatch):
 def test_check_mode_fails_when_no_posts_changed(monkeypatch):
     argv = ["prepare_publication.py", "check", "--base-ref", "origin/main"]
     monkeypatch.setattr(sys, "argv", argv)
+    monkeypatch.setattr(
+        "scripts.prepare_publication.has_publish_commit", lambda base_ref: True
+    )
     monkeypatch.setattr("scripts.prepare_publication.changed_posts", lambda base_ref: [])
 
     assert main() == 1
+
+
+def test_main_is_noop_without_publish_commit(monkeypatch):
+    argv = ["prepare_publication.py", "check", "--base-ref", "origin/main"]
+    monkeypatch.setattr(sys, "argv", argv)
+    monkeypatch.setattr(
+        "scripts.prepare_publication.has_publish_commit", lambda base_ref: False
+    )
+
+    assert main() == 0
+
+
+def test_has_publish_commit_detects_prefixed_subject(tmp_path, monkeypatch):
+    monkeypatch.chdir(tmp_path)
+    subprocess.run(["git", "init", "-q"], check=True)
+    subprocess.run(["git", "config", "user.email", "test@example.com"], check=True)
+    subprocess.run(["git", "config", "user.name", "Test"], check=True)
+    (tmp_path / "a.txt").write_text("a", encoding="utf-8")
+    subprocess.run(["git", "add", "a.txt"], check=True)
+    subprocess.run(["git", "commit", "-q", "-m", "config: base"], check=True)
+    subprocess.run(["git", "branch", "base"], check=True)
+
+    (tmp_path / "b.txt").write_text("b", encoding="utf-8")
+    subprocess.run(["git", "add", "b.txt"], check=True)
+    subprocess.run(["git", "commit", "-q", "-m", "new draft: example"], check=True)
+
+    assert has_publish_commit("base") is False
+
+    (tmp_path / "c.txt").write_text("c", encoding="utf-8")
+    subprocess.run(["git", "add", "c.txt"], check=True)
+    subprocess.run(["git", "commit", "-q", "-m", "new post: example"], check=True)
+
+    assert has_publish_commit("base") is True
 
 
 def test_publication_date_uses_taiwan_timezone():

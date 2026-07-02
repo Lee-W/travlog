@@ -32,9 +32,11 @@ jobs:
           uv sync
 
       - name: Check publishing metadata
-        if: >-
-          github.event_name == 'pull_request' &&
-          startsWith(github.event.pull_request.title, 'new post:')
+        # prepare_publication.py itself decides whether this is a publishing PR
+        # by scanning commit messages for a `new post:` subject — the PR title
+        # is freeform and can go stale (e.g. reused from an earlier `new draft:`
+        # PR), so it isn't used as the signal.
+        if: github.event_name == 'pull_request'
         run: >-
           uv run python scripts/prepare_publication.py check
           --base-ref origin/${{ github.base_ref }}
