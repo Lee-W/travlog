@@ -121,6 +121,7 @@ PLUGINS = [
     "pelican.plugins.osm",
     "pelican.plugins.tabular",
     "pelican.plugins.on_this_day",
+    "pelican.themes.attila.readtime",
 ]
 PAGEFIND_ENABLED = True
 RANDOM_ARTICLE_BUTTON = True
