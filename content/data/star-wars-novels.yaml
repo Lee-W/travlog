@@ -276,6 +276,9 @@
   difficulty: 3
   year: 2026
   era: "33–32 BBY"
+  reviews:
+  - text: '2026'
+    href: '{filename}/posts/review/2026/38-queen-s-peril.md'
 - title: "Star Wars: Brotherhood"
   rating: 7.8
   difficulty: 3
