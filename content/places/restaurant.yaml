@@ -53,3 +53,12 @@ locations:
     urls:
       - label: "河內河粉"
         href: "{filename}/posts/review/2026/32-hanoi-pho.md"
+  - id: pho-tam
+    name: 八越河粉 Pho Tam
+    lat: 25.053441143633396
+    lon: 121.55361172683672
+    address: 臺北市松山區東勢里健康路68-3號
+    tags: [越式河粉]
+    urls:
+      - label: "八越河粉 Pho Tam"
+        href: "{filename}/posts/review/2026/39-pho-tam.md"
