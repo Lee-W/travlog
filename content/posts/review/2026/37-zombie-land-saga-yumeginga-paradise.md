@@ -1,6 +1,6 @@
 Title: 佐賀偶像是傳奇 夢幻銀河樂園
 Subtitle: 現在沒人退團，都不敢說自己是偶像番或樂團番了
-Date: 2026-07-02 08:00 +0800
+Date: 2026-07-04 13:44 +0800
 Category: Review
 Tags: Anime, Movie
 Slug: zombie-land-saga-yumeginga-paradise
