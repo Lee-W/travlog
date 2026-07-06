@@ -1,5 +1,5 @@
 Title: Star Wars: Queen's Peril
-Date: 2026-07-05 08:00 +0800
+Date: 2026-07-06 22:21 +0800
 Category: Review
 Tags: Star Wars, Novel
 Slug: queen-s-peril
