@@ -13,6 +13,7 @@ from zoneinfo import ZoneInfo
 
 DATE_LINE = re.compile(r"^Date:\s*.*$", re.IGNORECASE)
 STATUS_LINE = re.compile(r"^Status:\s*(.*?)\s*$", re.IGNORECASE)
+POST_FILENAME = re.compile(r"^(\d+)-.+\.md$")
 PUBLISH_COMMIT_PREFIX = "new post:"
 PREPARE_COMMIT_PREFIX = "post metadata: prepare publication for #"
 
@@ -132,6 +133,129 @@ def draft_status(path: Path) -> bool:
     return draft_status_text(path.read_text(encoding="utf-8"), path)
 
 
+def filename_number(path: Path) -> int | None:
+    """Return a post's numeric filename prefix, if it has one."""
+    match = POST_FILENAME.match(path.name)
+    return int(match.group(1)) if match else None
+
+
+def check_filename_numbers(paths: list[Path]) -> int:
+    """Require publishing posts to follow the latest published sibling.
+
+    Numbering is scoped to the category/year directory. Draft siblings and all
+    posts being published in this run are excluded from the existing sequence.
+    Multiple posts published together must occupy the next consecutive numbers.
+    """
+    publishing_paths = {path.resolve() for path in paths}
+    by_directory: dict[Path, list[Path]] = {}
+    for path in paths:
+        by_directory.setdefault(path.parent, []).append(path)
+
+    errors: list[str] = []
+    for directory, publishing_posts in by_directory.items():
+        published_numbers = [
+            number
+            for sibling in directory.glob("*.md")
+            if sibling.resolve() not in publishing_paths
+            and not draft_status(sibling)
+            and (number := filename_number(sibling)) is not None
+        ]
+        next_number = max(published_numbers, default=0) + 1
+
+        numbered_posts: list[tuple[int, Path]] = []
+        for path in publishing_posts:
+            number = filename_number(path)
+            if number is None:
+                errors.append(f"{path}: expected filename to start with a number")
+                continue
+            numbered_posts.append((number, path))
+
+        for offset, (actual, path) in enumerate(sorted(numbered_posts)):
+            expected = next_number + offset
+            expected_prefix = f"{expected:02d}-"
+            if actual != expected or not path.name.startswith(expected_prefix):
+                errors.append(
+                    f"{path}: expected filename prefix {expected_prefix} "
+                    f"(latest published sibling is {expected - 1:02d})"
+                )
+
+    if errors:
+        print(
+            "Publishing post filenames have incorrect sequence numbers:",
+            file=sys.stderr,
+        )
+        for error in errors:
+            print(f"  {error}", file=sys.stderr)
+        return 1
+    return 0
+
+
+def corrected_filename(path: Path, number: int) -> Path:
+    """Return path with a corrected numeric prefix and the existing suffix."""
+    match = POST_FILENAME.match(path.name)
+    suffix = path.name.split("-", 1)[1] if match else path.name
+    return path.with_name(f"{number:02d}-{suffix}")
+
+
+def correct_filename_numbers(paths: list[Path]) -> list[Path]:
+    """Correct publishing filenames and move colliding drafts after them."""
+    publishing_paths = {path.resolve() for path in paths}
+    by_directory: dict[Path, list[Path]] = {}
+    for path in paths:
+        by_directory.setdefault(path.parent, []).append(path)
+
+    replacements: dict[Path, Path] = {}
+    for directory, publishing_posts in by_directory.items():
+        published_numbers = [
+            number
+            for sibling in directory.glob("*.md")
+            if sibling.resolve() not in publishing_paths
+            and not draft_status(sibling)
+            and (number := filename_number(sibling)) is not None
+        ]
+        next_number = max(published_numbers, default=0) + 1
+        publishing_posts.sort(
+            key=lambda path: (filename_number(path) or sys.maxsize, path.name)
+        )
+        publishing_destinations = [
+            corrected_filename(path, next_number + offset)
+            for offset, path in enumerate(publishing_posts)
+        ]
+        if all(
+            source == destination
+            for source, destination in zip(publishing_posts, publishing_destinations)
+        ):
+            continue
+
+        remaining_drafts = sorted(
+            (
+                sibling
+                for sibling in directory.glob("*.md")
+                if sibling.resolve() not in publishing_paths and draft_status(sibling)
+            ),
+            key=lambda path: (filename_number(path) or sys.maxsize, path.name),
+        )
+        ordered_posts = publishing_posts + remaining_drafts
+        for offset, source in enumerate(ordered_posts):
+            destination = corrected_filename(source, next_number + offset)
+            if source != destination:
+                replacements[source] = destination
+
+    temporary_paths: dict[Path, Path] = {}
+    for index, source in enumerate(replacements):
+        temporary = source.with_name(f".{index}-{source.name}.prepare-publication-tmp")
+        if temporary.exists():
+            raise ValueError(f"temporary rename path already exists: {temporary}")
+        source.rename(temporary)
+        temporary_paths[source] = temporary
+
+    for source, destination in replacements.items():
+        temporary_paths[source].rename(destination)
+        print(f"Renamed {source} -> {destination}")
+
+    return [replacements.get(path, path) for path in paths]
+
+
 def publication_date(now: datetime.datetime | None = None) -> str:
     """Format the publication time in the blog's Taiwan timezone."""
     current = now or datetime.datetime.now(tz=ZoneInfo("Asia/Taipei"))
@@ -173,7 +297,8 @@ def prepare_post(path: Path, date: str) -> bool:
 
 
 def check(paths: list[Path]) -> int:
-    """Fail when any post changed by a publishing PR is still a draft."""
+    """Validate publication status and filename sequence."""
+    failed = check_filename_numbers(paths)
     drafts = [path for path in paths if draft_status(path)]
     if drafts:
         print("Publishing PR still contains draft posts:", file=sys.stderr)
@@ -183,12 +308,13 @@ def check(paths: list[Path]) -> int:
             "Enable auto-merge to prepare publication metadata.",
             file=sys.stderr,
         )
-        return 1
-    return 0
+        failed = 1
+    return failed
 
 
 def prepare(paths: list[Path], date: str) -> int:
     """Prepare every changed post for publication."""
+    paths = correct_filename_numbers(paths)
     changed = [path for path in paths if prepare_post(path, date)]
     if changed:
         print(f"Publication date: {date}")
@@ -223,8 +349,21 @@ def main() -> int:
             print(message, file=sys.stderr)
             return 1
 
+        prepared = head_is_prepared()
+        if prepared:
+            # Filename correction may renumber other drafts to resolve a path
+            # collision. They are part of the automation commit, but they are
+            # not posts being published by it.
+            posts = [path for path in posts if not draft_status(path)]
+            if not posts:
+                print(
+                    "Prepared branch does not contain a published post.",
+                    file=sys.stderr,
+                )
+                return 1
+
         if args.mode == "check":
-            if not head_is_prepared():
+            if not prepared:
                 print(
                     "Publishing metadata has not been prepared. "
                     "Enable auto-merge to prepare it.",
@@ -232,7 +371,7 @@ def main() -> int:
                 )
                 return 1
             return check(posts)
-        if head_is_prepared():
+        if prepared:
             print("Publication metadata is already prepared.")
             return check(posts)
         return prepare(posts, args.date or publication_date())
