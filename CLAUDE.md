@@ -63,7 +63,7 @@ content/
   data/        # YAML data files (story-ranking, concerts, etc.)
 ```
 
-Posts are organized by category then year (e.g., `content/posts/review/2026/`). Filenames are prefixed with a sequential number (e.g., `14-what-i-watched-in-2026-spring.md`).
+Posts are organized by category then year (e.g., `content/posts/review/2026/`). Filenames are created without a numeric prefix locally; GitHub Actions assigns the final sequence number at publication time.
 
 ### Post Metadata
 

@@ -8,9 +8,11 @@ import pytest
 from scripts.prepare_publication import (
     changed_posts,
     check,
+    check_filename_numbers,
     draft_status,
     has_publish_commit,
     main,
+    prepare,
     prepare_post,
     publication_date,
 )
@@ -32,7 +34,7 @@ def write_post(path, status="Status: draft"):
 
 @pytest.fixture
 def post_path(tmp_path):
-    return tmp_path / "post.md"
+    return tmp_path / "01-post.md"
 
 
 def test_prepare_post_removes_draft_and_updates_date(post_path):
@@ -78,6 +80,76 @@ def test_check_rejects_changed_draft(post_path):
 
     assert check([post_path]) == 1
     assert draft_status(post_path)
+
+
+def test_filename_number_uses_latest_published_post_and_ignores_drafts(tmp_path):
+    published = tmp_path / "01-published.md"
+    reserved_by_draft = tmp_path / "02-other-draft.md"
+    publishing = tmp_path / "02-publishing.md"
+    write_post(published, status="")
+    write_post(reserved_by_draft)
+    write_post(publishing)
+
+    assert check_filename_numbers([publishing]) == 0
+
+
+def test_filename_number_rejects_number_after_an_unpublished_draft(tmp_path):
+    published = tmp_path / "01-published.md"
+    draft = tmp_path / "02-other-draft.md"
+    publishing = tmp_path / "03-publishing.md"
+    write_post(published, status="")
+    write_post(draft)
+    write_post(publishing)
+
+    assert check_filename_numbers([publishing]) == 1
+
+
+def test_prepare_corrects_filename_before_changing_metadata(tmp_path):
+    published = tmp_path / "01-published.md"
+    publishing = tmp_path / "03-publishing.md"
+    write_post(published, status="")
+    write_post(publishing)
+
+    assert prepare([publishing], "2026-06-30 18:20 +0800") == 0
+    corrected = tmp_path / "02-publishing.md"
+    assert corrected.exists()
+    assert not publishing.exists()
+    content = corrected.read_text(encoding="utf-8")
+    assert "Date: 2026-06-30 18:20 +0800" in content
+    assert "Status:" not in content
+
+
+def test_prepare_moves_colliding_draft_after_publishing_post(tmp_path):
+    published = tmp_path / "01-published.md"
+    other_draft = tmp_path / "02-other-draft.md"
+    publishing = tmp_path / "03-publishing.md"
+    write_post(published, status="")
+    write_post(other_draft)
+    write_post(publishing)
+
+    assert prepare([publishing], "2026-06-30 18:20 +0800") == 0
+    assert (tmp_path / "02-publishing.md").exists()
+    moved_draft = tmp_path / "03-other-draft.md"
+    assert moved_draft.exists()
+    assert draft_status(moved_draft)
+
+
+def test_filename_number_requires_zero_padding(tmp_path):
+    publishing = tmp_path / "1-publishing.md"
+    write_post(publishing)
+
+    assert check_filename_numbers([publishing]) == 1
+
+
+def test_filename_numbers_accept_consecutive_posts_published_together(tmp_path):
+    published = tmp_path / "01-published.md"
+    first = tmp_path / "02-first.md"
+    second = tmp_path / "03-second.md"
+    write_post(published, status="")
+    write_post(first)
+    write_post(second)
+
+    assert check_filename_numbers([second, first]) == 0
 
 
 def test_prepare_mode_fails_when_no_posts_changed(monkeypatch):
@@ -142,6 +214,28 @@ def test_check_mode_accepts_prepared_branch_tip(monkeypatch, post_path):
     )
     monkeypatch.setattr(
         "scripts.prepare_publication.changed_posts", lambda base_ref: [post_path]
+    )
+    monkeypatch.setattr("scripts.prepare_publication.head_is_prepared", lambda: True)
+
+    assert main() == 0
+
+
+def test_check_mode_ignores_draft_renamed_to_resolve_collision(monkeypatch, tmp_path):
+    publishing = tmp_path / "01-publishing.md"
+    moved_draft = tmp_path / "02-other-draft.md"
+    write_post(publishing, status="")
+    write_post(moved_draft)
+    monkeypatch.setattr(
+        sys,
+        "argv",
+        ["prepare_publication.py", "check", "--base-ref", "origin/main"],
+    )
+    monkeypatch.setattr(
+        "scripts.prepare_publication.has_publish_commit", lambda base_ref: True
+    )
+    monkeypatch.setattr(
+        "scripts.prepare_publication.changed_posts",
+        lambda base_ref: [publishing, moved_draft],
     )
     monkeypatch.setattr("scripts.prepare_publication.head_is_prepared", lambda: True)
 
