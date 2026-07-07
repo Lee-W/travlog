@@ -35,6 +35,15 @@ locations:
     urls:
       - label: "隱家拉麵 赤峰店"
         href: "{filename}/posts/review/2026/20-ebisobaichigen.md"
+  - id: chikara-ramen-xinyi
+    name: 力量拉麵（信義店）
+    lat: 25.035132876594535
+    lon: 121.52507824948377
+    address: 106臺北市大安區光明里信義路二段12號
+    tags: [拉麵]
+    urls:
+      - label: "力量拉麵（信義店）"
+        href: "{filename}/posts/review/2026/chikara-ramen-xinyi.md"
   - id: maskcatcafe
     name: 貓妝自家烘焙咖啡館
     lat: 25.050474
