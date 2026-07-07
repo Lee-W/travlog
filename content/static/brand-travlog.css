@@ -1,0 +1,14 @@
+/* travlog per-site brand override — the ONLY css this site ships.
+   Loaded after the theme's style.css via CSS_OVERRIDE, it recolours the whole
+   shared stylesheet from brick (blog default) to green by redefining --brand +
+   the dark header-chrome tokens. Everything else derives from these. */
+body.site-travlog {
+  --brand: #4a8a63;
+  --brand-active: #3d7353;
+  --brand-quote: light-dark(#f3f8f4, #16201a);
+  --header-meta: #8fc6a4;
+
+  --topbar-bg: #1d231e;
+  --banner-grad: linear-gradient(150deg, #242c25, #141a15);
+  --header-scrim: 20, 26, 21;
+}
