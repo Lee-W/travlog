@@ -1,6 +1,6 @@
 Title: 八越河粉 Pho Tam
 Subtitle: 下次一定
-Date: 2026-07-05 08:00 +0800
+Date: 2026-07-08 11:44 +0800
 Category: Review
 Tags: Food, 越式河粉, 娃: 小睦
 Slug: pho-tam
