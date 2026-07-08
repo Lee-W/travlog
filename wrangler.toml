@@ -3,3 +3,6 @@ compatibility_date = "2025-12-28"
 
 [assets]
 directory = "./output"
+# not_found_handling accepted values: "single-page-application" | "404-page" | "none" (default "none")
+# https://developers.cloudflare.com/workers/wrangler/configuration/#assets
+not_found_handling = "404-page"
