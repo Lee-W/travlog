@@ -137,12 +137,10 @@ SITEMAP = {
 
 # Local plugins
 LOCAL_PLUGINS = [
-    "pelican.plugins.deadlinks",
     "image_markup",
 ]
 PLUGIN_PATHS = ["plugins"]
 PLUGINS.extend(LOCAL_PLUGINS)
-DEADLINKS_VALIDATION = False
 # pelican-seo settings
 SEO_REPORT = True  # SEO report is enabled by default
 SEO_ENHANCER = False
