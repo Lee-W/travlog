@@ -38,8 +38,8 @@ wheels = [
 
 [[package]]
 name = "attila"
-version = "3.2.0"
-source = { git = "https://github.com/Lee-W/attila/#9209adff0cfeab978623aa6d3f871da8c822d112" }
+version = "3.2.1"
+source = { git = "https://github.com/Lee-W/attila/#923f2b9e1f823ca8213bf8d33f565280c752abc5" }
 dependencies = [
     { name = "pelican" },
     { name = "pelican-heatmap" },
@@ -319,9 +319,9 @@ requires-dist = [
     { name = "beautifulsoup4", specifier = ">=4.12.3" },
     { name = "invoke", specifier = ">=2.2.0" },
     { name = "markdown-del-ins", specifier = ">=1.0.0" },
-    { name = "pagefind", extras = ["extended"], specifier = ">=1.4.0" },
+    { name = "pagefind", extras = ["extended"], specifier = ">=1.5.2" },
     { name = "pelican", extras = ["markdown"], specifier = ">=4.12.0" },
-    { name = "pelican-heatmap", specifier = ">=0.4.1" },
+    { name = "pelican-heatmap", specifier = ">=0.5.1" },
     { name = "pelican-i18n-subsites", specifier = ">=1.0.0" },
     { name = "pelican-neighbors", specifier = ">=1.2.0" },
     { name = "pelican-on-this-day", specifier = ">=0.4.0" },
@@ -730,14 +730,14 @@ markdown = [
 
 [[package]]
 name = "pelican-heatmap"
-version = "0.4.1"
+version = "0.5.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pelican" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/8f/b7/0790a1a1e197bb69c8788d29bd64a2bf96bdb3d1290cb699e268ee4b7532/pelican_heatmap-0.4.1.tar.gz", hash = "sha256:c3217cd7aa29a4dcf8a1f1b4d37005ab4b12f0c14b008d43943df0181ac11db3", size = 12317, upload-time = "2026-05-30T01:28:52.515Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/20/81/5214cef1680f8daa17a1568584928c4ad8cb6d12bf43e2d372939ccc36b3/pelican_heatmap-0.5.1.tar.gz", hash = "sha256:4c4d2160931ececad2cc9c1fdb0a7786efc4370bab7a0e3b7b4e18629a3274e6", size = 12600, upload-time = "2026-07-08T06:36:48.889Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/85/c4/fc2b971ce5e0a57cb0b812c4bfdb4c3eb63c71140984bab23844041a572d/pelican_heatmap-0.4.1-py3-none-any.whl", hash = "sha256:5d47985d929b9739d149b9ffcd12ad4a0f85fa4fb6802657db8f373a01a6c3b2", size = 13274, upload-time = "2026-05-30T01:28:50.891Z" },
+    { url = "https://files.pythonhosted.org/packages/92/ec/8b3952aac502cf5a493323bd82af611c2fa1fcb85d60279ea0f211b49c97/pelican_heatmap-0.5.1-py3-none-any.whl", hash = "sha256:37d58fd3e069d3e72ee18f2d98e4c6edecc0f2140b9fb3b4219cb35a3bc1e11d", size = 13651, upload-time = "2026-07-08T06:36:47.585Z" },
 ]
 
 [[package]]
