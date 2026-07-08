@@ -90,7 +90,6 @@ Key plugins configured in `pelicanconf.py`:
 - `pelican.plugins.series` — groups posts into series
 - `pelican.plugins.webassets` — CSS/JS asset bundling
 - `pelican.plugins.seo` — SEO report and enhancer
-- `pelican.plugins.deadlinks` — dead link validation (disabled by default)
 - `pelican.plugins.tabular` — table rendering from YAML data files
 - `pelican.plugins.osm` — OpenStreetMap integration for pilgrimage/place data
 - `pagefind` — client-side search (must be built separately with `--build-pagefind`)
