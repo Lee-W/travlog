@@ -1,11 +1,15 @@
 import datetime
 import glob
+import hashlib
 import os
 import re
 import shlex
 import shutil
 import subprocess
 import sys
+import tempfile
+import urllib.parse
+from collections import defaultdict
 from collections.abc import Sequence
 from pathlib import Path
 from string import Template
@@ -203,8 +207,6 @@ def security_check(c):
     """Run pip-autid on dependencies"""
     # CVE-2026-4539 (pygments < 2.20.0) is a transitive dev-only dependency with
     # no fix available in our pinned tree; ignore until an upgrade is possible.
-    import tempfile
-
     with tempfile.NamedTemporaryFile(
         mode="w", suffix=".txt", delete=False
     ) as requirements_file:
@@ -319,9 +321,6 @@ def _dhash(path: Path, hash_size: int = 8) -> int | None:
 @task
 def check_image_usage(_) -> None:
     """Report orphan, cross-article reused, and duplicate-content images."""
-    import hashlib
-    import urllib.parse
-    from collections import defaultdict
 
     # markdown refs may carry a Pelican {static}/{attach} prefix before /images/
     md_patterns = [
