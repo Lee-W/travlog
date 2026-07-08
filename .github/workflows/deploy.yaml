@@ -1,4 +1,4 @@
-name: Deploy to Cloudflare Pages
+name: Deploy to Cloudflare Workers
 
 on:
   push:
@@ -17,6 +17,7 @@ jobs:
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@v7
         with:
+          enable-cache: true
           version: "latest"
 
       - name: Install dependencies

@@ -33,6 +33,15 @@ jobs:
           uv --version
           uv sync
 
+      - name: Cache pre-commit hook environments
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pre-commit
+          key: pre-commit-${{ hashFiles('.pre-commit-config.yaml') }}
+
+      - name: Run pre-commit hooks
+        run: uv run pre-commit run --all-files
+
       - name: Check publishing metadata
         # prepare_publication.py itself decides whether this is a publishing PR
         # by scanning commit messages for a `new post:` subject — the PR title

@@ -203,13 +203,21 @@ def security_check(c):
     """Run pip-autid on dependencies"""
     # CVE-2026-4539 (pygments < 2.20.0) is a transitive dev-only dependency with
     # no fix available in our pinned tree; ignore until an upgrade is possible.
-    c.run(
-        """
-        uv pip compile pyproject.toml -o requirements.txt && \
-        uv run pip-audit -r requirements.txt --ignore-vuln CVE-2026-4539 && \
-        rm -rf requirements.txt
-        """
-    )
+    import tempfile
+
+    with tempfile.NamedTemporaryFile(
+        mode="w", suffix=".txt", delete=False
+    ) as requirements_file:
+        requirements_path = requirements_file.name
+
+    try:
+        c.run(f"uv pip compile pyproject.toml -o {shlex.quote(requirements_path)}")
+        c.run(
+            f"uv run pip-audit -r {shlex.quote(requirements_path)} "
+            "--ignore-vuln CVE-2026-4539"
+        )
+    finally:
+        Path(requirements_path).unlink(missing_ok=True)
 
 
 @task
@@ -412,23 +420,30 @@ def _get_exif_tag_ids_by_names(names: Sequence[str]) -> set[int]:
 @task
 def check_and_remove_image_exif_gps_info(_) -> None:
     """Check and remove GPSInfo from image EXIF if exists."""
+    # Pilgrimage photos intentionally keep their GPS EXIF (that's the whole
+    # point of a pilgrimage record), so they're excluded here directly rather
+    # than relying on the pre-commit hook's `exclude:` filter -- that filter
+    # only decides whether the hook *runs* (moot once pass_filenames: false
+    # means every invocation still glob-scans the whole tree below).
+    excluded_dir = os.path.join("content", "images", "pilgrimage") + os.sep
     filenames = [
         path
         for path in glob.glob("content/images/**", recursive=True)
-        if os.path.isfile(path)
+        if os.path.isfile(path) and not path.startswith(excluded_dir)
     ]
     exif_tags_to_remove = ["GPSInfo"]
     for name in filenames:
         try:
             with pil_open(name) as im:
+                exif = im.getexif()
                 tag_ids = _get_exif_tag_ids_by_names(exif_tags_to_remove)
                 file_changed = False
                 for tag_id in tag_ids:
-                    if im.getexif().get(tag_id) and im._exif:
+                    if tag_id in exif:
                         file_changed = True
-                        im._exif[tag_id] = None
+                        del exif[tag_id]
 
                 if file_changed:
-                    im.save(name)
+                    im.save(name, exif=exif)
         except FileNotFoundError, UnidentifiedImageError:
             continue

@@ -57,9 +57,15 @@ repos:
         entry: uv run python scripts/check_story_ranking.py
         files: ^(content/data/story-ranking/.*\.yaml|content/posts/review/.*\.md)$
 
-      # - id: remove-gps-from-image-exif
-      #   name: Remove GPS Info from image exif
-      #   language: system
-      #   pass_filenames: false
-      #   entry: uv run inv check-and-remove-image-exif-gps-info
-      #   exclude: content/images/pilgrimage/
+      - id: remove-gps-from-image-exif
+        name: Remove GPS Info from image exif
+        language: system
+        pass_filenames: false
+        entry: uv run inv check-and-remove-image-exif-gps-info
+        # Gate on image files actually changing (an earlier version had no
+        # `files:` filter at all, so it re-scanned all of content/images/ on
+        # every commit, even ones that never touched an image -- that's why
+        # it got commented out). Scoping to image-file changes keeps the
+        # hook meaningful without the runtime tax on unrelated commits.
+        files: (?i)^content/images/.*\.(jpe?g|png)$
+        exclude: ^content/images/pilgrimage/
