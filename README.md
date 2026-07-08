@@ -1,6 +1,6 @@
 # travlog.wei-lee.me
 
-Wei's entertainment blog — travel, food, and reviews. Built with [Pelican](https://getpelican.com/) and the customized [Attila](https://github.com/Lee-W/attila) theme. Deployed to Cloudflare Pages.
+Wei's entertainment blog — travel, food, and reviews. Built with [Pelican](https://getpelican.com/) and the customized [Attila](https://github.com/Lee-W/attila) theme. Deployed to Cloudflare Workers (static assets).
 
 ## Commands
 
@@ -58,9 +58,10 @@ for the details.
 
 ## Deployment
 
-Build the production output (including Pagefind), then deploy it via `wrangler`:
+Build the production output (including Pagefind), then deploy it via `wrangler`
+(project config lives in `wrangler.toml`, which points `[assets]` at `output`):
 
 ```bash
 uv run inv preview
-wrangler pages deploy output
+wrangler deploy
 ```
