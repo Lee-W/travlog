@@ -27,16 +27,23 @@ SHOW_TAGS_IN_ARTICLE_SUMMARY = True
 DIRECT_TEMPLATES = (
     "index",
     "categories",
-    "authors",
     "archives",
     "tags",
     "series_list",
 )
-CATEGORIES_URL = "category"
+CATEGORIES_URL = "categories.html"
+CATEGORIES_SAVE_AS = "categories.html"
+ARCHIVES_URL = "archives.html"
+ARCHIVES_SAVE_AS = "archives.html"
 TAGS_URL = "tags.html"
 TAGS_SAVE_AS = "tags.html"
 SERIES_LIST_URL = "series_list.html"
 SERIES_LIST_SAVE_AS = "series_list.html"
+
+# This is a single-author site. Point author references at the about page instead
+# of generating a second, paginated copy of the main article index.
+AUTHOR_URL = "pages/about.html"
+AUTHOR_SAVE_AS = ""
 
 # Content Setting
 ARTICLE_URL = "posts/{category}/{date:%Y}/{date:%m}/{slug}"
@@ -93,6 +100,9 @@ COMMENTS_INTRO = '喜歡這篇文章的話，歡迎在下方留言（需要 GitH
 
 # Theme Setting
 THEME = attila.get_path()
+THEME_TEMPLATES_OVERRIDES = ["theme-overrides"]
+SITE_VARIANT = "travlog"
+CSS_OVERRIDE = ("static/brand-travlog.css",)
 
 # i18n
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}

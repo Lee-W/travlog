@@ -1,7 +1,8 @@
 Title: 舞台表演紀錄
-Slug: stage-performances
 Date: 2026-05-29 00:00 +0800
 Modified: 2026-05-29 00:00 +0800
+Slug: stage-performances
+Summary: 記錄我看過的音樂劇、舞台劇與 2.5 次元舞台，以及相關文章。
 
 記錄我看過的舞台表演，包含音樂劇、舞台劇、2.5次元舞台等。
 

@@ -1,7 +1,8 @@
 Title: 關於
-Slug: about
 Date: 2019-06-19 06:48 +0800
-Modified: 2026-04-17 22:15 +0800
+Modified: 2026-07-10 11:33 +0800
+Slug: about
+Summary: 關於「那些沒人在乎的事」以及站長 Wei Lee 的內容與聯絡方式。
 
 <div id="writing-heatmap"></div>
 
@@ -14,6 +15,8 @@ Modified: 2026-04-17 22:15 +0800
 「就只是這種無所謂的事？」讓我很有感
 對啊，確實就是這麼無所謂的事呢
 但即使是無所謂的事也沒關係，我記錄我的
+
+如果是第一次來，可以先從[我心中的作品排名]({filename}/pages/story-ranking.md)、[衛宮家料理總覽]({filename}/pages/emiya-toc.md)，或[我走訪過的作品聖地]({filename}/pages/pilgrimage.md)開始逛
 
 我另外還有一個部落格 [不寫下來的東西都會被遺忘](https://blog.wei-lee.me/)
 主要在寫技術文、書摘，還有各種有的沒的想法
