@@ -60,4 +60,4 @@ Authors: Wei Lee
 [^2]: 就是我去推薦河內河粉，結果反過來跟我說那才是必修的朋友
 [^3]: [牛尾憲輔](https://zh.wikipedia.org/zh-tw/%E7%89%9B%E5%B0%BE%E5%AE%AA%E8%BE%85)，我很喜歡的日本作曲家
 
-[河內河粉]: /posts/review/2026/32-hanoi-pho/
+[河內河粉]: {filename}/posts/review/2026/32-hanoi-pho.md

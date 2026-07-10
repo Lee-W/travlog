@@ -50,6 +50,12 @@ repos:
         args: ["--categories", "Cook,Review,Travel"]
         files: ^content/posts/.*\.md$
 
+      - id: check-page-metadata
+        name: Check static page metadata style
+        language: system
+        entry: uv run python scripts/check_page_metadata.py
+        files: ^content/pages/.*\.md$
+
       - id: check-story-ranking
         name: Check story-ranking YAML anchors
         language: system

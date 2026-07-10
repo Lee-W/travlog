@@ -1,0 +1,6 @@
+{% extends "!theme/index.html" %}
+
+{% block canonical_url %}
+  {% set canonical_path = articles_page.url if articles_page and articles_page.number > 1 else "" %}
+  <link href="{{ SITEURL }}/{{ canonical_path }}" rel="canonical" />
+{% endblock canonical_url %}

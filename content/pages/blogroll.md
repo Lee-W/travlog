@@ -2,7 +2,7 @@ Title: 部落卷
 Date: 2026-06-10 22:00 +0800
 Modified: 2026-06-27 17:25 +0800
 Slug: blogroll
-Lang: zh-tw
+Summary: 整理我透過 RSS 訂閱的個人部落格、社群夥伴與新聞媒體。
 
 這裡是我透過 [RSS](https://blog.wei-lee.me/posts/random-thoughts/2025/01/get-your-retention-back-through-rss/) 訂閱的各種部落格們
 
@@ -12,7 +12,7 @@ Lang: zh-tw
 | [Huli's blog](https://blog.huli.tw/) | 這個部落格之所以會開始就是受到 Huli 大大啟發 |
 | [Huli's blog（生活）](https://life.huli.tw/) | |
 | [烏龜漫遊 2.0](https://lankudot.airfishlab.com/) | 現實中真的會一起看電影的朋朋 |
-| [kaze 的不務正業 ACG](https://aurakaze.blog/) | [我心中的作品排名](https://travlog.wei-lee.me/pages/story-ranking) 是受到 kaze 啟發，同時也是安排[聖地巡禮](https://travlog.wei-lee.me/pages/pilgrimage)時重要的參考部落格 |
+| [kaze 的不務正業 ACG](https://aurakaze.blog/) | [我心中的作品排名]({filename}/pages/story-ranking.md) 是受到 kaze 啟發，同時也是安排[聖地巡禮]({filename}/pages/pilgrimage.md)時重要的參考部落格 |
 | [カレー補完計畫](https://typecurry.com/) | 之前去英國巡禮參考了很多資訊 🙏 |
 | [Code and Me](https://blog.kyomind.tw/) | |
 | [愷開的部落格](https://blog.kalan.dev/) | |

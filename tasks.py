@@ -239,6 +239,14 @@ def check_content(c):
     if metadata_check.returncode != 0:
         raise Exit(metadata_check.returncode)
 
+    page_files = sorted(str(path) for path in Path("content/pages").glob("*.md"))
+    page_metadata_check = subprocess.run(
+        [sys.executable, "scripts/check_page_metadata.py", *page_files],
+        check=False,
+    )
+    if page_metadata_check.returncode != 0:
+        raise Exit(page_metadata_check.returncode)
+
     check_image_usage(c)
 
 

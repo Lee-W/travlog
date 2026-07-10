@@ -1,7 +1,8 @@
 Title: 演唱會紀錄
-Slug: concerts
 Date: 2026-05-29 00:00 +0800
 Modified: 2026-05-29 00:00 +0800
+Slug: concerts
+Summary: 記錄我參加過的現場與線上演唱會，以及相關文章。
 
 記錄我參加過的演唱會，包含現場與線上。
 

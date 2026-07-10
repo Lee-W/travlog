@@ -1,7 +1,8 @@
 Title: 電影院座位個人喜好
-Slug: theaters-preference
 Date: 2023-11-27 18:30 +0800
 Modified: 2026-05-03 23:20 +0800
+Slug: theaters-preference
+Summary: 整理我去過的台灣與日本電影院、特殊影廳體驗及偏好座位。
 
 > **DISCLAIMER:** 僅代表個人偏好，與電影院品質沒有直接相關，請斟酌服用
 
