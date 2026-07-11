@@ -88,3 +88,12 @@ locations:
     urls:
       - label: "八越河粉 Pho Tam"
         href: "{filename}/posts/review/2026/39-pho-tam.md"
+  - id: yodo-ramen
+    name: 羽都麵屋
+    lat: 25.130084697367415
+    lon: 121.7414727547583
+    address: 200基隆市仁愛區愛一路59號
+    tags: [拉麵]
+    urls:
+      - label: "羽都麵屋"
+        href: "{filename}/posts/review/2026/yodo-ramen.md"
