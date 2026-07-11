@@ -18,6 +18,10 @@ DEFAULT_DATE_FORMAT = "%Y/%m/%d - %a"
 TIMEZONE = "Asia/Taipei"
 SHOW_ARTICLE_MODIFIED_TIME = True
 
+FAVICON = "favicon-32.png"
+FAVICON_IE = "favicon.ico"
+TOUCHICON = "apple-touch-icon.png"
+
 # Page Setting
 MAIN_MENU = True
 DEFAULT_PAGINATION = 10
@@ -51,6 +55,11 @@ ARTICLE_SAVE_AS = "posts/{category}/{date:%Y}/{date:%m}/{slug}/index.html"
 STATIC_PATHS = ["images", "extra", "static"]
 EXTRA_PATH_METADATA = {
     "extra/robots.txt": {"path": "robots.txt"},
+    "extra/favicon.ico": {"path": "favicon.ico"},
+    "extra/favicon-16.png": {"path": "favicon-16.png"},
+    "extra/favicon-32.png": {"path": "favicon-32.png"},
+    "extra/favicon-512.png": {"path": "favicon-512.png"},
+    "extra/apple-touch-icon.png": {"path": "apple-touch-icon.png"},
 }
 
 # License
