@@ -14,6 +14,7 @@ from zoneinfo import ZoneInfo
 DATE_LINE = re.compile(r"^Date:\s*.*$", re.IGNORECASE)
 STATUS_LINE = re.compile(r"^Status:\s*(.*?)\s*$", re.IGNORECASE)
 POST_FILENAME = re.compile(r"^(\d+)-.+\.md$")
+FILENAME_REFERENCE = re.compile(r"\{filename\}(/posts/[^\s\"'()<>#]+\.md)")
 PUBLISH_COMMIT_PREFIX = "new post:"
 PREPARE_COMMIT_PREFIX = "post metadata: prepare publication for #"
 
@@ -197,6 +198,67 @@ def corrected_filename(path: Path, number: int) -> Path:
     return path.with_name(f"{number:02d}-{suffix}")
 
 
+def content_root(paths: list[Path]) -> Path | None:
+    """Return the content directory shared by post paths, when available."""
+    for path in paths:
+        resolved = path.resolve()
+        for parent in resolved.parents:
+            if parent.name == "content" and "posts" in resolved.relative_to(parent).parts:
+                return parent
+    return None
+
+
+def update_filename_references(replacements: dict[Path, Path]) -> list[Path]:
+    """Update Pelican filename references for posts renamed by automation."""
+    root = content_root(list(replacements))
+    if root is None:
+        return []
+
+    reference_replacements = {
+        "{filename}/" + source.resolve().relative_to(root).as_posix():
+        "{filename}/" + destination.resolve().relative_to(root).as_posix()
+        for source, destination in replacements.items()
+    }
+    changed: list[Path] = []
+    for pattern in ("*.md", "*.yaml", "*.yml"):
+        for path in root.rglob(pattern):
+            original = path.read_text(encoding="utf-8")
+            updated = original
+            for source, destination in reference_replacements.items():
+                updated = updated.replace(source, destination)
+            if updated != original:
+                path.write_text(updated, encoding="utf-8")
+                changed.append(path)
+                print(f"Updated filename references in {path}")
+    return changed
+
+
+def check_filename_references(paths: list[Path]) -> int:
+    """Reject Pelican filename references whose target post does not exist."""
+    root = content_root(paths)
+    if root is None:
+        return 0
+
+    errors: list[str] = []
+    for pattern in ("*.md", "*.yaml", "*.yml"):
+        for path in root.rglob(pattern):
+            for line_number, line in enumerate(
+                path.read_text(encoding="utf-8").splitlines(), start=1
+            ):
+                for match in FILENAME_REFERENCE.finditer(line):
+                    target = root / match.group(1).removeprefix("/")
+                    if not target.is_file():
+                        errors.append(
+                            f"{path}:{line_number}: {match.group(0)} -> {target}"
+                        )
+    if errors:
+        print("Pelican filename references point to missing posts:", file=sys.stderr)
+        for error in errors:
+            print(f"  {error}", file=sys.stderr)
+        return 1
+    return 0
+
+
 def correct_filename_numbers(paths: list[Path]) -> list[Path]:
     """Correct publishing filenames and move colliding drafts after them."""
     publishing_paths = {path.resolve() for path in paths}
@@ -253,6 +315,8 @@ def correct_filename_numbers(paths: list[Path]) -> list[Path]:
         temporary_paths[source].rename(destination)
         print(f"Renamed {source} -> {destination}")
 
+    update_filename_references(replacements)
+
     return [replacements.get(path, path) for path in paths]
 
 
@@ -299,6 +363,7 @@ def prepare_post(path: Path, date: str) -> bool:
 def check(paths: list[Path]) -> int:
     """Validate publication status and filename sequence."""
     failed = check_filename_numbers(paths)
+    failed |= check_filename_references(paths)
     drafts = [path for path in paths if draft_status(path)]
     if drafts:
         print("Publishing PR still contains draft posts:", file=sys.stderr)

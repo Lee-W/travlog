@@ -9,6 +9,7 @@ from scripts.prepare_publication import (
     changed_posts,
     check,
     check_filename_numbers,
+    check_filename_references,
     draft_status,
     has_publish_commit,
     main,
@@ -132,6 +133,60 @@ def test_prepare_moves_colliding_draft_after_publishing_post(tmp_path):
     moved_draft = tmp_path / "03-other-draft.md"
     assert moved_draft.exists()
     assert draft_status(moved_draft)
+
+
+def test_prepare_updates_references_to_renamed_posts(tmp_path):
+    content = tmp_path / "content"
+    posts = content / "posts" / "review" / "2026"
+    places = content / "places"
+    posts.mkdir(parents=True)
+    places.mkdir()
+    published = posts / "01-published.md"
+    publishing = posts / "new-post.md"
+    write_post(published, status="")
+    write_post(publishing)
+    place = places / "restaurant.yaml"
+    place.write_text(
+        'href: "{filename}/posts/review/2026/new-post.md#menu"\n',
+        encoding="utf-8",
+    )
+
+    assert prepare([publishing], "2026-06-30 18:20 +0800") == 0
+    assert place.read_text(encoding="utf-8") == (
+        'href: "{filename}/posts/review/2026/02-new-post.md#menu"\n'
+    )
+
+
+def test_check_rejects_reference_to_missing_post(tmp_path):
+    content = tmp_path / "content"
+    posts = content / "posts" / "review" / "2026"
+    pages = content / "pages"
+    posts.mkdir(parents=True)
+    pages.mkdir()
+    publishing = posts / "01-publishing.md"
+    write_post(publishing, status="")
+    (pages / "index.md").write_text(
+        "[Missing]({filename}/posts/review/2026/02-missing.md)\n",
+        encoding="utf-8",
+    )
+
+    assert check_filename_references([publishing]) == 1
+
+
+def test_check_accepts_reference_with_anchor(tmp_path):
+    content = tmp_path / "content"
+    posts = content / "posts" / "review" / "2026"
+    pages = content / "pages"
+    posts.mkdir(parents=True)
+    pages.mkdir()
+    publishing = posts / "01-publishing.md"
+    write_post(publishing, status="")
+    (pages / "index.md").write_text(
+        "[Existing]({filename}/posts/review/2026/01-publishing.md#section.md)\n",
+        encoding="utf-8",
+    )
+
+    assert check_filename_references([publishing]) == 0
 
 
 def test_filename_number_requires_zero_padding(tmp_path):
