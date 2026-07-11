@@ -43,7 +43,7 @@ locations:
     tags: [拉麵]
     urls:
       - label: "力量拉麵（信義店）"
-        href: "{filename}/posts/review/2026/chikara-ramen-xinyi.md"
+        href: "{filename}/posts/review/2026/40-chikara-ramen-xinyi.md"
   - id: maskcatcafe
     name: 貓妝自家烘焙咖啡館
     lat: 25.050474
