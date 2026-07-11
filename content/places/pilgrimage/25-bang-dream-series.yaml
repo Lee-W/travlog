@@ -38,3 +38,16 @@ locations:
   - /images/pilgrimage/25-bang-dream-series/sunshine-city.JPG
   - /images/pilgrimage/25-bang-dream-series/sunshine-city-1.JPG
   urls: []
+- name: 米澤茜 Ubike 站
+  lat: 25.045432018635324
+  lon: 121.54703869893845
+  notes: ""
+  country: 台灣
+  city: 台北
+  tags:
+  - 街景
+  images:
+  - /images/post-images/2026/yonezawa-akane-ubike-station/yonezawa-akane-ubike-station.JPEG
+  urls:
+  - label: 米澤茜 Ubike 站
+    href: "{filename}/posts/travel/2026/07-yonezawa-akane-ubike-station.md"
