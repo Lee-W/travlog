@@ -1,12 +1,11 @@
 Title: 惑？不惑？
 Subtitle: 四十不惑
-Date: 2026-07-07 15:02 +0800
+Date: 2026-07-14 10:17 +0800
 Category: Review
 Tags: Concert, Music
 Slug: forty-and-fearless
 Cover: /images/post-images/2026/forty-and-fearless/17833990588100.jpg
 Authors: Wei Lee
-Status: draft
 
 不過並不是我 40 歲了
 而是我亂入了[PC 全球定位裝置]的 40 歲生日趴/公演
