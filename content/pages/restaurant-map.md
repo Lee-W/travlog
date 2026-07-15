@@ -6,4 +6,4 @@ Summary: 記錄去過的餐廳
 
 {% place restaurant %}
 
-{% place_list restaurant %}
+{% place_list restaurant group_by="city,district" group_summary_at="city,district" %}

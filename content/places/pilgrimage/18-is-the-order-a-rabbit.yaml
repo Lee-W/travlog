@@ -10,8 +10,8 @@ locations:
   - '2023-05-26'
   country: 日本
   city: 東京
-  tags:
-  - 已歇業
+  status: 已歇業
+  tags: []
   images:
   - /images/pilgrimage/18-is-the-order-a-rabbit/lupo-coffee-house.JPG
   - /images/pilgrimage/18-is-the-order-a-rabbit/lupo-coffee-house-1.JPG

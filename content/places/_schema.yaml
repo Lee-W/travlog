@@ -1,0 +1,64 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: Root place fields
+description: >
+  Shared display hints for root-level place YAML files such as restaurant.yaml
+  and other.yaml. Keep this schema permissive because it is inherited by every
+  YAML file directly under content/places/.
+type: object
+additionalProperties: true
+properties:
+  locations:
+    type: array
+    items:
+      type: object
+      additionalProperties: true
+      required: [name, lat, lon]
+      properties:
+        id:
+          type: string
+          x-osm-list-hidden: true
+        name:
+          type: string
+          title: 地點
+        lat:
+          type: number
+          minimum: -90
+          maximum: 90
+          x-osm-list-hidden: true
+        lon:
+          type: number
+          minimum: -180
+          maximum: 180
+          x-osm-list-hidden: true
+        city:
+          type: string
+          title: 縣市
+        district:
+          type: string
+          title: 行政區
+        status:
+          type: string
+          title: 狀態
+        closed_date:
+          type: string
+          title: 歇業時間
+        visit_note:
+          type: string
+          title: 造訪備註
+        address:
+          type: string
+          title: 地址
+          x-osm-list-hidden: true
+        tags:
+          type: array
+          items:
+            type: string
+        urls:
+          type: array
+          items:
+            type: object
+            properties:
+              label:
+                type: string
+              href:
+                type: string
