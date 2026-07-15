@@ -19,8 +19,8 @@ locations:
   date: '2023-10-19'
   country: 日本
   city: 東京
-  tags:
-  - 已歇業
+  status: 已歇業
+  tags: []
   images:
   - /images/pilgrimage/25-bang-dream-series/subway-sunshine-city-alpa-branch.JPG  # wrong GPS
   urls: []

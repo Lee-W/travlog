@@ -51,6 +51,20 @@ properties:
             title:
               en: Note
               ja: 備考
+        status:
+          type: string
+          title: 狀態
+          x-osm-list-i18n:
+            title:
+              en: Status
+              ja: 状態
+        closed_date:
+          type: string
+          title: 歇業時間
+          x-osm-list-i18n:
+            title:
+              en: Closed
+              ja: 閉店時期
         date:
           oneOf:
             - type: string
