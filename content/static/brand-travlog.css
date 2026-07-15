@@ -12,3 +12,47 @@ body.site-travlog {
   --banner-grad: linear-gradient(150deg, #242c25, #141a15);
   --header-scrim: 20, 26, 21;
 }
+
+.rights-notice {
+  position: relative;
+  z-index: 20;
+  max-width: 72rem;
+  padding: calc(12rem + 8vw) 4rem 0;
+  margin: auto auto 0;
+  color: var(--color-content-secondary);
+  font-size: 1.4em;
+  line-height: 1.7;
+  text-align: center;
+}
+
+.rights-notice p {
+  margin: 0;
+}
+
+.rights-notice .rights-notice-link {
+  margin-top: 0.6rem;
+}
+
+.rights-notice a {
+  color: inherit;
+  font-weight: 500;
+}
+
+.rights-notice + .nav-footer {
+  padding-top: 2rem;
+  margin-top: 0;
+}
+
+.rights-languages {
+  display: flex;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  margin-bottom: 3rem;
+}
+
+.rights-languages a {
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--color-content-secondary);
+  border-radius: 999px;
+  text-decoration: none;
+}
