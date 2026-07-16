@@ -1,6 +1,6 @@
 Title: 羽都麵屋
 Subtitle: 就很突然
-Date: 2026-07-11 16:11 +0800
+Date: 2026-07-16 17:41 +0800
 Category: Review
 Tags: Food, 拉麵, 娃: 小睦, 娃: 燈
 Slug: yodo-ramen
