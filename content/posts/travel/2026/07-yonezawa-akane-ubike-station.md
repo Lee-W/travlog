@@ -1,6 +1,6 @@
 Title: 米澤茜 Ubike 站
 Subtitle: 為什麼美好的過去，會漸行漸遠呢
-Date: 2026-07-11 17:56 +0800
+Date: 2026-07-18 13:24 +0800
 Category: Travel
 Tags: Taiwan, 聖地巡禮, BanG Dream
 Slug: yonezawa-akane-ubike-station
