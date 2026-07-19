@@ -259,6 +259,48 @@ def check_filename_references(paths: list[Path]) -> int:
     return 0
 
 
+def repair_unnumbered_filename_references(paths: list[Path]) -> list[Path]:
+    """Repair stale references when publication added a numeric prefix.
+
+    Only unnumbered missing targets with exactly one ``NN-<name>`` sibling are
+    safe to repair automatically. Ambiguous and genuinely missing references
+    remain unchanged so ``check_filename_references`` can reject them.
+    """
+    root = content_root(paths)
+    if root is None:
+        return []
+
+    changed: list[Path] = []
+    for pattern in ("*.md", "*.yaml", "*.yml"):
+        for path in root.rglob(pattern):
+            original = path.read_text(encoding="utf-8")
+
+            def replace(match: re.Match[str]) -> str:
+                reference = match.group(1)
+                target = root / reference.removeprefix("/")
+                if target.is_file() or POST_FILENAME.match(target.name):
+                    return match.group(0)
+
+                numbered_name = re.compile(rf"^\d{{2}}-{re.escape(target.name)}$")
+                candidates = [
+                    candidate
+                    for candidate in target.parent.glob("*.md")
+                    if numbered_name.match(candidate.name)
+                ]
+                if len(candidates) != 1:
+                    return match.group(0)
+
+                repaired = candidates[0].relative_to(root).as_posix()
+                return f"{{filename}}/{repaired}"
+
+            updated = FILENAME_REFERENCE.sub(replace, original)
+            if updated != original:
+                path.write_text(updated, encoding="utf-8")
+                changed.append(path)
+                print(f"Repaired unnumbered filename references in {path}")
+    return changed
+
+
 def correct_filename_numbers(paths: list[Path]) -> list[Path]:
     """Correct publishing filenames and move colliding drafts after them."""
     publishing_paths = {path.resolve() for path in paths}
@@ -380,6 +422,7 @@ def check(paths: list[Path]) -> int:
 def prepare(paths: list[Path], date: str) -> int:
     """Prepare every changed post for publication."""
     paths = correct_filename_numbers(paths)
+    repair_unnumbered_filename_references(paths)
     changed = [path for path in paths if prepare_post(path, date)]
     if changed:
         print(f"Publication date: {date}")
