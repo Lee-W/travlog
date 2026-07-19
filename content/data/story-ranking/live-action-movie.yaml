@@ -72,6 +72,14 @@
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_18'
+- title: 醉好的時光
+  tier: SS
+  external_ids:
+    letterboxd:
+    - another-round
+  reviews:
+  - text: '2026'
+    href: '{filename}/posts/review/2026/41-another-round.md'
 - title: 塗鴉日記
   tier: S
   external_ids:
@@ -701,5 +709,4 @@
 # - little-amelie-or-the-character-of-rain  # Little Amélie or the Character of Rain (2025)
 # - peppermint-candy  # Peppermint Candy (1999)
 # - the-island-and-the-trees  # The Island and the Trees (2026)
-# - another-round  # Another Round (2020)
 # - toy-story-5  # Toy Story 5 (2026)
