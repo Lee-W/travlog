@@ -157,6 +157,48 @@ def test_prepare_updates_references_to_renamed_posts(tmp_path):
     )
 
 
+def test_prepare_repairs_stale_unnumbered_reference(tmp_path):
+    content = tmp_path / "content"
+    posts = content / "posts" / "review" / "2026"
+    places = content / "places"
+    posts.mkdir(parents=True)
+    places.mkdir()
+    published = posts / "01-yodo-ramen.md"
+    publishing = posts / "02-another-round.md"
+    write_post(published, status="")
+    write_post(publishing)
+    place = places / "restaurant.yaml"
+    place.write_text(
+        'href: "{filename}/posts/review/2026/yodo-ramen.md"\n',
+        encoding="utf-8",
+    )
+
+    assert prepare([publishing], "2026-06-30 18:20 +0800") == 0
+    assert place.read_text(encoding="utf-8") == (
+        'href: "{filename}/posts/review/2026/01-yodo-ramen.md"\n'
+    )
+
+
+def test_prepare_does_not_guess_ambiguous_unnumbered_reference(tmp_path):
+    content = tmp_path / "content"
+    posts = content / "posts" / "review" / "2026"
+    places = content / "places"
+    posts.mkdir(parents=True)
+    places.mkdir()
+    first = posts / "01-example.md"
+    second = posts / "02-example.md"
+    publishing = posts / "03-publishing.md"
+    write_post(first, status="")
+    write_post(second, status="")
+    write_post(publishing)
+    place = places / "restaurant.yaml"
+    original = 'href: "{filename}/posts/review/2026/example.md"\n'
+    place.write_text(original, encoding="utf-8")
+
+    assert prepare([publishing], "2026-06-30 18:20 +0800") == 1
+    assert place.read_text(encoding="utf-8") == original
+
+
 def test_check_rejects_reference_to_missing_post(tmp_path):
     content = tmp_path / "content"
     posts = content / "posts" / "review" / "2026"
