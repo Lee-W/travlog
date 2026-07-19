@@ -92,8 +92,19 @@ locations:
     name: 羽都麵屋
     lat: 25.130084697367415
     lon: 121.7414727547583
-    address: 200基隆市仁愛區愛一路59號
+    city: 基隆市
+    district: 仁愛區
+    address: 基隆市仁愛區愛一路59號
     tags: [拉麵]
     urls:
       - label: "羽都麵屋"
         href: "{filename}/posts/review/2026/41-yodo-ramen.md"
+  - id: gonokami
+    name: 五之神製作所 台灣
+    lat: 25.042435784716403
+    lon: 121.56320347010207
+    address: 臺北市信義區新仁里忠孝東路四段553巷6弄6號1樓
+    tags: [拉麵]
+    urls:
+      - label: "五之神製作所 台灣"
+        href: "{filename}/posts/review/2026/gonokami.md"
