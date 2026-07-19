@@ -1,12 +1,11 @@
 Title: 醉好的時光
 Subtitle: 我只是個中年大叔
-Date: 2026-07-18 11:54 +0800
+Date: 2026-07-19 12:17 +0800
 Category: Review
 Tags: Movie
 Slug: another-round
 Cover: /images/post-images/2026/another-round/another-round.jpeg
 Authors: Wei Lee
-Status: draft
 
 先前[烏龜](https://lankudot.airfishlab.com/)就曾大力推薦我這部電影
 趁著金馬影廳重映，我終於抓著他陪我一起去補完了
