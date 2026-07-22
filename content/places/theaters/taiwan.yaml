@@ -444,6 +444,12 @@ ambassador-changchun:
       alt_rows: ""
       hall_note: 螢幕普通，音效不錯，聲音有點太大
       seat_note: 3 排剛好
+    - hall: "5 廳"
+      format: 2D 廳
+      recommended_rows: "3"
+      alt_rows: ""
+      hall_note: "意外音效其實不差"
+      seat_note: "2 排要稍微抬頭， 3 排畫面稍微不夠滿"
     - hall: "12 廳"
       format: 2D 廳
       recommended_rows: "2~3"
@@ -587,3 +593,20 @@ vieshow-tainan:
       alt_rows: "D"
       hall_note: 聲音不錯
       seat_note: E 排可，可以試 D
+
+
+vieshow-tainan-fe21:
+  name: 台南大遠百威秀影城
+  lat: 22.9951256
+  lon: 120.2055076
+  address: 台南市中西區公園路60號5樓
+  country: 臺灣
+  city: 台南
+  district: 中西區
+  items:
+    - hall: "8 廳"
+      format: 2D 廳
+      recommended_rows: "D"
+      alt_rows: ""
+      hall_note: "音效畫面都還行"
+      seat_note: "理想"
