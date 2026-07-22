@@ -20,6 +20,11 @@ properties:
         name:
           type: string
           title: 地點
+        rating:
+          type: number
+          title: 喜好程度
+          minimum: 1
+          maximum: 5
         lat:
           type: number
           minimum: -90
