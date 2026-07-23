@@ -1,12 +1,11 @@
 Title: 阿文米粿
 Subtitle: 一咬下去就是美味
-Date: 2026-07-22 14:22 +0800
+Date: 2026-07-23 10:16 +0800
 Category: Review
 Tags: Food, 在地小吃
 Slug: a-wen-mi-guo
 Cover: /images/post-images/2026/a-wen-mi-guo/a-wen-mi-guo.jpeg
 Authors: Wei Lee
-Status: draft
 
 七點多去的時候沒看到什麼人，還在想是不是 [LQ7](https://lq7.tw/) 的私房景點
 但在保安路，不可能吧？
