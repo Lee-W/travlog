@@ -169,3 +169,18 @@ locations:
     urls:
       - label: "ikuka 蛋包飯"
         href: "{filename}/posts/travel/2026/08-pomunoki-tainan.md"
+
+  # 台南 - 北區
+  - id: seikaku
+    name: 性格せいかく
+    rating: 5
+    icon: ☕
+    lat: 22.998801
+    lon: 120.206848
+    address: 臺南市北區北華里成功路68巷4-5號
+    city: 臺南市
+    district: 北區
+    tags: [咖啡廳]
+    urls:
+      - label: "性格せいかく"
+        href: "{filename}/posts/review/2026/45-seikaku.md"
