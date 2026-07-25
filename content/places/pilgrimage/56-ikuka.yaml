@@ -1,0 +1,17 @@
+work: ikuka的第一個家
+tags: [部落格]
+locations:
+- name: ポムの樹 台南三井店
+  lat: 22.925850
+  lon: 120.287433
+  notes: 有岡大貴蛋包飯（ポムの樹）
+  date: '2026-07-18'
+  country: 台灣
+  city: 臺南市
+  tags:
+  - 蛋包飯
+  images:
+  - /images/post-images/2026/pomunoki-tainan/arioka-daiki.jpeg
+  urls:
+  - label: ikuka 蛋包飯
+    href: "{filename}/posts/travel/2026/08-pomunoki-tainan.md"

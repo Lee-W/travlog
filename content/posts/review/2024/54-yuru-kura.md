@@ -22,6 +22,9 @@ from [巴哈姆特動畫瘋 - 歷史資料](https://lee-w.github.io/bahamut_ani_
 然而
 
 ![mygo-so-what](/images/meme/mygo-so-what.jpg)
+/// caption
+© BanG Dream! Project｜出自 [《BanG Dream! It's MyGO!!!!!》](https://ani.gamer.com.tw/animeVideo.php?sn=34030)
+///
 
 *Disclaimer: 非本作畫面*
 

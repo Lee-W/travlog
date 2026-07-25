@@ -145,3 +145,17 @@ locations:
     urls:
       - label: "阿文米粿"
         href: "{filename}/posts/review/2026/44-a-wen-mi-guo.md"
+
+  # 台南 - 歸仁區
+  - id: pomunoki-tainan
+    name: ポムの樹 台南三井店
+    rating: 4.7
+    lat: 22.925850
+    lon: 120.287433
+    address: 臺南市歸仁區武東里歸仁大道101號2樓
+    city: 臺南市
+    district: 歸仁區
+    tags: [蛋包飯]
+    urls:
+      - label: "ikuka 蛋包飯"
+        href: "{filename}/posts/travel/2026/08-pomunoki-tainan.md"
