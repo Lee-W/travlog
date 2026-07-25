@@ -1,6 +1,6 @@
 Title: ikuka 蛋包飯
 Subtitle: ポムの樹 台南三井店
-Date: 2026-07-25 22:55 +0800
+Date: 2026-07-25 23:19 +0800
 Category: Travel
 Tags: Taiwan, 聖地巡禮, 蛋包飯, ikuka
 Slug: pomunoki-tainan
