@@ -2,6 +2,7 @@ work: 蠟筆小新 | クレヨンしんちゃん
 tags: [動畫]
 locations:
 - name: 春日部站
+  place_type: 車站
   lat: 35.980047
   lon: 139.7498
   notes: ''

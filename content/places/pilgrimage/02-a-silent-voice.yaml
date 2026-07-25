@@ -2,6 +2,7 @@ work: 聲之形 | 聲の形
 tags: [動畫]
 locations:
 - name: 美登鯉橋
+  place_type: 橋
   lat: 35.357169
   lon: 136.612703
   notes: ''

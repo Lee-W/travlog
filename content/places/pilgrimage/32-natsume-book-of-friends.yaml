@@ -2,6 +2,7 @@ work: 夏目友人帳 | 夏目友人帳
 tags: [動畫]
 locations:
 - name: 田町菅原天滿宮
+  place_type: 神社
   lat: 32.207471
   lon: 130.76543
   notes: ''

@@ -2,6 +2,7 @@ work: 上伊那牡丹，醉姿如百合 | 上伊那牡丹、酔いどれ姿は�
 tags: [動畫]
 locations:
 - name: 外澳沙灘
+  place_type: 海岸
   lat: 24.876978
   lon: 121.843761
   notes: ED 8
@@ -16,6 +17,7 @@ locations:
   - label: 張景嵐曾待過的宜蘭
     href: "{filename}/posts/travel/2026/06-chang-chin-lan.md"
 - name: 大福海邊觀景平台
+  place_type: 展望台
   lat: 24.802592
   lon: 121.819322
   notes: ED 8
@@ -30,6 +32,7 @@ locations:
   - label: 張景嵐曾待過的宜蘭
     href: "{filename}/posts/travel/2026/06-chang-chin-lan.md"
 - name: 永鎮觀景台
+  place_type: 展望台
   lat: 24.776019
   lon: 121.818094
   notes: ED 8

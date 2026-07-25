@@ -13,6 +13,7 @@ locations:
   - /images/pilgrimage/16-kimetsu-no-yaiba/japanese-red-cross-medical-center-ward.JPG
   urls: []
 - name: 松山城
+  place_type: 城
   lat: 33.845764
   lon: 132.76561
   notes: 它自己說是無限城，那就這樣吧

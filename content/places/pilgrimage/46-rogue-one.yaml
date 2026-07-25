@@ -2,6 +2,7 @@ work: "俠盜一號 | Rogue One: A Star Wars Story"
 tags: [電影]
 locations:
 - name: Canary Wharf Jubilee Line Station
+  place_type: 車站
   lat: 51.503862
   lon: -0.019599
   notes: ''

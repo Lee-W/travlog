@@ -2,6 +2,7 @@ work: 少女樂團 吶喊吧 | ガールズバンドクライ
 tags: [動畫]
 locations:
 - name: 川崎車站
+  place_type: 車站
   lat: 35.530497
   lon: 139.698075
   notes: 遇見桃香

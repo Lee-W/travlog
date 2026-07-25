@@ -2,6 +2,7 @@ work: Fate/Grand Order
 tags: [動畫]
 locations:
 - name: 姬路城
+  place_type: 城
   lat: 34.829003
   lon: 134.6942
   notes: ''
@@ -14,6 +15,7 @@ locations:
   - /images/pilgrimage/13-fate-grand-order/himeji-castle.JPG
   urls: []
 - name: 大英博物館 - 向日葵
+  place_type: 博物館
   lat: 51.51962
   lon: -0.126903
   notes: 抽得到梵谷嗎

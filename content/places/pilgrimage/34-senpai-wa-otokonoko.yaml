@@ -13,6 +13,7 @@ locations:
   - /images/pilgrimage/34-senpai-wa-otokonoko/terrace-mall-shonan.JPG
   urls: []
 - name: 片瀬江ノ島駅
+  place_type: 車站
   lat: 35.309576
   lon: 139.483529
   notes: ''

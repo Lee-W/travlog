@@ -17,6 +17,7 @@ locations:
   - /images/pilgrimage/47-shoshimin/natural-cafe-1.JPG
   urls: []
 - name: 梅林公園
+  place_type: 公園
   lat: 35.418603458695024
   lon: 136.7709844316396
   notes: "秋季限定，正直和正義都回來了"

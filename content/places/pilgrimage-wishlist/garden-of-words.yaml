@@ -2,6 +2,7 @@ work: 言葉之庭 | 言の葉の庭
 tags: [動畫]
 locations:
 - name: 新宿御苑
+  place_type: 公園
   lat: 35.685124
   lon: 139.710007
   notes: ''

@@ -11,6 +11,7 @@ locations:
   images: []
   urls: []
 - name: 京阪穴太駅
+  place_type: 車站
   lat: 35.055838
   lon: 135.864786
   notes: ''

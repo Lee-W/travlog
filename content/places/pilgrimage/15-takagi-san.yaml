@@ -2,6 +2,7 @@ work: 擅長捉弄人的高木同學 | からかい上手の高木さん
 tags: [動畫]
 locations:
 - name: 高木神社
+  place_type: 神社
   lat: 35.716875
   lon: 139.815493
   notes: '這也算嗎...'
@@ -25,6 +26,7 @@ locations:
   - /images/pilgrimage/15-takagi-san/sun-gift.JPG
   urls: []
 - name: 小瀨石鎚神社 重岩
+  place_type: 神社
   lat: 34.478792
   lon: 134.148603
   notes: ''
@@ -37,6 +39,7 @@ locations:
   - /images/pilgrimage/15-takagi-san/kose-ishizuchi-shrine-okuiwa.JPG
   urls: []
 - name: 鹿島明神社
+  place_type: 神社
   lat: 34.474283
   lon: 134.169899
   notes: ''

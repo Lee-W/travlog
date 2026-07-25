@@ -2,6 +2,7 @@ work: K-ON | けいおん！
 tags: [動畫]
 locations:
 - name: 豐鄉小學校
+  place_type: 學校
   lat: 35.203569
   lon: 136.232431
   notes: '工作日 8:30～17:00 / 休息日 9:00～17:30'
@@ -60,6 +61,7 @@ locations:
   - /images/pilgrimage/10-k-on/aldgate-east.JPG
   urls: []
 - name: Jubilee Gardens
+  place_type: 公園
   lat: 51.504334
   lon: -0.118407
   notes: ''

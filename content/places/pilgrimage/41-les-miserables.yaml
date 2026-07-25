@@ -2,6 +2,7 @@ work: 悲慘世界 | Les Misérables
 tags: [動畫]
 locations:
 - name: Pulteney Bridge
+  place_type: 橋
   lat: 51.383235
   lon: -2.358008
   notes: Javert 投河自盡的拍攝點

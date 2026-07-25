@@ -3,6 +3,7 @@ tags: [動畫]
 locations:
 
 - name: 豊島区立南池袋第二公園
+  place_type: 公園
   lat: 35.722548734844935
   lon: 139.71704620069065
   notes: "「普通」和「理所當然」是什麼呢？"
@@ -39,6 +40,7 @@ locations:
   - /images/pilgrimage/25-bang-dream-series/sunshine-city-1.JPG
   urls: []
 - name: 米澤茜 Ubike 站
+  place_type: 車站
   lat: 25.045432018635324
   lon: 121.54703869893845
   notes: ""

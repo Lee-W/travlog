@@ -2,6 +2,7 @@ work: 安道爾 | Andor
 tags: [影集]
 locations:
 - name: Adams Pl Bridge
+  place_type: 橋
   lat: 51.506102
   lon: -0.019065
   notes: 'ISB 大樓'

@@ -2,6 +2,7 @@ work: 幸運星 | らき☆すた
 tags: [動畫]
 locations:
 - name: 地主神社
+  place_type: 神社
   lat: 34.995440
   lon: 135.785076
   notes: '修學旅行'
@@ -13,6 +14,7 @@ locations:
   - /images/pilgrimage/09-lucky-star/jishu-shrine.JPG # wrong GPS
   urls: []
 - name: 鷲宮神社
+  place_type: 神社
   lat: 36.031747
   lon: 139.713839
   notes: '小鏡家神社'

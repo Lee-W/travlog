@@ -48,6 +48,7 @@ locations:
   - /images/pilgrimage/24-the-dangers-in-my-heart/senzoku-ekimae-fureai-hiroba.JPG
   urls: []
 - name: 洗足駅
+  place_type: 車站
   lat: 35.610604
   lon: 139.694423
   notes: ''
