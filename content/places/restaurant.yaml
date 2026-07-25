@@ -2,6 +2,7 @@ locations:
   # 台北 - 中山區
   - id: true-bao-maker
     name: 有情出包所 / True Bao Maker
+    icon: 🏮
     rating: 4.2
     lat: 25.0503164
     lon: 121.5253053
@@ -16,6 +17,7 @@ locations:
   # 台北 - 大同區
   - id: vugka2025
     name: Vüg Ka 餐酒食
+    icon: 🍷
     rating: 4.7
     lat: 25.0690643
     lon: 121.5195389
@@ -28,6 +30,7 @@ locations:
         href: "{filename}/posts/review/2026/15-vugka2025.md"
   - id: kakuregaramen
     name: 隱家拉麵 赤峰店
+    icon: 🍜
     rating: 4.3
     lat: 25.0564555555556
     lon: 121.5206
@@ -40,6 +43,7 @@ locations:
         href: "{filename}/posts/review/2026/16-kakuregaramen.md"
   - id: maskcatcafe
     name: 貓妝自家烘焙咖啡館
+    icon: ☕
     rating: 4.5
     lat: 25.050474
     lon: 121.519665
@@ -54,6 +58,7 @@ locations:
   # 台北 - 信義區
   - id: ebisobaichigen
     name: 一幻拉麵 台北信義店
+    icon: 🍜
     rating: 4.3
     lat: 25.035722
     lon: 121.568134
@@ -66,6 +71,7 @@ locations:
         href: "{filename}/posts/review/2026/20-ebisobaichigen.md"
   - id: gonokami
     name: 五之神製作所 台灣
+    icon: 🍜
     rating: 3.8
     lat: 25.042435784716403
     lon: 121.56320347010207
@@ -80,6 +86,7 @@ locations:
   # 台北 - 大安區
   - id: chikara-ramen-xinyi
     name: 力量拉麵（信義店）
+    icon: 🍜
     rating: 3
     lat: 25.035132876594535
     lon: 121.52507824948377
@@ -94,6 +101,7 @@ locations:
   # 台北 - 松山區
   - id: hanoi-pho
     name: 河內河粉
+    icon: 🍲
     rating: 5
     lat: 25.05290678993742
     lon: 121.56071028009838
@@ -107,6 +115,7 @@ locations:
         href: "{filename}/posts/review/2026/32-hanoi-pho.md"
   - id: pho-tam
     name: 八越河粉 Pho Tam
+    icon: 🍲
     rating: 4.8
     lat: 25.053441143633396
     lon: 121.55361172683672
@@ -121,6 +130,7 @@ locations:
   # 基隆 - 仁愛區
   - id: yodo-ramen
     name: 羽都麵屋
+    icon: 🍜
     rating: 4.6
     lat: 25.130084697367415
     lon: 121.7414727547583

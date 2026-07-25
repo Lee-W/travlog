@@ -36,6 +36,34 @@ properties:
             title:
               en: Location
               ja: 場所
+        place_type:
+          type: string
+          title: 類型
+          x-osm-list-hidden: true
+          x-osm-icon:
+            神社: ⛩️
+            寺院: 🛕
+            教堂: ⛪
+            車站: 🚉
+            平交道: 🛤️
+            學校: 🏫
+            城: 🏯
+            橋: 🌉
+            水族館: 🐟
+            博物館: 🏛️
+            劇場: 🎭
+            圖書館: 📚
+            郵局: 📮
+            露營地: 🏕️
+            展望台: 🔭
+            海岸: 🏖️
+            公園: 🌳
+            塔: 🗼
+            球場: 🏟️
+          x-osm-list-i18n:
+            title:
+              en: Type
+              ja: 種別
         lat:
           type: number
           minimum: -90

@@ -2,6 +2,7 @@ work: 莉可莉絲 | リコリス・リコイル
 tags: [動畫]
 locations:
 - name: 晴空塔
+  place_type: 塔
   lat: 35.713036
   lon: 139.794069
   notes: 電波塔

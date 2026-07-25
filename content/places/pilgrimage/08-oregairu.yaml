@@ -2,6 +2,7 @@ work: 果然我的青春戀愛喜劇搞錯了。| やはり俺の青春ラブコ
 tags: [動畫]
 locations:
 - name: 龍安寺
+  place_type: 寺院
   lat: 35.034626
   lon: 135.718290
   notes: ''
@@ -13,6 +14,7 @@ locations:
   - /images/pilgrimage/08-oregairu/ryoanji.JPG # wrong GPS
   urls: []
 - name: 鶴岡八幡宮
+  place_type: 神社
   lat: 35.326187
   lon: 139.556303
   notes: 大老師名子由來
@@ -25,6 +27,7 @@ locations:
   - /images/pilgrimage/08-oregairu/tsurugaoka-hachimangu.JPG
   urls: []
 - name: 鎌倉雪ノ下郵便局
+  place_type: 郵局
   lat: 35.322522
   lon: 139.554273
   notes: 沒辦法拍整個雪之下，只好找個好拍的標的
@@ -36,6 +39,7 @@ locations:
   - /images/pilgrimage/08-oregairu/kamakura-yukinoshita-post-office.JPG
   urls: []
 - name: 由比ガ浜
+  place_type: 海岸
   lat: 35.310015
   lon: 139.542015
   notes: 離八幡太遠了...

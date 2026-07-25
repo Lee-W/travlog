@@ -19,6 +19,7 @@ locations:
   - /images/pilgrimage/19-yuru-camp/Minobu-Shizen-no-Sato-1.JPG
   urls: []
 - name: 下部小・中学校跡
+  place_type: 學校
   lat: 35.44991064679377
   lon: 138.48100944523816
   notes: ""
@@ -33,6 +34,7 @@ locations:
   - /images/pilgrimage/19-yuru-camp/Shimobe-junior-high-1.JPG
   urls: []
 - name: 本棲高校野外活動部社辦
+  place_type: 學校
   lat: 35.44882
   lon: 138.48143
   notes: ''
@@ -55,6 +57,7 @@ locations:
   - /images/pilgrimage/19-yuru-camp/shimarin-house.JPG  # wrong GPS
   urls: []
 - name: 鰍沢中部小学校跡地
+  place_type: 學校
   lat: 35.520994
   lon: 138.450904
   notes: ''
@@ -70,6 +73,7 @@ locations:
   - /images/pilgrimage/19-yuru-camp/kachizawa-chubu-elementary-school-site-1.JPG
   urls: []
 - name: 浩庵キャンプ場
+  place_type: 露營地
   lat: 35.47335774834706
   lon: 138.57474790674635
   notes: ""
@@ -99,6 +103,7 @@ locations:
   - /images/pilgrimage/19-yuru-camp/selva-minobu-branch.JPG
   urls: []
 - name: 寸又峡 夢のつり橋
+  place_type: 橋
   lat: 35.181317
   lon: 138.111933
   notes: ''
@@ -111,6 +116,7 @@ locations:
   - /images/pilgrimage/19-yuru-camp/sumata-kyo-yume-no-tsuribashi.JPG
   urls: []
 - name: 富士山本宮淺間大社
+  place_type: 神社
   lat: 35.233657
   lon: 138.611742
   notes: ''
@@ -145,6 +151,7 @@ locations:
   - /images/pilgrimage/19-yuru-camp/shibireko-suimeiso.JPG
   urls: []
 - name: アプトいちしろキャンプ場
+  place_type: 露營地
   lat: 35.168065
   lon: 138.14983
   notes: ''

@@ -2,6 +2,7 @@ work: 隨興旅 | ざつ旅 -That's Journey-
 tags: [動畫]
 locations:
 - name: 嚴島神社
+  place_type: 神社
   lat: 34.296174
   lon: 132.319876
   notes: ''

@@ -2,6 +2,7 @@ work: 擅長捉弄人的高木同學 (真人版)
 tags: [真人]
 locations:
 - name: オリーブビーチ
+  place_type: 海岸
   lat: 34.472355
   lon: 134.27507
   notes: 有線耳機
@@ -13,6 +14,7 @@ locations:
   - /images/pilgrimage/29-takagi-san-drama/olive-beach.JPG  # wrong GPS
   urls: []
 - name: 西村高木明神 社叢
+  place_type: 神社
   lat: 34.479192
   lon: 134.28881
   notes: 真人版不是用鹿島明神社

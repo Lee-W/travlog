@@ -2,6 +2,7 @@ work: K-ON | けいおん！
 tags: [動畫]
 locations:
 - name: 修学院駅
+  place_type: 車站
   lat: 35.050514
   lon: 135.790359
   notes: ''
@@ -20,6 +21,7 @@ locations:
   images: []
   urls: []
 - name: 京都府立図書館
+  place_type: 圖書館
   lat: 35.013220
   lon: 135.782235
   notes: ''

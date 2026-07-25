@@ -14,6 +14,7 @@ locations:
   - /images/pilgrimage/38-blue-giant-supreme/munich-airport.JPG
   urls: []
 - name: Innere Ludwigsbrücke 附近
+  place_type: 橋
   lat: 48.134703
   lon: 11.588417
   notes: 這附近只有這個角度最接近

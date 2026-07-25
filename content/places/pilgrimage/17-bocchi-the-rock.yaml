@@ -17,6 +17,7 @@ locations:
   - /images/pilgrimage/17-bocchi-the-rock/times-shimokitazawa-no.JPG  # wrong GPS
   urls: []
 - name: どんぐりひろば公園
+  place_type: 公園
   lat: 35.664386
   lon: 139.668686
   notes: ''
@@ -45,6 +46,7 @@ locations:
   - /images/pilgrimage/17-bocchi-the-rock/shimokitazawa-shelter-2.JPG  # wrong GPS
   urls: []
 - name: 本多劇場
+  place_type: 劇場
   lat: 35.661728
   lon: 139.668763
   notes: 波奇捕捉
@@ -57,6 +59,7 @@ locations:
   - /images/pilgrimage/17-bocchi-the-rock/honda-theater.JPG  # wrong GPS
   urls: []
 - name: 江の島シーキャンドル
+  place_type: 塔
   lat: 35.299681
   lon: 139.479042
   notes: 第八集去江之島玩

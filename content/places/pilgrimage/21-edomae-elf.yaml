@@ -2,6 +2,7 @@ work: 江戶前精靈 | 江戸前エルフ
 tags: [動畫]
 locations:
 - name: 波除稲荷神社
+  place_type: 神社
   lat: 35.663789
   lon: 139.771466
   notes: ''

@@ -2,6 +2,7 @@ work: Fate 系列 | Fate系列
 tags: [動畫]
 locations:
 - name: 神戶大橋
+  place_type: 橋
   lat: 34.678500
   lon: 135.203773
   notes: ''
@@ -48,6 +49,7 @@ locations:
   - /images/pilgrimage/12-fate-series/uorindo-house.JPG
   urls: []
 - name: 聖方濟天主堂
+  place_type: 教堂
   lat: 35.345704
   lon: 136.989866
   notes: 切嗣單抽五星
@@ -70,6 +72,7 @@ locations:
   - /images/pilgrimage/12-fate-series/imperial-hotel-central-entrance.JPG # wrong GPS
   urls: []
 - name: 清浄光寺（遊行寺）
+  place_type: 寺院
   lat: 35.348713
   lon: 139.488552
   notes: '柳洞寺本體'
@@ -82,6 +85,7 @@ locations:
   - /images/pilgrimage/12-fate-series/seijokoji-yugyoji.JPG
   urls: []
 - name: 円覚寺
+  place_type: 寺院
   lat: 35.339527
   lon: 139.5482
   notes: '柳洞寺步道'
@@ -94,6 +98,7 @@ locations:
   - /images/pilgrimage/12-fate-series/engakuji.JPG
   urls: []
 - name: Glastonbury Abbey
+  place_type: 寺院
   lat: 51.146536
   lon: -2.716331
   notes: ''

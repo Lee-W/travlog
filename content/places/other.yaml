@@ -1,6 +1,7 @@
 locations:
   - id: dart-taipei
     name: d/art taipei
+    icon: 🖼️
     lat: 25.0445397
     lon: 121.5079867
     address: 臺北市萬華區武昌街二段14號2F

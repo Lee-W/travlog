@@ -13,6 +13,7 @@ locations:
   - /images/pilgrimage/48-henjin-no-salad-bowl/gold-oda-nobunaga-statue.JPG  # wrong GPS
   urls: []
 - name: 金神社
+  place_type: 神社
   lat: 35.439821
   lon: 136.754391
   notes: ''

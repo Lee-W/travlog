@@ -2,6 +2,7 @@ work: 灌籃高手 | SLAM DUNK
 tags: [動畫]
 locations:
 - name: 鎌倉高校前
+  place_type: 平交道
   lat: 35.306753
   lon: 139.499292
   notes: ''
