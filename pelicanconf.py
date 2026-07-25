@@ -94,6 +94,7 @@ MARKDOWN = {
         "markdown.extensions.codehilite": {"css_class": "highlight"},
         "markdown.extensions.nl2br": {},
         "markdown.extensions.toc": {"toc_depth": "1-3"},
+        "markdown_mermaidjs": {},
         "markdown_del_ins": {},
         "pymdownx.blocks.caption": {},
         "pymdownx.details": {},
