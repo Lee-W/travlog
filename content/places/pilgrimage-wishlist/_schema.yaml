@@ -34,7 +34,7 @@ properties:
           title: 地點
           x-osm-list-i18n:
             title:
-              en: Location
+              en: Place
               ja: 場所
         place_type:
           type: string

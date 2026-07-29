@@ -20,6 +20,17 @@ properties:
         name:
           type: string
           title: 地點
+          x-osm-list-i18n:
+            title:
+              en: Place
+              ja: 場所
+        icon:
+          type: string
+          title: 圖示
+          x-osm-list-hidden: true
+          x-osm-list-i18n:
+            title:
+              en: Icon
         rating:
           type: number
           title: 喜好程度
@@ -38,22 +49,45 @@ properties:
         city:
           type: string
           title: 縣市
+          x-osm-list-i18n:
+            title:
+              en: City
+              ja: 都市
         district:
           type: string
           title: 行政區
+          x-osm-list-i18n:
+            title:
+              en: District
+              ja: 区域
         status:
           type: string
           title: 狀態
+          x-osm-list-i18n:
+            title:
+              en: Status
+              ja: 状態
         closed_date:
           type: string
           title: 歇業時間
+          x-osm-list-i18n:
+            title:
+              en: Closed
+              ja: 閉店時期
         visit_note:
           type: string
           title: 造訪備註
+          x-osm-list-i18n:
+            title:
+              en: Visit note
         address:
           type: string
           title: 地址
           x-osm-list-hidden: true
+          x-osm-list-i18n:
+            title:
+              en: Address
+              ja: 住所
         tags:
           type: array
           items:
