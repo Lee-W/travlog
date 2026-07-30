@@ -1,6 +1,6 @@
 Title: 人形達ノ記憶
 Subtitle: 萬策盡了嗎...不對！
-Date: 2026-07-25 23:26 +0800
+Date: 2026-07-30 08:51 +0800
 Category: Review
 Tags: Music, Concert, 尼爾：自動人形
 Slug: ningyoutachi-no-kioku
