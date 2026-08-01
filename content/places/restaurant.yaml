@@ -169,7 +169,7 @@ locations:
     tags: [手搖飲]
     urls:
       - label: "厚奶的我們 西門店"
-        href: "{filename}/posts/review/2026/46-hou-nai-ximen.md"
+        href: "{filename}/posts/review/2026/45-hou-nai-ximen.md"
 
   # 台南 - 歸仁區
   - id: pomunoki-tainan
