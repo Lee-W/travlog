@@ -37,7 +37,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
-  "commitizen>=4.16.5",
+  "commitizen>=4.17.0",
   "livereload>=2.7.0",
   "pip-audit>=2.7.3",
   "pre-commit>=4.6.1",
