@@ -173,9 +173,9 @@ locations:
     lat: 35.4658
     lon: 139.6246
     country: 日本
-    city: 橫濱市
-    district: 西區
-    address: 神奈川縣橫濱市西區高島二丁目1
+    city: 神奈川
+    district: 横浜
+    address: 神奈川県横浜市西区高島二丁目1
     date:
       - "2025-04-26"
       - "2026-03-01"
@@ -186,9 +186,9 @@ locations:
     lat: 35.457
     lon: 139.6365
     country: 日本
-    city: 橫濱市
-    district: 西區
-    address: 神奈川縣橫濱市西區Minato Mirai
+    city: 神奈川
+    district: 横浜
+    address: 神奈川県横浜市西区みなとみらい
     date:
       - "2024-12-14"
       - "2024-12-15"
@@ -200,8 +200,8 @@ locations:
     lat: 35.667518
     lon: 138.570659
     country: 日本
-    city: 甲府市
-    address: 山梨縣甲府市北口二丁目
+    city: 山梨
+    address: 山梨県甲府市北口二丁目
     date:
       - "2024-06-08"
 
@@ -211,9 +211,9 @@ locations:
     lat: 33.5936
     lon: 130.4017
     country: 日本
-    city: 福岡市
-    district: 中央區
-    address: 福岡縣福岡市中央區天神四丁目
+    city: 福岡
+    district: 福岡
+    address: 福岡県福岡市中央区天神四丁目
     date:
       - "2025-01-12"
       - "2025-01-13"
