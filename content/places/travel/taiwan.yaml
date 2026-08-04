@@ -1,0 +1,30 @@
+country: "臺灣"
+
+locations:
+  # 苗栗縣
+  - id: sanyi-station
+    name: "三義車站"
+    place_type: 車站
+    trip: "不遠山莊露營初體驗（2022年初）"
+    lat: 24.4206837
+    lon: 120.7739760
+    city: "苗栗縣"
+    address: "苗栗縣三義鄉雙湖村90號"
+  - id: buyuan-shanzhuang
+    name: "不遠山莊"
+    trip:
+      - "不遠山莊露營初體驗（2022年初）"
+      - "不遠山莊團露 生日趴（2022年秋）"
+    lat: 24.3951111
+    lon: 120.7853275
+    city: "苗栗縣"
+    address: "苗栗縣三義鄉雙潭村櫻花步道"
+  # 臺南市
+  - id: tainan-train-station
+    name: "台南火車站"
+    place_type: 車站
+    trip: "跟 LQ7 一起一拳打死羊黑"
+    lat: 22.9972086
+    lon: 120.2125765
+    city: "臺南市"
+    address: "臺南市中西區北門路二段4號"

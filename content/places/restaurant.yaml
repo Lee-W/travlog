@@ -199,3 +199,51 @@ locations:
     urls:
       - label: "性格せいかく"
         href: "{filename}/posts/review/2026/45-seikaku.md"
+
+  # 日本 - 京都
+  - id: itohkyuemon
+    name: 伊藤久右衛門
+    icon: 🍵
+    lat: 34.8913380
+    lon: 135.8062039
+    country: 日本
+    city: 京都
+    district: 宇治市
+    address: 京都府宇治市平等院表参道
+    tags: [抹茶, 和菓子]
+
+  # 日本 - 東京
+  - id: kamiya-bar
+    name: 神谷バー
+    icon: 🍸
+    lat: 35.7109207
+    lon: 139.7975062
+    country: 日本
+    city: 東京
+    district: 臺東區
+    address: 東京都台東区浅草一丁目1
+    tags: [酒吧]
+
+  # 日本 - 山梨
+  - id: kosaku-yamanakako
+    name: 小作 山中湖店
+    icon: 🍜
+    lat: 35.4138755
+    lon: 138.8603629
+    country: 日本
+    city: 山梨
+    district: 山中湖村
+    address: 山梨県南都留郡山中湖村国道138号
+    tags: [ほうとう]
+
+  # 臺灣 - 苗栗縣
+  - id: lujiao-coffee
+    name: 鹿角咖啡
+    icon: ☕
+    lat: 24.3956050
+    lon: 120.7853329
+    country: 臺灣
+    city: 苗栗縣
+    district: 三義鄉
+    address: 苗栗縣三義鄉雙潭村櫻花步道
+    tags: [咖啡廳]
