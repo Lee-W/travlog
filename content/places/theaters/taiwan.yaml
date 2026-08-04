@@ -196,6 +196,11 @@ vieshow-lalaport-nangang:
       alt_rows: ""
       hall_note: 音效不錯，畫面普通
       seat_note: D 排可，可以試 C
+    - hall: "14 廳"
+      format: 2D 廳
+      recommended_rows: "A~B"
+      alt_rows: ""
+      seat_note: C 排太後面，可以試A~B
     - hall: "16 廳"
       format: 2D 廳
       recommended_rows: "B"

@@ -11,7 +11,7 @@ Authors: Wei Lee
 
 <!--more-->
 
-{% place restaurant.yaml#yodo-ramen %}
+{% place restaurant/taiwan.yaml#yodo-ramen %}
 
 這間是朋友的朋友開的店，大家也是好幾年沒見了
 陸可能又飛在空中，所以婉拒了，我們譴責他

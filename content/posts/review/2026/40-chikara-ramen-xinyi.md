@@ -12,7 +12,7 @@ Authors: Wei Lee
 
 <!--more-->
 
-{% place restaurant.yaml#chikara-ramen-xinyi %}
+{% place restaurant/taiwan.yaml#chikara-ramen-xinyi %}
 
 我點的是雞白湯拉麵
 

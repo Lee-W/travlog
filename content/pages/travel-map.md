@@ -5,7 +5,11 @@ Slug: travel-map
 Summary: 記錄旅途中去過的地點
 Status: hidden
 
-旅遊文章裡去過的地點。聖地巡禮在[聖地巡禮]({filename}pilgrimage.md)、餐廳在[餐廳地圖]({filename}restaurant-map.md)、演出場館在[場館地圖]({filename}venues-map.md)，這頁收的是其餘的旅遊地點。
+旅遊文章裡去過的地點
+聖地巡禮在[聖地巡禮]({filename}pilgrimage.md)
+餐廳在[餐廳地圖]({filename}restaurant-map.md)
+演出場館在[場館地圖]({filename}venues-map.md)
+這頁收的是其餘的旅遊地點
 
 [TOC]
 

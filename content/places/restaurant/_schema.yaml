@@ -1,19 +1,36 @@
 $schema: "https://json-schema.org/draft/2020-12/schema"
-title: Root place fields
+title: Restaurant locations
 description: >
-  Shared display hints for root-level place YAML files — currently only
-  other.yaml. Keep this schema permissive because it is inherited by every
-  YAML file directly under content/places/.
-  餐廳、場館、旅遊、電影院都已改為「一個子目錄一類、一個檔案一個國家」，
-  各自有自己的 _schema.yaml；只剩雜項地點還留在根層級。
+  去過的餐廳。locations-based 形式：top-level 為檔案層 metadata（合併進每筆 location），
+  locations 為地點清單。**一個檔案 = 一個國家**，與 travel/ 及 theaters/ 的組織方式一致。
+  country 提到檔案層，就不必逐筆填。
+  rating 是選填：有評分代表「還想不想再去」的個人策展，旅途中一次性的店留空即可——
+  完整性優先於策展，漏收地點比評分留空嚴重。
 type: object
-additionalProperties: true
+required: [locations]
 properties:
+
+  # ── File-level metadata (merged into every location) ───────────────────
+  country:
+    # 一個檔案一個國家，頁面已用 H2 標示，故不重複佔一欄；
+    # 仍會進 geojson properties，資料沒有少
+    type: string
+    title: 國家
+    x-osm-list-hidden: true
+    x-osm-list-i18n:
+      title:
+        en: Country
+        ja: 国
+  tags:
+    type: array
+    items:
+      type: string
+
+  # ── Per-place rows ─────────────────────────────────────────────────────
   locations:
     type: array
     items:
       type: object
-      additionalProperties: true
       required: [name, lat, lon]
       properties:
         id:
@@ -33,31 +50,6 @@ properties:
           x-osm-list-i18n:
             title:
               en: Icon
-        place_type:
-          # 與 pilgrimage/ 及 travel/ 一致的「類型 → emoji」集中對照。
-          # restaurant.yaml 與 other.yaml 沿用逐筆 `icon`，兩者可並存
-          # （`icon` 為顯式指定，place_type 為依類型推導）。
-          type: string
-          title: 類型
-          x-osm-list-hidden: true
-          x-osm-icon:
-            Livehouse: 🎸
-            展演空間: 🎤
-            體育館: 🏟️
-            巨蛋: 🏟️
-            展覽館: 🏢
-            會議場: 🏢
-            劇場: 🎭
-            音樂廳: 🎻
-            戲曲中心: 🎎
-            公園: 🌳
-            藝廊: 🖼️
-            酒吧: 🍸
-            書店: 📖
-          x-osm-list-i18n:
-            title:
-              en: Type
-              ja: 種別
         rating:
           type: number
           title: 喜好程度
@@ -73,13 +65,6 @@ properties:
           minimum: -180
           maximum: 180
           x-osm-list-hidden: true
-        country:
-          type: string
-          title: 國家
-          x-osm-list-i18n:
-            title:
-              en: Country
-              ja: 国
         city:
           type: string
           title: 縣市

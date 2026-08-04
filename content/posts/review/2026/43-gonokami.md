@@ -11,7 +11,7 @@ Authors: Wei Lee
 
 <!--more-->
 
-{% place restaurant.yaml#gonokami %}
+{% place restaurant/taiwan.yaml#gonokami %}
 
 ![gonokami](/images/post-images/2026/gonokami/gonokami.jpeg)
 

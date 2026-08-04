@@ -1,0 +1,25 @@
+# 演唱會與舞台表演的場館地點
+#
+# 演出紀錄在 content/data/concerts.yaml 與 stage-performances.yaml，
+# 那兩個檔的 venue 只是顯示字串；本目錄才是場館的地點資料。
+
+country: 美國
+
+locations:
+  - id: allegiant-stadium
+    name: Allegiant Stadium
+    place_type: 體育館
+    lat: 36.0908
+    lon: -115.183
+    city: Las Vegas
+    address: 3333 Al Davis Way, 拉斯維加斯, 內華達州, 89118
+    date:
+      - "2024-03-16"
+
+  - id: mckittrick-hotel
+    name: The McKittrick Hotel
+    lat: 40.7506815
+    lon: -74.0038103
+    city: New York
+    district: Manhattan
+    address: West 27th Street, 紐約, 紐約州, 10199

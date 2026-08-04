@@ -17,7 +17,7 @@ Authors: Wei Lee
 
 沒想到晚上八點多都還是客滿，而且還有三個人在等
 
-{% place restaurant.yaml#pho-tam %}
+{% place restaurant/taiwan.yaml#pho-tam %}
 
 前一組剛好是常客，他們跟我分享，說就算這個時間來，也不見得吃得到，因為食材可能會提早賣完
 店面本身不大，大概 8～10 個人就坐滿了

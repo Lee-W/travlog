@@ -1,0 +1,52 @@
+# 演唱會與舞台表演的場館地點
+#
+# 演出紀錄在 content/data/concerts.yaml 與 stage-performances.yaml，
+# 那兩個檔的 venue 只是顯示字串；本目錄才是場館的地點資料。
+
+country: 日本
+
+locations:
+  - id: k-arena-yokohama
+    name: Kアリーナ横浜
+    place_type: 體育館
+    lat: 35.4658
+    lon: 139.6246
+    city: 神奈川
+    district: 横浜
+    address: 神奈川県横浜市西区高島二丁目1
+    date:
+      - "2025-04-26"
+      - "2026-03-01"
+
+  - id: pacifico-yokohama-national-hall
+    name: 橫濱國際平和會議場 國立大廳
+    place_type: 會議場
+    lat: 35.457
+    lon: 139.6365
+    city: 神奈川
+    district: 横浜
+    address: 神奈川県横浜市西区みなとみらい
+    date:
+      - "2024-12-14"
+      - "2024-12-15"
+
+  - id: kofu-station-north-plaza
+    name: JR甲府駅北口よっちゃばれ広場・歴史公園
+    place_type: 公園
+    lat: 35.667518
+    lon: 138.570659
+    city: 山梨
+    address: 山梨県甲府市北口二丁目
+    date:
+      - "2024-06-08"
+
+  - id: fukuoka-sunpalace
+    name: 福岡太陽宮
+    lat: 33.5936
+    lon: 130.4017
+    city: 福岡
+    district: 福岡
+    address: 福岡県福岡市中央区天神四丁目
+    date:
+      - "2025-01-12"
+      - "2025-01-13"

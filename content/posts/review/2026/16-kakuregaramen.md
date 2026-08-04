@@ -10,7 +10,7 @@ Authors: Wei Lee
 
 <!--more-->
 
-{% place restaurant.yaml#kakuregaramen %}
+{% place restaurant/taiwan.yaml#kakuregaramen %}
 
 ![kakuregaramen](/images/post-images/2026/restaurant/kakuregaramen.jpeg)
 

@@ -11,7 +11,7 @@ Authors: Wei Lee
 
 <!--more-->
 
-{% place restaurant.yaml#maskcatcafe %}
+{% place restaurant/taiwan.yaml#maskcatcafe %}
 
 可能大家常常會不小心點到黃金曼特寧，然後抱怨很苦
 所以才會在我點的時候先提醒我吧（笑

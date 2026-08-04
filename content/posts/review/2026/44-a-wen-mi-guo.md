@@ -13,7 +13,7 @@ Authors: Wei Lee
 
 <!--more-->
 
-{% place restaurant.yaml#a-wen-mi-guo %}
+{% place restaurant/taiwan.yaml#a-wen-mi-guo %}
 
 大份米粿加蛋 70 元，燙青菜 50 元
 

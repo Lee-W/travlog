@@ -13,8 +13,11 @@ properties:
 
   # ── File-level metadata (merged into every location) ───────────────────
   country:
+    # 一個檔案一個國家，頁面已用 H2 標示，故不重複佔一欄；
+    # 仍會進 geojson properties，資料沒有少
     type: string
     title: 國家
+    x-osm-list-hidden: true
     x-osm-list-i18n:
       title:
         en: Country
@@ -130,8 +133,11 @@ properties:
               en: Date
               ja: 日付
         country:
+          # 只在極少數需要覆蓋檔案層的情況下才逐筆填；
+          # 這裡也要標 hidden，否則 location 層定義會蓋掉檔案層的 hidden
           type: string
           title: 國家
+          x-osm-list-hidden: true
           x-osm-list-i18n:
             title:
               en: Country
