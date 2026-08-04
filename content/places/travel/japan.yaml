@@ -1,0 +1,176 @@
+country: "日本"
+
+locations:
+  # 東京
+  - id: yoyogi-park
+    name: "代代木公園"
+    place_type: 公園
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 35.6714052
+    lon: 139.6951716
+    city: "東京"
+    address: "東京都渋谷区神山町宇田川遊歩道"
+    date: "2023-03"
+  - id: harajuku-station
+    name: "原宿站"
+    place_type: 車站
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 35.6705019
+    lon: 139.7024144
+    city: "東京"
+    address: "東京都渋谷区神宮前一丁目"
+    date: "2023-03"
+  - id: shimokitazawa
+    name: "下北澤"
+    trip: "2023 巴哈動漫朝聖團"
+    lat: 35.6615657
+    lon: 139.6670604
+    city: "東京"
+    address: "東京都世田谷区北沢二丁目"
+  - id: sumida-aquarium
+    name: "墨田水族館"
+    trip: "2023 巴哈動漫朝聖團"
+    lat: 35.7101011
+    lon: 139.8093338
+    city: "東京"
+    address: "東京都墨田区押上一丁目2"
+  - id: donki-akihabara
+    name: "唐吉訶德 秋葉原店"
+    trip: "2023 巴哈動漫朝聖團"
+    lat: 35.7007170
+    lon: 139.7718902
+    city: "東京"
+    address: "東京都千代田区外神田四丁目3"
+  # 京都
+  - id: kifune-jinja
+    name: "貴船神社"
+    place_type: 神社
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 35.1218892
+    lon: 135.7629362
+    city: "京都"
+    address: "京都府京都市左京区鞍馬貴船町上黒田貴船線"
+    date: "2023-03"
+  - id: ujigami-jinja
+    name: "宇治上神社"
+    place_type: 神社
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 34.8920528
+    lon: 135.8114573
+    city: "京都"
+    address: "京都府宇治市明星町四丁目さわらびの道"
+    date: "2023-03"
+  - id: uji-jinja
+    name: "宇治神社"
+    place_type: 神社
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 34.8908505
+    lon: 135.8104162
+    city: "京都"
+    address: "京都府宇治市宇治公園線"
+    date: "2023-03"
+  - id: kiyomizudera
+    name: "清水寺"
+    place_type: 寺院
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 34.9943030
+    lon: 135.7844389
+    city: "京都"
+    address: "京都府京都市東山区辰巳町清水二丁目清水坂"
+    date: "2023-03"
+  - id: ninenzaka
+    name: "二年坂"
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 34.9989973
+    lon: 135.7807425
+    city: "京都"
+    address: "京都府京都市東山区辰巳町桝屋町二年坂"
+    date: "2023-03"
+  # 大阪
+  - id: usj
+    name: "環球影城"
+    place_type: 主題樂園
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 34.6656393
+    lon: 135.4324527
+    city: "大阪"
+    address: "大阪府大阪市此花区桜島二丁目2-1-33"
+    date: "2023-03"
+  - id: usj-harry-potter-forbidden-journey
+    name: "哈利波特禁忌之旅"
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 34.6688375
+    lon: 135.4316302
+    city: "大阪"
+    address: "大阪府大阪市此花区"
+    date: "2023-03"
+  # 愛知
+  - id: meiji-mura
+    name: "明治村"
+    place_type: 主題樂園
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 35.3441241
+    lon: 136.9905061
+    city: "愛知"
+    address: "愛知県犬山市字杁下県道明治村小牧線"
+    date: "2023-03"
+  - id: mie-prefectural-office-meijimura
+    name: "三重縣廳舍"
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 35.3408825
+    lon: 136.9891261
+    city: "愛知"
+    address: "愛知県犬山市字堤下市道富士本線"
+    date: "2023-03"
+  - id: nagoya-castle
+    name: "名古屋城"
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 35.1843960
+    lon: 136.9000992
+    city: "愛知"
+    address: "愛知県名古屋市中区本丸三の丸一丁目"
+    date: "2023-03"
+  - id: nippongaishi-hall
+    name: "Nippongaishi Hall"
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 35.0958200
+    lon: 136.9233241
+    city: "愛知"
+    address: "愛知県名古屋市南区豊田町堤町五丁目国道23号"
+    date: "2023-03"
+  # 兵庫
+  - id: goshoboh
+    name: "陶泉 御所坊"
+    place_type: 住宿
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 34.7967082
+    lon: 135.2472377
+    city: "兵庫"
+    address: "兵庫県神戸市北区有馬町湯本坂"
+    date: "2023-03"
+  # 山梨
+  - id: minobusan-kuonji
+    name: "身延山久遠寺"
+    place_type: 寺院
+    trip: "2023 巴哈動漫朝聖團"
+    lat: 35.3812260
+    lon: 138.4270354
+    city: "山梨"
+    address: "山梨県南巨摩郡身延町"
+  # 靜岡
+  - id: toyoko-inn-gotemba
+    name: "東横INN御殿場駅前"
+    place_type: 住宿
+    trip: "富士山輕鬆（？）騎"
+    lat: 35.2997982
+    lon: 138.9356543
+    city: "静岡"
+    address: "静岡県御殿場市新橋御殿場停車場線"
+  - id: higashiguchi-hongu-fuji-sengen-jinja
+    name: "東口本宮 冨士浅間神社"
+    place_type: 神社
+    trip: "富士山輕鬆（？）騎"
+    lat: 35.3629460
+    lon: 138.8638294
+    city: "静岡"
+    address: "静岡県駿東郡小山町"

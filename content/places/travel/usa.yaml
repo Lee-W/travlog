@@ -1,0 +1,129 @@
+country: "美國"
+
+locations:
+  - id: disneyland-anaheim
+    name: "Disneyland"
+    place_type: 主題樂園
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8136512
+    lon: -117.9197351
+    city: Anaheim
+    address: "1313 South Harbor Boulevard, Anaheim Resort District, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"
+  - id: galaxys-edge-batuu
+    name: "Star Wars: Galaxy's Edge"
+    place_type: 主題樂園
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8143297
+    lon: -117.9217609
+    city: Anaheim
+    address: "Anaheim Resort District, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"
+  - id: star-trader
+    name: "Star Trader"
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8118694
+    lon: -117.9174060
+    city: Anaheim
+    address: "Movie Circle, Anaheim Resort District, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"
+  - id: star-wars-launch-bay
+    name: "Star Wars Launch Bay"
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8120242
+    lon: -117.9164819
+    city: Anaheim
+    address: "360 Tomorrowland Terrace Tunnel, Anaheim Resort District, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"
+  - id: savis-workshop
+    name: "Savi's Workshop"
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8144229
+    lon: -117.9210312
+    city: Anaheim
+    address: "1313 South Harbor Boulevard, Anaheim Resort District, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"
+  - id: ogas-cantina
+    name: "Oga's Cantina"
+    place_type: 餐廳
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8148293
+    lon: -117.9209220
+    city: Anaheim
+    address: "1313 South Harbor Boulevard, Anaheim Resort District, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"
+  - id: dok-ondars
+    name: "Dok-Ondar's Den of Antiquities"
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8146259
+    lon: -117.9212114
+    city: Anaheim
+    address: "1313 South Harbor Boulevard, Anaheim Resort District, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"
+  - id: smugglers-run
+    name: "Smuggler's Run"
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8152150
+    lon: -117.9213954
+    city: Anaheim
+    address: "West Service Road, Neff, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"
+  - id: toydarian-toymaker
+    name: "Toydarian Toymaker"
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8144533
+    lon: -117.9217796
+    city: Anaheim
+    address: "SWGE Docking Bay 7 Patio, Anaheim Resort District, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"
+  - id: black-spire-outfitters
+    name: "Black Spire Outfitters"
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8144613
+    lon: -117.9217017
+    city: Anaheim
+    address: "SWGE Docking Bay 7 Patio, Anaheim Resort District, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"
+  - id: kat-sakas-kettle
+    name: "Kat Saka's Kettle"
+    place_type: 餐廳
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8144536
+    lon: -117.9216461
+    city: Anaheim
+    address: "SWGE Docking Bay 7 Patio, Anaheim Resort District, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"
+  - id: ronto-roasters
+    name: "Ronto Roasters"
+    place_type: 餐廳
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8144279
+    lon: -117.9215047
+    city: Anaheim
+    address: "1313 South Harbor Boulevard, Anaheim Resort District, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"
+  - id: docking-bay-7
+    name: "Docking Bay 7 Food and Cargo"
+    place_type: 餐廳
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8146930
+    lon: -117.9214898
+    city: Anaheim
+    address: "1313 South Harbor Boulevard, Anaheim Resort District, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"
+  - id: first-order-cargo
+    name: "The First Order Cargo"
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8145463
+    lon: -117.9203435
+    city: Anaheim
+    address: "SWGE Landport Walkway, Anaheim Resort District, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"
+  - id: resistance-supply
+    name: "Resistance Supply"
+    trip: "Star Wars: Galaxy's Edge 初訪（2019）"
+    lat: 33.8139772
+    lon: -117.9228161
+    city: Anaheim
+    address: "1313 South Harbor Boulevard, Anaheim Resort District, 安納海姆, 加利福尼亞州"
+    date: "2019-06-01"

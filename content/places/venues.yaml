@@ -225,7 +225,7 @@ locations:
     lat: 36.0908
     lon: -115.183
     country: 美國
-    city: 拉斯維加斯
+    city: Las Vegas
     address: 3333 Al Davis Way, 拉斯維加斯, 內華達州, 89118
     date:
       - "2024-03-16"
@@ -236,6 +236,6 @@ locations:
     lat: 40.7506815
     lon: -74.0038103
     country: 美國
-    city: 紐約
+    city: New York
     district: Manhattan
     address: West 27th Street, 紐約, 紐約州, 10199
