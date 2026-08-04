@@ -1,0 +1,163 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: Travel locations
+description: >
+  旅遊紀錄地點。locations-based 形式：top-level 為檔案層 metadata（合併進每筆 location），
+  locations 為地點清單。**一個檔案 = 一個國家**，不是一趟旅程——目的是自持「去過的地方」
+  資料庫，日後查詢是「東京那家店」而非「那是哪一趟」，所以依地理組織、不依敘事組織。
+  旅程脈絡改由每筆 location 的 `trip` 欄位保留，該欄位同時兼任地圖圖層
+  （`x-osm-map-layer` 是依欄位名從合併後的 schema 解析的，檔案層或 location 層皆可）。
+  同一地點多次造訪合併成一筆、`date` 用陣列，不因分屬不同趟次而重複建檔。
+type: object
+required: [locations]
+properties:
+
+  # ── File-level metadata (merged into every location) ───────────────────
+  country:
+    type: string
+    title: 國家
+    x-osm-list-i18n:
+      title:
+        en: Country
+        ja: 国
+  tags:
+    type: array
+    items:
+      type: string
+
+  # ── Per-place rows ─────────────────────────────────────────────────────
+  locations:
+    type: array
+    items:
+      type: object
+      required: [name, lat, lon]
+      properties:
+        name:
+          type: string
+          title: 地點
+          x-osm-list-i18n:
+            title:
+              en: Place
+              ja: 場所
+        trip:
+          oneOf:
+            - type: string
+            - type: array
+              items:
+                type: string
+          title: 行程
+          x-osm-map-layer: true
+          x-osm-list-i18n:
+            title:
+              en: Trip
+              ja: 旅程
+        place_type:
+          type: string
+          title: 類型
+          x-osm-list-hidden: true
+          x-osm-icon:
+            神社: ⛩️
+            寺院: 🛕
+            教堂: ⛪
+            車站: 🚉
+            機場: ✈️
+            學校: 🏫
+            城: 🏯
+            橋: 🌉
+            水族館: 🐟
+            動物園: 🦁
+            博物館: 🏛️
+            美術館: 🖼️
+            劇場: 🎭
+            圖書館: 📚
+            露營地: 🏕️
+            住宿: 🏨
+            溫泉: ♨️
+            展望台: 🔭
+            海岸: 🏖️
+            公園: 🌳
+            塔: 🗼
+            球場: 🏟️
+            主題樂園: 🎢
+            商店街: 🛍️
+            百貨: 🏬
+            餐廳: 🍽️
+            咖啡廳: ☕
+            酒吧: 🍸
+            書店: 📖
+          x-osm-list-i18n:
+            title:
+              en: Type
+              ja: 種別
+        lat:
+          type: number
+          minimum: -90
+          maximum: 90
+        lon:
+          type: number
+          minimum: -180
+          maximum: 180
+        notes:
+          type: string
+          title: 備註
+          x-osm-list-i18n:
+            title:
+              en: Note
+              ja: 備考
+        status:
+          type: string
+          title: 狀態
+          x-osm-list-i18n:
+            title:
+              en: Status
+              ja: 状態
+        closed_date:
+          type: string
+          title: 歇業時間
+          x-osm-list-i18n:
+            title:
+              en: Closed
+              ja: 閉店時期
+        date:
+          oneOf:
+            - type: string
+            - type: array
+              items:
+                type: string
+          title: 日期
+          x-osm-list-sort: max
+          x-osm-list-i18n:
+            title:
+              en: Date
+              ja: 日付
+        country:
+          type: string
+          title: 國家
+          x-osm-list-i18n:
+            title:
+              en: Country
+              ja: 国
+        city:
+          type: string
+          title: 縣市
+          x-osm-list-i18n:
+            title:
+              en: City
+              ja: 都市
+        tags:
+          type: array
+          items:
+            type: string
+        images:
+          type: array
+          items:
+            type: string
+          x-osm-list-hidden: true
+        urls:
+          type: array
+          items:
+            type: object
+            properties:
+              label:
+                type: string
+              href:
+                type: string

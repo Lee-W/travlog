@@ -1,0 +1,241 @@
+# 演唱會與舞台表演的場館地點
+#
+# 資料來源：content/data/concerts.yaml 與 stage-performances.yaml 的 venue 欄位。
+# 那兩個檔的 venue 只是顯示字串（場館名 + OSM 連結），本檔才是場館的地點資料。
+# 座標來源：venue href 的 OSM URL（16 筆）或 Nominatim search（3 筆），
+# 地址與行政區一律由 Nominatim 反查取得，未憑印象填寫。
+#
+# 待補：Legacy mini @ amba（查無此地點）、小地方（無法確認是展演空間或同名餐廳）、
+#       國家兩廳院（複合場館，紀錄未寫明是音樂廳／戲劇院／藝文廣場）
+
+locations:
+  # 臺灣 - 新北市
+  - id: zepp-new-taipei
+    name: Zepp New Taipei
+    lat: 25.059661
+    lon: 121.449499
+    country: 臺灣
+    city: 新北市
+    district: 新莊區
+    address: 新北市新莊區新北大道四段3號
+    date:
+      - "2022-10-30"
+      - "2023-07-23"
+      - "2023-11-04"
+      - "2023-11-30"
+
+  - id: linkou-gymnasium
+    name: 林口體育館
+    place_type: 體育館
+    lat: 25.0695
+    lon: 121.3647
+    country: 臺灣
+    city: 新北市
+    district: 林口區
+    address: 新北市林口區忠孝二路55號
+    date:
+      - "2024-06-22"
+
+  # 臺灣 - 臺北市
+  - id: dajia-riverside-park
+    name: 大佳河濱公園
+    place_type: 公園
+    lat: 25.07484
+    lon: 121.53364
+    country: 臺灣
+    city: 臺北市
+    district: 中山區
+    address: 臺北市中山區基隆河左岸自行車道
+    date:
+      - "2026-04-11"
+      - "2026-04-12"
+
+  - id: legacy-taipei
+    name: Legacy Taipei
+    lat: 25.045006
+    lon: 121.529077
+    country: 臺灣
+    city: 臺北市
+    district: 中正區
+    address: 臺北市中正區八德路一段1號
+    date:
+      - "2024-03-23"
+      - "2024-08-16"
+      - "2024-11-17"
+
+  - id: legacy-mini-haoqiu
+    name: Legacy mini @ 好丘
+    lat: 25.0313898
+    lon: 121.5618383
+    country: 臺灣
+    city: 臺北市
+    district: 信義區
+    address: 臺北市信義區松勤街54號
+
+  - id: nangang-exhibition-hall-1
+    name: 台北南港展覽館一館四樓
+    place_type: 展覽館
+    lat: 25.05676
+    lon: 121.61821
+    country: 臺灣
+    city: 臺北市
+    district: 南港區
+    address: 臺北市南港區經貿二路1號
+    date:
+      - "2026-05-10"
+
+  - id: taipei-music-center-hall
+    name: 臺北流行音樂中心 表演廳
+    place_type: 展演空間
+    lat: 25.051331
+    lon: 121.599037
+    country: 臺灣
+    city: 臺北市
+    district: 南港區
+    address: 臺北市南港區市民大道八段
+    date:
+      - "2022-11-26"
+      - "2024-02-07"
+      - "2024-06-01"
+      - "2025-11-30"
+
+  - id: taiwan-traditional-theatre-center
+    name: 臺灣戲曲中心
+    place_type: 戲曲中心
+    lat: 25.0882
+    lon: 121.525
+    country: 臺灣
+    city: 臺北市
+    district: 士林區
+    address: 臺北市士林區大東路15之1號
+    date:
+      - "2025-11-09"
+
+  - id: nuzone
+    name: NUZONE展演空間
+    place_type: 展演空間
+    lat: 25.044267
+    lon: 121.538205
+    country: 臺灣
+    city: 臺北市
+    district: 大安區
+    address: 臺北市大安區市民大道四段180;182;184;186;188號
+    date:
+      - "2024-01-20"
+
+  - id: witch-house
+    name: 女巫店
+    lat: 25.020462
+    lon: 121.5336634
+    country: 臺灣
+    city: 臺北市
+    district: 大安區
+    address: 臺北市大安區新生南路三段56巷7號
+
+  - id: leyoyo-guangfu-s
+    name: 樂悠悠之口 光復南
+    lat: 25.0436
+    lon: 121.5565
+    country: 臺灣
+    city: 臺北市
+    district: 大安區
+    address: 臺北市大安區延吉街131巷
+    date:
+      - "2025-11-29"
+
+  - id: moondog
+    name: MOONDOG
+    lat: 25.046322
+    lon: 121.544354
+    country: 臺灣
+    city: 臺北市
+    district: 松山區
+    address: 臺北市松山區復興南路一段31巷2號
+    date:
+      - "2026-08-01"
+
+  - id: taipei-arena
+    name: 台北小巨蛋
+    place_type: 巨蛋
+    lat: 25.0515
+    lon: 121.5505
+    country: 臺灣
+    city: 臺北市
+    district: 松山區
+    address: 臺北市松山區南京東路四段2之1號
+    date:
+      - "2024-08-11"
+
+  # 日本 - 橫濱市
+  - id: k-arena-yokohama
+    name: Kアリーナ横浜
+    place_type: 體育館
+    lat: 35.4658
+    lon: 139.6246
+    country: 日本
+    city: 橫濱市
+    district: 西區
+    address: 神奈川縣橫濱市西區高島二丁目1
+    date:
+      - "2025-04-26"
+      - "2026-03-01"
+
+  - id: pacifico-yokohama-national-hall
+    name: 橫濱國際平和會議場 國立大廳
+    place_type: 會議場
+    lat: 35.457
+    lon: 139.6365
+    country: 日本
+    city: 橫濱市
+    district: 西區
+    address: 神奈川縣橫濱市西區Minato Mirai
+    date:
+      - "2024-12-14"
+      - "2024-12-15"
+
+  # 日本 - 甲府市
+  - id: kofu-station-north-plaza
+    name: JR甲府駅北口よっちゃばれ広場・歴史公園
+    place_type: 公園
+    lat: 35.667518
+    lon: 138.570659
+    country: 日本
+    city: 甲府市
+    address: 山梨縣甲府市北口二丁目
+    date:
+      - "2024-06-08"
+
+  # 日本 - 福岡市
+  - id: fukuoka-sunpalace
+    name: 福岡太陽宮
+    lat: 33.5936
+    lon: 130.4017
+    country: 日本
+    city: 福岡市
+    district: 中央區
+    address: 福岡縣福岡市中央區天神四丁目
+    date:
+      - "2025-01-12"
+      - "2025-01-13"
+
+  # 美國 - 拉斯維加斯
+  - id: allegiant-stadium
+    name: Allegiant Stadium
+    place_type: 體育館
+    lat: 36.0908
+    lon: -115.183
+    country: 美國
+    city: 拉斯維加斯
+    address: 3333 Al Davis Way, 拉斯維加斯, 內華達州, 89118
+    date:
+      - "2024-03-16"
+
+  # 美國 - 紐約
+  - id: mckittrick-hotel
+    name: The McKittrick Hotel
+    lat: 40.7506815
+    lon: -74.0038103
+    country: 美國
+    city: 紐約
+    district: Manhattan
+    address: West 27th Street, 紐約, 紐約州, 10199
