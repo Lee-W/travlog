@@ -31,6 +31,30 @@ properties:
           x-osm-list-i18n:
             title:
               en: Icon
+        place_type:
+          # 與 pilgrimage/ 及 travel/ 一致的「類型 → emoji」集中對照。
+          # restaurant.yaml 與 other.yaml 沿用逐筆 `icon`，兩者可並存
+          # （`icon` 為顯式指定，place_type 為依類型推導）。
+          type: string
+          title: 類型
+          x-osm-list-hidden: true
+          x-osm-icon:
+            Livehouse: 🎸
+            展演空間: 🎤
+            體育館: 🏟️
+            巨蛋: 🏟️
+            展覽館: 🏢
+            劇場: 🎭
+            音樂廳: 🎻
+            戲曲中心: 🎎
+            公園: 🌳
+            藝廊: 🖼️
+            酒吧: 🍸
+            書店: 📖
+          x-osm-list-i18n:
+            title:
+              en: Type
+              ja: 種別
         rating:
           type: number
           title: 喜好程度
@@ -46,6 +70,13 @@ properties:
           minimum: -180
           maximum: 180
           x-osm-list-hidden: true
+        country:
+          type: string
+          title: 國家
+          x-osm-list-i18n:
+            title:
+              en: Country
+              ja: 国
         city:
           type: string
           title: 縣市
@@ -60,6 +91,18 @@ properties:
             title:
               en: District
               ja: 区域
+        date:
+          oneOf:
+            - type: string
+            - type: array
+              items:
+                type: string
+          title: 日期
+          x-osm-list-sort: max
+          x-osm-list-i18n:
+            title:
+              en: Date
+              ja: 日付
         status:
           type: string
           title: 狀態
