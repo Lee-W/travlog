@@ -143,6 +143,22 @@ properties:
             title:
               en: City
               ja: 都市
+        district:
+          type: string
+          title: 行政區
+          x-osm-list-hidden: true
+          x-osm-list-i18n:
+            title:
+              en: District
+              ja: 区域
+        address:
+          type: string
+          title: 地址
+          x-osm-list-hidden: true
+          x-osm-list-i18n:
+            title:
+              en: Address
+              ja: 住所
         tags:
           type: array
           items:
