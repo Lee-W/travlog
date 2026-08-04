@@ -1,5 +1,10 @@
+# 去過的餐廳
+#
+# rating 是選填：有評分代表「還想不想再去」；旅途中一次性的店留空。
+
+country: 臺灣
+
 locations:
-  # 台北 - 中山區
   - id: true-bao-maker
     name: 有情出包所 / True Bao Maker
     icon: 🏮
@@ -14,7 +19,6 @@ locations:
       - label: "有情出包所"
         href: "{filename}/posts/review/2026/10-true-bao-maker.md"
 
-  # 台北 - 大同區
   - id: vugka2025
     name: Vüg Ka 餐酒食
     icon: 🍷
@@ -28,6 +32,7 @@ locations:
     urls:
       - label: "Vüg Ka 餐酒食"
         href: "{filename}/posts/review/2026/15-vugka2025.md"
+
   - id: kakuregaramen
     name: 隱家拉麵 赤峰店
     icon: 🍜
@@ -41,6 +46,7 @@ locations:
     urls:
       - label: "隱家拉麵 赤峰店"
         href: "{filename}/posts/review/2026/16-kakuregaramen.md"
+
   - id: maskcatcafe
     name: 貓妝自家烘焙咖啡館
     icon: ☕
@@ -55,7 +61,6 @@ locations:
       - label: "貓妝自家烘焙咖啡館"
         href: "{filename}/posts/review/2026/29-maskcatcafe.md"
 
-  # 台北 - 信義區
   - id: ebisobaichigen
     name: 一幻拉麵 台北信義店
     icon: 🍜
@@ -69,6 +74,7 @@ locations:
     urls:
       - label: "一幻拉麵 台北信義店"
         href: "{filename}/posts/review/2026/20-ebisobaichigen.md"
+
   - id: gonokami
     name: 五之神製作所 台灣
     icon: 🍜
@@ -83,7 +89,6 @@ locations:
       - label: "五之神製作所 台灣"
         href: "{filename}/posts/review/2026/43-gonokami.md"
 
-  # 台北 - 大安區
   - id: chikara-ramen-xinyi
     name: 力量拉麵（信義店）
     icon: 🍜
@@ -98,7 +103,6 @@ locations:
       - label: "力量拉麵（信義店）"
         href: "{filename}/posts/review/2026/40-chikara-ramen-xinyi.md"
 
-  # 台北 - 松山區
   - id: hanoi-pho
     name: 河內河粉
     icon: 🍲
@@ -113,6 +117,7 @@ locations:
     urls:
       - label: "河內河粉"
         href: "{filename}/posts/review/2026/32-hanoi-pho.md"
+
   - id: pho-tam
     name: 八越河粉 Pho Tam
     icon: 🍲
@@ -127,7 +132,6 @@ locations:
       - label: "八越河粉 Pho Tam"
         href: "{filename}/posts/review/2026/39-pho-tam.md"
 
-  # 基隆 - 仁愛區
   - id: yodo-ramen
     name: 羽都麵屋
     icon: 🍜
@@ -142,7 +146,6 @@ locations:
       - label: "羽都麵屋"
         href: "{filename}/posts/review/2026/41-yodo-ramen.md"
 
-  # 台南 - 中西區
   - id: a-wen-mi-guo
     name: 阿文米粿
     rating: 4.2
@@ -156,7 +159,6 @@ locations:
       - label: "阿文米粿"
         href: "{filename}/posts/review/2026/44-a-wen-mi-guo.md"
 
-  # 台南 - 南區
   - id: hou-nai-ximen
     name: 厚奶的我們 西門店
     rating: 4.1
@@ -171,7 +173,6 @@ locations:
       - label: "厚奶的我們 西門店"
         href: "{filename}/posts/review/2026/45-hou-nai-ximen.md"
 
-  # 台南 - 歸仁區
   - id: pomunoki-tainan
     name: ポムの樹 台南三井店
     rating: 4.7
@@ -185,7 +186,6 @@ locations:
       - label: "ikuka 蛋包飯"
         href: "{filename}/posts/travel/2026/08-pomunoki-tainan.md"
 
-  # 台南 - 北區
   - id: seikaku
     name: 性格せいかく
     rating: 5
@@ -200,49 +200,11 @@ locations:
       - label: "性格せいかく"
         href: "{filename}/posts/review/2026/45-seikaku.md"
 
-  # 日本 - 京都
-  - id: itohkyuemon
-    name: 伊藤久右衛門
-    icon: 🍵
-    lat: 34.8913380
-    lon: 135.8062039
-    country: 日本
-    city: 京都
-    district: 宇治市
-    address: 京都府宇治市平等院表参道
-    tags: [抹茶, 和菓子]
-
-  # 日本 - 東京
-  - id: kamiya-bar
-    name: 神谷バー
-    icon: 🍸
-    lat: 35.7109207
-    lon: 139.7975062
-    country: 日本
-    city: 東京
-    district: 台東区
-    address: 東京都台東区浅草一丁目1
-    tags: [酒吧]
-
-  # 日本 - 山梨
-  - id: kosaku-yamanakako
-    name: 小作 山中湖店
-    icon: 🍜
-    lat: 35.4138755
-    lon: 138.8603629
-    country: 日本
-    city: 山梨
-    district: 山中湖村
-    address: 山梨県南都留郡山中湖村国道138号
-    tags: [ほうとう]
-
-  # 臺灣 - 苗栗縣
   - id: lujiao-coffee
     name: 鹿角咖啡
     icon: ☕
     lat: 24.3956050
     lon: 120.7853329
-    country: 臺灣
     city: 苗栗縣
     district: 三義鄉
     address: 苗栗縣三義鄉雙潭村櫻花步道

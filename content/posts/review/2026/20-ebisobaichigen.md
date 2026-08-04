@@ -11,7 +11,7 @@ Authors: Wei Lee
 
 <!--more-->
 
-{% place restaurant.yaml#ebisobaichigen %}
+{% place restaurant/taiwan.yaml#ebisobaichigen %}
 
 一幻拉麵一直都是我很喜歡的蝦味拉麵
 尤其是它的叉燒飯，真的很讚

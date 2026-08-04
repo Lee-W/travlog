@@ -10,7 +10,7 @@ Authors: Wei Lee
 
 <!--more-->
 
-{% place restaurant.yaml#hou-nai-ximen %}
+{% place restaurant/taiwan.yaml#hou-nai-ximen %}
 
 ![storefront](/images/post-images/2026/hou-nai-ximen/storefront.jpeg)
 

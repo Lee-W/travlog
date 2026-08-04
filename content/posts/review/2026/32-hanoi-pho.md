@@ -14,7 +14,7 @@ Authors: Wei Lee
 
 聽說這已經是台北河粉的必修，不是選擇題
 
-{% place restaurant.yaml#hanoi-pho %}
+{% place restaurant/taiwan.yaml#hanoi-pho %}
 
 自從我開始打拳擊，就開始吃到現在，算一算也有 5 年了
 即便我搬到打完拳擊還得繞路才能到的地方，我也還是會去吃
