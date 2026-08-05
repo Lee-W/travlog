@@ -3,11 +3,23 @@
 
 - flag: 🇹🇼
   title:
+    text: "櫻川惠・小日向美香 Special Party in Taipei"
+    href: https://baodaorecords.kktix.cc/events/6b8019fc
+  date: 2026-08-01
+  year: 2026
+  venue:
+    text: MOONDOG
+    href: https://www.openstreetmap.org/?#map=16/25.046322/121.544354
+
+- flag: 🇹🇼
+  title:
     text: "ANISAMA in TAIPEI 2026 -DOSHA！"
     href: https://daydreamerstudio.kktix.cc/events/a3b6c62e
   date: 2026-05-10
   year: 2026
-  venue: 台北南港展覽館一館四樓
+  venue:
+    text: 台北南港展覽館一館四樓
+    href: https://www.openstreetmap.org/?#map=16/25.05676/121.61821
 
 - flag: 🇹🇼
   title:
