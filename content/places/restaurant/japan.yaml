@@ -10,6 +10,8 @@ locations:
     icon: 🍵
     lat: 34.8913380
     lon: 135.8062039
+    osm_type: node
+    osm_id: 2787312360
     city: 京都
     district: 宇治市
     address: 京都府宇治市平等院表参道
@@ -20,6 +22,8 @@ locations:
     icon: 🍸
     lat: 35.7109207
     lon: 139.7975062
+    osm_type: node
+    osm_id: 1138633140
     city: 東京
     district: 台東区
     address: 東京都台東区浅草一丁目1
@@ -30,6 +34,8 @@ locations:
     icon: 🍜
     lat: 35.4138755
     lon: 138.8603629
+    osm_type: node
+    osm_id: 7152962985
     city: 山梨
     district: 山中湖村
     address: 山梨県南都留郡山中湖村国道138号

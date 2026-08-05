@@ -205,6 +205,8 @@ locations:
     icon: ☕
     lat: 24.3956050
     lon: 120.7853329
+    osm_type: node
+    osm_id: 11358243918
     city: 苗栗縣
     district: 三義鄉
     address: 苗栗縣三義鄉雙潭村櫻花步道

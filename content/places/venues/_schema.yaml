@@ -43,6 +43,7 @@ properties:
         - $ref: "../_common.yaml#/$defs/field_city"
         - $ref: "../_common.yaml#/$defs/field_visit_status_and_lists"
         - $ref: "../_common.yaml#/$defs/field_address"
+        - $ref: "../_common.yaml#/$defs/field_osm_ref"
       properties:
         name:
           type: string

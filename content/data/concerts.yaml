@@ -7,9 +7,7 @@
     href: https://baodaorecords.kktix.cc/events/6b8019fc
   date: 2026-08-01
   year: 2026
-  venue:
-    text: MOONDOG
-    href: https://www.openstreetmap.org/?#map=16/25.046322/121.544354
+  venue_ref: places/venues/taiwan.yaml#moondog
 
 - flag: 🇹🇼
   title:
@@ -17,9 +15,7 @@
     href: https://daydreamerstudio.kktix.cc/events/a3b6c62e
   date: 2026-05-10
   year: 2026
-  venue:
-    text: 台北南港展覽館一館四樓
-    href: https://www.openstreetmap.org/?#map=16/25.05676/121.61821
+  venue_ref: places/venues/taiwan.yaml#nangang-exhibition-hall-1
 
 - flag: 🇹🇼
   title:
@@ -27,9 +23,7 @@
     href: https://bang-dream.com/bsl-taipei2026
   date: 2026-04-12
   year: 2026
-  venue:
-    text: 大佳河濱公園
-    href: https://www.openstreetmap.org/?#map=16/25.07484/121.53364
+  venue_ref: places/venues/taiwan.yaml#dajia-riverside-park
 
 - flag: 🇹🇼
   title:
@@ -37,9 +31,7 @@
     href: https://bang-dream.com/bsl-taipei2026
   date: 2026-04-11
   year: 2026
-  venue:
-    text: 大佳河濱公園
-    href: https://www.openstreetmap.org/?#map=16/25.07484/121.53364
+  venue_ref: places/venues/taiwan.yaml#dajia-riverside-park
 
 - flag: 🇹🇼
   title: 大港開唱 2026
@@ -52,9 +44,7 @@
     href: https://bang-dream.com/events/mygo-avemujica2026
   date: 2026-03-01
   year: 2026
-  venue:
-    text: Kアリーナ横浜
-    href: https://www.openstreetmap.org/?mlat=35.4658&mlon=139.6246#map=17/35.4658/139.6246
+  venue_ref: places/venues/japan.yaml#k-arena-yokohama
 
 - flag: 🇹🇼
   title:
@@ -62,9 +52,7 @@
     href: https://ocftw.kktix.cc/events/mongtong
   date: 2025-11-30
   year: 2025
-  venue:
-    text: 臺北流行音樂中心 表演廳
-    href: https://www.openstreetmap.org/?mlat=25.0513&mlon=121.5990#map=19/25.051331/121.599037
+  venue_ref: places/venues/taiwan.yaml#taipei-music-center-hall
 
 - flag: 🇹🇼
   title:
@@ -72,9 +60,7 @@
     href: https://go.fansi.me/events/170086
   date: 2025-11-29
   year: 2025
-  venue:
-    text: 樂悠悠之口 光復南
-    href: https://www.openstreetmap.org/?mlat=25.0436&mlon=121.5565#map=17/25.0436/121.5565
+  venue_ref: places/venues/taiwan.yaml#leyoyo-guangfu-s
 
 - flag: 🇹🇼
   title:
@@ -82,9 +68,7 @@
     href: https://ticket.ibon.com.tw/ActivityInfo/Details/39082
   date: 2025-11-09
   year: 2025
-  venue:
-    text: 臺灣戲曲中心
-    href: https://www.openstreetmap.org/?mlat=25.0882&mlon=121.5250#map=17/25.0882/121.5250
+  venue_ref: places/venues/taiwan.yaml#taiwan-traditional-theatre-center
 
 - flag: 💻
   title:
@@ -100,9 +84,7 @@
     href: https://bang-dream.com/events/mygo-avemujica2025
   date: 2025-04-26
   year: 2025
-  venue:
-    text: Kアリーナ横浜
-    href: https://www.openstreetmap.org/?mlat=35.4658&mlon=139.6246#map=17/35.4658/139.6246
+  venue_ref: places/venues/japan.yaml#k-arena-yokohama
 
 - flag: 🇹🇼
   title:
@@ -115,41 +97,31 @@
   title: Aimer Hall Tour 2024-2025
   date: 2025-01-13
   year: 2025
-  venue:
-    text: 福岡太陽宮
-    href: https://www.openstreetmap.org/?mlat=33.5936&mlon=130.4017#map=17/33.5936/130.4017
+  venue_ref: places/venues/japan.yaml#fukuoka-sunpalace
 
 - flag: 🇯🇵
   title: Aimer Hall Tour 2024-2025
   date: 2025-01-12
   year: 2025
-  venue:
-    text: 福岡太陽宮
-    href: https://www.openstreetmap.org/?mlat=33.5936&mlon=130.4017#map=17/33.5936/130.4017
+  venue_ref: places/venues/japan.yaml#fukuoka-sunpalace
 
 - flag: 🇯🇵
   title: Aimer Hall Tour 2024-2025
   date: 2024-12-15
   year: 2024
-  venue:
-    text: 橫濱國際平和會議場 國立大廳
-    href: https://www.openstreetmap.org/?mlat=35.4570&mlon=139.6365#map=17/35.4570/139.6365
+  venue_ref: places/venues/japan.yaml#pacifico-yokohama-national-hall
 
 - flag: 🇯🇵
   title: Aimer Hall Tour 2024-2025
   date: 2024-12-14
   year: 2024
-  venue:
-    text: 橫濱國際平和會議場 國立大廳
-    href: https://www.openstreetmap.org/?mlat=35.4570&mlon=139.6365#map=17/35.4570/139.6365
+  venue_ref: places/venues/japan.yaml#pacifico-yokohama-national-hall
 
 - flag: 🇹🇼
   title: "伍佰 & China Blue 2024 搖滾音樂會－台北站"
   date: 2024-11-17
   year: 2024
-  venue:
-    text: Legacy Taipei
-    href: https://www.openstreetmap.org/?#map=19/25.045006/121.529077
+  venue_ref: places/venues/taiwan.yaml#legacy-taipei
 
 - flag: 💻
   title:
@@ -194,9 +166,7 @@
     href: https://atctwn.kktix.cc/events/f0afd041
   date: 2024-08-16
   year: 2024
-  venue:
-    text: Legacy Taipei
-    href: https://www.openstreetmap.org/?#map=19/25.045006/121.529077
+  venue_ref: places/venues/taiwan.yaml#legacy-taipei
 
 - flag: 🇹🇼
   title:
@@ -204,9 +174,7 @@
     href: https://ticketplus.com.tw/activity/3febb9827897f445ab3c1eb5b2974ac2
   date: 2024-08-11
   year: 2024
-  venue:
-    text: 台北小巨蛋
-    href: https://www.openstreetmap.org/?mlat=25.0515&mlon=121.5505#map=17/25.0515/121.5505
+  venue_ref: places/venues/taiwan.yaml#taipei-arena
 
 - flag: 🇹🇼
   title:
@@ -214,17 +182,13 @@
     href: https://amuse-binlive.kktix.cc/events/f628bb3d
   date: 2024-06-22
   year: 2024
-  venue:
-    text: 林口體育館
-    href: https://www.openstreetmap.org/?mlat=25.0695&mlon=121.3647#map=17/25.0695/121.3647
+  venue_ref: places/venues/taiwan.yaml#linkou-gymnasium
 
 - flag: 🇯🇵
   title: ゆるキャン△音楽祭2024
   date: 2024-06-08
   year: 2024
-  venue:
-    text: JR甲府駅北口よっちゃばれ広場・歴史公園
-    href: https://www.openstreetmap.org/?mlat=35.6675&mlon=138.5706#map=19/35.667518/138.570659
+  venue_ref: places/venues/japan.yaml#kofu-station-north-plaza
 
 - flag: 🇹🇼
   title:
@@ -232,9 +196,7 @@
     href: https://www.tmc.taipei/blog/show/nierorchestra-concert-12024/
   date: 2024-06-01
   year: 2024
-  venue:
-    text: 臺北流行音樂中心 表演廳
-    href: https://www.openstreetmap.org/?mlat=25.0513&mlon=121.5990#map=19/25.051331/121.599037
+  venue_ref: places/venues/taiwan.yaml#taipei-music-center-hall
 
 - flag: 💻
   title:
@@ -248,9 +210,7 @@
   title: ALI 愛楽舞貳零貳肆台灣
   date: 2024-03-23
   year: 2024
-  venue:
-    text: Legacy Taipei
-    href: https://www.openstreetmap.org/?#map=19/25.045006/121.529077
+  venue_ref: places/venues/taiwan.yaml#legacy-taipei
 
 - flag: 🇺🇸
   title:
@@ -258,9 +218,7 @@
     href: https://www.allegiantstadium.com/events/detail/twice-2024
   date: 2024-03-16
   year: 2024
-  venue:
-    text: Allegiant Stadium
-    href: https://www.openstreetmap.org/?mlat=36.0908&mlon=-115.1830#map=17/36.0908/-115.1830
+  venue_ref: places/venues/usa.yaml#allegiant-stadium
 
 - flag: 💻
   title:
@@ -276,9 +234,7 @@
     href: https://ticketplus.com.tw/activity/54fdee72c71c18cc2b694801e11e77cd
   date: 2024-02-07
   year: 2024
-  venue:
-    text: 臺北流行音樂中心 表演廳
-    href: https://www.openstreetmap.org/?mlat=25.0513&mlon=121.5990#map=19/25.051331/121.599037
+  venue_ref: places/venues/taiwan.yaml#taipei-music-center-hall
 
 - flag: 🇹🇼
   title:
@@ -286,9 +242,7 @@
     href: https://gutsrecords.kktix.cc/events/ejfjo
   date: 2024-01-20
   year: 2024
-  venue:
-    text: NUZONE展演空間
-    href: https://www.openstreetmap.org/?mlat=25.0442&mlon=121.5382#map=19/25.044267/121.538205
+  venue_ref: places/venues/taiwan.yaml#nuzone
 
 - flag: 💻
   title: ANIPLEX 20th Anniversary Event -THANX-
@@ -305,9 +259,7 @@
   title: "Hey Taipei，I'm milet※追加場"
   date: 2023-11-30
   year: 2023
-  venue:
-    text: Zepp New Taipei
-    href: https://www.openstreetmap.org/node/13353295908#map=19/25.059661/121.449499
+  venue_ref: places/venues/taiwan.yaml#zepp-new-taipei
 
 - flag: 🇯🇵
   title: HIROMI ～SOLO～
@@ -324,9 +276,7 @@
   title: 30th Anniversary Yuki Kajiura LIVE vol.#18〜The PARADE goes on〜 in Taipei
   date: 2023-11-04
   year: 2023
-  venue:
-    text: Zepp New Taipei
-    href: https://www.openstreetmap.org/node/13353295908#map=19/25.059661/121.449499
+  venue_ref: places/venues/taiwan.yaml#zepp-new-taipei
 
 - flag: 🇹🇼
   title: 2023兩廳院夏日爵士 庫特．艾靈與查理．杭特《SuperBlue》
@@ -337,9 +287,7 @@
   title: RADWIMPS Asian Tour 2023 in Taipei
   date: 2023-07-23
   year: 2023
-  venue:
-    text: Zepp New Taipei
-    href: https://www.openstreetmap.org/node/13353295908#map=19/25.059661/121.449499
+  venue_ref: places/venues/taiwan.yaml#zepp-new-taipei
 
 - flag: 🇹🇼
   title: "Distant Worlds: music from FINAL FANTASY"
@@ -371,17 +319,13 @@
   title: 落日飛車【夕陽流行音樂中心】演唱會
   date: 2022-11-26
   year: 2022
-  venue:
-    text: 臺北流行音樂中心 表演廳
-    href: https://www.openstreetmap.org/?mlat=25.0513&mlon=121.5990#map=19/25.051331/121.599037
+  venue_ref: places/venues/taiwan.yaml#taipei-music-center-hall
 
 - flag: 🇹🇼
   title: Yuki Kajiura LIVE vol.#17 台灣播映場
   date: 2022-10-30
   year: 2022
-  venue:
-    text: Zepp New Taipei
-    href: https://www.openstreetmap.org/node/13353295908#map=19/25.059661/121.449499
+  venue_ref: places/venues/taiwan.yaml#zepp-new-taipei
 
 - flag: 🇹🇼
   title: 天外奇蹟 | 電影交響音樂會
@@ -403,7 +347,7 @@
   title: 此刻。（江松霖）
   date: 2021-11-21
   year: 2021
-  venue: Legacy mini @ 好丘
+  venue_ref: places/venues/taiwan.yaml#legacy-mini-haoqiu
 
 - flag: 💻
   title: 第5回京阿尼粉絲感謝祭 KYOANI MUSIC FESTIVAL ―致未來的感動―

@@ -10,16 +10,11 @@ locations:
     name: Zepp New Taipei
     lat: 25.059661
     lon: 121.449499
+    osm_type: node
+    osm_id: 13353295908
     city: 新北市
     district: 新莊區
     address: 新北市新莊區中原里新北大道四段3號8樓
-    date:
-      - "2022-10-30"
-      - "2023-07-23"
-      - "2023-11-04"
-      - "2023-11-30"
-      - "2024-10-25"
-      - "2025-03-12"
 
   - id: linkou-gymnasium
     name: 林口體育館
@@ -29,20 +24,17 @@ locations:
     city: 新北市
     district: 林口區
     address: 新北市林口區忠孝二路55號
-    date:
-      - "2024-06-22"
 
   - id: dajia-riverside-park
     name: 大佳河濱公園
     place_type: 公園
     lat: 25.07484
     lon: 121.53364
+    osm_type: relation
+    osm_id: 11791159
     city: 臺北市
     district: 中山區
     address: 臺北市中山區基隆河左岸自行車道
-    date:
-      - "2026-04-11"
-      - "2026-04-12"
 
   - id: legacy-taipei
     name: Legacy Taipei
@@ -51,10 +43,6 @@ locations:
     city: 臺北市
     district: 中正區
     address: 臺北市中正區八德路一段1號
-    date:
-      - "2024-03-23"
-      - "2024-08-16"
-      - "2024-11-17"
 
   - id: national-concert-hall
     name: 國家音樂廳
@@ -64,15 +52,13 @@ locations:
     city: 臺北市
     district: 中正區
     address: 臺北市中正區東門里中山南路21-1號
-    date:
-      - "2019-01-19"
-      - "2019-09-07"
-      - "2019-09-08"
 
   - id: legacy-mini-haoqiu
     name: Legacy mini @ 好丘
     lat: 25.0313898
     lon: 121.5618383
+    osm_type: node
+    osm_id: 3750783999
     city: 臺北市
     district: 信義區
     address: 臺北市信義區松勤街54號
@@ -85,8 +71,6 @@ locations:
     city: 臺北市
     district: 南港區
     address: 臺北市南港區經貿二路1號
-    date:
-      - "2026-05-10"
 
   - id: taipei-music-center-hall
     name: 臺北流行音樂中心 表演廳
@@ -96,11 +80,6 @@ locations:
     city: 臺北市
     district: 南港區
     address: 臺北市南港區市民大道八段
-    date:
-      - "2022-11-26"
-      - "2024-02-07"
-      - "2024-06-01"
-      - "2025-11-30"
 
   - id: taiwan-traditional-theatre-center
     name: 臺灣戲曲中心
@@ -110,8 +89,6 @@ locations:
     city: 臺北市
     district: 士林區
     address: 臺北市士林區大東路15之1號
-    date:
-      - "2025-11-09"
 
   - id: nuzone
     name: NUZONE展演空間
@@ -121,13 +98,13 @@ locations:
     city: 臺北市
     district: 大安區
     address: 臺北市大安區市民大道四段180;182;184;186;188號
-    date:
-      - "2024-01-20"
 
   - id: witch-house
     name: 女巫店
     lat: 25.020462
     lon: 121.5336634
+    osm_type: node
+    osm_id: 738835404
     city: 臺北市
     district: 大安區
     address: 臺北市大安區新生南路三段56巷7號
@@ -139,8 +116,6 @@ locations:
     city: 臺北市
     district: 大安區
     address: 臺北市大安區延吉街131巷
-    date:
-      - "2025-11-29"
 
   - id: moondog
     name: MOONDOG
@@ -149,8 +124,6 @@ locations:
     city: 臺北市
     district: 松山區
     address: 臺北市松山區復興南路一段31巷2號
-    date:
-      - "2026-08-01"
 
   - id: taipei-arena
     name: 台北小巨蛋
@@ -160,5 +133,3 @@ locations:
     city: 臺北市
     district: 松山區
     address: 臺北市松山區南京東路四段2之1號
-    date:
-      - "2024-08-11"

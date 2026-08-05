@@ -7,6 +7,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8136512
     lon: -117.9197351
+    osm_type: relation
+    osm_id: 5586855
     city: Anaheim
     address: "1313 South Harbor Boulevard, Anaheim Resort District, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
@@ -16,6 +18,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8143297
     lon: -117.9217609
+    osm_type: way
+    osm_id: 708338427
     city: Anaheim
     address: "Anaheim Resort District, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
@@ -24,6 +28,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8118694
     lon: -117.9174060
+    osm_type: way
+    osm_id: 168831480
     city: Anaheim
     address: "Movie Circle, Anaheim Resort District, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
@@ -32,6 +38,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8120242
     lon: -117.9164819
+    osm_type: way
+    osm_id: 30658951
     city: Anaheim
     address: "360 Tomorrowland Terrace Tunnel, Anaheim Resort District, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
@@ -40,6 +48,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8144229
     lon: -117.9210312
+    osm_type: node
+    osm_id: 6348919347
     city: Anaheim
     address: "1313 South Harbor Boulevard, Anaheim Resort District, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
@@ -49,6 +59,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8148293
     lon: -117.9209220
+    osm_type: node
+    osm_id: 6348928544
     city: Anaheim
     address: "1313 South Harbor Boulevard, Anaheim Resort District, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
@@ -57,6 +69,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8146259
     lon: -117.9212114
+    osm_type: node
+    osm_id: 6348919345
     city: Anaheim
     address: "1313 South Harbor Boulevard, Anaheim Resort District, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
@@ -65,6 +79,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8152150
     lon: -117.9213954
+    osm_type: way
+    osm_id: 515673763
     city: Anaheim
     address: "West Service Road, Neff, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
@@ -73,6 +89,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8144533
     lon: -117.9217796
+    osm_type: node
+    osm_id: 6348919344
     city: Anaheim
     address: "SWGE Docking Bay 7 Patio, Anaheim Resort District, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
@@ -81,6 +99,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8144613
     lon: -117.9217017
+    osm_type: node
+    osm_id: 6348919348
     city: Anaheim
     address: "SWGE Docking Bay 7 Patio, Anaheim Resort District, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
@@ -90,6 +110,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8144536
     lon: -117.9216461
+    osm_type: node
+    osm_id: 6348928545
     city: Anaheim
     address: "SWGE Docking Bay 7 Patio, Anaheim Resort District, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
@@ -99,6 +121,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8144279
     lon: -117.9215047
+    osm_type: node
+    osm_id: 6348928542
     city: Anaheim
     address: "1313 South Harbor Boulevard, Anaheim Resort District, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
@@ -108,6 +132,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8146930
     lon: -117.9214898
+    osm_type: node
+    osm_id: 6348928543
     city: Anaheim
     address: "1313 South Harbor Boulevard, Anaheim Resort District, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
@@ -116,6 +142,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8145463
     lon: -117.9203435
+    osm_type: way
+    osm_id: 617512969
     city: Anaheim
     address: "SWGE Landport Walkway, Anaheim Resort District, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
@@ -124,6 +152,8 @@ locations:
     trip: "Star Wars: Galaxy's Edge 初訪（2019）"
     lat: 33.8139772
     lon: -117.9228161
+    osm_type: node
+    osm_id: 6348919349
     city: Anaheim
     address: "1313 South Harbor Boulevard, Anaheim Resort District, 安納海姆, 加利福尼亞州"
     date: "2019-06-01"
