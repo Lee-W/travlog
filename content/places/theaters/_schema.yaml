@@ -3,14 +3,25 @@ title: Theater preferences
 description: >
   影城個人偏好。dict-of-places 形式：key 為 slug id，value 為影城物件。
   Properties listed in current display order — reorder freely as preferences shift.
+  引用 ../_common.yaml 的 field_city / field_address 兩組共用欄位——影城偏好
+  沒有造訪日期/狀態/標籤/網址的概念，所以不引用 field_visit_status_and_lists，
+  避免那些欄位以「已宣告但影城資料不會填」的姿態出現在 place_list 欄位提示裡；
+  name/lat(not hidden)/lon(not hidden)/country(not hidden)/district(hidden) 因
+  title 或 x-osm-list-hidden 隨領域而異，在此完整覆寫；items（影廳巢狀清單）
+  為影城專有結構。
 type: object
 
 additionalProperties:
   type: object
   required: [name, lat, lon]
+  allOf:
+    - $ref: "../_common.yaml#/$defs/field_city"
+    - $ref: "../_common.yaml#/$defs/field_address"
   properties:
 
     # ── Summary-header fields (group_summary_at="country,city,name") ────
+    # city 沿用 ../_common.yaml 的定義（not hidden，與此處其他 summary-header
+    # 欄位一致），不需在此覆寫。
     country:
       type: string
       title: 國家
@@ -18,13 +29,6 @@ additionalProperties:
         title:
           en: Country
           ja: 国
-    city:
-      type: string
-      title: 縣市
-      x-osm-list-i18n:
-        title:
-          en: City
-          ja: 都市
     name:
       type: string
       title: 影城
@@ -104,14 +108,6 @@ additionalProperties:
                 ja: 座席備考
 
     # ── Hidden parent fields ────────────────────────────────────────────
-    address:
-      type: string
-      title: 地址
-      x-osm-list-hidden: true
-      x-osm-list-i18n:
-        title:
-          en: Address
-          ja: 住所
     district:
       type: string
       title: 行政區

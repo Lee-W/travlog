@@ -1,0 +1,144 @@
+# 共用欄位定義庫，供 content/places/ 下 7 份 _schema.yaml 以 $ref 引用。
+# 這份檔案本身不是可獨立使用的 schema（沒有 $schema/type: object 頂層宣告），
+# 只是 $defs 容器——pelican-osm 的 $ref 解析與 place_list 顯示提示收集都支援
+# cross-file $defs 查找（見 pelican-osm README「Sharing definitions across
+# schemas with $ref」一節）。
+#
+# 拆成多個小 $defs（而非單一大物件）是刻意的：pelican-osm 收集 place_list
+# 欄位提示（title / x-osm-list-*）時，是把「容器層級」的 $ref 解析結果當
+# outer、容器自己的 properties 當 inner override；它不支援「單一欄位值本身
+# 是 $ref」這種寫法（那樣解析不到 title，欄位會整個從顯示提示消失）。
+# 而 7 份 schema 用到的欄位子集彼此不同（例如 theaters 只用 city/address，
+# pilgrimage 沒有 address 但有 notes/images），若塞進同一個大物件再逐檔覆寫
+# 掉不要的欄位，會讓引用端充滿「把它清空」的雜訊、還很容易漏改。
+# 所以改成按實際共同出現的組合分組，每個 _schema.yaml 只 allOf 它真正需要
+# 的組合，不多不少，渲染輸出才會跟重構前逐位元組一致。
+#
+# name / lat / lon / place_type / country / district 因 title 或
+# x-osm-list-hidden 隨領域而異（或該領域用不到），各 _schema.yaml 自行完整
+# 覆寫，不放在這裡；locations 容器結構、以及 work / trip / items 等各領域
+# 專有欄位同樣留在各自的 _schema.yaml。
+$defs:
+  # id：root / restaurant / venues 三檔共用。
+  field_id:
+    type: object
+    properties:
+      id:
+        type: string
+        x-osm-list-hidden: true
+
+  # icon / rating / visit_note：root / restaurant 兩檔共用
+  # （「個人策展」相關欄位，逐店評分與造訪心得，其餘領域不適用）。
+  field_personal_curation:
+    type: object
+    properties:
+      icon:
+        type: string
+        title: 圖示
+        x-osm-list-hidden: true
+        x-osm-list-i18n:
+          title:
+            en: Icon
+      rating:
+        type: number
+        title: 喜好程度
+        minimum: 1
+        maximum: 5
+      visit_note:
+        type: string
+        title: 造訪備註
+        x-osm-list-i18n:
+          title:
+            en: Visit note
+
+  # city：全部 7 檔共用，唯一橫跨所有領域的地理欄位
+  # （lat/lon/country/district 各領域 title 或 hidden 不同，留在引用端覆寫）。
+  field_city:
+    type: object
+    properties:
+      city:
+        type: string
+        title: 縣市
+        x-osm-list-i18n:
+          title:
+            en: City
+            ja: 都市
+
+  # date / status / closed_date / tags / urls：造訪狀態與清單型欄位核心，
+  # root / restaurant / venues / travel / pilgrimage / pilgrimage-wishlist
+  # 六檔共用（theaters 是影廳偏好清單，沒有造訪日期/狀態的概念，不適用）。
+  field_visit_status_and_lists:
+    type: object
+    properties:
+      date:
+        oneOf:
+          - type: string
+          - type: array
+            items:
+              type: string
+        title: 日期
+        x-osm-list-sort: max
+        x-osm-list-i18n:
+          title:
+            en: Date
+            ja: 日付
+      status:
+        type: string
+        title: 狀態
+        x-osm-list-i18n:
+          title:
+            en: Status
+            ja: 状態
+      closed_date:
+        type: string
+        title: 歇業時間
+        x-osm-list-i18n:
+          title:
+            en: Closed
+            ja: 閉店時期
+      tags:
+        type: array
+        items:
+          type: string
+      urls:
+        type: array
+        items:
+          type: object
+          properties:
+            label:
+              type: string
+            href:
+              type: string
+
+  # address：root / restaurant / venues / travel / theaters 五檔共用
+  # （pilgrimage / pilgrimage-wishlist 的聖地巡禮地點不記門牌地址，沒有此欄位）。
+  field_address:
+    type: object
+    properties:
+      address:
+        type: string
+        title: 地址
+        x-osm-list-hidden: true
+        x-osm-list-i18n:
+          title:
+            en: Address
+            ja: 住所
+
+  # notes / images：travel / pilgrimage / pilgrimage-wishlist 三檔共用
+  # （敘事性備註＋隨筆照片，root/restaurant/venues 用 visit_note 取代，
+  # theaters 不適用）。
+  field_notes_and_images:
+    type: object
+    properties:
+      notes:
+        type: string
+        title: 備註
+        x-osm-list-i18n:
+          title:
+            en: Note
+            ja: 備考
+      images:
+        type: array
+        items:
+          type: string
+        x-osm-list-hidden: true

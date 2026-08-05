@@ -4,6 +4,13 @@ description: >
   動漫聖地巡禮。locations-based 形式：top-level 為檔案層 metadata（合併進每筆 location），
   locations 為地點清單。Property order mirrors current column display order
   (group_by="work,country,city" group_summary_at="work") — reorder freely.
+  引用 ../_common.yaml 的 field_city / field_visit_status_and_lists /
+  field_notes_and_images 三組共用欄位（沒有 field_id / field_personal_curation
+  / field_address——聖地巡禮地點不記門牌地址，也沒有逐店 id 或評分）；
+  name/lat(not hidden)/lon(not hidden)/country(not hidden) 因 title 或
+  x-osm-list-hidden 隨領域而異，在此完整覆寫；work/place_type 為聖地巡禮專有
+  （place_type 的 x-osm-icon 對照表與 pilgrimage/ 共用同一份內容，但因分屬
+  不同檔案、各自維護一份定義，非透過 $ref）。
 type: object
 required: [locations]
 properties:
@@ -28,6 +35,10 @@ properties:
     items:
       type: object
       required: [name, lat, lon]
+      allOf:
+        - $ref: "../_common.yaml#/$defs/field_city"
+        - $ref: "../_common.yaml#/$defs/field_visit_status_and_lists"
+        - $ref: "../_common.yaml#/$defs/field_notes_and_images"
       properties:
         name:
           type: string
@@ -72,39 +83,6 @@ properties:
           type: number
           minimum: -180
           maximum: 180
-        notes:
-          type: string
-          title: 備註
-          x-osm-list-i18n:
-            title:
-              en: Note
-              ja: 備考
-        status:
-          type: string
-          title: 狀態
-          x-osm-list-i18n:
-            title:
-              en: Status
-              ja: 状態
-        closed_date:
-          type: string
-          title: 歇業時間
-          x-osm-list-i18n:
-            title:
-              en: Closed
-              ja: 閉店時期
-        date:
-          oneOf:
-            - type: string
-            - type: array
-              items:
-                type: string
-          title: 日期
-          x-osm-list-sort: max
-          x-osm-list-i18n:
-            title:
-              en: Date
-              ja: 日付
         country:
           type: string
           title: 國家
@@ -112,28 +90,3 @@ properties:
             title:
               en: Country
               ja: 国
-        city:
-          type: string
-          title: 縣市
-          x-osm-list-i18n:
-            title:
-              en: City
-              ja: 都市
-        tags:
-          type: array
-          items:
-            type: string
-        images:
-          type: array
-          items:
-            type: string
-          x-osm-list-hidden: true
-        urls:
-          type: array
-          items:
-            type: object
-            properties:
-              label:
-                type: string
-              href:
-                type: string

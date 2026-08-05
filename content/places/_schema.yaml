@@ -6,6 +6,11 @@ description: >
   YAML file directly under content/places/.
   餐廳、場館、旅遊、電影院都已改為「一個子目錄一類、一個檔案一個國家」，
   各自有自己的 _schema.yaml；只剩雜項地點還留在根層級。
+  引用 ./_common.yaml 的 field_id / field_personal_curation / field_city /
+  field_visit_status_and_lists / field_address 五組共用欄位（id、圖示評分、
+  縣市、日期狀態標籤網址、地址）；name/lat(hidden)/lon(hidden)/
+  country(not hidden)/district(not hidden) 因 title 或 x-osm-list-hidden 隨
+  領域而異，在此完整覆寫；place_type 是雜項地點專用的 x-osm-icon 對照表。
 type: object
 additionalProperties: true
 properties:
@@ -15,10 +20,13 @@ properties:
       type: object
       additionalProperties: true
       required: [name, lat, lon]
+      allOf:
+        - $ref: "./_common.yaml#/$defs/field_id"
+        - $ref: "./_common.yaml#/$defs/field_personal_curation"
+        - $ref: "./_common.yaml#/$defs/field_city"
+        - $ref: "./_common.yaml#/$defs/field_visit_status_and_lists"
+        - $ref: "./_common.yaml#/$defs/field_address"
       properties:
-        id:
-          type: string
-          x-osm-list-hidden: true
         name:
           type: string
           title: 地點
@@ -26,13 +34,6 @@ properties:
             title:
               en: Place
               ja: 場所
-        icon:
-          type: string
-          title: 圖示
-          x-osm-list-hidden: true
-          x-osm-list-i18n:
-            title:
-              en: Icon
         place_type:
           # 與 pilgrimage/ 及 travel/ 一致的「類型 → emoji」集中對照。
           # restaurant.yaml 與 other.yaml 沿用逐筆 `icon`，兩者可並存
@@ -58,11 +59,6 @@ properties:
             title:
               en: Type
               ja: 種別
-        rating:
-          type: number
-          title: 喜好程度
-          minimum: 1
-          maximum: 5
         lat:
           type: number
           minimum: -90
@@ -80,13 +76,6 @@ properties:
             title:
               en: Country
               ja: 国
-        city:
-          type: string
-          title: 縣市
-          x-osm-list-i18n:
-            title:
-              en: City
-              ja: 都市
         district:
           type: string
           title: 行政區
@@ -94,56 +83,3 @@ properties:
             title:
               en: District
               ja: 区域
-        date:
-          oneOf:
-            - type: string
-            - type: array
-              items:
-                type: string
-          title: 日期
-          x-osm-list-sort: max
-          x-osm-list-i18n:
-            title:
-              en: Date
-              ja: 日付
-        status:
-          type: string
-          title: 狀態
-          x-osm-list-i18n:
-            title:
-              en: Status
-              ja: 状態
-        closed_date:
-          type: string
-          title: 歇業時間
-          x-osm-list-i18n:
-            title:
-              en: Closed
-              ja: 閉店時期
-        visit_note:
-          type: string
-          title: 造訪備註
-          x-osm-list-i18n:
-            title:
-              en: Visit note
-        address:
-          type: string
-          title: 地址
-          x-osm-list-hidden: true
-          x-osm-list-i18n:
-            title:
-              en: Address
-              ja: 住所
-        tags:
-          type: array
-          items:
-            type: string
-        urls:
-          type: array
-          items:
-            type: object
-            properties:
-              label:
-                type: string
-              href:
-                type: string
