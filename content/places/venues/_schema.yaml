@@ -7,6 +7,11 @@ description: >
 
   演出紀錄本身在 content/data/concerts.yaml 與 stage-performances.yaml，
   那兩個檔的 venue 欄位只是顯示字串（場館名 ＋ OSM 連結），本目錄才是場館的地點資料。
+  引用 ../_common.yaml 的 field_id / field_city / field_visit_status_and_lists /
+  field_address 四組共用欄位（沒有 field_personal_curation——場館沒有逐筆評分
+  或造訪心得的概念）；name/lat(hidden)/lon(hidden)/district(not hidden) 因
+  title 或 x-osm-list-hidden 隨領域而異，在此完整覆寫；place_type 是場館專用的
+  x-osm-icon 對照表（比根層級少「藝廊／酒吧／書店」三類，因為場館用不到）。
 type: object
 required: [locations]
 properties:
@@ -33,10 +38,12 @@ properties:
     items:
       type: object
       required: [name, lat, lon]
+      allOf:
+        - $ref: "../_common.yaml#/$defs/field_id"
+        - $ref: "../_common.yaml#/$defs/field_city"
+        - $ref: "../_common.yaml#/$defs/field_visit_status_and_lists"
+        - $ref: "../_common.yaml#/$defs/field_address"
       properties:
-        id:
-          type: string
-          x-osm-list-hidden: true
         name:
           type: string
           title: 場館
@@ -73,13 +80,6 @@ properties:
           minimum: -180
           maximum: 180
           x-osm-list-hidden: true
-        city:
-          type: string
-          title: 縣市
-          x-osm-list-i18n:
-            title:
-              en: City
-              ja: 都市
         district:
           type: string
           title: 行政區
@@ -87,50 +87,3 @@ properties:
             title:
               en: District
               ja: 区域
-        date:
-          oneOf:
-            - type: string
-            - type: array
-              items:
-                type: string
-          title: 日期
-          x-osm-list-sort: max
-          x-osm-list-i18n:
-            title:
-              en: Date
-              ja: 日付
-        status:
-          type: string
-          title: 狀態
-          x-osm-list-i18n:
-            title:
-              en: Status
-              ja: 状態
-        closed_date:
-          type: string
-          title: 歇業時間
-          x-osm-list-i18n:
-            title:
-              en: Closed
-              ja: 閉店時期
-        address:
-          type: string
-          title: 地址
-          x-osm-list-hidden: true
-          x-osm-list-i18n:
-            title:
-              en: Address
-              ja: 住所
-        tags:
-          type: array
-          items:
-            type: string
-        urls:
-          type: array
-          items:
-            type: object
-            properties:
-              label:
-                type: string
-              href:
-                type: string

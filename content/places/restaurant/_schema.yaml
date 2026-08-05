@@ -6,6 +6,10 @@ description: >
   country 提到檔案層，就不必逐筆填。
   rating 是選填：有評分代表「還想不想再去」的個人策展，旅途中一次性的店留空即可——
   完整性優先於策展，漏收地點比評分留空嚴重。
+  引用 ../_common.yaml 的 field_id / field_personal_curation / field_city /
+  field_visit_status_and_lists / field_address 五組共用欄位（與根層級
+  _schema.yaml 相同組合）；name/lat(hidden)/lon(hidden)/district(not hidden)
+  因 title 或 x-osm-list-hidden 隨領域而異，在此完整覆寫。
 type: object
 required: [locations]
 properties:
@@ -32,10 +36,13 @@ properties:
     items:
       type: object
       required: [name, lat, lon]
+      allOf:
+        - $ref: "../_common.yaml#/$defs/field_id"
+        - $ref: "../_common.yaml#/$defs/field_personal_curation"
+        - $ref: "../_common.yaml#/$defs/field_city"
+        - $ref: "../_common.yaml#/$defs/field_visit_status_and_lists"
+        - $ref: "../_common.yaml#/$defs/field_address"
       properties:
-        id:
-          type: string
-          x-osm-list-hidden: true
         name:
           type: string
           title: 地點
@@ -43,18 +50,6 @@ properties:
             title:
               en: Place
               ja: 場所
-        icon:
-          type: string
-          title: 圖示
-          x-osm-list-hidden: true
-          x-osm-list-i18n:
-            title:
-              en: Icon
-        rating:
-          type: number
-          title: 喜好程度
-          minimum: 1
-          maximum: 5
         lat:
           type: number
           minimum: -90
@@ -65,13 +60,6 @@ properties:
           minimum: -180
           maximum: 180
           x-osm-list-hidden: true
-        city:
-          type: string
-          title: 縣市
-          x-osm-list-i18n:
-            title:
-              en: City
-              ja: 都市
         district:
           type: string
           title: 行政區
@@ -79,56 +67,3 @@ properties:
             title:
               en: District
               ja: 区域
-        date:
-          oneOf:
-            - type: string
-            - type: array
-              items:
-                type: string
-          title: 日期
-          x-osm-list-sort: max
-          x-osm-list-i18n:
-            title:
-              en: Date
-              ja: 日付
-        status:
-          type: string
-          title: 狀態
-          x-osm-list-i18n:
-            title:
-              en: Status
-              ja: 状態
-        closed_date:
-          type: string
-          title: 歇業時間
-          x-osm-list-i18n:
-            title:
-              en: Closed
-              ja: 閉店時期
-        visit_note:
-          type: string
-          title: 造訪備註
-          x-osm-list-i18n:
-            title:
-              en: Visit note
-        address:
-          type: string
-          title: 地址
-          x-osm-list-hidden: true
-          x-osm-list-i18n:
-            title:
-              en: Address
-              ja: 住所
-        tags:
-          type: array
-          items:
-            type: string
-        urls:
-          type: array
-          items:
-            type: object
-            properties:
-              label:
-                type: string
-              href:
-                type: string
