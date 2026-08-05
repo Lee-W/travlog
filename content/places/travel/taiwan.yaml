@@ -8,6 +8,8 @@ locations:
     trip: "不遠山莊露營初體驗（2022年初）"
     lat: 24.4206837
     lon: 120.7739760
+    osm_type: way
+    osm_id: 241461599
     city: "苗栗縣"
     address: "苗栗縣三義鄉雙湖村90號"
   - id: buyuan-shanzhuang
@@ -17,6 +19,8 @@ locations:
       - "不遠山莊團露 生日趴（2022年秋）"
     lat: 24.3951111
     lon: 120.7853275
+    osm_type: node
+    osm_id: 4173918926
     city: "苗栗縣"
     address: "苗栗縣三義鄉雙潭村櫻花步道"
   # 臺南市
@@ -26,5 +30,7 @@ locations:
     trip: "跟 LQ7 一起一拳打死羊黑"
     lat: 22.9972086
     lon: 120.2125765
+    osm_type: relation
+    osm_id: 6477070
     city: "臺南市"
     address: "臺南市中西區北門路二段4號"

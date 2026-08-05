@@ -13,13 +13,13 @@ locations:
     lon: -115.183
     city: Las Vegas
     address: 3333 Al Davis Way, 拉斯維加斯, 內華達州, 89118
-    date:
-      - "2024-03-16"
 
   - id: mckittrick-hotel
     name: The McKittrick Hotel
     lat: 40.7506815
     lon: -74.0038103
+    osm_type: node
+    osm_id: 4447010422
     city: New York
     district: Manhattan
     address: West 27th Street, 紐約, 紐約州, 10199

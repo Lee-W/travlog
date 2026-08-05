@@ -14,9 +14,6 @@ locations:
     city: 神奈川
     district: 横浜
     address: 神奈川県横浜市西区高島二丁目1
-    date:
-      - "2025-04-26"
-      - "2026-03-01"
 
   - id: pacifico-yokohama-national-hall
     name: 橫濱國際平和會議場 國立大廳
@@ -26,9 +23,6 @@ locations:
     city: 神奈川
     district: 横浜
     address: 神奈川県横浜市西区みなとみらい
-    date:
-      - "2024-12-14"
-      - "2024-12-15"
 
   - id: kofu-station-north-plaza
     name: JR甲府駅北口よっちゃばれ広場・歴史公園
@@ -37,8 +31,6 @@ locations:
     lon: 138.570659
     city: 山梨
     address: 山梨県甲府市北口二丁目
-    date:
-      - "2024-06-08"
 
   - id: fukuoka-sunpalace
     name: 福岡太陽宮
@@ -47,6 +39,3 @@ locations:
     city: 福岡
     district: 福岡
     address: 福岡県福岡市中央区天神四丁目
-    date:
-      - "2025-01-12"
-      - "2025-01-13"

@@ -162,6 +162,19 @@ LOCAL_PLUGINS = [
 ]
 PLUGIN_PATHS = ["plugins"]
 PLUGINS.extend(LOCAL_PLUGINS)
+# pelican-tabular settings
+#
+# 資料列的 <field>_ref 欄位（例如 content/data/concerts.yaml 的 venue_ref）
+# 會去 content/places/ 取那筆地點，連結由下面的 fallback chain 產生：
+# 有 osm_type/osm_id 就直接指到 OpenStreetMap 上那個實體（穩定、改名或
+# 修地址後仍對得上），沒有才退回座標形式。座標形式用 ?mlat=&mlon= 而非
+# 單純的 #map= 置中，前者會放一個圖釘，後者只會把地圖移過去、讀者還是
+# 不知道指的是哪一棟。兩者都缺就不給連結，只顯示純文字。
+TABULAR_REF_HREF_TEMPLATE = (
+    "https://www.openstreetmap.org/{osm_type}/{osm_id}"
+    "|https://www.openstreetmap.org/?mlat={lat}&mlon={lon}#map=17/{lat}/{lon}"
+)
+
 # pelican-seo settings
 SEO_REPORT = True  # SEO report is enabled by default
 SEO_ENHANCER = False

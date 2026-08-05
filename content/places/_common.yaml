@@ -124,6 +124,28 @@ $defs:
             en: Address
             ja: 住所
 
+  # osm_type / osm_id：指向 OpenStreetMap 上對應的實體。
+  #
+  # 這是整個 content/places/ 的分層關鍵：客觀層（名稱、位置、地址）在 OSM，
+  # 是隨時能重新抓回來的公共資料；個人層（去過、何時去、幾分、寫過哪篇）在
+  # 本 repo。兩層靠這組 ID 相連。
+  #
+  # 用 ID 而非座標字串指涉的理由：座標只能拿去「重新搜尋一次」，ID 則直接
+  # 指到那個實體，地址或名稱變更後仍對得上。pelican-tabular 的
+  # ref_href_template fallback chain 也優先用它組連結，沒有才退回座標。
+  #
+  # 兩者要嘛都填、要嘛都不填；查不到就留空，不要猜。
+  field_osm_ref:
+    type: object
+    properties:
+      osm_type:
+        type: string
+        enum: [node, way, relation]
+        x-osm-list-hidden: true
+      osm_id:
+        type: integer
+        x-osm-list-hidden: true
+
   # notes / images：travel / pilgrimage / pilgrimage-wishlist 三檔共用
   # （敘事性備註＋隨筆照片，root/restaurant/venues 用 visit_note 取代，
   # theaters 不適用）。
