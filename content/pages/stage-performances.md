@@ -6,4 +6,4 @@ Summary: 記錄我看過的音樂劇、舞台劇與 2.5 次元舞台，以及相
 
 記錄我看過的舞台表演，包含音樂劇、舞台劇、2.5次元舞台等。
 
-{% table data/stage-performances.yaml sort_by="date" sort_order="desc" fields="flag,title,date,venue,reviews" field_labels="flag:,title:演出,date:日期,venue:場館,reviews:相關文章" group_by="year" group_summary_at="year" %}
+{% table data/stage-performances.yaml sort_by="date" sort_order="desc" fields="flag,title,date,venue:link,reviews" field_labels="flag:,title:演出,date:日期,venue:場館,reviews:相關文章" group_by="year" group_summary_at="year" %}
