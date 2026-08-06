@@ -32,6 +32,16 @@ locations:
     city: 山梨
     address: 山梨県甲府市北口二丁目
 
+  - id: nippongaishi-hall
+    name: "Nippongaishi Hall"
+    place_type: 體育館
+    lat: 35.0958200
+    lon: 136.9233241
+    osm_type: way
+    osm_id: 102161762
+    city: "愛知"
+    address: "愛知県名古屋市南区豊田町堤町五丁目国道23号"
+
   - id: fukuoka-sunpalace
     name: 福岡太陽宮
     lat: 33.5936

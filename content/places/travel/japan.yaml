@@ -140,16 +140,6 @@ locations:
     city: "愛知"
     address: "愛知県犬山市字杁下県道明治村小牧線"
     date: "2023-03"
-  - id: mie-prefectural-office-meijimura
-    name: "三重縣廳舍"
-    trip: "2023 Aimer Tour 關西・名古屋・東京"
-    lat: 35.3408825
-    lon: 136.9891261
-    osm_type: way
-    osm_id: 493562287
-    city: "愛知"
-    address: "愛知県犬山市字堤下市道富士本線"
-    date: "2023-03"
   - id: nagoya-castle
     name: "名古屋城"
     trip: "2023 Aimer Tour 關西・名古屋・東京"
@@ -159,16 +149,6 @@ locations:
     osm_id: 19100633
     city: "愛知"
     address: "愛知県名古屋市中区本丸三の丸一丁目"
-    date: "2023-03"
-  - id: nippongaishi-hall
-    name: "Nippongaishi Hall"
-    trip: "2023 Aimer Tour 關西・名古屋・東京"
-    lat: 35.0958200
-    lon: 136.9233241
-    osm_type: way
-    osm_id: 102161762
-    city: "愛知"
-    address: "愛知県名古屋市南区豊田町堤町五丁目国道23号"
     date: "2023-03"
   # 兵庫
   - id: goshoboh
@@ -182,17 +162,6 @@ locations:
     city: "兵庫"
     address: "兵庫県神戸市北区有馬町湯本坂"
     date: "2023-03"
-  # 山梨
-  - id: minobusan-kuonji
-    name: "身延山久遠寺"
-    place_type: 寺院
-    trip: "2023 巴哈動漫朝聖團"
-    lat: 35.3812260
-    lon: 138.4270354
-    osm_type: way
-    osm_id: 1241976032
-    city: "山梨"
-    address: "山梨県南巨摩郡身延町"
   # 靜岡
   - id: toyoko-inn-gotemba
     name: "東横INN御殿場駅前"
