@@ -314,6 +314,7 @@
   title: Aimer Arena Tour 2023 -nuit immersive-
   date: 2023-03-18
   year: 2023
+  venue_ref: nippongaishi-hall
 
 - flag: 🇹🇼
   title: 落日飛車【夕陽流行音樂中心】演唱會
@@ -415,11 +416,13 @@
   title: STAR WARS：The Force Awakens in Concert
   date: 2019-09-08
   year: 2019
+  venue_ref: national-concert-hall
 
 - flag: 🇹🇼
   title: STAR WARS：Return of the Jedi in Concert
   date: 2019-09-07
   year: 2019
+  venue_ref: national-concert-hall
 
 - flag: 🇹🇼
   title: 江松霖【 時光曬衣場 】 春季小巡迴
@@ -428,8 +431,9 @@
 
 - flag: 🇹🇼
   title: Star Wars A New Hope - In Concert
-  date: 2019-01-19
+  date: 2019-01-12
   year: 2019
+  venue_ref: national-concert-hall
 
 - flag: 🇹🇼
   title: 江松霖「佳日提案＿晚春巡迴」
@@ -480,3 +484,4 @@
   title: 里民日常 @ 女巫店
   date: 2016-07-02
   year: 2016
+  venue_ref: witch-house
