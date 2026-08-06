@@ -118,6 +118,7 @@ locations:
     city: 臺北市
     district: 大安區
     address: 臺北市大安區延吉街131巷
+    status: 已歇業
 
   - id: moondog
     name: MOONDOG
