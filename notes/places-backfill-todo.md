@@ -207,3 +207,7 @@ OSM 也不會收錄。母場館（環球影城、東京國際展示場、マル�
 > PyPI 版本，於是 `$ref` schema 與 `venue_ref` 全部失效、build 直接炸掉。
 > editable install 掉了就重跑：
 > `uv pip install --no-deps -e ~/Programming/personal/pelican-osm -e ~/Programming/personal/pelican-tabular`
+>
+> **裝完立刻 `git checkout -- pyproject.toml uv.lock`**：該指令會把本地路徑寫進
+> `[tool.uv.sources]`。pre-commit 的 `Ensure no local path in uv sources` hook 擋的就是這個，
+> 但它只在 pyproject.toml 被 stage 時才跑，忘了還原就會留在工作區汙染之後的 commit。
