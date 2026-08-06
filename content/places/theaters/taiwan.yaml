@@ -4,7 +4,7 @@ vieshow-songren:
   lon: 121.5679503
   address: 台北市信義區松仁路58號10樓
   country: 臺灣
-  city: 臺北
+  city: 臺北市
   district: 信義
   items:
     - hall: "2 廳"
@@ -45,7 +45,7 @@ vieshow-qsquare:
   lon: 121.5185494
   address: 台北市大同區市民大道一段209號5樓
   country: 臺灣
-  city: 臺北
+  city: 臺北市
   district: 大同
   items:
     - hall: "1 廳"
@@ -104,7 +104,7 @@ vieshow-xinyi:
   lon: 121.5672750
   address: 台北市信義區松壽路20號
   country: 臺灣
-  city: 臺北
+  city: 臺北市
   district: 信義
   items:
     - hall: "1 廳"
@@ -187,7 +187,7 @@ vieshow-lalaport-nangang:
   lon: 121.6175825
   address: 台北市南港區經貿二路131號5樓
   country: 臺灣
-  city: 臺北
+  city: 臺北市
   district: 南港
   items:
     - hall: "12 廳"
@@ -215,7 +215,7 @@ vieshow-ximending:
   lon: 121.5071127
   address: 台北市萬華區漢中街52號8-11樓
   country: 臺灣
-  city: 臺北
+  city: 臺北市
   district: 萬華
   items:
     - hall: "3 廳"
@@ -232,7 +232,7 @@ showtime-dajudan:
   lon: 121.5584405
   address: 台北市信義區光復南路105號2樓
   country: 臺灣
-  city: 臺北
+  city: 臺北市
   district: 信義
   items:
     - hall: "6 廳"
@@ -267,7 +267,7 @@ spot-taipei:
   lon: 121.5221609
   address: 台北市中山區中山北路二段18號
   country: 臺灣
-  city: 臺北
+  city: 臺北市
   district: 中山
   items:
     - hall: 主廳
@@ -284,7 +284,7 @@ eslite-cinema:
   lon: 121.5612547
   address: 台北市信義區菸廠路80號B1
   country: 臺灣
-  city: 臺北
+  city: 臺北市
   district: 信義
   items:
     - hall: A 廳
@@ -307,7 +307,7 @@ miramar-cinema:
   lon: 121.5575147
   address: 台北市中山區敬業三路22號6樓
   country: 臺灣
-  city: 臺北
+  city: 臺北市
   district: 中山
   items:
     - hall: "2 廳"
@@ -354,7 +354,7 @@ showtime-nangang:
   lon: 121.6045180
   address: 台北市南港區忠孝東路七段299號 CITYLINK C棟11樓
   country: 臺灣
-  city: 臺北
+  city: 臺北市
   district: 南港
   items:
     - hall: "8 廳"
@@ -383,7 +383,7 @@ showtime-ximending:
   lon: 121.5054224
   address: 台北市萬華區峨眉街52號
   country: 臺灣
-  city: 臺北
+  city: 臺北市
   district: 萬華
   items:
     - hall: "7 廳"
@@ -400,7 +400,7 @@ jintri-showtime:
   lon: 121.5053281
   address: 台北市萬華區峨眉街52號1樓
   country: 臺灣
-  city: 臺北
+  city: 臺北市
   district: 萬華
   items:
     - hall: "7 廳"
@@ -417,7 +417,7 @@ true-good-beauty:
   lon: 121.5073242
   address: 台北市萬華區漢中街116號
   country: 臺灣
-  city: 臺北
+  city: 臺北市
   district: 萬華
   items:
     - hall: 藍廳
@@ -440,7 +440,7 @@ ambassador-changchun:
   lon: 121.5342560
   address: 台北市中山區長春路176號
   country: 臺灣
-  city: 臺北
+  city: 臺北市
   district: 中山
   items:
     - hall: "2 廳"
@@ -469,7 +469,7 @@ vieshow-linkou:
   lon: 121.3661653
   address: 新北市林口區文化三路一段356號3樓
   country: 臺灣
-  city: 新北
+  city: 新北市
   district: 林口
   items:
     - hall: "1 廳"
@@ -498,7 +498,7 @@ vieshow-banqiao:
   lon: 121.4671574
   address: 新北市板橋區新站路28號10樓
   country: 臺灣
-  city: 新北
+  city: 新北市
   district: 板橋
   items:
     - hall: "2 廳"
@@ -521,7 +521,7 @@ vieshow-zhonghe:
   lon: 121.4747789
   address: 新北市中和區中山路三段122號4樓
   country: 臺灣
-  city: 新北
+  city: 新北市
   district: 中和
   items:
     - hall: "7 廳"
@@ -538,7 +538,7 @@ shinkong-taoyuan:
   lon: 121.2134139
   address: 桃園市中壢區春德路107號3樓
   country: 臺灣
-  city: 桃園
+  city: 桃園市
   district: 中壢
   items:
     - hall: Dolby Cinema 廳
@@ -555,7 +555,7 @@ vieshow-hsinchu:
   lon: 120.9744505
   address: 新竹市東區民權路176號4號樓之3
   country: 臺灣
-  city: 新竹
+  city: 新竹市
   district: 東區
   items:
     - hall: "9 廳"
@@ -572,7 +572,7 @@ vieshow-tigercity:
   lon: 120.6380944
   address: 台中市西屯區河南路三段120-1號4樓
   country: 臺灣
-  city: 台中
+  city: 臺中市
   district: 西屯
   items:
     - hall: "5 廳"
@@ -589,7 +589,7 @@ vieshow-tainan:
   lon: 120.2333306
   address: 台南市東區中華東路一段366號5樓
   country: 臺灣
-  city: 台南
+  city: 臺南市
   district: 東區
   items:
     - hall: "8 廳"
@@ -606,7 +606,7 @@ vieshow-tainan-fe21:
   lon: 120.2055076
   address: 台南市中西區公園路60號5樓
   country: 臺灣
-  city: 台南
+  city: 臺南市
   district: 中西區
   items:
     - hall: "8 廳"
