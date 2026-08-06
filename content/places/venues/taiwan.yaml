@@ -47,8 +47,10 @@ locations:
   - id: national-concert-hall
     name: 國家音樂廳
     place_type: 音樂廳
-    lat: 25.037253012208414
-    lon: 121.51930037010185
+    lat: 25.0370518
+    lon: 121.5192521
+    osm_type: way
+    osm_id: 1052759775
     city: 臺北市
     district: 中正區
     address: 臺北市中正區東門里中山南路21-1號
