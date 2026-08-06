@@ -45,6 +45,19 @@ locations:
   images:
   - /images/pilgrimage/19-yuru-camp/motosu-high-school-outdoor-activities-club-room.JPG  # wrong GPS
   urls: []
+- name: 身延山久遠寺
+  place_type: 寺院
+  lat: 35.3812260
+  lon: 138.4270354
+  osm_type: way
+  osm_id: 1241976032
+  notes: 犬山等人新年參拜的地方
+  date: '2023-05-27'
+  country: 日本
+  city: 山梨
+  tags: []
+  images: []
+  urls: []
 - name: 凜家
   lat: 35.446037
   lon: 138.4834

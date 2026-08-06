@@ -71,6 +71,18 @@ locations:
   images:
   - /images/pilgrimage/12-fate-series/imperial-hotel-central-entrance.JPG # wrong GPS
   urls: []
+- name: 三重縣廳舍
+  lat: 35.3408825
+  lon: 136.9891261
+  osm_type: way
+  osm_id: 493562287
+  notes: Fate/Zero 蟲老、雁夜
+  date: '2023-03-17'
+  country: 日本
+  city: 愛知
+  tags: []
+  images: []
+  urls: []
 - name: 清浄光寺（遊行寺）
   place_type: 寺院
   lat: 35.348713
