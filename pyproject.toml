@@ -27,10 +27,10 @@ dependencies = [
   "webassets>=2.0",
   "attila>=3.3.0",
   "pelican-heatmap>=0.5.1",
-  "pelican-osm[validate]>=0.14.0",
+  "pelican-osm[validate]>=0.15.0",
   "pelican-summary-link>=0.2.3",
   "pelican-random-article>=0.2.1",
-  "pelican-tabular>=0.4.0",
+  "pelican-tabular>=0.5.0",
   "pelican-on-this-day>=0.4.0",
   "pelican-sitemap>=1.2.2",
 ]
