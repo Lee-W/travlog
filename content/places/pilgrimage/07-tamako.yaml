@@ -1,7 +1,8 @@
 work: 玉子市場, 玉子愛情故事 | たまこまーけっと, たまこラブストーリー
 tags: [動畫]
 locations:
-- name: 出町桝形商店街
+- id: demachi-masugata-tamako
+  name: 出町桝形商店街
   lat: 35.0303402
   lon: 135.769093
   notes: ""

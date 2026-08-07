@@ -1,7 +1,8 @@
 work: ikuka的第一個家
 tags: [部落格]
 locations:
-- name: ポムの樹 台南三井店
+- id: pomunoki-tainan-ikuka
+  name: ポムの樹 台南三井店
   lat: 22.925850
   lon: 120.287433
   notes: 有岡大貴蛋包飯（ポムの樹）

@@ -1,7 +1,8 @@
 work: 四疊半神話大系, 四疊半藍調時光機 | 四畳半神話大系, 四畳半タイムマシンブルース
 tags: [動畫]
 locations:
-- name: 出町桝形商店街
+- id: demachi-masugata-tatami
+  name: 出町桝形商店街
   lat: 35.030545
   lon: 135.768983
   notes: ''
