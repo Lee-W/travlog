@@ -43,37 +43,38 @@ repos:
         entry: '\{\s*path\s*='
         files: ^pyproject\.toml$
 
+      # Every `uv run` below passes `--no-sync`. A plain `uv run` re-syncs the
+      # venv from uv.lock first, which silently replaces any editable install
+      # of pelican-osm / pelican-tabular with the PyPI wheel -- and
+      # content/places/ depends on unreleased branches of both ($ref schemas,
+      # global-id venue_ref), so the next build then dies on an unresolvable
+      # $ref. One hook run is enough to do it, with no warning. CI runs
+      # `uv sync` before `pre-commit run --all-files`, so the environment is
+      # already current there and skipping the sync costs nothing.
       - id: check-post-metadata
         name: Check post metadata style
         language: system
-        entry: uv run python scripts/check_post_metadata.py
+        entry: uv run --no-sync python scripts/check_post_metadata.py
         args: ["--categories", "Cook,Review,Travel"]
         files: ^content/posts/.*\.md$
 
       - id: check-page-metadata
         name: Check static page metadata style
         language: system
-        entry: uv run python scripts/check_page_metadata.py
+        entry: uv run --no-sync python scripts/check_page_metadata.py
         files: ^content/pages/.*\.md$
 
       - id: check-story-ranking
         name: Check story-ranking YAML anchors
         language: system
         pass_filenames: false
-        entry: uv run python scripts/check_story_ranking.py
+        entry: uv run --no-sync python scripts/check_story_ranking.py
         files: ^(content/data/story-ranking/.*\.yaml|content/posts/review/.*\.md)$
 
       - id: check-place-ids
         name: Check place id/name uniqueness
         language: system
         pass_filenames: false
-        # `--no-sync` because a plain `uv run` re-syncs the venv from uv.lock,
-        # which silently replaces any editable install of pelican-osm /
-        # pelican-tabular with the PyPI wheel -- and content/places/ depends on
-        # unreleased plugin branches ($ref schemas, global-id venue_ref), so
-        # the next build then fails with an unresolvable $ref. CI runs
-        # `uv sync` before `pre-commit run --all-files`, so the environment is
-        # already current there and skipping the sync costs nothing.
         entry: uv run --no-sync python scripts/check_place_ids.py
         files: ^content/places/.*\.yaml$
 
@@ -81,7 +82,7 @@ repos:
         name: Remove GPS Info from image exif
         language: system
         pass_filenames: false
-        entry: uv run inv check-and-remove-image-exif-gps-info
+        entry: uv run --no-sync inv check-and-remove-image-exif-gps-info
         # Gate on image files actually changing (an earlier version had no
         # `files:` filter at all, so it re-scanned all of content/images/ on
         # every commit, even ones that never touched an image -- that's why
