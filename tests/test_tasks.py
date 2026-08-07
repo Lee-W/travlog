@@ -1,3 +1,5 @@
+from textwrap import dedent
+
 from tasks import _create_post_from_template
 
 
@@ -6,25 +8,22 @@ def test_create_post_from_template_uses_unprefixed_filename(tmp_path, monkeypatc
     templates = tmp_path / "templates"
     templates.mkdir()
     (templates / "draft.md").write_text(
-        "\n".join(
-            [
-                "Title: $title",
-                "Date: $date",
-                "Category: $category",
-                "Tags:",
-                "Slug: $slug",
-                "Cover:",
-                "Authors: Wei Lee",
-                "Lang: $lang",
-                "Status: draft",
-                "",
-                "[intro]",
-                "",
-                "<!--more-->",
-                "",
-                "##",
-            ]
-        ),
+        dedent("""\
+            Title: $title
+            Date: $date
+            Category: $category
+            Tags:
+            Slug: $slug
+            Cover:
+            Authors: Wei Lee
+            Lang: $lang
+            Status: draft
+
+            [intro]
+
+            <!--more-->
+
+            ##"""),
         encoding="utf-8",
     )
 

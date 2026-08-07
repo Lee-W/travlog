@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """story-ranking 殘酷二選一配對比較排序工具.
 
 Usage:
@@ -11,7 +10,7 @@ import argparse
 import json
 import random
 import sys
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
@@ -88,8 +87,10 @@ def load_cache(file: str) -> dict:
 
 
 def save_cache(file: str, data: dict) -> None:
-    data["updated_at"] = datetime.now(tz=timezone.utc).isoformat()
-    cache_path(file).write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    data["updated_at"] = datetime.now(tz=UTC).isoformat()
+    cache_path(file).write_text(
+        json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
 
 def clear_cache(file: str) -> None:
@@ -123,6 +124,7 @@ class HumanMergeSort:
         # Estimate total comparisons: n log2 n
         n = len(items)
         import math
+
         self.estimated_total = int(n * math.log2(n)) if n > 1 else 0
         self.aborted = False
         self.apply_now = False
@@ -154,15 +156,20 @@ class HumanMergeSort:
             done = self.comparison_count
             est = self.estimated_total
             tier_label = f" · 篩選 tier: {self.tier_filter}" if self.tier_filter else ""
-            console.print(Panel(
-                f"[dim]已比較 [bold]{done}[/bold] 組，預估總計 ~{est} 組{tier_label}[/dim]\n"
-                "[dim]比較完成後可以重新分配 tier（或直接維持現有分佈），再寫回 YAML[/dim]",
-                title="[bold cyan]story-ranking 排序[/bold cyan]",
-            ))
+            console.print(
+                Panel(
+                    f"[dim]已比較 [bold]{done}[/bold] 組，預估總計 ~{est} 組{tier_label}[/dim]\n"
+                    "[dim]比較完成後可以重新分配 tier（或直接維持現有分佈），再寫回 YAML[/dim]",
+                    title="[bold cyan]story-ranking 排序[/bold cyan]",
+                )
+            )
 
             k1, k2, ks, ku, kq = (
-                markup_escape("[1]"), markup_escape("[2]"), markup_escape("[s]"),
-                markup_escape("[u]"), markup_escape("[q]"),
+                markup_escape("[1]"),
+                markup_escape("[2]"),
+                markup_escape("[s]"),
+                markup_escape("[u]"),
+                markup_escape("[q]"),
             )
 
             table = Table(show_header=True, header_style="bold magenta", expand=True)
@@ -174,17 +181,19 @@ class HumanMergeSort:
             )
             console.print(table)
 
-            console.print(Panel(
-                f"[cyan]{k1}[/cyan] 左邊更好   [green]{k2}[/green] 右邊更好   "
-                f"[yellow]{ks}[/yellow] 跳過這題   [blue]{ku}[/blue] 撤回上一題   "
-                f"[red]{kq}[/red] 存檔離開",
-                title="操作",
-                expand=False,
-            ))
+            console.print(
+                Panel(
+                    f"[cyan]{k1}[/cyan] 左邊更好   [green]{k2}[/green] 右邊更好   "
+                    f"[yellow]{ks}[/yellow] 跳過這題   [blue]{ku}[/blue] 撤回上一題   "
+                    f"[red]{kq}[/red] 存檔離開",
+                    title="操作",
+                    expand=False,
+                )
+            )
 
             try:
                 choice = Prompt.ask("選擇", default="").strip().lower()
-            except (KeyboardInterrupt, EOFError):
+            except KeyboardInterrupt, EOFError:
                 choice = "q"
 
             if choice == "1":
@@ -304,7 +313,9 @@ def assign_tiers_equal(
 def show_ranking(sorted_items: list[tuple[str, str]]) -> None:
     """Display the current ranking result."""
     console.clear()
-    console.print(Panel("[bold green]排序完成！以下是你比較出來的名次[/bold green]", expand=False))
+    console.print(
+        Panel("[bold green]排序完成！以下是你比較出來的名次[/bold green]", expand=False)
+    )
     table = Table(show_header=True, header_style="bold", expand=True)
     table.add_column("名次", style="dim", width=5)
     table.add_column("作品", ratio=4)
@@ -344,7 +355,7 @@ def interactive_tier_assignment(
 
     try:
         ok = Confirm.ask("套用這些改動？", default=False)
-    except (KeyboardInterrupt, EOFError):
+    except KeyboardInterrupt, EOFError:
         ok = False
     return assignments if ok else None
 
@@ -394,7 +405,7 @@ def _find_conflicts(known: dict[str, int]) -> list[tuple[str, str]]:
 
 
 def show_session_status(
-    sorter: "HumanMergeSort",
+    sorter: HumanMergeSort,
     all_items: list[tuple[str, str]],
 ) -> None:
     """Show this session's choices, contradictions, and current tier of all items."""
@@ -418,9 +429,11 @@ def show_session_status(
             wt = tier_map.get(winner, "?")
             lt = tier_map.get(loser, "?")
             choice_table.add_row(
-                markup_escape(winner), f"[{wt}]",
+                markup_escape(winner),
+                f"[{wt}]",
                 ">",
-                markup_escape(loser), f"[{lt}]",
+                markup_escape(loser),
+                f"[{lt}]",
             )
         console.print(choice_table)
     else:
@@ -430,7 +443,9 @@ def show_session_status(
     console.print()
     conflicts = _find_conflicts(sorter.known)
     if conflicts:
-        console.print(f"[bold red]⚠ 偵測到 {len(conflicts)} 個矛盾（傳遞循環）：[/bold red]")
+        console.print(
+            f"[bold red]⚠ 偵測到 {len(conflicts)} 個矛盾（傳遞循環）：[/bold red]"
+        )
         for w, loser in conflicts:
             wt = tier_map.get(w, "?")
             lt = tier_map.get(loser, "?")
@@ -467,7 +482,9 @@ def show_diff(assignments: list[tuple[str, str, str]]) -> None:
     console.print(table)
 
     changed_count = sum(1 for _, o, n in assignments if o != n)
-    console.print(f"[dim]共 {len(assignments)} 項，其中 {changed_count} 項 tier 變更[/dim]")
+    console.print(
+        f"[dim]共 {len(assignments)} 項，其中 {changed_count} 項 tier 變更[/dim]"
+    )
 
 
 # --------------------------------------------------------------------------- #
@@ -544,7 +561,7 @@ def select_file_interactive() -> str:
     while True:
         try:
             choice = Prompt.ask("輸入編號").strip()
-        except (KeyboardInterrupt, EOFError):
+        except KeyboardInterrupt, EOFError:
             console.print("\n[yellow]已取消。[/yellow]")
             sys.exit(0)
 
@@ -562,7 +579,9 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="story-ranking 殘酷二選一排序工具")
     parser.add_argument("--file", "-f", help="YAML 名稱（不含路徑和副檔名，如 anime）")
     parser.add_argument("--tier", "-t", help="只比較指定 tier 的作品（如 SS）")
-    parser.add_argument("--resume", action="store_true", help="接續上次未完成的 session")
+    parser.add_argument(
+        "--resume", action="store_true", help="接續上次未完成的 session"
+    )
     args = parser.parse_args()
 
     # Select file
@@ -586,7 +605,7 @@ def main() -> None:
         )
         try:
             ok = Confirm.ask("是否繼續？", default=False)
-        except (KeyboardInterrupt, EOFError):
+        except KeyboardInterrupt, EOFError:
             ok = False
         if not ok:
             console.print("[dim]已取消。[/dim]")
@@ -595,7 +614,9 @@ def main() -> None:
     # Filter by tier
     tier_filter = args.tier
     if tier_filter and tier_filter not in TIER_ORDER:
-        console.print(f"[red]未知的 tier：{tier_filter}，可用：{' '.join(TIER_ORDER)}[/red]")
+        console.print(
+            f"[red]未知的 tier：{tier_filter}，可用：{' '.join(TIER_ORDER)}[/red]"
+        )
         sys.exit(1)
 
     # Extract items
@@ -636,14 +657,17 @@ def main() -> None:
     random.shuffle(all_items)
 
     # Run sort
-    sorter = HumanMergeSort(all_items, known=known, file=cache_file, tier_filter=tier_filter)
+    sorter = HumanMergeSort(
+        all_items, known=known, file=cache_file, tier_filter=tier_filter
+    )
 
     console.print()
-    console.print(Panel(
-        "[bold cyan]開始比較！[/bold cyan]\n"
-        "每輪選出你覺得「更好」的作品。",
-        title="story-ranking 排序"
-    ))
+    console.print(
+        Panel(
+            "[bold cyan]開始比較！[/bold cyan]\n每輪選出你覺得「更好」的作品。",
+            title="story-ranking 排序",
+        )
+    )
 
     try:
         sorter.sort()
@@ -651,12 +675,15 @@ def main() -> None:
         sorter.aborted = True
 
     # Save cache
-    save_cache(cache_file, {
-        "file": file,
-        "tier_filter": tier_filter,
-        "known": sorter.known,
-        "comparison_count": sorter.comparison_count,
-    })
+    save_cache(
+        cache_file,
+        {
+            "file": file,
+            "tier_filter": tier_filter,
+            "known": sorter.known,
+            "comparison_count": sorter.comparison_count,
+        },
+    )
 
     show_session_status(sorter, all_items)
     console.print("[dim]Session 已存檔，下次用 --resume 繼續。[/dim]")

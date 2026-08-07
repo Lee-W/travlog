@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Check Pelican static-page metadata style consistency."""
 
 from __future__ import annotations

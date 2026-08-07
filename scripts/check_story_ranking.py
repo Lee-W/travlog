@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Verify story-ranking YAML anchors point to correct headings in review posts.
 
 Checks:

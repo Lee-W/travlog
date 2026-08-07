@@ -1,10 +1,8 @@
-#!/usr/bin/env python
-
 import os
 import sys
 
 sys.path.append(os.curdir)
-from pelicanconf import *  # noqa: F401, E402, F403
+from pelicanconf import *
 from pelicanconf import HOST
 
 SITEURL = f"https://{HOST}"

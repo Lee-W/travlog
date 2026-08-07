@@ -130,17 +130,17 @@ def livereload(c):
     theme_path = SETTINGS["THEME"]
     watched_globs = [
         CONFIG["settings_base"],
-        "{}/templates/**/*.html".format(theme_path),
+        f"{theme_path}/templates/**/*.html",
     ]
 
     content_file_extensions = [".md", ".rst"]
     for extension in content_file_extensions:
-        content_glob = "{0}/**/*{1}".format(SETTINGS["PATH"], extension)
+        content_glob = f"{SETTINGS['PATH']}/**/*{extension}"
         watched_globs.append(content_glob)
 
     static_file_extensions = [".css", ".js"]
     for extension in static_file_extensions:
-        static_file_glob = "{0}/static/**/*{1}".format(theme_path, extension)
+        static_file_glob = f"{theme_path}/static/**/*{extension}"
         watched_globs.append(static_file_glob)
 
     for g in watched_globs:
@@ -335,7 +335,7 @@ def check_image_usage(_) -> None:
         re.compile(r"\]\(\s*(?:\{(?:static|attach)\})?(/images/[^)]+?)\s*\)"),
         re.compile(r"src=[\"'](?:\{(?:static|attach)\})?(/images/[^\"']+)[\"']"),
         re.compile(
-            r"^(?:Cover|Image):\s*(?:\{(?:static|attach)\})?(/images/\S+)", re.M
+            r"^(?:Cover|Image):\s*(?:\{(?:static|attach)\})?(/images/\S+)", re.MULTILINE
         ),
     ]
     # content/places/*.yaml reference images directly as list items / keys

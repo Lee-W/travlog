@@ -2,9 +2,9 @@
 
 from __future__ import annotations
 
+import warnings
 from pathlib import Path
 from urllib.parse import unquote, urlparse
-import warnings
 
 from bs4 import BeautifulSoup
 from pelican import signals
@@ -54,7 +54,7 @@ def _add_image_markup(path: str, context: dict) -> None:
                 warnings.simplefilter("ignore", Image.DecompressionBombWarning)
                 with Image.open(source) as source_image:
                     width, height = source_image.size
-        except (OSError, UnidentifiedImageError):
+        except OSError, UnidentifiedImageError:
             continue
         image["width"] = str(width)
         image["height"] = str(height)
