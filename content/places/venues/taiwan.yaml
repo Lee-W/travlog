@@ -55,6 +55,17 @@ locations:
     district: 中正區
     address: 臺北市中正區東門里中山南路21-1號
 
+  - id: xiaodifang
+    name: 小地方
+    place_type: 展演空間
+    lat: 25.0359162
+    lon: 121.5246608
+    osm_type: node
+    osm_id: 8524769301
+    city: 臺北市
+    district: 中正區
+    address: 臺北市中正區杭州南路一段
+
   - id: legacy-mini-haoqiu
     name: Legacy mini @ 好丘
     lat: 25.0313898
@@ -136,3 +147,12 @@ locations:
     city: 臺北市
     district: 松山區
     address: 臺北市松山區南京東路四段2之1號
+
+  - id: legacy-mini-amba
+    name: Legacy mini @ amba
+    place_type: 展演空間
+    lat: 25.0454436
+    lon: 121.5056790
+    city: 臺北市
+    district: 萬華區
+    address: 臺北市萬華區武昌街二段77號5樓
