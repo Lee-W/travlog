@@ -255,7 +255,9 @@ def test_prepare_mode_fails_when_no_posts_changed(monkeypatch):
     monkeypatch.setattr(
         "scripts.prepare_publication.has_publish_commit", lambda base_ref: True
     )
-    monkeypatch.setattr("scripts.prepare_publication.changed_posts", lambda base_ref: [])
+    monkeypatch.setattr(
+        "scripts.prepare_publication.changed_posts", lambda base_ref: []
+    )
 
     assert main() == 1
 
@@ -266,7 +268,9 @@ def test_check_mode_fails_when_no_posts_changed(monkeypatch):
     monkeypatch.setattr(
         "scripts.prepare_publication.has_publish_commit", lambda base_ref: True
     )
-    monkeypatch.setattr("scripts.prepare_publication.changed_posts", lambda base_ref: [])
+    monkeypatch.setattr(
+        "scripts.prepare_publication.changed_posts", lambda base_ref: []
+    )
 
     assert main() == 1
 

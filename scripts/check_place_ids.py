@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Verify place id/name uniqueness across content/places/.
 
 `venue_ref` in content/data/*.yaml resolves against a *global* index that
@@ -96,7 +95,7 @@ def main() -> int:
             continue
         missing = [rel for rel, place_id in holders if place_id is None]
         if missing:
-            where = ", ".join(sorted(set(rel for rel, _ in holders)))
+            where = ", ".join(sorted({rel for rel, _ in holders}))
             errors.append(
                 f"name {name!r} is used by {len(holders)} records ({where}) "
                 f"but {len(missing)} of them have no id\n"

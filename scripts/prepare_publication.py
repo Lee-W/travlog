@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Validate or prepare draft posts changed by a publishing pull request."""
 
 from __future__ import annotations
@@ -112,11 +111,14 @@ def changed_posts(base_ref: str) -> list[Path]:
             continue
 
         path = Path(new_path)
-        if status == "A" or draft_status(path):
-            posts.append(path)
-        elif status == "M" and base_draft_status(merge_base, old_path):
-            posts.append(path)
-        elif status.startswith("R") and base_draft_status(merge_base, old_path):
+        if (
+            status == "A"
+            or draft_status(path)
+            or status == "M"
+            and base_draft_status(merge_base, old_path)
+            or status.startswith("R")
+            and base_draft_status(merge_base, old_path)
+        ):
             posts.append(path)
     return posts
 
@@ -203,7 +205,10 @@ def content_root(paths: list[Path]) -> Path | None:
     for path in paths:
         resolved = path.resolve()
         for parent in resolved.parents:
-            if parent.name == "content" and "posts" in resolved.relative_to(parent).parts:
+            if (
+                parent.name == "content"
+                and "posts" in resolved.relative_to(parent).parts
+            ):
                 return parent
     return None
 
@@ -215,8 +220,8 @@ def update_filename_references(replacements: dict[Path, Path]) -> list[Path]:
         return []
 
     reference_replacements = {
-        "{filename}/" + source.resolve().relative_to(root).as_posix():
-        "{filename}/" + destination.resolve().relative_to(root).as_posix()
+        "{filename}/" + source.resolve().relative_to(root).as_posix(): "{filename}/"
+        + destination.resolve().relative_to(root).as_posix()
         for source, destination in replacements.items()
     }
     changed: list[Path] = []

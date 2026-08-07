@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Verify bidirectional consistency between story-ranking and AniList."""
 
 from __future__ import annotations
@@ -74,10 +73,11 @@ def load_ranking_entries(yaml_dir: Path) -> tuple[list[RankingEntry], list[str]]
             raw_ids = external_ids.get("anilist") if external_ids else None
             if raw_ids is None:
                 ids: tuple[int, ...] = ()
-            elif not isinstance(raw_ids, list) or not raw_ids:
-                errors.append(f"{label} has invalid AniList IDs: {raw_ids!r}")
-                ids = ()
-            elif not all(isinstance(item, int) and item > 0 for item in raw_ids):
+            elif (
+                not isinstance(raw_ids, list)
+                or not raw_ids
+                or not all(isinstance(item, int) and item > 0 for item in raw_ids)
+            ):
                 errors.append(f"{label} has invalid AniList IDs: {raw_ids!r}")
                 ids = ()
             else:

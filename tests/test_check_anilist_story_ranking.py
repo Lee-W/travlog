@@ -98,9 +98,7 @@ def test_tierless_optional_file_can_cover_anilist_media():
 
 
 def test_per_id_score_override_allows_grouped_media():
-    ranking = [
-        RankingEntry("anime.yaml", "Series", "SS", "ANIME", (1, 2), ((2, 8),))
-    ]
+    ranking = [RankingEntry("anime.yaml", "Series", "SS", "ANIME", (1, 2), ((2, 8),))]
     collections = {
         "ANIME": {1: media_entry(1, 9), 2: media_entry(2, 8)},
         "MANGA": {},

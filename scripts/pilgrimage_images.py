@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # /// script
 # requires-python = ">=3.11"
 # dependencies = [
@@ -84,6 +83,9 @@ def get_exif(image_path: Path) -> dict:
         ],
         capture_output=True,
         text=True,
+        # 這裡不要 check=True：exiftool 對沒有 EXIF 的檔案會回非 0，
+        # 呼叫端要的是「拿不到就當空 dict」，不是拋例外。
+        check=False,
     )
     if result.returncode != 0:
         return {}
@@ -153,7 +155,7 @@ def _prompt_choice(
     while True:
         try:
             raw = input(prompt).strip().lower()
-        except (EOFError, KeyboardInterrupt):
+        except EOFError, KeyboardInterrupt:
             print()
             return None
         if not raw:
@@ -276,7 +278,7 @@ def pick_anime_interactive(
         )
         try:
             confirm = input("  [Enter 確認 / n 手動選擇] ").strip().lower()
-        except (EOFError, KeyboardInterrupt):
+        except EOFError, KeyboardInterrupt:
             print()
             return None, None, None
         if confirm not in ("n", "no"):
@@ -579,6 +581,7 @@ def cmd_batch(dry_run: bool, interactive: bool) -> int:
 
 # ── process wizard (questionary) ─────────────────────────────────────────────
 
+
 def _next_stem(loc: dict, dest_dir: Path, ext: str) -> str:
     """Return the next available filename stem for a location.
 
@@ -745,11 +748,11 @@ def _q_pick_country(data: dict, default: str = "日本") -> str:
     import questionary
 
     countries = sorted(
-        set(
+        {
             loc.get("country", "")
             for loc in (data.get("locations") or [])
             if loc.get("country")
-        )
+        }
     )
     if not countries:
         return questionary.text("國家", default=default).ask() or default
@@ -768,11 +771,11 @@ def _q_pick_city(data: dict, country: str, default: str = "") -> str:
     import questionary
 
     cities = sorted(
-        set(
+        {
             loc.get("city", "")
             for loc in (data.get("locations") or [])
             if loc.get("country") == country and loc.get("city")
-        )
+        }
     )
     if not cities:
         return questionary.text("縣市", default=default).ask() or default
@@ -859,12 +862,18 @@ def _wizard_one(src: Path, idx: int, total: int, dry_run: bool) -> bool:
                         loc_lat, loc_lon = _parse_latlng(latlng)
                         gps_comment = None
                         subprocess.run(
-                            ["open", f"maps://?ll={loc_lat},{loc_lon}&q={loc_lat},{loc_lon}"],
+                            [
+                                "open",
+                                f"maps://?ll={loc_lat},{loc_lon}&q={loc_lat},{loc_lon}",
+                            ],
                             check=False,
                         )
             else:
                 subprocess.run(
-                    ["open", f"maps://?ll={exif_lat},{exif_lon}&q={exif_lat},{exif_lon}"],
+                    [
+                        "open",
+                        f"maps://?ll={exif_lat},{exif_lon}&q={exif_lat},{exif_lon}",
+                    ],
                     check=False,
                 )
                 if not questionary.confirm(
@@ -1030,9 +1039,11 @@ def _wizard_one(src: Path, idx: int, total: int, dry_run: bool) -> bool:
 
         # Confirm + write (or retry)
         confirm_msg = (
-            "確定寫入？（有警告，n = 放棄或重填）" if overwrite_warnings else "寫入？（n = 重新填寫）"
+            "確定寫入？（有警告，n = 放棄或重填）"
+            if overwrite_warnings
+            else "寫入？（n = 重新填寫）"
         )
-        confirm_default = False if overwrite_warnings else True
+        confirm_default = not overwrite_warnings
         if questionary.confirm(confirm_msg, default=confirm_default).ask():
             break  # proceed to write
 
