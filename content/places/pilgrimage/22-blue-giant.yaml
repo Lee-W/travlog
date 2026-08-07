@@ -1,7 +1,8 @@
 work: 藍色巨星 | BLUE GIANT
 tags: [動畫]
 locations:
-- name: ブルーノート東京
+- id: blue-note-tokyo
+  name: ブルーノート東京
   lat: 35.661539
   lon: 139.716089
   notes: 'Blue Note'

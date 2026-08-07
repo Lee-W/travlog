@@ -4,11 +4,13 @@ description: >
   動漫聖地巡禮。locations-based 形式：top-level 為檔案層 metadata（合併進每筆 location），
   locations 為地點清單。Property order mirrors current column display order
   (group_by="work,country,city" group_summary_at="work") — reorder freely.
-  引用 ../_common.yaml 的 field_city / field_visit_status_and_lists /
-  field_notes_and_images / field_osm_ref 四組共用欄位（沒有 field_id /
-  field_personal_curation / field_address——聖地巡禮地點不記門牌地址，也沒有
-  逐店 id 或評分；field_osm_ref 選填，只有從 travel/ 搬過來、或建檔時就查得
-  OSM 實體的地點才有）；
+  引用 ../_common.yaml 的 field_id / field_city / field_visit_status_and_lists /
+  field_notes_and_images / field_osm_ref 五組共用欄位（沒有 field_personal_curation
+  / field_address——聖地巡禮地點不記門牌地址，也沒有逐點評分）。
+  field_id 與 field_osm_ref 都是**選填**：id 只給需要被 concerts.yaml /
+  stage-performances.yaml 的 venue_ref 指涉的地點（一個地點只存一份，不在
+  venues/ 另建重複紀錄）；osm ref 只給從 travel/ 搬過來、或建檔時就查得
+  OSM 實體的地點；
   name/lat(not hidden)/lon(not hidden)/country(not hidden) 因 title 或
   x-osm-list-hidden 隨領域而異，在此完整覆寫；work/place_type 為聖地巡禮專有
   （place_type 的 x-osm-icon 對照表與 pilgrimage-wishlist/ 共用同一份內容，
@@ -38,6 +40,7 @@ properties:
       type: object
       required: [name, lat, lon]
       allOf:
+        - $ref: "../_common.yaml#/$defs/field_id"
         - $ref: "../_common.yaml#/$defs/field_city"
         - $ref: "../_common.yaml#/$defs/field_visit_status_and_lists"
         - $ref: "../_common.yaml#/$defs/field_notes_and_images"
