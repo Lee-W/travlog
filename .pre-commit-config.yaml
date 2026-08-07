@@ -63,6 +63,20 @@ repos:
         entry: uv run python scripts/check_story_ranking.py
         files: ^(content/data/story-ranking/.*\.yaml|content/posts/review/.*\.md)$
 
+      - id: check-place-ids
+        name: Check place id/name uniqueness
+        language: system
+        pass_filenames: false
+        # `--no-sync` because a plain `uv run` re-syncs the venv from uv.lock,
+        # which silently replaces any editable install of pelican-osm /
+        # pelican-tabular with the PyPI wheel -- and content/places/ depends on
+        # unreleased plugin branches ($ref schemas, global-id venue_ref), so
+        # the next build then fails with an unresolvable $ref. CI runs
+        # `uv sync` before `pre-commit run --all-files`, so the environment is
+        # already current there and skipping the sync costs nothing.
+        entry: uv run --no-sync python scripts/check_place_ids.py
+        files: ^content/places/.*\.yaml$
+
       - id: remove-gps-from-image-exif
         name: Remove GPS Info from image exif
         language: system
