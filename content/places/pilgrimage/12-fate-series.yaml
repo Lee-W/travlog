@@ -123,7 +123,8 @@ locations:
   - /images/pilgrimage/12-fate-series/glastonbury-abbey.JPG
   - /images/pilgrimage/12-fate-series/glastonbury-abbey-2.JPG
   urls: []
-- name: Glastonbury Tor
+- id: glastonbury-tor-fate
+  name: Glastonbury Tor
   lat: 51.147343
   lon: -2.698096
   notes: ''

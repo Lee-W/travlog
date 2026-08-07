@@ -1,7 +1,8 @@
 work: 小魔女學園 | リトルウィッチアカデミア
 tags: [動畫]
 locations:
-- name: Glastonbury Tor
+- id: glastonbury-tor-lwa
+  name: Glastonbury Tor
   lat: 51.145626
   lon: -2.698525
   notes: ''
