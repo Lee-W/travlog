@@ -1,5 +1,5 @@
 Title: 性格せいかく
-Date: 2026-07-25 23:22 +0800
+Date: 2026-08-07 14:07 +0800
 Category: Review
 Tags: Food, Coffee, Cafe, 娃: 小睦
 Slug: seikaku
