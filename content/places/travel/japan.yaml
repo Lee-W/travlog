@@ -106,6 +106,17 @@ locations:
     city: "京都"
     address: "京都府京都市東山区辰巳町桝屋町二年坂"
     date: "2023-03"
+  - id: kyoto-tower
+    name: "京都塔"
+    place_type: 塔
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 34.9875524
+    lon: 135.7593295
+    osm_type: node
+    osm_id: 1494857741
+    city: "京都"
+    address: "京都府京都市下京区東塩小路町721-1"
+    date: "2023-03"
   # 大阪
   - id: usj
     name: "環球影城"
@@ -149,6 +160,15 @@ locations:
     osm_id: 19100633
     city: "愛知"
     address: "愛知県名古屋市中区本丸三の丸一丁目"
+    date: "2023-03"
+  - id: osu-shopping-street
+    name: "大須商店街"
+    place_type: 商店街
+    trip: "2023 Aimer Tour 關西・名古屋・東京"
+    lat: 35.1591563
+    lon: 136.9025731
+    city: "愛知"
+    address: "愛知県名古屋市中区大須三丁目"
     date: "2023-03"
   # 兵庫
   - id: goshoboh
