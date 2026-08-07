@@ -92,6 +92,7 @@
     href: https://offtimemusic.kktix.cc/events/gingerroot2025
   date: 2025-03-12
   year: 2025
+  venue_ref: zepp-new-taipei
 
 - flag: 🇯🇵
   title: Aimer Hall Tour 2024-2025
@@ -135,6 +136,7 @@
   title: "2024藥師寺寬邦亞洲巡迴演唱會「悟」-Satori"
   date: 2024-10-25
   year: 2024
+  venue_ref: zepp-new-taipei
 
 - flag: 💻
   title:
@@ -343,6 +345,7 @@
   title: 小地方補完計畫 - Listen. to Her Voice 特別篇（江松霖）
   date: 2021-12-18
   year: 2021
+  venue_ref: xiaodifang
 
 - flag: 🇹🇼
   title: 此刻。（江松霖）
@@ -390,7 +393,7 @@
   title: SOFA SO GOOD—鬆軟同樂會！（江松霖）
   date: 2020-10-21
   year: 2020
-  venue: Legacy mini @ amba
+  venue_ref: legacy-mini-amba
 
 - flag: 🇹🇼
   title: 2020森林市集 - 江松霖
@@ -406,6 +409,7 @@
   title: 雨不停地落下 - 江松霖台北小地方專場
   date: 2019-10-25
   year: 2019
+  venue_ref: xiaodifang
 
 - flag: 🇹🇼
   title: LisAni！LIVE TAIWAN 2019
