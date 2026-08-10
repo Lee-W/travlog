@@ -4,10 +4,6 @@ Modified: 2026-07-28 23:35 +0800
 Slug: about
 Summary: 關於「那些沒人在乎的事」以及站長李唯（Wei Lee）的內容與聯絡方式。
 
-<div id="writing-heatmap"></div>
-
----
-
 想更認識我，可以看看[關於我](https://blog.wei-lee.me/pages/about-me)與[近況](https://blog.wei-lee.me/pages/now)
 這一頁則介紹這個部落格
 
@@ -35,3 +31,9 @@ Summary: 關於「那些沒人在乎的事」以及站長李唯（Wei Lee）的�
 * <i class="fa-brands fa-mastodon"></i> [Mastodon](https://g0v.social/@weilee)
 * <i class="fa-brands fa-github"></i> [GitHub](https://github.com/Lee-W/)
 * <i class="fa-brands fa-linkedin"></i> [LinkedIn](https://tw.linkedin.com/in/clleew)
+
+---
+
+{% heatmap %}
+
+{% writing_stats %}

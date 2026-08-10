@@ -143,6 +143,7 @@ PLUGINS = [
     "pelican.plugins.tabular",
     "pelican.plugins.on_this_day",
     "pelican.themes.attila.readtime",
+    "pelican.plugins.stat",
 ]
 PAGEFIND_ENABLED = True
 RANDOM_ARTICLE_BUTTON = True
