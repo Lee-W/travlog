@@ -168,3 +168,6 @@ Summary: 收集想去的作品聖地、巡禮地圖與相關參考資料。
 
 ### 螢火之森 | 蛍火の杜へ
 - [映画「蛍火の杜へ」舞台探訪](https://www7a.biglobe.ne.jp/~uso9000/travel/hotarubi/hotarubi.htm)
+
+### 再見菈菈 | さよならララ
+- [『さよならララ』聖地まとめ｜舞台モデル・ロケ地を紹介](https://seichi-shioricho.com/sayonaralara-seichi/)
