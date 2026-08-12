@@ -144,7 +144,7 @@ locations:
     tags: [韓式料理]
     urls:
       - label: "櫻川惠・小日向美香 Special Party in Taipei"
-        href: "{filename}/posts/review/2026/sakuragawa-megu-kohinata-mika-special-party-in-taipei.md"
+        href: "{filename}/posts/review/2026/46-sakuragawa-megu-kohinata-mika-special-party-in-taipei.md"
 
   - id: yodo-ramen
     name: 羽都麵屋
