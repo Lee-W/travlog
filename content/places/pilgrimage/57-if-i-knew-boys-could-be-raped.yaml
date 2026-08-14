@@ -1,0 +1,18 @@
+work: 如果早知道男生也會被性侵
+tags: [真人]
+locations:
+- name: 基隆新豐街郵局
+  place_type: 郵局
+  lat: 25.135578
+  lon: 121.785191
+  notes: 杰哥走出網咖、拿出祖傳麵包成功誘惑俏佳人的場景
+  date: '2026-08-13'
+  country: 臺灣
+  city: 基隆市
+  osm_type: node
+  osm_id: 14022449367
+  images:
+  - /images/pilgrimage/57-if-i-knew-boys-could-be-raped/scene.jpeg
+  urls:
+  - label: 我的樂團很大
+    href: "{filename}/posts/travel/2026/my-band-is-big.md"
