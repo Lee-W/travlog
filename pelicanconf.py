@@ -212,6 +212,7 @@ MENUITEMS = (
             ("📚 系列文章", "/series_list.html"),
             ("📜 部落卷", "/pages/blogroll.html"),
             ("©️ 著作權", "/pages/copyright.html"),
+            ("🔒 隱私權", "/pages/privacy.html"),
         ),
     ),
     ("🎲 隨機", "/random/index.html"),
