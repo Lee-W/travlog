@@ -23,7 +23,7 @@ jobs:
           ref: '${{ github.event.pull_request.head.sha || inputs.git_rev }}'
 
       - name: Install the latest version of uv
-        uses: astral-sh/setup-uv@v9.0.0
+        uses: astral-sh/setup-uv@v10.0.1
         with:
           enable-cache: true
           version: "latest"
