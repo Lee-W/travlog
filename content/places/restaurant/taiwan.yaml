@@ -225,3 +225,16 @@ locations:
     district: 三義鄉
     address: 苗栗縣三義鄉雙潭村櫻花步道
     tags: [咖啡廳]
+
+  - id: animate-gratte-ximen
+    name: animate POP-UP SHOP & Gratte 西門站
+    icon: ☕
+    lat: 25.044025
+    lon: 121.508674
+    address: 臺北市中正區中華路一段51-1號 & 5號專櫃地下一樓
+    city: 臺北市
+    district: 中正區
+    tags: [咖啡廳]
+    urls:
+      - label: "『Ave Mujica LIVE TOUR 2026 Exitus 公演紀念 FAIR』"
+        href: "{filename}/posts/review/2026/ave-mujica-exitus-fair.md"
