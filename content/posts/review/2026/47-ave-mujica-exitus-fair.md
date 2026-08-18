@@ -1,12 +1,11 @@
 Title: 『Ave Mujica LIVE TOUR 2026 Exitus 公演紀念 FAIR』
 Subtitle: 原來台灣是 Ave Mujica 先進國
-Date: 2026-08-18 14:14 +0800
+Date: 2026-08-18 16:17 +0800
 Category: Review
 Tags: Anime, BanG Dream, Cafe, Food, Exhibition, 娃: 小睦
 Slug: ave-mujica-exitus-fair
 Cover: /images/post-images/2026/ave-mujica-exitus-fair/mortis-merch-with-mutsumi-plush.jpg
 Authors: Wei Lee
-Status: draft
 
 這**不**是我的「[BlogBlog 同樂會 - 2026 年 8 月](https://blogblog.club/party/)」的投稿文章。本月主題是「[一期一會](https://blog.ikukaroom.com/ichigo-ichie/)」，由 [ikuka](https://blog.ikukaroom.com/) 主持。如果你有自己的部落格，歡迎一起來參加！
 
