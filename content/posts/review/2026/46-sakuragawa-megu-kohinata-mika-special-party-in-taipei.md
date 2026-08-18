@@ -106,6 +106,10 @@ Live 的 VIP 則是可以提早購買物販跟參加見送會
 
 ![櫻川惠與小日向美香活動花籃](/images/post-images/2026/sakuragawa-megu-kohinata-mika-special-party-in-taipei/event-flower-stands.jpg)
 
+離場前還拿到大佬畫的卡片，好好看
+
+![櫻川惠與小日向美香的同人紀念卡](/images/post-images/2026/sakuragawa-megu-kohinata-mika-special-party-in-taipei/megumika-fan-art-postcards.jpeg)
+
 ## Off 會（？）
 
 其實就是跟送我小娃手燈的朋友還有他的朋友一起吃飯
