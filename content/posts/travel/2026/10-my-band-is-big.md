@@ -1,12 +1,11 @@
 Title: 我的樂團很大
 Subtitle: 累了，可以一起迷失一輩子
-Date: 2026-08-14 17:48 +0800
+Date: 2026-08-24 10:50 +0800
 Category: Travel
 Tags: 聖地巡禮, Taiwan, BanG Dream, 娃: 燈
 Slug: my-band-is-big
 Cover: /images/pilgrimage/57-if-i-knew-boys-could-be-raped/tomori.jpeg
 Authors: Wei Lee
-Status: draft
 
 早知道玩樂團也會...
 
