@@ -9,3 +9,14 @@ locations:
     urls:
       - label: "愛麗絲夢遊仙境特展"
         href: "{filename}/posts/review/2026/30-alice-in-wonderland-exhibition.md"
+
+  - id: qingqu-dreamland
+    name: 情趣夢天堂
+    lat: 25.045012
+    lon: 121.533242
+    osm_type: node
+    osm_id: 7060825872
+    address: 臺北市中山區新生北路一段6巷
+    urls:
+      - label: "野獸先輩主題展"
+        href: "{filename}/posts/review/2026/yajuu-senpai-exhibition.md"
