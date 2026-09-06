@@ -1,12 +1,11 @@
 Title: 五部動畫
-Date: 2026-08-18 21:30 +0800
+Date: 2026-09-06 19:26 +0800
 Category: Review
 Tags: Anime, AI
 Slug: five-animes-i-havent-watched
 Cover:
 Authors: Wei Lee
 Lang: zh-tw
-Status: draft
 
 看到 LQ7 大大的 [五部動漫](https://lq7.tw/reading/five-comics-and-animes/) 覺得非常有趣
 既然我都有整份的[動畫觀影排名]({filename}/pages/story-ranking.md)了
