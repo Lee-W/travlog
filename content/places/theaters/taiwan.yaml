@@ -282,6 +282,8 @@ eslite-cinema:
   name: 誠品電影院
   lat: 25.0444169
   lon: 121.5612547
+  osm_type: node
+  osm_id: 13061469402
   address: 台北市信義區菸廠路80號B1
   country: 臺灣
   city: 臺北市
@@ -398,6 +400,8 @@ jintri-showtime:
   name: 今日秀泰影城
   lat: 25.0436585
   lon: 121.5053281
+  osm_type: node
+  osm_id: 2406854919
   address: 台北市萬華區峨眉街52號1樓
   country: 臺灣
   city: 臺北市

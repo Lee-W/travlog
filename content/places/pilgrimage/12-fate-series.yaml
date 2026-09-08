@@ -150,6 +150,8 @@ locations:
 - name: 特拉法加廣場
   lat: 51.508093
   lon: -0.12807
+  osm_type: relation
+  osm_id: 3962877
   notes: Return to AVALON
   date: '2025-07-26'
   country: 英國

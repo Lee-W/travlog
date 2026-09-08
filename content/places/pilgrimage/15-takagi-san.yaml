@@ -54,6 +54,8 @@ locations:
 - name: 中山千枚田
   lat: 34.504257
   lon: 134.239473
+  osm_type: node
+  osm_id: 5537594822
   notes: ''
   date: '2024-12-28'
   country: 日本

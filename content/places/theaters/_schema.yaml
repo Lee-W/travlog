@@ -17,6 +17,7 @@ additionalProperties:
   allOf:
     - $ref: "../_common.yaml#/$defs/field_city"
     - $ref: "../_common.yaml#/$defs/field_address"
+    - $ref: "../_common.yaml#/$defs/field_osm_ref"
   properties:
 
     # ── Summary-header fields (group_summary_at="country,city,name") ────

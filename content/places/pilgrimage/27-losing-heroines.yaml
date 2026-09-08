@@ -4,6 +4,8 @@ locations:
 - name: ガスト 豊橋橋良店
   lat: 34.748282
   lon: 137.380926
+  osm_type: way
+  osm_id: 1324984955
   notes: ''
   date: '2024-12-19'
   country: 日本

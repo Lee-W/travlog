@@ -15,6 +15,8 @@ locations:
 - name: Platform 9¾
   lat: 51.53222
   lon: -0.124086
+  osm_type: way
+  osm_id: 218344453
   notes: 其實是八又二分之1
   date: '2025-07-27'
   country: 英國

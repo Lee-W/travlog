@@ -5,6 +5,8 @@ locations:
   place_type: 車站
   lat: 35.050514
   lon: 135.790359
+  osm_type: relation
+  osm_id: 5899825
   notes: ''
   country: 日本
   city: 京都
@@ -24,6 +26,8 @@ locations:
   place_type: 圖書館
   lat: 35.013220
   lon: 135.782235
+  osm_type: way
+  osm_id: 100398415
   notes: ''
   country: 日本
   city: 京都

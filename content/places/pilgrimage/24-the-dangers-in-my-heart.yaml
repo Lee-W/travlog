@@ -51,6 +51,8 @@ locations:
   place_type: 車站
   lat: 35.610604
   lon: 139.694423
+  osm_type: node
+  osm_id: 13415561661
   notes: ''
   date: '2024-06-06'
   country: 日本

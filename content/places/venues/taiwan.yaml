@@ -147,6 +147,8 @@ locations:
     place_type: 巨蛋
     lat: 25.0515
     lon: 121.5505
+    osm_type: relation
+    osm_id: 11066716
     city: 臺北市
     district: 松山區
     address: 臺北市松山區南京東路四段2之1號

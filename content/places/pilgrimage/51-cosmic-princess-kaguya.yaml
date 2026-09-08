@@ -5,6 +5,8 @@ locations:
 - name: Cinema Two
   lat: 35.70151775109062
   lon: 139.41240180185514
+  osm_type: way
+  osm_id: 186156892
   notes: "輝耀跟蹤彩葉"
   date: 2026-02-22
   country: 日本

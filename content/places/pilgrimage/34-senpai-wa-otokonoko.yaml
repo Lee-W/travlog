@@ -4,6 +4,8 @@ locations:
 - name: テラスモール湘南
   lat: 35.33879
   lon: 139.446144
+  osm_type: way
+  osm_id: 224622053
   notes: ''
   date: '2025-04-25'
   country: 日本

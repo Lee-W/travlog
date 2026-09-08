@@ -5,6 +5,8 @@ locations:
   place_type: 公園
   lat: 35.750663
   lon: 139.738812
+  osm_type: way
+  osm_id: 38017808
   notes: MyGO!!!!!
   country: 日本
   city: 東京

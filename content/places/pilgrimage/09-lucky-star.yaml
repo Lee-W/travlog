@@ -5,6 +5,8 @@ locations:
   place_type: 神社
   lat: 34.995440
   lon: 135.785076
+  osm_type: way
+  osm_id: 339352245
   notes: '修學旅行'
   date: '2018-12-06'
   country: 日本

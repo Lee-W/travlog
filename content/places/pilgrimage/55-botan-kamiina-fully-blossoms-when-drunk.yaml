@@ -20,6 +20,8 @@ locations:
   place_type: 展望台
   lat: 24.802592
   lon: 121.819322
+  osm_type: way
+  osm_id: 1514251091
   notes: ED 8
   date: '2026-06-07'
   country: 臺灣
