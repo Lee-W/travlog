@@ -51,6 +51,8 @@ locations:
 - name: ALDGATE EAST
   lat: 51.515505
   lon: -0.071884
+  osm_type: relation
+  osm_id: 7218599
   notes: ''
   date: '2025-07-25'
   country: 英國
@@ -64,6 +66,8 @@ locations:
   place_type: 公園
   lat: 51.504334
   lon: -0.118407
+  osm_type: way
+  osm_id: 4373996
   notes: ''
   date: '2025-07-26'
   country: 英國

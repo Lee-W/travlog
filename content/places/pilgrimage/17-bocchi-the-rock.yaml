@@ -20,6 +20,8 @@ locations:
   place_type: 公園
   lat: 35.664386
   lon: 139.668686
+  osm_type: way
+  osm_id: 174440158
   notes: ''
   date: '2023-03-24'
   country: 日本
@@ -31,6 +33,8 @@ locations:
 - name: 下北沢SHELTER
   lat: 35.661578
   lon: 139.669486
+  osm_type: node
+  osm_id: 13556616621
   notes: ''
   date:
   - '2023-03-24'
@@ -49,6 +53,8 @@ locations:
   place_type: 劇場
   lat: 35.661728
   lon: 139.668763
+  osm_type: node
+  osm_id: 1825027179
   notes: 波奇捕捉
   date: '2023-05-26'
   country: 日本

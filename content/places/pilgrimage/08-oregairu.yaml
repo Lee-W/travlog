@@ -17,6 +17,8 @@ locations:
   place_type: 神社
   lat: 35.326187
   lon: 139.556303
+  osm_type: node
+  osm_id: 12176453331
   notes: 大老師名子由來
   date: '2025-04-25'
   country: 日本
@@ -30,6 +32,8 @@ locations:
   place_type: 郵局
   lat: 35.322522
   lon: 139.554273
+  osm_type: node
+  osm_id: 1420834020
   notes: 沒辦法拍整個雪之下，只好找個好拍的標的
   date: '2025-04-25'
   country: 日本

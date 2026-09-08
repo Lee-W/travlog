@@ -143,6 +143,8 @@ locations:
 - name: 道の駅 朝霧高原
   lat: 35.413848
   lon: 138.590786
+  osm_type: way
+  osm_id: 101676766
   notes: ''
   date: '2023-11-11'
   country: 日本
