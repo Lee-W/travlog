@@ -1,0 +1,151 @@
+work: 畫完這個再去死 | これ描いて死ね
+tags: [動畫]
+locations:
+- name: 波浮港
+  lat: 34.687002
+  lon: 139.439226
+  osm_type: node
+  osm_id: 2088173092
+  notes: '第 1 集 上學途中讀《機器太與波可太》'
+  country: 日本
+  city: 東京
+  tags: []
+  images: []
+  urls: []
+- name: 波浮港見晴台
+  place_type: 展望台
+  lat: 34.687351
+  lon: 139.435658
+  osm_type: node
+  osm_id: 2119232537
+  notes: '第 1 集 赤福家門口'
+  country: 日本
+  city: 東京
+  tags: []
+  images: []
+  urls: []
+- name: 岡田港
+  lat: 34.789295
+  lon: 139.391489
+  osm_type: way
+  osm_id: 202529529
+  notes: '第 1 集 出發去 COMITIA'
+  country: 日本
+  city: 東京
+  tags: []
+  images: []
+  urls: []
+- name: 旧港屋旅館
+  lat: 34.686984
+  lon: 139.439872
+  osm_type: way
+  osm_id: 188314334
+  notes: '第 4 集 藤森老家「みなと館」的原型'
+  country: 日本
+  city: 東京
+  tags: []
+  images: []
+  urls: []
+- name: オタイネ浜園地
+  place_type: 海岸
+  lat: 34.701665
+  lon: 139.445113
+  notes: '第 4 集 帶石龍觀光'
+  country: 日本
+  city: 東京
+  tags: []
+  images: []
+  urls: []
+- name: 筆島
+  lat: 34.706393
+  lon: 139.445134
+  osm_type: node
+  osm_id: 2087049016
+  notes: '第 4 集 帶石龍觀光'
+  country: 日本
+  city: 東京
+  tags: []
+  images: []
+  urls: []
+- name: 地層大切断面
+  lat: 34.702449
+  lon: 139.374613
+  notes: '第 8 集 手島老師的取材之旅'
+  country: 日本
+  city: 東京
+  tags: []
+  images: []
+  urls: []
+- name: 泉津の切通し
+  lat: 34.780687
+  lon: 139.419220
+  notes: '第 8 集 手島老師的取材之旅'
+  country: 日本
+  city: 東京
+  tags: []
+  images: []
+  urls: []
+- name: 波治加麻神社
+  place_type: 神社
+  lat: 34.773908
+  lon: 139.424428
+  notes: '第 8 集 手島老師的取材之旅'
+  country: 日本
+  city: 東京
+  tags: []
+  images: []
+  urls: []
+- name: 裏砂漠
+  lat: 34.730510
+  lon: 139.406656
+  osm_type: relation
+  osm_id: 2699337
+  notes: '第 8 集 手島老師的取材之旅'
+  country: 日本
+  city: 東京
+  tags: []
+  images: []
+  urls: []
+- name: 三原山
+  lat: 34.724482
+  lon: 139.394738
+  notes: '第 8 集 手島老師的取材之旅'
+  country: 日本
+  city: 東京
+  tags: []
+  images: []
+  urls: []
+- name: 元町港
+  lat: 34.751974
+  lon: 139.352501
+  osm_type: node
+  osm_id: 436379033
+  notes: '第 8 集 夏日祭典看煙火'
+  country: 日本
+  city: 東京
+  tags: []
+  images: []
+  urls: []
+- name: 野田浜
+  place_type: 海岸
+  lat: 34.796564
+  lon: 139.360897
+  osm_type: way
+  osm_id: 538190537
+  notes: '第 9 集 社員全體去海水浴'
+  country: 日本
+  city: 東京
+  tags: []
+  images: []
+  urls: []
+- name: 大島温泉 元町浜の湯
+  lat: 34.754555
+  lon: 139.351939
+  osm_type: way
+  osm_id: 201952290
+  notes: '第 9 集 海水浴之後泡的溫泉'
+  country: 日本
+  city: 東京
+  tags: []
+  images: []
+  urls: []
