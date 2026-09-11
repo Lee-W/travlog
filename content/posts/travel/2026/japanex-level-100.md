@@ -8,7 +8,7 @@ Authors: Wei Lee
 Status: draft
 
 不知道大家有沒有玩過這個 [JapanEx 制縣等級/制県レベル](https://zhung.com.tw/japanex/)
-簡單來說就是記錄自己有多常去日本
+簡單來說，就是記錄自己在日本各個都道府縣玩到什麼程度
 
 <!--more-->
 
