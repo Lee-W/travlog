@@ -1,11 +1,10 @@
 Title: 劇場版 魔法少女まどか☆マギカ特裝版場刊微開箱
-Date: 2026-09-11 15:05 +0800
+Date: 2026-09-12 01:37 +0800
 Category: Review
 Tags: Anime, Unboxing
 Slug: madoka-magica-movie-pamphlet-unboxing
 Cover: /images/post-images/2026/madoka-magica-movie-pamphlet-unboxing/special-edition-outer-cover.jpeg
 Authors: Wei Lee
-Status: draft
 
 還好上映的時候人在日本
 台灣連一般版的場刊都超難買
