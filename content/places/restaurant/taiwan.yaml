@@ -242,3 +242,19 @@ locations:
     urls:
       - label: "『Ave Mujica LIVE TOUR 2026 Exitus 公演紀念 FAIR』"
         href: "{filename}/posts/review/2026/47-ave-mujica-exitus-fair.md"
+
+  - id: menya-torikin-guanghua
+    name: 麵屋雞金 光華店
+    icon: 🍜
+    rating: 2.5
+    lat: 25.043993
+    lon: 121.532637
+    osm_type: node
+    osm_id: 3648980825
+    address: 臺北市中正區新生南路一段6號1樓
+    city: 臺北市
+    district: 中正區
+    tags: [拉麵]
+    urls:
+      - label: "麵屋雞金 光華店"
+        href: "{filename}/posts/review/2026/menya-torikin-guanghua.md"
