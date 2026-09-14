@@ -222,6 +222,14 @@
   reviews:
   - text: '2025 春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_19'
+- title: 哥吉拉 -1.0
+  tier: S
+  external_ids:
+    letterboxd:
+    - godzilla-minus-one
+  reviews:
+  - text: '2025 冬'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#-10'
 - title: 無敵破壞王2：網路大暴走
   tier: A
   external_ids:
@@ -384,6 +392,14 @@
   - text: '2024 秋'
     href: '{filename}/posts/review/2024/47-drama-movie-teasing-master-takagi-san.md'
     season_href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_13'
+- title: 工作細胞
+  tier: A
+  external_ids:
+    letterboxd:
+    - cells-at-work
+  reviews:
+  - text: '2025 冬'
+    href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_16'
 - title: '【我推的孩子】 -The Final Act-'
   tier: A
   external_ids:
