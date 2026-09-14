@@ -515,6 +515,14 @@
     href: '{filename}/posts/review/2020/05-what-i-watch-in-2020-summer.md#5'
   - text: '2024 夏'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#5'
+- title: 佐賀偶像是傳奇 夢幻銀河樂園
+  tier: SS
+  external_ids:
+    anilist:
+    - 140337
+  reviews:
+  - text: '2026 夏'
+    href: '{filename}/posts/review/2026/37-zombie-land-saga-yumeginga-paradise.md'
 - title: City the animation
   tier: S
   external_ids:
