@@ -1,12 +1,11 @@
 Title: 野獸先輩主題展
 Subtitle: 這麼臭的展有來的必要嗎？
-Date: 2026-09-06 21:25 +0800
+Date: 2026-09-14 08:46 +0800
 Category: Review
 Tags: Exhibition
 Slug: yajuu-senpai-exhibition
 Cover: /images/post-images/2026/yajuu-senpai-exhibition/exhibition-entrance-standee.jpeg
 Authors: Wei Lee
-Status: draft
 
 因為 NiCE 2 無法進場，我就...
 
