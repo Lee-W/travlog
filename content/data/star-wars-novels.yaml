@@ -279,6 +279,14 @@
   reviews:
   - text: '2026'
     href: '{filename}/posts/review/2026/38-queen-s-peril.md'
+- title: "Star Wars: Queen's Hope"
+  rating: 8
+  difficulty: 3
+  year: 2026
+  era: "22 BBY"
+  reviews:
+  - text: '2026'
+    href: '{filename}/posts/review/2026/queens-hope.md'
 - title: "Star Wars: Brotherhood"
   rating: 7.8
   difficulty: 3
