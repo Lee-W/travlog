@@ -1,11 +1,10 @@
 Title: 制縣等級 Level up
-Date: 2026-09-06 21:28 +0800
+Date: 2026-09-16 09:26 +0800
 Category: Travel
 Tags: Japan
 Slug: japanex-level-100
 Series: 琵琶湖一周
 Authors: Wei Lee
-Status: draft
 
 不知道大家有沒有玩過這個 [JapanEx 制縣等級/制県レベル](https://zhung.com.tw/japanex/)
 簡單來說，就是記錄自己在日本各個都道府縣玩到什麼程度
