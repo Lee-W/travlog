@@ -87,3 +87,22 @@ united-cinema-canal-city:
       alt_rows: ""
       hall_note: 還不錯
       seat_note: F 排太後面，E 排可能比較理想
+
+
+toho-nijo:
+  name: TOHOシネマズ 二条
+  lat: 35.0102578
+  lon: 135.7411433
+  osm_type: node
+  osm_id: 1150942009
+  address: 京都府京都市中京区西ノ京栂尾町107 BiVi二条
+  country: 日本
+  city: 京都
+  district: 中京
+  items:
+    - hall: Screen 1
+      format: 2D 廳
+      recommended_rows: ""
+      alt_rows: ""
+      hall_note: 影音都不錯
+      seat_note: 整間位置可能都差不多，是我沒那麼喜歡的影廳設計
