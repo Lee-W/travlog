@@ -190,6 +190,18 @@ vieshow-lalaport-nangang:
   city: 臺北市
   district: 南港
   items:
+    - hall: "6 廳"
+      format: 2D 廳
+      recommended_rows: "D"
+      alt_rows: ""
+      hall_note: 影音都不錯，好像是這邊最大的影廳
+      seat_note: ""
+    - hall: "11 廳"
+      format: 2D 廳
+      recommended_rows: "B~C"
+      alt_rows: ""
+      hall_note: 影音都不錯
+      seat_note: ""
     - hall: "12 廳"
       format: 2D 廳
       recommended_rows: "C~D"
@@ -438,6 +450,25 @@ true-good-beauty:
       seat_note: 只建議坐 1 排中間
 
 
+lux-cinema:
+  name: 樂聲影城
+  lat: 25.0454081
+  lon: 121.5048628
+  osm_type: way
+  osm_id: 265563039
+  address: 台北市萬華區武昌街二段85號
+  country: 臺灣
+  city: 臺北市
+  district: 萬華
+  items:
+    - hall: "3 廳"
+      format: 2D 廳
+      recommended_rows: "2"
+      alt_rows: ""
+      hall_note: 螢幕很爛，音響偏差
+      seat_note: 只推薦 2 排中間，其他位置都很爛
+
+
 ambassador-changchun:
   name: 長春國賓影城
   lat: 25.0545575
@@ -534,6 +565,25 @@ vieshow-zhonghe:
       alt_rows: ""
       hall_note: 聲光效果還不錯，但附近塞車嚴重，會避免再來
       seat_note: ""
+
+
+vieshow-xindian-yulon:
+  name: 新店裕隆城威秀影城
+  lat: 24.9783596
+  lon: 121.5468264
+  osm_type: node
+  osm_id: 13703035199
+  address: 新北市新店區中興路三段70號
+  country: 臺灣
+  city: 新北市
+  district: 新店
+  items:
+    - hall: "14 廳"
+      format: 2D 廳
+      recommended_rows: "E"
+      alt_rows: ""
+      hall_note: 影音很棒，不愧是新的
+      seat_note: E 排不錯
 
 
 shinkong-taoyuan:
