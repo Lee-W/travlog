@@ -1,58 +1,65 @@
 - title: 葬送的芙莉蓮
+  title_native: '葬送のフリーレン'
   tier: SS
   external_ids:
     anilist:
     - 118586
   reviews:
-  - text: '2021 夏'
+  - text: '2021年夏'
     href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_27'
 - title: 衛宮家今天的餐桌風景
+  title_native: '衛宮さんちの今日のごはん'
   tier: SS
   external_ids:
     anilist:
     - 87199
   reviews:
-  - text: '2020 秋'
+  - text: '2020年秋'
     href: '{filename}/posts/review/2021/01-what-i-watch-in-2020-fall.md#_22'
 - title: 海波追尋的終幕
+  title_native: '海が走るエンドロール'
   tier: SS
   external_ids:
     anilist:
     - 137614
   reviews:
-  - text: '2022 春'
+  - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_25'
 - title: 海盜戰記
+  title_native: 'ヴィンランド・サガ'
   tier: SS
   external_ids:
     anilist:
     - 30642
   reviews:
-  - text: '2024 冬'
+  - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_24'
 - title: 躍動青春
+  title_native: 'スキップとローファー'
   tier: SS
   external_ids:
     anilist:
     - 109285
   reviews:
-  - text: '2024 冬'
+  - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_25'
 - title: 失憶投捕
+  title_native: '忘却バッテリー'
   tier: SS
   external_ids:
     anilist:
     - 107826
   reviews:
-  - text: '2024 秋'
+  - text: '2024年秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_19'
 - title: 瑠璃龍龍
+  title_native: 'ルリドラゴン'
   tier: S
   external_ids:
     anilist:
     - 150440
   reviews:
-  - text: '2025 夏'
+  - text: '2025年夏'
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_18'
 - title: BLUE GIANT EXPLORER
   tier: S
@@ -60,36 +67,40 @@
     anilist:
     - 118617
   reviews:
-  - text: '2025 冬'
+  - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#blue-giant-explorer'
 - title: 影宅
+  title_native: 'シャドーハウス'
   tier: S
   external_ids:
     anilist:
     - 104063
   reviews:
-  - text: '2021 夏'
+  - text: '2021年夏'
     href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_28'
 - title: 間諜家家酒
+  title_native: 'SPY×FAMILY'
   tier: S
   external_ids:
     anilist:
     - 108556
   reviews:
-  - text: '2021 秋'
+  - text: '2021年秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_27'
 - title: 搖曳露營△
+  title_native: 'ゆるキャン△'
   tier: S
   external_ids:
     anilist:
     - 98351
 - title: 我在意的對象並不是男人
+  title_native: '気になってる人が男じゃなかった'
   tier: S
   external_ids:
     anilist:
     - 149544
   reviews:
-  - text: '2025 冬'
+  - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_22'
 - title: CITY
   tier: A
@@ -97,7 +108,7 @@
     anilist:
     - 97700
   reviews:
-  - text: '2021 春'
+  - text: '2021年春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#city'
 - title: 日常
   tier: A
@@ -105,71 +116,79 @@
     anilist:
     - 33082
   reviews:
-  - text: '2021 夏'
+  - text: '2021年夏'
     href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_29'
 - title: 岸邊露伴一動也不動
+  title_native: '岸辺露伴は動かない'
   tier: A
   external_ids:
     anilist:
     - 103029
   reviews:
-  - text: '2021 秋'
+  - text: '2021年秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_28'
 - title: 擅長捉弄人的(前)高木同學
+  title_native: 'からかい上手の（元）高木さん'
   tier: A
   external_ids:
     anilist:
     - 99549
   reviews:
-  - text: '2021 冬'
+  - text: '2021年冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_28'
 - title: 即使如此依舊步步進逼
+  title_native: 'それでも歩は寄せてくる'
   tier: A
   external_ids:
     anilist:
     - 108105
   reviews:
-  - text: '2022 春'
+  - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_26'
 - title: 孤獨搖滾
+  title_native: 'ぼっち・ざ・ろっく！'
   tier: A
   external_ids:
     anilist:
     - 111258
   reviews:
-  - text: '2023 春'
+  - text: '2023年春'
     href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_29'
 - title: 地下忍者
+  title_native: 'アンダーニンジャ'
   tier: A
   external_ids:
     anilist:
     - 103890
   reviews:
-  - text: '2024 冬'
+  - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_28'
 - title: 輝夜姬讓人想八卦
+  title_native: 'かぐや様を語りたい'
   tier: A
   external_ids:
     anilist:
     - 102423
   reviews:
-  - text: '2024 冬'
+  - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_29'
 - title: 陰晴不定的體操哥哥
+  title_native: 'うらみちお兄さん'
   tier: A
   external_ids:
     anilist:
     - 100704
   reviews:
-  - text: '2024 春'
+  - text: '2024年春'
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_24'
 - title: 地下城中的人
+  title_native: 'ダンジョンの中のひと'
   tier: A
   external_ids:
     anilist:
     - 134121
   reviews:
-  - text: '2024 秋'
+  - text: '2024年秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_20'
 - title: ざつ旅-That's Journey-
   tier: A
@@ -177,7 +196,7 @@
     anilist:
     - 113021
   reviews:
-  - text: '2025 春'
+  - text: '2025年春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#-thats-journey-_1'
 - title: ぼっち・ざ・ろっく！外伝　廣井きくりの深酒日記
   tier: A
@@ -185,7 +204,7 @@
     anilist:
     - 163400
   reviews:
-  - text: '2025 春'
+  - text: '2025年春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_25'
 - title: mono
   tier: A
@@ -198,55 +217,61 @@
     anilist:
     - 171289
   reviews:
-  - text: '2025 夏'
+  - text: '2025年夏'
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#on-and-off-1'
 - title: 百合是我的工作
+  title_native: '私の百合はお仕事です！'
   tier: A
   external_ids:
     anilist:
     - 101120
   reviews:
-  - text: '2025 冬'
+  - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_23'
 - title: 我的兒子似乎轉生去了異世界 full ver.
+  title_native: '私の息子が異世界転生したっぽい'
   tier: A
   external_ids:
     anilist:
     - 138217
   reviews:
-  - text: '2025 冬'
+  - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#full-ver'
 - title: JOJO的奇妙冒險 PART 9 The JOJOLands
+  title_native: 'ジョジョの奇妙な冒険 The JOJOLands'
   tier: A
   external_ids:
     anilist:
     - 138072
   reviews:
-  - text: '2025 冬'
+  - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#jojo-part-9-the-jojolands'
 - title: 這個美術社大有問題!
+  title_native: 'この美術部には問題がある!'
   tier: B
   external_ids:
     anilist:
     - 80331
   reviews:
-  - text: '2021 春'
+  - text: '2021年春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_25'
 - title: 老夫老妻重返青春
+  title_native: 'じいさんばあさん若返る'
   tier: C
   external_ids:
     anilist:
     - 113984
   reviews:
-  - text: '2021 春'
+  - text: '2021年春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_26'
 - title: 魔法少年賈修II
+  title_native: '金色のガッシュ!! II'
   tier: C
   external_ids:
     anilist:
     - 146030
   reviews:
-  - text: '2024 冬'
+  - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#ii'
 
 # Kobo 讀過、AniList 無對應 entry、待排進榜（讀過=想排；無 id 可進 anilist-pending）
