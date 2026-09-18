@@ -5,6 +5,7 @@ Tags: Anime, Movie, Fate
 Slug: fate-stay-night-heaven-s-feel
 Cover: /images/post-images/2020-fsn-hf/ticket-3.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 剛好看馬拉松的前一天，才看完鬼滅之刃劇場版
 所以會有我連續兩天看幽浮桌大作的感想

@@ -6,6 +6,7 @@ Tags: Music, Concert, 尼爾：自動人形
 Slug: ningyoutachi-no-kioku
 Cover: /images/post-images/2026/ningyoutachi-no-kioku/ningyoutachi-no-kioku-blu-ray.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 之前還有比較多心力可以去橋下跟大家練劍的時候
 剛好跟 AC 聊到《尼爾：自動人形》

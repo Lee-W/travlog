@@ -6,6 +6,7 @@ Tags: Anime, Movie, Kyoto Anime, Unboxing
 Slug: kobayashino-maid-dragon-lonely-dragon-unboxing
 Cover: /images/post-images/2026/kobayashino-maid-dragon-lonely-dragon-unboxing/IMG_3250.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 其實是猶豫了一下 🤔
 但畢竟是京阿尼，還是得買吧

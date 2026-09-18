@@ -7,6 +7,7 @@ Tags: Anime, Music
 Slug: 30-day-song-challenge-day-5
 Series: 30 DAY SONG CHALLENGE
 Authors: Wei Lee
+Lang: zh-tw
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6oT13AZPh97zsU5JJlqhpj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

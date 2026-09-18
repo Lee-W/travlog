@@ -6,6 +6,7 @@ Tags: Food, 在地小吃
 Slug: a-wen-mi-guo
 Cover: /images/post-images/2026/a-wen-mi-guo/a-wen-mi-guo.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 七點多去的時候沒看到什麼人，還在想是不是 [LQ7](https://lq7.tw/) 的私房景點
 但在保安路，不可能吧？

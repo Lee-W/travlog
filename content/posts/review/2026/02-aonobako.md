@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime
 Slug: aonobako
 Authors: Wei Lee
+Lang: zh-tw
 
 我永遠支持雛大人！
 

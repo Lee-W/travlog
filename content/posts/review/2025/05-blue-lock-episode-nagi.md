@@ -6,6 +6,7 @@ Tags: Anime, Movie
 Slug: blue-lock-episode-nagi
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/blue-lock.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 指的一定只能是 Blue Lock！！！
 沒錯吧！

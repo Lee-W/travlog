@@ -6,6 +6,7 @@ Tags: Food, 越式河粉, 娃: 小睦
 Slug: pho-tam
 Cover: /images/post-images/2026/pho-tam/pho.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 台北人的「下次一定」，有「八分假，二分真」[^1]
 

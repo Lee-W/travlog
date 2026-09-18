@@ -5,6 +5,7 @@ Tags: Food, Coffee, Cafe, 娃: 小睦
 Slug: seikaku
 Cover: /images/post-images/2026/seikaku/sandwich-latte-art-and-mujica-plushies.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 這是我從學生時代一路喜歡到現在的小店
 每次回台南，不管行程怎麼排，它幾乎都會是其中一站

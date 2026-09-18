@@ -5,6 +5,7 @@ Tags: Exhibition
 Slug: alice-in-wonderland-exhibition
 Cover: /images/post-images/2026/alice-in-wonderland-exhibition/bonus-cards.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 上次去 PF 44 的時候拿到先行小禮兌換券
 剛好今天在西門附近出沒，就順路過來看展了

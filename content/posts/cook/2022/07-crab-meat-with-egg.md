@@ -5,6 +5,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: crab-meat-with-egg
 Cover: /images/post-images/2022-crab-meat-with-egg/finish-2.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 38 話柔滑軟嫩的滑蛋蟹肉，姑且出現了一下切嗣爸爸的背影
 既然切嗣爸爸都出現了，我就不能不重現這道料理了

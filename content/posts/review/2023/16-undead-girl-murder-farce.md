@@ -6,6 +6,7 @@ Tags: Anime
 Slug: undead-girl-murder-farce
 Cover: /images/post-images/2023-undead-girl-murder-farce/dont-miss.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 這部作品實在太有趣了
 2023 夏番，我每週最期待就是它

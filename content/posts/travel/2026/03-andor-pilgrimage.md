@@ -6,6 +6,7 @@ Tags: UK, 聖地巡禮, Star Wars, Andor, Rogue One
 Slug: andor-rogue-one-london-pilgrimage
 Cover: /images/pilgrimage/45-andor/barbican-centre.JPG
 Authors: Wei Lee
+Lang: zh-tw
 
 雖然這兩部作品都是《星際大戰》系列中跟 the Force 的連結相對沒那麼直接 😆
 

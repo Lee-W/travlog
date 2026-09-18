@@ -6,6 +6,7 @@ Tags: 搖曳露營△
 Slug: yuru-camp-dan-dan-dumplings-pot
 Cover: /images/post-images/2021-yuru-camp-dan-dan-dumplings-pot/finish.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 這次就來挑戰上一篇提到的的擔擔餃子鍋
 

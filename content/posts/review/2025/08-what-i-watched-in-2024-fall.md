@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watched-in-2024-fall
 Authors: Wei Lee
+Lang: zh-tw
 
 雖然我最喜歡的作品都續播到冬季去了
 尤其是 [地。-關於地球的運動-]({filename}/posts/review/2025/07-chi-on-the-movements-of-the-earth.md) 真的好好看......

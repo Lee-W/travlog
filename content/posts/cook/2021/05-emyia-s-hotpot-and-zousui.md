@@ -5,6 +5,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-hotpot-and-zousui
 Cover: /images/post-images/2021-emiya-s-hotpot-and-zousui/finish-anime-1.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 這次重現的是漫畫第 1 集的同時也動畫[最後一集](https://ani.gamer.com.tw/animeVideo.php?sn=16739)的「暖呼呼火鍋」
 

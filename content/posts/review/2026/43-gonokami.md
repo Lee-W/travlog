@@ -5,6 +5,7 @@ Tags: Food, 拉麵
 Slug: gonokami
 Cover: /images/post-images/2026/gonokami/gonokami.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 之前每次經過都很多人，這次難得不用排隊
 那當然就是直接進去吃了

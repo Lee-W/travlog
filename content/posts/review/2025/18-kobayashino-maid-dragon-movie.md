@@ -6,6 +6,7 @@ Tags: Anime, Movie, Kyoto Anime, 小林家的龍女僕
 Slug: kobayashino-maid-dragon-movie
 Cover: /images/post-images/2025-what-i-watched-in-2025-summer/kobayashi.JPEG
 Authors: Wei Lee
+Lang: zh-tw
 
 我看這部電影，是因為我喜歡小林
 有些不器用，但卻無比溫柔

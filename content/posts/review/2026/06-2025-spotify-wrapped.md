@@ -4,6 +4,7 @@ Category: Review
 Tags: Spotify 年度回顧
 Slug: 2025-spotify-wrapped
 Authors: Wei Lee
+Lang: zh-tw
 
 原本以為我從 2024 就有把 Spotify 回顧發在部落格
 從某個時機點，我想實際擁有自己產出的內容

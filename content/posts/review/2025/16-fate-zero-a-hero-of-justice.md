@@ -6,6 +6,7 @@ Tags: Fate, Fate/Zero, Musical, Live stage
 Slug: fate-zero-a-hero-of-justice
 Cover: /images/post-images/2025-fate-zero-a-hero-of-justice/IMG_7729.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 這次抽到的位置是三樓
 上次雞狗對邦抽到七樓，這次三樓還行吧

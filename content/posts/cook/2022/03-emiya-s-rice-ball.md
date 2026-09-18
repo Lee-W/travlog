@@ -5,6 +5,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-rice-ball
 Cover: /images/post-images/2022-emiya-s-rice-ball/finish-3.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 製作前室友建議我準備飯糰的模具
 我不信邪地覺得小孩子才用模具（？？？），最後證明我錯了 😢

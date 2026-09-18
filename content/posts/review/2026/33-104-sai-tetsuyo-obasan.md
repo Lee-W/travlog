@@ -5,6 +5,7 @@ Tags: Movie, Documentary
 Slug: 104-sai-tetsuyo-obasan
 Cover: /images/post-images/2026/104-sai-tetsuyo-obasan/104-sai-tetsuyo-obasan.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 之前看最近有什麼電影上映的時候，剛好滑到這部
 不知道為什麼，總覺得特別投緣（？？？）

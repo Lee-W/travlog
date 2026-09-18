@@ -5,6 +5,7 @@ Tags: 公主殿下，「拷問」的時間到了
 Slug: double-layer-oreo
 Cover: /images/post-images/2026/double-layer-oreo/IMG_2110.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 這次重現的料理自 [公主殿下，「拷問」的時間到了 第二季](https://ani.gamer.com.tw/animeVideo.php?sn=47152) 的第 15 集
 

@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime
 Slug: basue
 Authors: Wei Lee
+Lang: zh-tw
 
 在性別意識上應該是不太 OK 的作品
 彈幕常常會有「你們到底都讓聲優說了什麼」

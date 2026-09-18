@@ -6,6 +6,7 @@ Tags: Anime
 Slug: re-0-season-3
 Cover: /images/post-images/2025-what-i-watch-in-2025-winter/re-zero-3.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 第三季什麼都棒
 音樂棒、劇情棒、戰鬥畫面也超讚

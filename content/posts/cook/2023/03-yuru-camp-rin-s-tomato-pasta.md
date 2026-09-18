@@ -5,6 +5,7 @@ Tags: 搖曳露營△, 台灣野外活動部
 Slug: yuru-camp-rin-s-tomato-pasta
 Cover: /images/post-images/2023-yuru-camp-rin-s-tomato-pasta/finish.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 雖然看起來很像[凜醬的義大利湯麵]({filename}/posts/cook/2023/02-yuru-camp-rin-s-soup-pasta.md)
 但魔鬼藏在細節裡！

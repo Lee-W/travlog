@@ -6,6 +6,7 @@ Tags: Concert, Music, Final Fantasy
 Slug: distant-worlds-music-from-FINAL-FANTASY
 Cover: /images/post-images/2023-distant-worlds-music-from-FINAL-FANTASY/distant-worlds-music-from-FINAL-FANTASY.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 我對 Final Fantasy 完全是一無所知
 莫名有個 FF 的音樂好像很好聽的印象

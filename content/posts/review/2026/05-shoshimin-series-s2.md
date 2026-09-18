@@ -6,6 +6,7 @@ Tags: Anime
 Slug: shoshimin-series-s2
 Cover: /images/post-images/2025-what-i-watched-in-2025-sprint/shoshimin.png
 Authors: Wei Lee
+Lang: zh-tw
 
 太過分了！
 第一集我連三分鐘都看不下去！

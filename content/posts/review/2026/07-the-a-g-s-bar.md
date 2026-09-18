@@ -6,6 +6,7 @@ Tags: Bar
 Slug: the-a-g-s-bar
 Cover: /images/post-images/2026/the-a-g-s-bar/IMG_1015.JPEG
 Authors: Wei Lee
+Lang: zh-tw
 
 滑 SNS 的時候剛好看到這間酷酷的酒吧
 結果發現它竟然只營業到這個月底

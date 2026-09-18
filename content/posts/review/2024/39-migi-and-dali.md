@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime
 Slug: migi-and-dali
 Authors: Wei Lee
+Lang: zh-tw
 
 謝謝你，佐野菜見老師
 希望你真的去到了更自由的世界

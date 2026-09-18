@@ -6,6 +6,7 @@ Tags: Anime
 Slug: okoshiyasu-chitose-chan
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/okoshiyasu-chitose-chan.png
 Authors: Wei Lee
+Lang: zh-tw
 
 感謝四貓又推薦好作品
 上次推薦的[ACCA13 區監察課](https://ani.gamer.com.tw/animeVideo.php?sn=7154)也是好看到不行

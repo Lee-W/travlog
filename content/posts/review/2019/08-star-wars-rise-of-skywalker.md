@@ -4,6 +4,7 @@ Category: Review
 Tags: Star Wars, Movie
 Slug: star-wars-rise-of-skywalker
 Authors: Wei Lee
+Lang: zh-tw
 
 昨天終於三刷完 Rise of Skywalker 了
 終於有時間紀錄一下

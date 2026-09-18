@@ -6,6 +6,7 @@ Tags: Anime, Movie
 Slug: senpai-wa-odokonoko-movie
 Cover: /images/post-images/2025-what-i-watched-in-2025-sprint/senpai.JPEG
 Authors: Wei Lee
+Lang: zh-tw
 
 在觀影的前一週，很意外的就去參加了鎌倉現地的活動
 電影聯動活動參加完才回來台灣補電影

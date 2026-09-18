@@ -5,6 +5,7 @@ Tags: Concert, Anime, Music, Voice Actor, BanG Dream, 娃: 爽世
 Slug: sakuragawa-megu-kohinata-mika-special-party-in-taipei
 Cover: /images/post-images/2026/sakuragawa-megu-kohinata-mika-special-party-in-taipei/event-poster-with-soyo-plush.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 Firefox <ruby>又<rt>ㄧㄡˋ</rt>叒<rt>ㄖㄨㄛˋ</rt>叕<rt>ㄓㄨㄛˊ</rt></ruby> 被歧視了
 為什麼我會說又呢？

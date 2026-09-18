@@ -5,6 +5,7 @@ Tags: Food, 手搖飲
 Slug: hou-nai-ximen
 Cover: /images/post-images/2026/hou-nai-ximen/storefront.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 只期待...厚奶的你能快樂
 

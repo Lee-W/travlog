@@ -6,6 +6,7 @@ Tags: Movie
 Slug: kakukakushikajika
 Cover: /images/post-images/2025-kakukakushikajika/screen.JPEG
 Authors: Wei Lee
+Lang: zh-tw
 
 以前好像有聽尼爾喝牛奶推薦過*塗鴉日記*
 一查才發現，竟然是四年半前的集數了...

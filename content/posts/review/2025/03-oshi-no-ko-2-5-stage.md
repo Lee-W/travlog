@@ -7,6 +7,7 @@ Slug: oshinoko-2-5-stage
 Series: Aimer Tour 2024-25 之旅
 Cover: /images/post-images/2025-aimer-2024-25-tour/IMG_2785.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 雖然看到這篇文要歐印陽明，人生可能來不及光明了
 但現在還來得及買能看到 2025/01/31 的舞台劇 playback

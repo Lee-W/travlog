@@ -7,6 +7,7 @@ Tags: Anime
 Slug: If-My-Wife-Becomes-an-Elementary-School-Student
 Cover: /images/meme/closer-to-the-phone.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 單看標題確實是一部非常危險的作品
 

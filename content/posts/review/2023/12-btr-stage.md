@@ -6,6 +6,7 @@ Tags: Live stage, 2.5次元, 孤獨搖滾
 Slug: btr-stage
 Cover: /images/post-images/2023-btr-stage/home-page.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 結束バンド 跟 Starry 真的被帶來這個世界了
 

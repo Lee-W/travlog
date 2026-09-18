@@ -4,6 +4,7 @@ Category: Review
 Tags: Anime, Movie, 當季看什麼
 Slug: what-i-watch-in-2021-winter
 Authors: Wei Lee
+Lang: zh-tw
 
 這一季得看的新番實在太多了
 都沒時間把原本的舊番清單清一清

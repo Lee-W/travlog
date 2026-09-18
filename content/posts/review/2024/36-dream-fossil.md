@@ -5,6 +5,7 @@ Category: Review
 Tags: Comic
 Slug: dream-fossil
 Authors: Wei Lee
+Lang: zh-tw
 
 這本漫畫是今敏的短篇作品集，每篇故事幾乎都跟彼此無關
 但這些故事中都能看到今敏的影子

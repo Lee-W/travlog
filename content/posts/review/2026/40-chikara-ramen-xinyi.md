@@ -6,6 +6,7 @@ Tags: Food, 拉麵
 Slug: chikara-ramen-xinyi
 Cover: /images/post-images/2026/chikara-ramen-xinyi/chikara-ramen-xinyi.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 這裡明明就離信義區還很遠！
 雖然是在信義路上，沒錯啦...

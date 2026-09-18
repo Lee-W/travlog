@@ -4,6 +4,7 @@ Category: Review
 Tags: Star Wars, Animation
 Slug: maul-shadow-lord
 Authors: Wei Lee
+Lang: zh-tw
 
 最起初會入坑星際大戰系列，跟首部曲：威脅潛伏[^1]有不小的關係
 魔[^2]跟兩位絕地那命運般的對決，華麗的光劍對戰

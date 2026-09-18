@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime
 Slug: Salad-Bowl-of-Eccentrics
 Authors: Wei Lee
+Lang: zh-tw
 
 又是一部片人養女兒的作品
 

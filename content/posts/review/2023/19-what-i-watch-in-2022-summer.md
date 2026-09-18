@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2022-summer
 Authors: Wei Lee
+Lang: zh-tw
 
 就各種意義上，都是很香的一季
 

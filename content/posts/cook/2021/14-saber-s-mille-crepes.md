@@ -5,6 +5,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: saber-s-mille-crepes
 Cover: /images/post-images/2021-saber-s-mille-crepes/finish-comic-1.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 這次來重現第 48 話[イチゴのミルクレープ](https://web-ace.jp/youngaceup/contents/1000010/episode/5346/)
 直接翻譯的話是草莓千層蛋糕

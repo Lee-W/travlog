@@ -5,6 +5,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: mitsuzuri-s-scone
 Cover: /images/post-images/2022-mitsuzuri-s-scone/finish-1.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 司康真的是我怎麼做都做不太好的甜點...
 總共做了三次才做出這樣的成果

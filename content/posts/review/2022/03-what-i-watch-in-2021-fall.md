@@ -6,6 +6,7 @@ Category: Review
 Tags: Anime, 當季看什麼, TODO
 Slug: what-i-watch-in-2021-fall
 Authors: Wei Lee
+Lang: zh-tw
 
 這季出現了不少出乎意料的作品
 大多是正向意義上的出乎意料

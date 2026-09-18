@@ -5,6 +5,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-hamburger
 Cover: {static}/images/post-images/2020-emiya-s-hamburger/anime-finish.png
 Authors: Wei Lee
+Lang: zh-tw
 
 「衛宮家今天的餐桌風景」[第六集](https://ani.gamer.com.tw/animeVideo.php?sn=16732) 「第一次的漢堡排」出現了切嗣爸爸
 於是就決定來重現這道料理了 💪

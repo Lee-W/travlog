@@ -6,6 +6,7 @@ Tags: Movie
 Slug: workers-the-movie
 Cover: /images/post-images/2023-workers-the-movie/workers.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 原本想用劇中的台詞來當副標題，但一直想不到不會爆雷的金句
 這才想到，主角阿祈一直認為自己是天選之人

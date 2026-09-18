@@ -7,6 +7,7 @@ Slug: meet-lq7
 Series: 跟 LQ7 一起一拳打死羊黑
 Cover: /images/post-images/2026/meet-lq7/dolls.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 關於 LQ7 在[星期四晚上打羽球（八）](https://lq7.tw/mood/thursday-badminton-8/)提到自己看起來很年輕
 

@@ -6,6 +6,7 @@ Tags: Anime
 Slug: kotaro-lives-alone
 Cover: /images/post-images/2023-kotaro-lives-alone/kotaro-lives-alone.png
 Authors: Wei Lee
+Lang: zh-tw
 
 扣除掉小太郎真的一個人生活（社會局都去哪了）這點稍微奇幻外
 大致上是個溫馨日常作品

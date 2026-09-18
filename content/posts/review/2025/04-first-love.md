@@ -6,6 +6,7 @@ Tags: Drama
 Slug: first-love
 Cover: /images/post-images/2025-what-i-watch-in-2025-winter/first-love.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 從 2022 開播看到現在，終於看完了！
 

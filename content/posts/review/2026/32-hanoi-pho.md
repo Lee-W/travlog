@@ -6,6 +6,7 @@ Tags: Food, 越式河粉, 娃: 小睦, 娃: 企鵝
 Slug: hanoi-pho
 Cover: /images/post-images/2026/hanoi-pho/hanoi-pho.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 > 這不是我的「[BlogBlog 同樂會 - 2026 年 3 月](https://blogblog.club/party/)」的投稿文章。本月主題是「[理想的日常](https://alexhsu.com/perfect-days)」，由 [Alex Hsu](https://alexhsu.com/) 主持。但是已經過了。
 > 不過如果你有自己的部落格，還是歡迎一起來參加這一期的[音樂與記憶](https://www.yozblog.com/posts/music-and-memories)！

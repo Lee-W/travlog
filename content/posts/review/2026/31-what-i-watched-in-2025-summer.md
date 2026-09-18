@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, Kyoto Anime, Movie, 當季看什麼
 Slug: what-i-watched-in-2025-summer
 Authors: Wei Lee
+Lang: zh-tw
 
 依然是寶藏滿滿的一季 🤩
 京阿尼終於回歸了

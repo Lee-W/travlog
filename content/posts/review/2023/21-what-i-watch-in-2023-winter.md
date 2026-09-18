@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2023-winter
 Authors: Wei Lee
+Lang: zh-tw
 
 這季整體偏平淡，好作品還是有
 但好看地令人髮指（？）的作品實在不多

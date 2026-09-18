@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, Movie, Kyoto Anime
 Slug: sound-euphonium
 Authors: Wei Lee
+Lang: zh-tw
 
 ![15719703867396]({static}/images/post-images/2019-10-25-sound-euphonium/15719703867396.jpg)
 

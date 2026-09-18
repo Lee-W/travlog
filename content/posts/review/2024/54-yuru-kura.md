@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime
 Slug: yurukura
 Authors: Wei Lee
+Lang: zh-tw
 
 最終結果看來，水母的評價不是很好
 隨著劇情的推進，批評的聲量越來越多

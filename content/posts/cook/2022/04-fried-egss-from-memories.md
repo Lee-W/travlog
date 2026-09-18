@@ -6,6 +6,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: fried-eggs-from-memories
 Cover: /images/post-images/2022-fried-eggs-from-memories/finish-2.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 最近連載中的回數們，意外的都是我很有興趣的料理
 就只能試著用五十音也背不好的殘破日文試著看懂製作的步驟

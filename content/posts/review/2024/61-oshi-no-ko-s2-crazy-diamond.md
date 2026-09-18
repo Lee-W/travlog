@@ -6,6 +6,7 @@ Tags: Anime, 我推的孩子
 Slug: oshi-no-ko-season-2
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/oshi-no-alijma.png
 Authors: Wei Lee
+Lang: zh-tw
 
 幾乎是從第一個畫面就精彩到全季完結
 第一季在我心中就是「恩，還蠻好看」

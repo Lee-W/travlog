@@ -7,6 +7,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: crockpot-hot-chocolate
 Cover: /images/post-images/2025-crockpot-hot-chocolate/finish.JPEG
 Authors: Wei Lee
+Lang: zh-tw
 
 好久沒有重現衛宮家的料理了
 啊...切嗣，沒想到要成為正義的夥伴是這麼辛苦的嗎

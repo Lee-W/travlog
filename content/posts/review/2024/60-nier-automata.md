@@ -6,6 +6,7 @@ Tags: Anime
 Slug: nier-automata
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/nier-human-honor.png
 Authors: Wei Lee
+Lang: zh-tw
 
 知道這種場合講哪句話最貼切嗎
 **くそくらえだ**

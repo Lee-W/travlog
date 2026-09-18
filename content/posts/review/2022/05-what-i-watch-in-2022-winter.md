@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2022-winter
 Authors: Wei Lee
+Lang: zh-tw
 
 2022 冬番指的是 2022 年 1 ~ 3 月的作品
 都拖到了年末才要來把它寫完...

@@ -6,6 +6,7 @@ Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2023-fall
 Cover: /images/post-images/2024-what-i-watch-in-2023-fall/hell.png
 Authors: Wei Lee
+Lang: zh-tw
 
 這季好看的作品實在太多，根本就看不完...
 

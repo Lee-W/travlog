@@ -6,6 +6,7 @@ Tags: BanG Dream
 Slug: thanks-my-otaku-friend
 Cover: /images/post-images/2026/thanks-my-otaku-friend/IMG_1304.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 在 [FF 46 Day 2]({filename}/posts/review/2026/08-ff-46.md) 有提到朋友會幫我代購 [通り雨](https://www.instagram.com/tooriame.hk/) 的大正浪漫 MyGO!!!!! 跟 Ave Mujica
 昨天終於拿到啦！

@@ -4,6 +4,7 @@ Category: Review
 Tags: Star Wars, Concert, Music
 Slug: star-wars-movies-in-concert
 Authors: Wei Lee
+Lang: zh-tw
 
 今年總共參加了三場 Star Wars 的音樂會
 就差了我最想看的 Empire Strikes Back QQ

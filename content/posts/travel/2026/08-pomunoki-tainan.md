@@ -7,6 +7,7 @@ Slug: pomunoki-tainan
 Series: 跟 LQ7 一起一拳打死羊黑
 Cover: /images/post-images/2026/pomunoki-tainan/omurice.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 這**不**是我的「[BlogBlog 同樂會 - 2026 年 8 月](https://blogblog.club/party/)」的投稿文章。本月主題是「[一期一會](https://blog.ikukaroom.com/ichigo-ichie/)」，由 [ikuka](https://blog.ikukaroom.com/) 主持。如果你有自己的部落格，歡迎一起來參加！
 

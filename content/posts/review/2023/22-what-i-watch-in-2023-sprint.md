@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2023-sprint
 Authors: Wei Lee
+Lang: zh-tw
 
 山田杏奈、山田秋斗，還是山田淺右衛門佐切呢
 

@@ -6,6 +6,7 @@ Tags: Taiwan, 聖地巡禮
 Slug: chang-chin-lan
 Cover: /images/post-images/2026/chang-chin-lan/18-days.png
 Authors: Wei Lee
+Lang: zh-tw
 
 有[上伊那牡丹，醉姿如百合](https://ani.gamer.com.tw/animeVideo.php?sn=48592)動畫 8 集進度雷，慎入
 

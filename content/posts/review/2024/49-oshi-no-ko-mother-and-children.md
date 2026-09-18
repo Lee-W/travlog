@@ -6,6 +6,7 @@ Tags: Anime, Movie
 Slug: oshi-no-ko-mother-and-children
 Cover: /images/post-images/2024-oshinoko-mother-and-children/oshinoko.JPG
 Authors: Wei Lee
+Lang: zh-tw
 
 ~~就是因為很貪心才會重映再賺一波~~
 

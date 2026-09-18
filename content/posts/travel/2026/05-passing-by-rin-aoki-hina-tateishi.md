@@ -6,6 +6,7 @@ Tags: BanG Dream! It's MyGO!!!!!, Anime, Voice Actor
 Slug: passing-by-rin-aoki-hina-tateishi
 Cover: /images/post-images/2026/passing-by-rin-aoki-hina-tateishi/IMG_0522.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 最近整理照片發現了這張照片
 是去年青木陽菜跟立石凜因為 MyGO!!!!! 劇場版上映來台灣的時候

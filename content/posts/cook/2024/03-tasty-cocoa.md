@@ -6,6 +6,7 @@ Tags: 小市民系列
 Slug: tasty-cocoa
 Cover: /images/post-images/2024-tasty-cocoa/osanae.png
 Authors: Wei Lee
+Lang: zh-tw
 
 出自小市民系列動畫第二集
 

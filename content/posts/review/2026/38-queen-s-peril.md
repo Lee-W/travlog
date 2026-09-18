@@ -4,6 +4,7 @@ Category: Review
 Tags: Star Wars, Novel
 Slug: queen-s-peril
 Authors: Wei Lee
+Lang: zh-tw
 
 這本則是我換健身房後，聽完的第一本小說
 

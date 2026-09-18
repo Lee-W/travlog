@@ -6,6 +6,7 @@ Tags: Music Festival, 大港開唱
 Slug: megaport-festival-plan
 Cover: /images/post-images/2026/megarport-festival-plan/day-1-plan.png
 Authors: Wei Lee
+Lang: zh-tw
 
 上一次參加大港開唱已經是 2023 年了
 

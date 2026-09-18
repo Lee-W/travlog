@@ -5,6 +5,7 @@ Category: Travel
 Tags: USA, Star Wars, Galaxy's Edge
 Slug: rise-of-the-resistance
 Authors: Wei Lee
+Lang: zh-tw
 
 **防雷通知**
 

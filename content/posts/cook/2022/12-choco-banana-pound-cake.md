@@ -6,6 +6,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: choco-banana-pound-cake
 Cover: /images/post-images/2022-choco-banana-pound-cake/finish-1.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 身為一個邊緣人，在生日的時候做蛋糕給自己是個必備的技能
 邊緣指數直接 + 9

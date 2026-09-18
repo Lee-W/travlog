@@ -7,6 +7,7 @@ Tags: 搖曳露營△, 台灣野外活動部
 Slug: 2022-autumn-group-camping-rin-hbd
 Cover: /images/post-images/2023-2022-autumn-group-camping-rin-hbd/group-photo.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 原本秋季團露是辦在 10/1 凜的生日
 不過教主要訂露營場的時候，那天已經被訂滿了

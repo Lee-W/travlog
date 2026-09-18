@@ -5,6 +5,7 @@ Tags: 搖曳露營△, 台灣野外活動部
 Slug: yuru-camp-rin-s-soup-pasta
 Cover: /images/post-images/2023-yuru-camp-rin-s-soup-pasta/anime-rin.png
 Authors: Wei Lee
+Lang: zh-tw
 
 一直想要找時間把凜醬生日會的遊記寫完
 結果連教主歡送尾牙都結束了，還是沒有寫

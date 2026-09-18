@@ -6,6 +6,7 @@ Category: Review
 Tags: Anime, JOJO, Novel
 Slug: purple-haze-feedback
 Authors: Wei Lee
+Lang: zh-tw
 
 看完黃金之風一個意猶未盡
 意外的看到有人推薦這本小說，趁著要買其他書就一起買了

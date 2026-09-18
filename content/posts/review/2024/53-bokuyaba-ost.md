@@ -6,6 +6,7 @@ Tags: Music, Anime, Unboxing
 Slug: bokuyaba-ost
 Cover: /images/post-images/2024-bokuyaba-ost/P1240668.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 怎麼突然就被抓來當 [PyCast](https://pycast.firstory.io/) 主持人了
 
