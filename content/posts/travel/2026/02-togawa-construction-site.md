@@ -6,6 +6,7 @@ Tags: BanG Dream! It's MyGO!!!!!
 Slug: togawa-construction-site
 Cover: /images/post-images/2026/togawa-construction-site/B1.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 自從 4/12 豐川集團的黑幕倒下後，就連大小姐都得要出外打工
 Ave Mujica 的世界觀瀕臨瓦解

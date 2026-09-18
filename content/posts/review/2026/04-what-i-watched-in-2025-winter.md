@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, TODO, 當季看什麼
 Slug: what-i-watched-in-2025-winter
 Authors: Wei Lee
+Lang: zh-tw
 
 一年又過完了
 然而我還是沒辦法把我所看過的作品的心得好好寫完

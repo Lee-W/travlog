@@ -4,6 +4,7 @@ Category: Review
 Tags: Blog
 Slug: from-pages-to-private-stash
 Authors: Wei Lee
+Lang: zh-tw
 
 自從[我推的部落格](https://shuojen.com/blog/2026/05/03/weilee)推薦了本部落格後，我就多認識了一個很讚部落格
 也因此就多了一個可以~~抄襲~~借鏡的對象

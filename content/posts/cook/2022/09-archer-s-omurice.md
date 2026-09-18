@@ -5,6 +5,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: archer-s-omurice
 Cover: /images/post-images/2022-archer-s-omurice/finish-3.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 > 想像的永遠都是最強的自己
 

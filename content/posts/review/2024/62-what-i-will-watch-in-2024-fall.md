@@ -6,6 +6,7 @@ Tags: Anime, 新番嚐百草
 Slug: what-i-will-watch-in-2024-fall
 Cover: /images/post-images/2024-what-i-will-watch-in-2024-fall/what-should-i-do.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 這一季的課表沒有百合
 沒有勝者的早餐

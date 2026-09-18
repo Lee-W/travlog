@@ -6,6 +6,7 @@ Tags: 搖曳露營△
 Slug: yuru-camp-salmon-pot
 Cover: /images/post-images/2023-yuru-camp-salmon-pot/finish-5.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 之前官方釋出的食譜圖的時候，就一直想來試試看
 最後決定在北區撫子犬子生日團露重現這道料理

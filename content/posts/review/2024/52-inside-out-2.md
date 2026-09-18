@@ -6,6 +6,7 @@ Tags: Animation, Movie
 Slug: inside-out-2
 Cover: /images/post-images/2024-what-i-watched-in-2024-sprint/inside-out-2.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 在觀影前，我看到的評價大多是中庸
 有少數朋友很喜歡，給了大好評

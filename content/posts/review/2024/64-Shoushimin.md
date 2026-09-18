@@ -6,6 +6,7 @@ Tags: Anime
 Slug: Shoushimin
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/Shoushimin-osanae.png
 Authors: Wei Lee
+Lang: zh-tw
 
 那些說小佐內壞話的
 我看你是想要小佐內直接送你住進日本海了 😆

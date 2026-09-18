@@ -6,6 +6,7 @@ Tags: Fate, FGO
 Slug: fgo-9-th-aniversary-lottery
 Cover: /images/post-images/2026/fgo-9-th-aniversary-lottery/IMG_0883.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 我曾是一個不能理解「為什麼有人會一直農手遊」的人
 沒想到玩這款「好玩遊戲」也已經玩了快六年了

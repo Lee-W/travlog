@@ -5,6 +5,7 @@ Tags: Anime, Unboxing
 Slug: madoka-magica-movie-pamphlet-unboxing
 Cover: /images/post-images/2026/madoka-magica-movie-pamphlet-unboxing/special-edition-outer-cover.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 還好上映的時候人在日本
 台灣連一般版的場刊都超難買

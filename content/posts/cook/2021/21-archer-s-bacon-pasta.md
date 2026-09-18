@@ -5,6 +5,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: archer-s-bacon-pasta
 Cover: /images/post-images/2021-archer-s-bacon-pasta/finish-powder-1.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 這次終於輪到理想的盡頭 - 英靈衛宮了
 只為了拯救凜的體重而存在

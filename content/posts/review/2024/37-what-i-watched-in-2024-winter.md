@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watched-in-2024-winter
 Authors: Wei Lee
+Lang: zh-tw
 
 寫下這個副標題，是因為這兩部我冬季新番跟補番最喜歡的作品
 

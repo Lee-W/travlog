@@ -5,6 +5,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-oden
 Cover: /images/post-images/2021-emiya-s-oden/finish-1.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 其實我沒有特別喜歡吃關東煮，本來打算更之後才要重現
 不過當天來玩的朋友否決了我的其他提案

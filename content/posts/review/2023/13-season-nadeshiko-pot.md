@@ -5,6 +5,7 @@ Tags: 搖曳露營△
 Slug: season-nadeshiko-pot
 Cover: /images/post-images/2023-season-nadeshiko-pot/pot.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 之前就一直很想買
 直到三月在東京看到實體，實在太 ゆる

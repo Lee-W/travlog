@@ -6,6 +6,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: matou-s-seaweed-whitebait-pasta
 Cover: /images/post-images/2020-matou-s-seaweed-whitebait-pasta/finish.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 這次重現的是第 13 話海藻吻仔魚義大利麵
 

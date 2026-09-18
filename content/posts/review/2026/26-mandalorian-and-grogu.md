@@ -5,6 +5,7 @@ Tags: Star Wars, Movie
 Slug: the-mandalorian-grogu
 Cover: /images/post-images/2026/the-mandalorian-grogu/mando-and-grogu.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 時隔七年，星際大戰終於再次登上電影院
 雖然七年前的那一部 [^1]...謝謝你 JJ Abrams 😞

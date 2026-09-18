@@ -5,6 +5,7 @@ Tags: Japan
 Slug: japanex-level-100
 Series: 琵琶湖一周
 Authors: Wei Lee
+Lang: zh-tw
 
 不知道大家有沒有玩過這個 [JapanEx 制縣等級/制県レベル](https://zhung.com.tw/japanex/)
 簡單來說，就是記錄自己在日本各個都道府縣玩到什麼程度

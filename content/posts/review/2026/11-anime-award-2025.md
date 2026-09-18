@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime Awards
 Slug: r-anime-awards-2025
 Authors: Wei Lee
+Lang: zh-tw
 
 [Nomination Voting - r/anime Awards](https://animeawards.moe/participate/final-vote) 是在我常用的服務 [anilist](https://anilist.co/home) 看到的
 在 Reddit 上的投票

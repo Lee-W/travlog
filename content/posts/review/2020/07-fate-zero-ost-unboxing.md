@@ -4,6 +4,7 @@ Category: Review
 Tags: Anime, Fate, Unboxing
 Slug: fate-zero-ost-unboxing
 Authors: Wei Lee
+Lang: zh-tw
 
 大概九月的時候 Fate/Zero 的原聲帶上架了台灣的 iTunes
 沒想到我一下定決心要買，它就下架了...

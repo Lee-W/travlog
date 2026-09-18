@@ -6,6 +6,7 @@ Tags: Concert, Anime, Music, Kyoto Anime, 小林家的龍女僕
 Slug: kobayashino-maid-dragon-concert
 Cover: /images/post-images/2025-kobayashino-maid-dragon-concert/IMG_0031.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 台灣是這次巡迴的第一站！！！
 甚至比日本越谷還要更早

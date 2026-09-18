@@ -6,6 +6,7 @@ Tags: Anime, Movie
 Slug: jujutsu-kaisen-hidden-inventory-premature-death-the-movie
 Cover: /images/post-images/2025-what-i-watched-in-2025-fall/jujutsu-kaisen.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 咒術迴戰對我來一直都是還好的作品
 做得還不錯，有空會看一下

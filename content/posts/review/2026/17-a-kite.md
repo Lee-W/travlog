@@ -5,6 +5,7 @@ Tags: Anime, Movie
 Slug: a-kite
 Cover: /images/post-images/2026/what-i-watched-in-2026-sprint/a-kite.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 上次看了[純潔龐克 發條少女]({filename}/posts/review/2026/12-virgin-punk.md)，覺得還蠻享受的
 就順手補了同導演的這部《A KITE 風箏》

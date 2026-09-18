@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, Movie, 當季看什麼
 Slug: what-i-watch-in-2020-fall
 Authors: Wei Lee
+Lang: zh-tw
 
 這季新番比起前幾季沒有太多能每週帶給我期待的作品
 除了到十二月才上的「進擊的巨人 Final Season」外

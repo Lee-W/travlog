@@ -6,6 +6,7 @@ Tags: Musical
 Slug: a-jie-do-not-do-it-musical
 Cover: /images/post-images/2024-a-jie-do-not-do-it/17067967403146.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 去年年底看完「吼呦～杰哥不要啦」
 一直想寫篇文章推薦這部帶給我很多快樂的音樂劇

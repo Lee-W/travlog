@@ -5,6 +5,7 @@ Category: Review
 Tags: Star Wars, Novel
 Slug: brotherhood
 Authors: Wei Lee
+Lang: zh-tw
 
 這就是我在[大家都什麼時候看書呢？](https://blog.wei-lee.me/posts/random-thoughts/2026/02/when-do-you-read/)提到，在初練健身房聽完的那本小說
 

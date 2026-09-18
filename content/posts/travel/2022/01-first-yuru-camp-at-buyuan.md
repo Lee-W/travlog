@@ -6,6 +6,7 @@ Tags: 搖曳露營△, 台灣野外活動部
 Slug: first-yuru-camp-at-buyuan
 Cover: /images/post-images/2022-first-yuru-camp-at-buyuan/main-tent.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 繼料理跟弓道之後，又一件因為看動畫嘗試的新活動 - 露營
 

@@ -6,6 +6,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: Spaghetti-alla-napoletana-in-the-cafe
 Cover: /images/post-images/2022-Spaghetti-alla-napoletana-in-the-cafe/finish-1.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 Fate/HA 的芭潔特終於也出現在衛宮飯的故事中了
 不過我並沒有實際玩過 Fate/HA 😆

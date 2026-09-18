@@ -4,6 +4,7 @@ Category: Review
 Tags: Anime
 Slug: demon-slayer-to-the-swordsmith-village
 Authors: Wei Lee
+Lang: zh-tw
 
 鬼滅之刃 刀匠村篇就...嗯，鬼滅之刃
 雖然不會太期待

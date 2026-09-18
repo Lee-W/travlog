@@ -4,6 +4,7 @@ Category: Review
 Tags: Anime, Movie, 當季看什麼
 Slug: what-i-watch-in-2020-sprint
 Authors: Wei Lee
+Lang: zh-tw
 
 這一季稍微看起了美劇（[追愛總動員](https://www.netflix.com/tw/title/70143824)）跟台劇（[做工的人](https://www.myvideo.net.tw/details/3/10300)）
 （雖然這篇文還是只會寫動畫的心得 XD）

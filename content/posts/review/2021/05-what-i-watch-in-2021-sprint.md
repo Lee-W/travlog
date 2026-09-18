@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, Movie, 當季看什麼
 Slug: what-i-watch-in-2021-sprint
 Authors: Wei Lee
+Lang: zh-tw
 
 原本春季沒什麼感興趣的作品，想多花點時間補番
 沒想到被推坑推到看不完

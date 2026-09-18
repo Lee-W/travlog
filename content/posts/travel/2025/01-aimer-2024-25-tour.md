@@ -8,6 +8,7 @@ Slug: start-with-aimer-and-end-with-aimer
 Series: Aimer Tour 2024-25 之旅
 Cover: /images/post-images/2025-aimer-2024-25-tour/fog-of-world.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 [Aimer 2024-25 Tour](https://www.aimer-web.jp/live/archive/?52129) 剛開始抽票的時候
 想說應該很難抽吧

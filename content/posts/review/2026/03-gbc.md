@@ -6,6 +6,7 @@ Tags: Anime
 Slug: girls-band-cry
 Cover: /images/post-images/2025-what-i-watch-in-2025-winter/gbc.png
 Authors: Wei Lee
+Lang: zh-tw
 
 Girls Band Cry 有正式譯名前
 泛式曾翻譯成少女、樂團、哭

@@ -6,6 +6,7 @@ Tags: Anime
 Slug: chi-on-the-movements-of-the-earth
 Cover: /images/post-images/2024-what-i-will-watch-in-2024-fall/Orb.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 JOJO 之前跟我說「地太重了，所以一直還沒跟上進度」
 我笑了，怎麼會呢

@@ -6,6 +6,7 @@ Tags: Star Wars
 Slug: star-wars-andor
 Cover: /images/post-images/2023-star-wars-andor/i-mean-all-of-you.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 暴言警告
 本篇絕對主觀，且對部分作品的嚴重批評

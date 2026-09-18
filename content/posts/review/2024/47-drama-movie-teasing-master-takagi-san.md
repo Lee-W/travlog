@@ -5,6 +5,7 @@ Category: Review
 Tags: Drama, Movie
 Slug: drama-movie-teasing-master-takagi-san
 Authors: Wei Lee
+Lang: zh-tw
 
 TOHO 的廣告是真的多，一度以為我走錯廳了
 是不是走到只播廣告不播電影的影廳

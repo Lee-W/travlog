@@ -6,6 +6,7 @@ Tags: Food, Coffee, Cafe
 Slug: maskcatcafe
 Cover: /images/post-images/2026/vugka2025/food.JPEG
 Authors: Wei Lee
+Lang: zh-tw
 
 還真是懂推薦，一眼就看得出來我喜歡苦的咖啡（Ｘ
 

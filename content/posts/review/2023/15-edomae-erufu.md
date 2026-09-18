@@ -6,6 +6,7 @@ Tags: Anime
 Slug: edomae-erufu
 Cover: /images/post-images/2023-edomae-erufu/company.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 當季新番實在太多得看，又有朋友說這部很無聊
 才錯過了這部作品

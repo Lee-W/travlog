@@ -7,6 +7,7 @@ Slug: bang-dream-special-LIVE-in-TAIPE-day-minus-11
 Series: 《BanG Dream! Special LIVE in TAIPEI》
 Cover: /images/post-images/2026/bang-dream-special-LIVE-in-TAIPE-day/day-minus-11-ad-1.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 都已經快一個月了
 不管是官方還是各路粉絲，都不願意放過還困在大佳的靈魂

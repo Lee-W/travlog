@@ -5,6 +5,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-south-eastern-style-curry
 Cover: /images/post-images/2021-emiya-south-eastern-style-curry/finish.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 這次重現第 17 話「使用大量夏季蔬菜的南洋風咖哩」
 英雄王吉爾伽美什第一次在這和平的故事中登場

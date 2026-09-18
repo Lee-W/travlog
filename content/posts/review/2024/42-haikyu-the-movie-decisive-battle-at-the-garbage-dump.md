@@ -4,6 +4,7 @@ Category: Review
 Tags: Anime, Movie
 Slug: haikyu-the-movie-decisive-battle-at-the-garbage-dump
 Authors: Wei Lee
+Lang: zh-tw
 
 我先承認我不是排民，我就只是跟風仔嗚嗚嗚
 

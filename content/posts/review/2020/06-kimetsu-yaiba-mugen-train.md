@@ -4,6 +4,7 @@ Category: Review
 Tags: Anime, Movie
 Slug: kimetsu-yaiba-mugen-train
 Authors: Wei Lee
+Lang: zh-tw
 
 ❗防雷警告❗
 

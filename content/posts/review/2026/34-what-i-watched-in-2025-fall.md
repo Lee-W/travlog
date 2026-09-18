@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watched-in-2025-fall
 Authors: Wei Lee
+Lang: zh-tw
 
 這一季是補番的回合，新番看得蠻少的 🤔
 但真的整理下來這季還真的是看了不少寶藏作品耶

@@ -6,6 +6,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: salmon-chan-chan-yaki
 Cover: /images/post-images/2022-salmon-chan-chan-yaki/finish-3.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 當初看到鏘鏘燒，還想說是不是衛宮家的原創料理
 查了一下才發現是源自北海道的料理呢

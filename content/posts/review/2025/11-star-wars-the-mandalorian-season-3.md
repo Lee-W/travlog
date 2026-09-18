@@ -5,6 +5,7 @@ Category: Review
 Tags: Star Wars
 Slug: star-wars-the-mandalorian-season-3
 Authors: Wei Lee
+Lang: zh-tw
 
 原本可以是個平庸、普通的作品
 多虧了 Moff Gideon ，第三季成為了糟糕的作品

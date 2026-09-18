@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime
 Slug: the-death-boy-and-the-black-maid
 Authors: Wei Lee
+Lang: zh-tw
 
 > 你能想像嗎
 >

@@ -6,6 +6,7 @@ Tags: Concert, Music
 Slug: forty-and-fearless
 Cover: /images/post-images/2026/forty-and-fearless/17833990588100.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 不過並不是我 40 歲了
 而是我亂入了[PC 全球定位裝置]的 40 歲生日趴/公演

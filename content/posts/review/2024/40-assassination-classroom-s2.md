@@ -4,6 +4,7 @@ Category: Review
 Tags: Anime
 Slug: assassination-classroom-s2
 Authors: Wei Lee
+Lang: zh-tw
 
 感謝室友推薦，確實是部相當厲害的作品
 也是好久沒看這樣一部給人畢業感這麼重的中長篇作品

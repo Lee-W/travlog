@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watched-in-2025-spring
 Authors: Wei Lee
+Lang: zh-tw
 
 Star Wars: Andor Season 2
 除了好看，我也只能說是好看

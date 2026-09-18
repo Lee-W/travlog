@@ -4,6 +4,7 @@ Category: Review
 Tags: Anime, Movie, Kyoto Anime
 Slug: violet-evergarden-movie
 Authors: Wei Lee
+Lang: zh-tw
 
 ![ticket]({static}/images/post-images/2019-11-05-06-violet-evergarden-movie/ticket.jpg)
 

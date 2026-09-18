@@ -6,6 +6,7 @@ Slug: tra-delay
 Series: 跟 LQ7 一起一拳打死羊黑
 Cover: /images/post-images/2026/tra-delay/broken.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 既然[星期四晚上打羽球（八）](https://lq7.tw/mood/thursday-badminton-8/)提到了台鐵誤點的事
 那就來記錄一下

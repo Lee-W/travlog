@@ -6,6 +6,7 @@ Tags: Anime, TODO, 當季看什麼
 Slug: what-i-watched-in-2024-summer
 Cover: /images/post-images/2024-what-i-watched-in-2024-summer/hamiaomiao.png
 Authors: Wei Lee
+Lang: zh-tw
 
 並不是指劇情的翻轉再翻轉
 而是這季作品我心中的排名，不斷地改變

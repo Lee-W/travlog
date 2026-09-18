@@ -4,6 +4,7 @@ Category: Review
 Tags: Anime
 Slug: odd-taxi
 Authors: Wei Lee
+Lang: zh-tw
 
 是該來寫「2021 夏季看什麼」的時候
 但寫著寫著就發現有幾部作品會寫得太長 😆

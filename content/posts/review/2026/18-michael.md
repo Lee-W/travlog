@@ -6,6 +6,7 @@ Tags: Movie, Music
 Slug: michael
 Cover: /images/post-images/2026/what-i-watched-in-2026-sprint/michael.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 沒錯，就是 Beat It 的諧音爛梗
 在電影中這首歌也有出現

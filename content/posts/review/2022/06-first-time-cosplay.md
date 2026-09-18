@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, Cosplay
 Slug: first-time-cosplay
 Authors: Wei Lee
+Lang: zh-tw
 
 說到今年最讓自己錯愕的嘗試應該就是開始 Cosplay 吧
 而且還都是出女角 0.0

@@ -6,6 +6,7 @@ Category: Review
 Tags: Anime, 新番嚐百草
 Slug: what-i-will-watch-in-2023-sprint
 Authors: Wei Lee
+Lang: zh-tw
 
 這季新番的名字是高橋李依！
 

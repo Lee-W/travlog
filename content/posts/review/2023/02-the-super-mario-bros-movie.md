@@ -5,6 +5,7 @@ Tags: Animation, Movie
 Slug: the-super-mario-bros-movie
 Cover: /images/post-images/2023-the-super-mario-bros-movie/the-super-mario-bros-movie-2.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 觀影前依稀有聽到一些負評是稍微有些擔心
 但畢竟剛去完環球影城的任天堂園區

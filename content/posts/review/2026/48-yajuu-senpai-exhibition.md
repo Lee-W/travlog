@@ -6,6 +6,7 @@ Tags: Exhibition
 Slug: yajuu-senpai-exhibition
 Cover: /images/post-images/2026/yajuu-senpai-exhibition/exhibition-entrance-standee.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 因為 NiCE 2 無法進場，我就...
 

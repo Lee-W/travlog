@@ -6,6 +6,7 @@ Tags: Taiwan, 聖地巡禮, BanG Dream
 Slug: yonezawa-akane-ubike-station
 Cover: /images/post-images/2026/yonezawa-akane-ubike-station/yonezawa-akane-ubike-station.JPEG
 Authors: Wei Lee
+Lang: zh-tw
 
 有一天突然滑 Google Map 的時候，發現某個我喜愛的地標被移除了 😢
 它原本是「米澤茜 Ubike 站」

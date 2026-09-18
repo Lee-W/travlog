@@ -5,6 +5,7 @@ Tags: Article
 Slug: update-my-theatre-preference-page
 Cover: /images/post-images/2026/update-my-theatre-preference-page/after.png
 Authors: Wei Lee
+Lang: zh-tw
 
 當初只是想要把我在各電影院喜歡坐的位置公開在網路上
 我自己買票的時候就可以輕鬆查到

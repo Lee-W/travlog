@@ -5,6 +5,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: mitsuzuri-s-sweet-potato
 Cover: /images/post-images/2021-mitsuzuri-s-sweet-potato/finish-1.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 由於 PyCon TW 2021 售票個人票破 200 且總售票破 500
 所以上週檢討會，我要來實現別人幫我答應的要做料裡給大家吃

@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2021-summer
 Authors: Wei Lee
+Lang: zh-tw
 
 這季新番給我的感覺是每一部都不錯，但又沒到很驚艷
 倒是補番遇到比較多驚艷的作品

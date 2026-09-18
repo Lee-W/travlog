@@ -6,6 +6,7 @@ Tags: 聖地巡禮, Taiwan, BanG Dream, 娃: 燈
 Slug: my-band-is-big
 Cover: /images/pilgrimage/57-if-i-knew-boys-could-be-raped/tomori.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 早知道玩樂團也會...
 

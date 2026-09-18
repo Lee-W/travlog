@@ -6,6 +6,7 @@ Tags: Anime, BanG Dream
 Slug: bang-dream-ave-mujica
 Cover: /images/post-images/2025-what-i-watch-in-2025-winter/ave-mujica.png
 Authors: Wei Lee
+Lang: zh-tw
 
 其實我很喜歡 Ave Mujica
 畢竟它帶給我的快樂是很真實的

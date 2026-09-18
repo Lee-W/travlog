@@ -6,6 +6,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: wanna-eat-yorokobe-spicy-chicken
 Cover: /images/post-images/2020-wanna-eat-yorokobe-spicy-chicken/finish.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 昨天（12/28）剛好是愉悅神父言峰綺禮的生日
 麻婆豆腐已經做過幾次了，該來嘗試點新料理

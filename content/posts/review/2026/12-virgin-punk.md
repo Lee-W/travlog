@@ -5,6 +5,7 @@ Tags: Anime, Movie
 Slug: virgin-punk
 Cover: /images/post-images/2026/what-i-watched-in-2026-winter/virgin-punk.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 畢竟是一部只有 35 分鐘的電影，觀影壓力非常的低
 一直有想去看看這到底是什麼

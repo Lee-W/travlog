@@ -5,6 +5,7 @@ Tags: Anime, Music, Concert
 Slug: anisama-review-seen
 Cover: /images/meme/mygo-vain-moment.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 最近因為 [BlogBlog](https://blogblog.club/) 多花了點時間，寫文章記錄生活
 漸漸的被一些人看到，也因此很快樂的認識了一些[部落友](https://blog.wei-lee.me/posts/random-thoughts/2026/05/how-should-i-call-a-blog-friend/)

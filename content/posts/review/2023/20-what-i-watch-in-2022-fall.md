@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, 當季看什麼
 Slug: what-i-watch-in-2022-fall
 Authors: Wei Lee
+Lang: zh-tw
 
 這一季有這麼多精彩到不行的作品
 多美好的世界啊

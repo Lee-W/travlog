@@ -6,6 +6,7 @@ Tags: Movie
 Slug: thus-spoke-kjishibe-rohan-at-a-confessional
 Cover: /images/post-images/2025-thus-spoke-kjishibe-rohan-at-a-confessional/dolls.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 從音樂、分鏡到整體氛圍都好怪
 實在太適合這部怪談作品了

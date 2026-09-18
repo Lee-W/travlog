@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, Movie, 當季看什麼
 Slug: what-i-watch-in-2020-summer
 Authors: Wei Lee
+Lang: zh-tw
 
 又到了一季一更的追番心得了 XD
 

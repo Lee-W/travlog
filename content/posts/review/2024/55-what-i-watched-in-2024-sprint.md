@@ -5,6 +5,7 @@ Category: Review
 Tags: Movie, Anime, 當季看什麼
 Slug: what-i-watched-in-2024-sprint
 Authors: Wei Lee
+Lang: zh-tw
 
 這是勝者的早餐
 很好吃

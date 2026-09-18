@@ -4,6 +4,7 @@ Category: Review
 Tags: Animation, Documentary
 Slug: Flee
 Authors: Wei Lee
+Lang: zh-tw
 
 最近慢慢整理起以前寫了一半的觀影心得們
 沒想到文章都積超過一年了

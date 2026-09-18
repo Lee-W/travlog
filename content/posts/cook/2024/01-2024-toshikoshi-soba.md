@@ -6,6 +6,7 @@ Tags: 搖曳露營△
 Slug: 2024-toshikoshi-soba
 Cover: /images/post-images/2024-toshikoshi-soba/finish-3.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 滑菇好像是一種日本比較找得到
 台灣沒那麼好找的菇

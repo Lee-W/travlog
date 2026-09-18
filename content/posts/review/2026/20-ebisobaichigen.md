@@ -6,6 +6,7 @@ Tags: Food, 拉麵
 Slug: ebisobaichigen
 Cover: /images/post-images/2026/ebisobaichigen/ebisobaichigen.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 在新產品跟熟悉的快樂之間，最後還是選了前者
 

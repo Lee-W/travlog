@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, 新番嚐百草
 Slug: what-i-will-watch-in-2024-sprint
 Authors: Wei Lee
+Lang: zh-tw
 
 原本以為這是個強番如雲的季度
 看都要看不完了

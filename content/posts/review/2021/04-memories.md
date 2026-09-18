@@ -6,6 +6,7 @@ Tags: Anime, Movie
 Slug: memories
 Cover: /images/post-images/2021-memories/memories.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 每次看這種畫風非主流的老作品重映
 都會下意識地告訴自己「我大概不會太喜歡，但經典還是要朝聖」

@@ -6,6 +6,7 @@ Tags: Anime, Movie
 Slug: psycho-pass-providence
 Cover: /images/post-images/2023-psycho-pass-providence/psycho-pass-providence.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 雖然有點苦甜苦點的，但我還是吃糖吃得好快樂
 

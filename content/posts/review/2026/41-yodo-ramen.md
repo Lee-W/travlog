@@ -6,6 +6,7 @@ Tags: Food, 拉麵, 娃: 小睦, 娃: 燈
 Slug: yodo-ramen
 Cover: /images/post-images/2026/yodo-ramen/yodo-ramen-cover.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 下午突然接到一通電話，晚上就莫名其妙就被帶去基隆了 0.0
 

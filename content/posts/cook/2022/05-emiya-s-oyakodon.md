@@ -6,6 +6,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-oyakodon
 Cover: /images/post-images/2022-emiya-s-oyakodon/finish-2.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 最近覺得「哇，真是好吃又方便」的料理之一
 

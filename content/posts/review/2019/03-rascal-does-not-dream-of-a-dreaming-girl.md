@@ -4,6 +4,7 @@ Category: Review
 Tags: Anime, Movie
 Slug: rascal-does-not-dream-of-a-dreaming-girl
 Authors: Wei Lee
+Lang: zh-tw
 
 ![poster]({static}/images/post-images/2019-10-02-rascal-does-not-dream-of-a-dreaming-girl/15699803588522.jpg){: width="80%"}
 

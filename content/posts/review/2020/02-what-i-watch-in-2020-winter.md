@@ -4,6 +4,7 @@ Category: Review
 Tags: Anime, Movie, 當季看什麼
 Slug: what-i-watch-in-2020-winter
 Authors: Wei Lee
+Lang: zh-tw
 
 最近因為疫情待在家裡吃飯的時間又變得更長了，要配得番也就變多了
 正好是個紀錄對每部作品想法的好機會

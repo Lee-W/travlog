@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime, 當季看什麼, TODO
 Slug: what-i-watch-in-2022-sprint
 Authors: Wei Lee
+Lang: zh-tw
 
 原本想說把一篇篇的觀影心得拆出來
 文章就會寫得比較快

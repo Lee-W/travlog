@@ -6,6 +6,7 @@ Tags: Movie
 Slug: another-round
 Cover: /images/post-images/2026/another-round/another-round.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 先前[烏龜](https://lankudot.airfishlab.com/)就曾大力推薦我這部電影
 趁著金馬影廳重映，我終於抓著他陪我一起去補完了

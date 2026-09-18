@@ -5,6 +5,7 @@ Tags: Live stage, Musical, 美少女戰士, 2.5次元
 Slug: 2-5-dimension-musical-sailor-moon-the-super-live
 Cover: /images/post-images/2023-2-5-dimension-musical-sailor-moon-the-super-live/16809691259639.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 我對美少女戰士可以說是一無所知
 但看到這個消息的時候，還是覺得很有趣就買票了 😆

@@ -5,6 +5,7 @@ Tags: Japan, 聖地巡禮, Fate, 吹響吧！上低音號, 玉子市場, 四疊�
 Slug: 2023-aimer-tour-kansai-nagoya-itinerary
 Cover: /images/post-images/2023-aimer-tour-kansai-nagoya-itinerary/P1190508.JPG
 Authors: Wei Lee
+Lang: zh-tw
 
 要好好把整篇的油記寫完，大概還遙遙無期吧
 最近才有人問我能不能分享去日本的行程

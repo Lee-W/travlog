@@ -5,6 +5,7 @@ Category: Review
 Tags: Anime
 Slug: the-legendary-hero-is-dead
 Authors: Wei Lee
+Lang: zh-tw
 
 這部作品最有趣的地方大概就是他的 OP [死んだ！](https://www.youtube.com/watch?v=QfKry0xnzks)
 

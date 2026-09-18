@@ -6,6 +6,7 @@ Tags: Japan, 聖地巡禮, 聯名店, 搖曳露營△, 孤獨搖滾, 莉可麗�
 Slug: 2023-after-aimer-tour-tokyo-itinerary
 Cover: /images/post-images/2023-after-aimer-tour-tokyo-itinerary/yuru-camp.jpg
 Authors: Wei Lee
+Lang: zh-tw
 
 這週在東京要上四天班
 沒有太多的時間可以到處玩，主要的行程就是跑合作咖啡廳

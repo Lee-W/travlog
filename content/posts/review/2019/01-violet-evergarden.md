@@ -4,6 +4,7 @@ Category: Review
 Tags: Anime, Kyoto Anime
 Slug: violet-evergarden
 Authors: Wei Lee
+Lang: zh-tw
 
 這是我第一篇的追番心得文
 其實一直都有想做這件事

@@ -5,6 +5,7 @@ Tags: Fate, 衛宮家今天的餐桌風景
 Slug: emiya-s-new-year-rice-cake-soup
 Cover: /images/post-images/2022-emiya-s-new-year-rice-cake-soup/finish-2.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 台版衛宮家今天的餐桌風景（6）終於上啦！
 原本只有 Bookwalker 上才有，KOBO 還要等一陣子

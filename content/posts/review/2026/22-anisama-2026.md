@@ -6,6 +6,7 @@ Tags: Anime, Music, Concert
 Slug: anisama-in-taipei-2026-dosha
 Cover: /images/post-images/2026/anisama-in-taipei/IMG_3215.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 壞朋友因為 Anisama 有李子之前就有分享資訊給我
 但我 3/1 在 K-Arena, 4/11 在大佳都看過了

@@ -6,6 +6,7 @@ Tags: Anime, 新番嚐百草
 Slug: what-i-will-watch-in-2024-summer
 Cover: /images/post-images/2024-what-i-will-watch-in-2024-summer/shika.png
 Authors: Wei Lee
+Lang: zh-tw
 
 六月底開始排要看什麼的時候
 原本想看的有三分之一沒被代理，還有些難過...

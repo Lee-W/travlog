@@ -5,6 +5,7 @@ Category: Review
 Tags: Concert, Anime, Music
 Slug: aniplex-20th-anniversary-event-thanx
 Authors: Wei Lee
+Lang: zh-tw
 
 [官網](https://20th.aniplex.co.jp/)的線上票販售到 2024/1/16 (Tue.) 04:59 TST
 好像可以看到 1/16 22:59
