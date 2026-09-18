@@ -4,6 +4,7 @@ Category: Review
 Tags: Anime, 當季看什麼
 Slug: $slug
 Authors: Wei Lee
+Lang: zh-tw
 
 <!--more-->
 
