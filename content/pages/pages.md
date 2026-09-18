@@ -3,6 +3,7 @@ Date: 2023-10-11 21:45 +0800
 Modified: 2026-06-01 16:31 +0800
 Slug: pages
 Summary: 收藏作品排名、表演紀錄、電影院、聖地巡禮與料理等主題索引。
+Lang: zh-tw
 
 <div class="pages-grid">
   <a class="pages-card" href="/pages/story-ranking.html">

@@ -3,6 +3,7 @@ Date: 2026-08-04 00:00 +0800
 Modified: 2026-08-04 00:00 +0800
 Slug: travel-map
 Summary: 記錄旅途中去過的地點
+Lang: zh-tw
 Status: hidden
 
 旅遊文章裡去過的地點
