@@ -9,6 +9,10 @@ SITEURL = f"https://{HOST}"
 STATIC_SITEURL = SITEURL
 RELATIVE_URLS = False
 
+# Built in pelicanconf.py against the development SITEURL; rebuild it so the
+# Japanese subsite links to articles on the production site.
+I18N_SUBSITES["ja"]["ARTICLE_LANG_URL"] = f"{SITEURL}/{ARTICLE_URL}"
+
 FEED_MAX_ITEMS = 30
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
