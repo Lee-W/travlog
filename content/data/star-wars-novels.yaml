@@ -23,6 +23,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-revenge-of-the-sith'
 - title: "Catalyst: A Rogue One Novel"
+  title_native: 'カタリスト'
   rating: 8
   difficulty: 3.5
   year: 2017
@@ -31,6 +32,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#catalyst-a-rogue-one-novel'
 - title: "Star Wars: Thrawn"
+  title_native: 'スローン'
   rating: 10
   difficulty: 3.5
   year: 2018
@@ -47,6 +49,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#thrawn-alliances'
 - title: "Star Wars: Ahsoka"
+  title_native: 'スター・ウォーズ：アソーカ'
   rating: 8.5
   difficulty: 1
   year: 2018
@@ -55,6 +58,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-ahsoka-tano'
 - title: "Leia, Princess of Alderaan"
+  title_native: 'レイア・オーガナ オルデラーンの王女'
   rating: 8
   difficulty: 1
   year: 2018
@@ -63,6 +67,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#leia-princess-of-alderaan'
 - title: "From a Certain Point of View"
+  title_native: 'ある視点から見た物語'
   rating: 7.5
   difficulty: 3
   year: 2018
@@ -71,6 +76,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#from-a-certain-point-of-view'
 - title: "Star Wars: Lost Stars"
+  title_native: 'ロスト・スターズ'
   rating: 9.5
   difficulty: 1.5
   year: 2019
@@ -79,6 +85,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-lost-star'
 - title: "Dooku: Jedi Lost"
+  title_native: 'ドゥークー：ジェダイ・ロスト'
   rating: 9
   difficulty: 3
   year: 2019
@@ -95,6 +102,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#thrawn-treason'
 - title: "Battlefront 2: Inferno Squad"
+  title_native: 'バトルフロント II：インフェルノ分隊'
   rating: 8.5
   difficulty: 2.5
   year: 2019
@@ -103,6 +111,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#battlefront-2-inferno-squad'
 - title: "Star Wars: Bloodline"
+  title_native: 'ブラッドライン'
   rating: 8
   difficulty: 3.5
   year: 2019
@@ -119,6 +128,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#galaxys-edge-black-spire'
 - title: "Star Wars: Dark Disciple"
+  title_native: 'ダーク・ディサイプル'
   rating: 7.9
   difficulty: 3
   year: 2019
@@ -135,6 +145,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-the-rise-of-the-empire-3-stories'
 - title: "Star Wars: Life Debt"
+  title_native: 'アフターマス：命の借り'
   rating: 7.5
   difficulty: 3.5
   year: 2019
@@ -143,6 +154,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-life-debt'
 - title: "Phasma"
+  title_native: 'ファズマ'
   rating: 7.5
   difficulty: 3.5
   year: 2019
@@ -151,6 +163,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#phasma'
 - title: "Resistance Reborn: Journey to Star Wars: The Rise of Skywalker"
+  title_native: 'レジスタンスの復活'
   rating: 7.5
   difficulty: 3
   year: 2019
@@ -159,6 +172,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#resistance-reborn'
 - title: "Tarkin"
+  title_native: 'ターキン'
   rating: 7.2
   difficulty: 4.5
   year: 2019
@@ -167,6 +181,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#tarkin'
 - title: "A New Dawn"
+  title_native: '新たなる夜明け'
   rating: 7
   difficulty: 4
   year: 2019
@@ -175,6 +190,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#a-new-dawn'
 - title: "Star Wars: Empire's End"
+  title_native: 'アフターマス：帝国の終焉'
   rating: 7
   difficulty: 3.5
   year: 2019
@@ -183,6 +199,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-empires-end'
 - title: "Star Wars: Aftermath"
+  title_native: 'アフターマス'
   rating: 5
   difficulty: 3.5
   year: 2019
@@ -191,6 +208,7 @@
   - text: '2019 前我看過的 23 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/01-star-wars-novel-i-read-before-2019.md#star-wars-aftermath'
 - title: "Doctor Aphra (Star Wars)"
+  title_native: 'スター・ウォーズ：ドクター・アフラ'
   rating: 8.2
   difficulty: 2
   year: 2020
@@ -207,6 +225,7 @@
   - text: '2020 我看過的 7 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/08-star-wars-novel-i-read-before-2020.md#master-apprentice'
 - title: "Star Wars: Rebel Rising"
+  title_native: 'レベル・ライジング'
   rating: 7.8
   difficulty: 2.5
   year: 2020
@@ -215,6 +234,7 @@
   - text: '2020 我看過的 7 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/08-star-wars-novel-i-read-before-2020.md#star-wars-rebel-rising'
 - title: "Battlefront: Twilight Company"
+  title_native: 'バトルフロント：トワイライト中隊'
   rating: 7.7
   difficulty: 3.5
   year: 2020
@@ -239,6 +259,7 @@
   - text: '2020 我看過的 7 本 Star Wars 小說'
     href: '{filename}/posts/review/2020/08-star-wars-novel-i-read-before-2020.md#galaxys-edge-a-crash-of-fate'
 - title: "Last Shot"
+  title_native: 'ラスト・ショット'
   rating: 4
   difficulty: 3.5
   year: 2020

@@ -4,62 +4,69 @@
     anilist:
     - 33649
   reviews:
-  - text: '2020 夏'
+  - text: '2020年夏'
     href: '{filename}/posts/review/2020/05-what-i-watch-in-2020-summer.md#fate-zero'
 - title: 艾梅洛閣下II世事件簿
+  title_native: 'ロード・エルメロイⅡ世の事件簿'
   tier: SS
   external_ids:
     anilist:
     - 87197
   reviews:
-  - text: '2021 秋'
+  - text: '2021年秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#ii'
 - title: 不知恥的紫煙
+  title_native: '恥知らずのパープルヘイズ―ジョジョの奇妙な冒険より―'
   tier: S
   external_ids:
     anilist:
     - 71865
   reviews:
-  - text: '2021 秋'
+  - text: '2021年秋'
     href: '{filename}/posts/review/2021/07-purple-haze-feedback.md'
     season_href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_30'
 - title: The Book - jojo's bizarre adventure 4th another day
+  title_native: 'ジョジョの奇妙な冒険 “The Book” jojo''s bizarre adventure 4th another day'
   tier: S
   external_ids:
     anilist:
     - 62991
   reviews:
-  - text: '2021 秋'
+  - text: '2021年秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#the-book-jojos-bizarre-adventure-4th-another-day'
 - title: 處刑少女的生存之道(01)
+  title_native: '処刑少女の生きる道（バージンロード）'
   tier: S
   external_ids:
     anilist:
     - 110683
   reviews:
-  - text: '2025 冬'
+  - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#01'
 - title: 岸邊露伴完全不叫喊 短篇小說集
+  title_native: '岸辺露伴は叫ばない 短編小説集'
   tier: A
   external_ids:
     anilist:
     - 139090
   reviews:
-  - text: '2022 夏'
+  - text: '2022年夏'
     href: '{filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_29'
 - title: 岸邊露伴完全不嬉鬧
+  title_native: '岸辺露伴は戯れない 短編 小説集'
   tier: A
   external_ids:
     anilist:
     - 139542
   reviews:
-  - text: '2022 冬'
+  - text: '2022年冬'
     href: '{filename}/posts/review/2022/05-what-i-watch-in-2022-winter.md#_32'
 - title: Lycoris Recoil 莉可麗絲 Ordinary days
+  title_native: 'リコリス・リコイル Ordinary days'
   tier: A
   external_ids:
     anilist:
     - 151809
   reviews:
-  - text: '2024 秋'
+  - text: '2024年秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#lycoris-recoil-ordinary-days'

@@ -1,59 +1,67 @@
 - title: 媽的多重宇宙
+  title_native: 'エブリシング・エブリウェア・オール・アット・ワンス'
   tier: SSS
   external_ids:
     letterboxd:
     - everything-everywhere-all-at-once
   reviews:
-  - text: '2022 春'
+  - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_18'
-  - text: '2022 夏 （三刷）'
+  - text: '2022年夏 （三刷）'
     href: '{filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_20'
 - title: 婚姻故事
+  title_native: 'マリッジ・ストーリー'
   tier: SS
   external_ids:
     letterboxd:
     - marriage-story-2019
 - title: 王牌冤家
+  title_native: 'エターナル・サンシャイン'
   tier: SS
   external_ids:
     letterboxd:
     - eternal-sunshine-of-the-spotless-mind
 - title: 腦筋急轉彎
+  title_native: 'インサイド・ヘッド'
   tier: SS
   external_ids:
     letterboxd:
     - inside-out-2015
 - title: 波斯語課
+  title_native: 'ペルシャン・レッスン 戦場の教室'
   tier: SS
   external_ids:
     letterboxd:
     - persian-lessons
   reviews:
-  - text: '2021 夏'
+  - text: '2021年夏'
     href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_24'
 - title: 記憶拼圖：20週年數位修復
+  title_native: 'メメント (映画)'
   tier: SS
   external_ids:
     letterboxd:
     - memento
   reviews:
-  - text: '2020 秋'
+  - text: '2020年秋'
     href: '{filename}/posts/review/2021/01-what-i-watch-in-2020-fall.md#20'
 - title: 法蘭西特派週報
+  title_native: 'フレンチ・ディスパッチ ザ・リバティ、カンザス・イヴニング・サン別冊'
   tier: SS
   external_ids:
     letterboxd:
     - the-french-dispatch-of-the-liberty-kansas
   reviews:
-  - text: '2021 秋'
+  - text: '2021年秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_22'
 - title: 綠洲：數位經典版
+  title_native: 'オアシス (2002年の映画)'
   tier: SS
   external_ids:
     letterboxd:
     - oasis
   reviews:
-  - text: '2022 冬'
+  - text: '2022年冬'
     href: '{filename}/posts/review/2022/05-what-i-watch-in-2022-winter.md#_25'
 - title: 做工的人電影版
   tier: SS
@@ -61,18 +69,20 @@
     letterboxd:
     - workers-the-movie
   reviews:
-  - text: '2023 春'
+  - text: '2023年春'
     href: '{filename}/posts/review/2023/03-workers-the-movie.md'
     season_href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_26'
 - title: 超時空武士
+  title_native: '侍タイムスリッパー'
   tier: SS
   external_ids:
     letterboxd:
     - a-samurai-in-time
   reviews:
-  - text: '2025 春'
+  - text: '2025年春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_18'
 - title: 醉好的時光
+  title_native: 'アナザーラウンド'
   tier: SS
   external_ids:
     letterboxd:
@@ -81,6 +91,7 @@
   - text: '2026'
     href: '{filename}/posts/review/2026/42-another-round.md'
 - title: 塗鴉日記
+  title_native: 'かくかくしかじか'
   tier: S
   external_ids:
     letterboxd:
@@ -90,14 +101,16 @@
     href: '{filename}/posts/review/2025/13-kakukakushikajika.md'
     season_href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_15'
 - title: 國寶
+  title_native: '国宝 (映画)'
   tier: S
   external_ids:
     letterboxd:
     - kokuho
   reviews:
-  - text: '2025 秋'
+  - text: '2025年秋'
     href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_16'
 - title: 岸邊露伴一動也不動 懺悔室
+  title_native: '岸辺露伴は動かない 懺悔室'
   tier: S
   external_ids:
     letterboxd:
@@ -107,104 +120,118 @@
     href: '{filename}/posts/review/2025/14-thus-spoke-kjishibe-rohan-at-a-confessional.md'
     season_href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_16'
 - title: 歡迎來到布達佩斯大飯店
+  title_native: 'グランド・ブダペスト・ホテル'
   tier: S
   external_ids:
     letterboxd:
     - the-grand-budapest-hotel
   reviews:
-  - text: '2021 冬'
+  - text: '2021年冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_34'
 - title: V for Vendetta
+  title_native: 'Vフォー・ヴェンデッタ (映画)'
   tier: S
   external_ids:
     letterboxd:
     - v-for-vendetta
 - title: 蜘蛛人：新宇宙
+  title_native: 'スパイダーマン:スパイダーバース'
   tier: S
   external_ids:
     letterboxd:
     - spider-man-into-the-spider-verse
 - title: 蜘蛛人：穿越新宇宙
+  title_native: 'スパイダーマン:アクロス・ザ・スパイダーバース'
   tier: S
   external_ids:
     letterboxd:
     - spider-man-across-the-spider-verse
   reviews:
-  - text: '2023 夏'
+  - text: '2023年夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_12'
 - title: 無敵破壞王
+  title_native: 'シュガー・ラッシュ'
   tier: S
   external_ids:
     letterboxd:
     - wreck-it-ralph
 - title: 捍衛戰士：獨行俠
+  title_native: 'トップガン マーヴェリック'
   tier: S
   external_ids:
     letterboxd:
     - top-gun-maverick
   reviews:
-  - text: '2022 春'
+  - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_19'
 - title: 奧本海默
+  title_native: 'オッペンハイマー (映画)'
   tier: S
   external_ids:
     letterboxd:
     - oppenheimer-2023
   reviews:
-  - text: '2023 夏'
+  - text: '2023年夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_18'
 - title: 怪物
+  title_native: '怪物 (2023年の映画)'
   tier: S
   external_ids:
     letterboxd:
     - monster-2023
   reviews:
-  - text: '2023 夏'
+  - text: '2023年夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_19'
 - title: 無間道
+  title_native: 'インファナル・アフェア'
   tier: S
   external_ids:
     letterboxd:
     - infernal-affairs
   reviews:
-  - text: '2023 秋'
+  - text: '2023年秋'
     href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_22'
 - title: 坂本龍一：OPUS
+  title_native: 'Ryuichi Sakamoto | Opus'
   tier: S
   external_ids:
     letterboxd:
     - ryuichi-sakamoto-opus
   reviews:
-  - text: '2024 冬'
+  - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#opus'
 - title: 再見機器人
+  title_native: 'ロボット・ドリームズ'
   tier: S
   external_ids:
     letterboxd:
     - robot-dreams
   reviews:
-  - text: '2024 冬'
+  - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_16'
 - title: 我只是個計程車司機
+  title_native: 'タクシー運転手 約束は海を越えて'
   tier: S
   external_ids:
     letterboxd:
     - a-taxi-driver
 - title: 犬之島
+  title_native: '犬ヶ島'
   tier: S
   external_ids:
     letterboxd:
     - isle-of-dogs-2018
   reviews:
-  - text: '2025 冬'
+  - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_11'
 - title: 喵的奇幻漂流
+  title_native: 'Flow (映画)'
   tier: S
   external_ids:
     letterboxd:
     - flow-2024
   reviews:
-  - text: '2025 冬'
+  - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_13'
 - title: YOASOBI 5th ANNIVERSARY DOME LIVE YOASOBI
   tier: S
@@ -212,77 +239,88 @@
     letterboxd:
     - yoasobi-5th-anniversary-dome-live-2024-surrealism
   reviews:
-  - text: '2025 冬'
+  - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#yoasobi-5th-anniversary-dome-live-yoasobi'
 - title: 秘密會議
+  title_native: '教皇選挙 (映画)'
   tier: S
   external_ids:
     letterboxd:
     - conclave
   reviews:
-  - text: '2025 春'
+  - text: '2025年春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_19'
 - title: 哥吉拉 -1.0
+  title_native: 'ゴジラ-1.0'
   tier: S
   external_ids:
     letterboxd:
     - godzilla-minus-one
   reviews:
-  - text: '2025 冬'
+  - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#-10'
 - title: 無敵破壞王2：網路大暴走
+  title_native: 'シュガー・ラッシュ:オンライン'
   tier: A
   external_ids:
     letterboxd:
     - ralph-breaks-the-internet
 - title: 去唱卡拉 OK 吧！
+  title_native: 'カラオケ行こ！'
   tier: A
   external_ids:
     letterboxd:
     - lets-go-karaoke
   reviews:
-  - text: '2025 秋'
+  - text: '2025年秋'
     href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#ok'
 - title: 天外奇蹟
+  title_native: 'カールじいさんの空飛ぶ家'
   tier: A
   external_ids:
     letterboxd:
     - up
 - title: 玩具總動員 4
+  title_native: 'トイ・ストーリー4'
   tier: A
   external_ids:
     letterboxd:
     - toy-story-4
 - title: 可可夜總會
+  title_native: 'リメンバー・ミー (2017年の映画)'
   tier: A
   external_ids:
     letterboxd:
     - coco-2017
 - title: 蜘蛛人：無家日
+  title_native: 'スパイダーマン:ノー・ウェイ・ホーム'
   tier: A
   external_ids:
     letterboxd:
     - spider-man-no-way-home
   reviews:
-  - text: '2021 秋'
+  - text: '2021年秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_24'
 - title: 阿拉丁
+  title_native: 'アラジン (2019年の映画)'
   tier: A
   external_ids:
     letterboxd:
     - aladdin-2019
 - title: 返校
+  title_native: '返校 言葉が消えた日'
   tier: A
   external_ids:
     letterboxd:
     - detention-2019
 - title: 重慶森林
+  title_native: '恋する惑星'
   tier: A
   external_ids:
     letterboxd:
     - chungking-express
   reviews:
-  - text: '2022 春'
+  - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_20'
 - title: 悲情城市
   tier: A
@@ -290,303 +328,344 @@
     letterboxd:
     - a-city-of-sadness
   reviews:
-  - text: '2023 冬'
+  - text: '2023年冬'
     href: '{filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#_15'
 - title: 寄生上流
+  title_native: 'パラサイト 半地下の家族'
   tier: A
   external_ids:
     letterboxd:
     - parasite-2019
   reviews:
-  - text: '2021 秋'
+  - text: '2021年秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_23'
 - title: 超級瑪利歐兄弟電影版
+  title_native: 'ザ・スーパーマリオブラザーズ・ムービー'
   tier: A
   external_ids:
     letterboxd:
     - the-super-mario-bros-movie
   reviews:
-  - text: '2023 春'
+  - text: '2023年春'
     href: '{filename}/posts/review/2023/02-the-super-mario-bros-movie.md'
     season_href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_23'
 - title: 亨利·休格的神奇故事
+  title_native: 'ヘンリー・シュガーのワンダフルな物語'
   tier: A
   external_ids:
     letterboxd:
     - the-wonderful-story-of-henry-sugar
   reviews:
-  - text: '2023 夏'
+  - text: '2023年夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_20'
 - title: 岸邊露伴在羅浮
+  title_native: '岸辺露伴 ルーヴルへ行く (映画)'
   tier: A
   external_ids:
     letterboxd:
     - rohan-at-the-louvre
   reviews:
-  - text: '2023 夏'
+  - text: '2023年夏'
     href: '{filename}/posts/review/2023/14-rohan-at-the-louvre.md'
     season_href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_21'
 - title: 旺卡
+  title_native: 'ウォンカとチョコレート工場のはじまり'
   tier: A
   external_ids:
     letterboxd:
     - wonka
   reviews:
-  - text: '2023 秋'
+  - text: '2023年秋'
     href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_23'
 - title: 富都青年
+  title_native: 'アバンとアディ'
   tier: A
   external_ids:
     letterboxd:
     - abang-adik
   reviews:
-  - text: '2024 冬'
+  - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_19'
 - title: 腦筋急轉彎 2
+  title_native: 'インサイド・ヘッド2'
   tier: A
   external_ids:
     letterboxd:
     - inside-out-2-2024
   reviews:
-  - text: '2024 春'
+  - text: '2024年春'
     href: '{filename}/posts/review/2024/52-inside-out-2.md'
     season_href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#2'
 - title: 星際效應
+  title_native: 'インターステラー (映画)'
   tier: A
   external_ids:
     letterboxd:
     - interstellar
   reviews:
-  - text: '2024 秋'
+  - text: '2024年秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_12'
 - title: 藍色時期
+  title_native: 'ブルーピリオド'
   tier: A
   external_ids:
     letterboxd:
     - blue-period-2024
   reviews:
-  - text: '2024 秋'
+  - text: '2024年秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_14'
 - title: 異國日記
+  title_native: '違国日記'
   tier: A
   external_ids:
     letterboxd:
     - worlds-apart-2024
   reviews:
-  - text: '2024 夏'
+  - text: '2024年夏'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_24'
 - title: 復仇者聯盟
+  title_native: 'アベンジャーズ (2012年の映画)'
   tier: A
   external_ids:
     letterboxd:
     - the-avengers-2012
 - title: 擅長捉弄人的高木同學
+  title_native: '映画 からかい上手の高木さん'
   tier: A
   external_ids:
     letterboxd:
     - teasing-master-takagi-san
   reviews:
-  - text: '2024 春'
+  - text: '2024年春'
     href: '{filename}/posts/review/2024/47-drama-movie-teasing-master-takagi-san.md'
     season_href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_21'
-  - text: '2024 秋'
+  - text: '2024年秋'
     href: '{filename}/posts/review/2024/47-drama-movie-teasing-master-takagi-san.md'
     season_href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_13'
 - title: 工作細胞
+  title_native: 'はたらく細胞'
   tier: A
   external_ids:
     letterboxd:
     - cells-at-work
   reviews:
-  - text: '2025 冬'
+  - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_16'
 - title: '【我推的孩子】 -The Final Act-'
+  title_native: '【推しの子】 -The Final Act-'
   tier: A
   external_ids:
     letterboxd:
     - oshi-no-ko-the-final-act
   reviews:
-  - text: '2025 冬'
+  - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#-the-final-act-'
 - title: 孤獨的美食家 電影版
+  title_native: '劇映画 孤独のグルメ'
   tier: A
   external_ids:
     letterboxd:
     - the-solitary-gourmet
   reviews:
-  - text: '2025 春'
+  - text: '2025年春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_20'
 - title: 孤獨搖滾！團結Band LIVE-恆星-
+  title_native: '結束バンドLIVE-恒星-'
   tier: A
   external_ids:
     letterboxd:
     - bocchi-the-rock-kessoku-band-live-kousei
   reviews:
-  - text: '2024 春'
+  - text: '2024年春'
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#band-live-'
 - title: 復仇者聯盟 3：無限之戰
+  title_native: 'アベンジャーズ/インフィニティ・ウォー'
   tier: A
   external_ids:
     letterboxd:
     - avengers-infinity-war
 - title: 麥可傑克森（Michael）
+  title_native: 'Michael/マイケル'
   tier: A
   external_ids:
     letterboxd:
     - michael-2026
   reviews:
-  - text: '2026 春'
+  - text: '2026年春'
     href: '{filename}/posts/review/2026/18-michael.md'
 - title: 九龍大眾浪漫
+  title_native: '九龍ジェネリックロマンス'
   tier: B
   external_ids:
     letterboxd:
     - kowloon-generic-romance
   reviews:
-  - text: '2025 秋'
+  - text: '2025年秋'
     href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#_17'
 - title: 全面啟動
+  title_native: 'インセプション'
   tier: B
   external_ids:
     letterboxd:
     - inception
   reviews:
-  - text: '2021 冬'
+  - text: '2021年冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_35'
 - title: 荒野機器人
+  title_native: '野生の島のロズ'
   tier: B
   external_ids:
     letterboxd:
     - the-wild-robot
   reviews:
-  - text: '2024 秋'
+  - text: '2024年秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_9'
 - title: 每天回家老婆都在裝死
+  title_native: '家に帰ると妻が必ず死んだふりをしています。'
   tier: B
   external_ids:
     letterboxd:
     - when-i-get-home-my-wife-always-pretends-to-be-dead
   reviews:
-  - text: '2021 春'
+  - text: '2021年春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_19'
 - title: 無聲
+  title_native: '無聲 The Silent Forest'
   tier: B
   external_ids:
     letterboxd:
     - the-silent-forest
   reviews:
-  - text: '2021 春'
+  - text: '2021年春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_18'
 - title: 約定的夢幻島 真人版
+  title_native: '約束のネバーランド'
   tier: B
   external_ids:
     letterboxd:
     - the-promised-neverland
   reviews:
-  - text: '2021 冬'
+  - text: '2021年冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_19'
 - title: 朵拉與失落的黃金城
+  title_native: '劇場版 ドーラといっしょに大冒険'
   tier: B
   external_ids:
     letterboxd:
     - dora-and-the-lost-city-of-gold
 - title: 明天，我要和昨天的妳約會
+  title_native: 'ぼくは明日、昨日のきみとデートする'
   tier: B
   external_ids:
     letterboxd:
     - my-tomorrow-your-yesterday
 - title: 海底總動員 2
+  title_native: 'ファインディング・ドリー'
   tier: B
   external_ids:
     letterboxd:
     - finding-dory
 - title: 超人特攻隊 2
+  title_native: 'インクレディブル・ファミリー'
   tier: B
   external_ids:
     letterboxd:
     - incredibles-2
 - title: 冰雪奇緣
+  title_native: 'アナと雪の女王'
   tier: B
   external_ids:
     letterboxd:
     - frozen-2013
 - title: 新殺戮戰警 Shaft
+  title_native: 'シャフト (2019年の映画)'
   tier: B
   external_ids:
     letterboxd:
     - shaft-2019
 - title: 鋼鐵人
+  title_native: 'アイアンマン (映画)'
   tier: B
   external_ids:
     letterboxd:
     - iron-man-2008
 - title: 鋼鐵人 3
+  title_native: 'アイアンマン3'
   tier: B
   external_ids:
     letterboxd:
     - iron-man-3
 - title: Adam by Eve：動畫現場演唱會
+  title_native: 'Adam by Eve: A Live in Animation'
   tier: B
   external_ids:
     letterboxd:
     - adam-by-eve-a-live-in-animation
   reviews:
-  - text: '2022 春'
+  - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#adam-by-eve'
 - title: 燃燒的劍
+  title_native: '燃えよ剣'
   tier: B
   external_ids:
     letterboxd:
     - baragaki-unbroken-samurai
   reviews:
-  - text: '2022 春'
+  - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_22'
 - title: 芭比
+  title_native: 'バービー (映画)'
   tier: B
   external_ids:
     letterboxd:
     - barbie
   reviews:
-  - text: '2023 夏'
+  - text: '2023年夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_22'
 - title: 老狐狸
+  title_native: 'オールド・フォックス　11歳の選択'
   tier: B
   external_ids:
     letterboxd:
     - old-fox
   reviews:
-  - text: '2024 冬'
+  - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_20'
 - title: 奇異博士2：失控多重宇宙
+  title_native: 'ドクター・ストレンジ/マルチバース・オブ・マッドネス'
   tier: B
   external_ids:
     letterboxd:
     - doctor-strange-in-the-multiverse-of-madness
   reviews:
-  - text: '2022 春'
+  - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#2'
 - title: 嬰兒轉運站
+  title_native: 'ベイビー・ブローカー'
   tier: B
   external_ids:
     letterboxd:
     - broker-2022
   reviews:
-  - text: '2022 春'
+  - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_21'
 - title: 電影版 輝夜姬想讓人告白-天才們的戀愛頭腦戰-
+  title_native: 'かぐや様は告らせたい～天才たちの恋愛頭脳戦～'
   tier: B
   external_ids:
     letterboxd:
     - kaguya-sama-love-is-war
 - title: 地下忍者
+  title_native: 'アンダーニンジャ'
   tier: B
   external_ids:
     letterboxd:
     - under-ninja-2025
   reviews:
-  - text: '2025 春'
+  - text: '2025年春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_21'
 - title: 國定殺戮日
+  title_native: 'パージ (映画)'
   tier: B
   external_ids:
     letterboxd:
@@ -597,7 +676,7 @@
     letterboxd:
     - demigod-the-legend-begins
   reviews:
-  - text: '2022 冬'
+  - text: '2022年冬'
     href: '{filename}/posts/review/2022/05-what-i-watch-in-2022-winter.md#_26'
 - title: 金星人愛情故事
   tier: C
@@ -605,113 +684,132 @@
     letterboxd:
     - kinseijin-love-story
 - title: 死侍 2
+  title_native: 'デッドプール2'
   tier: C
   external_ids:
     letterboxd:
     - deadpool-2
 - title: 國定殺戮日：大選之年
+  title_native: 'パージ:大統領令'
   tier: C
   external_ids:
     letterboxd:
     - the-purge-election-year
 - title: 蜘蛛人：離家日
+  title_native: 'スパイダーマン:ファー・フロム・ホーム'
   tier: C
   external_ids:
     letterboxd:
     - spider-man-far-from-home
 - title: 蜘蛛人：返校日
+  title_native: 'スパイダーマン:ホームカミング'
   tier: C
   external_ids:
     letterboxd:
     - spider-man-homecoming
 - title: 星際異攻隊
+  title_native: 'ガーディアンズ・オブ・ギャラクシー (映画)'
   tier: C
   external_ids:
     letterboxd:
     - guardians-of-the-galaxy
 - title: 黑豹
+  title_native: 'ブラックパンサー (映画)'
   tier: C
   external_ids:
     letterboxd:
     - black-panther
 - title: 猛毒
+  title_native: 'ヴェノム (映画)'
   tier: C
   external_ids:
     letterboxd:
     - venom-2018
 - title: 美國隊長
+  title_native: 'キャプテン・アメリカ/ザ・ファースト・アベンジャー'
   tier: C
   external_ids:
     letterboxd:
     - captain-america-the-first-avenger
 - title: 復仇者聯盟 2：奧創紀元
+  title_native: 'アベンジャーズ/エイジ・オブ・ウルトロン'
   tier: C
   external_ids:
     letterboxd:
     - avengers-age-of-ultron
 - title: 鋼鐵人 2
+  title_native: 'アイアンマン2'
   tier: C
   external_ids:
     letterboxd:
     - iron-man-2
 - title: 驚奇隊長
+  title_native: 'キャプテン・マーベル (映画)'
   tier: C
   external_ids:
     letterboxd:
     - captain-marvel
 - title: 餘命10年
+  title_native: '余命10年'
   tier: C
   external_ids:
     letterboxd:
     - the-last-10-years
   reviews:
-  - text: '2022 春'
+  - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#10'
 - title: 沙丘
+  title_native: 'DUNE/デューン 砂の惑星'
   tier: C
   external_ids:
     letterboxd:
     - dune-2021
   reviews:
-  - text: '2021 夏'
+  - text: '2021年夏'
     href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_25'
-  - text: '2024 冬 （第二部）'
+  - text: '2024年冬 （第二部）'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_21'
 - title: 沙丘：第二部
+  title_native: 'デューン 砂の惑星PART2'
   tier: C
   external_ids:
     letterboxd:
     - dune-part-two
 - title: 天能
+  title_native: 'TENET テネット'
   tier: D
   external_ids:
     letterboxd:
     - tenet
   reviews:
-  - text: '2020 夏'
+  - text: '2020年夏'
     href: '{filename}/posts/review/2020/05-what-i-watch-in-2020-summer.md#_17'
 - title: 好想大聲說出心底的話 真人版
+  title_native: '心が叫びたがってるんだ。'
   tier: D
   external_ids:
     letterboxd:
     - the-anthem-of-the-heart-2017
 - title: 冰雪奇緣 2
+  title_native: 'アナと雪の女王2'
   tier: D
   external_ids:
     letterboxd:
     - frozen-2
 - title: 名偵探皮卡丘
+  title_native: '名探偵ピカチュウ (映画)'
   tier: E
   external_ids:
     letterboxd:
     - pokemon-detective-pikachu
 - title: 月老
+  title_native: '赤い糸 輪廻のひみつ'
   tier: E
   external_ids:
     letterboxd:
     - till-we-meet-again-2021
   reviews:
-  - text: '2022 春'
+  - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_23'
 
 # TODO: 已在 Letterboxd、待寫進排名（slug 先記，下次免爬）

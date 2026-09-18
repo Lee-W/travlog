@@ -1,57 +1,68 @@
 - title: 'Rogue One: A Star Wars Story'
+  title_native: 'ローグ・ワン/スター・ウォーズ・ストーリー'
   group: Movie
   external_ids:
     letterboxd:
     - rogue-one-a-star-wars-story
   reviews:
-  - text: '2025 春'
+  - text: '2025年春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#rogue-one-a-star-wars-story'
 - title: 'Star Wars: Episode V - The Empire Strikes Back'
+  title_native: 'スター・ウォーズ エピソード5/帝国の逆襲'
   group: Movie
   external_ids:
     letterboxd:
     - the-empire-strikes-back
 - title: 'Star Wars: Episode IV - A New Hope'
+  title_native: 'スター・ウォーズ エピソード4/新たなる希望'
   group: Movie
   external_ids:
     letterboxd:
     - star-wars
 - title: 'Star Wars: Episode III – Revenge of the Sith'
+  title_native: 'スター・ウォーズ エピソード3/シスの復讐'
   group: Movie
   external_ids:
     letterboxd:
     - star-wars-episode-iii-revenge-of-the-sith
 - title: 'Star Wars: Episode VI - Return of the Jedi'
+  title_native: 'スター・ウォーズ エピソード6/ジェダイの帰還'
   group: Movie
   external_ids:
     letterboxd:
     - return-of-the-jedi
 - title: 'Star Wars: Episode II - Attack of the Clones'
+  title_native: 'スター・ウォーズ エピソード2/クローンの攻撃'
   group: Movie
   external_ids:
     letterboxd:
     - star-wars-episode-ii-attack-of-the-clones
 - title: 'Star Wars: Episode I - The Phantom Menace'
+  title_native: 'スター・ウォーズ エピソード1/ファントム・メナス'
   group: Movie
   external_ids:
     letterboxd:
     - star-wars-episode-i-the-phantom-menace
 - title: 'Solo: A Star Wars Story'
+  title_native: 'ハン・ソロ/スター・ウォーズ・ストーリー'
   group: Movie
   external_ids:
     letterboxd:
     - solo-a-star-wars-story
 - title: 'Star Wars: Episode VII - The Force Awakens'
+  title_native: 'スター・ウォーズ/フォースの覚醒'
   group: Movie
   external_ids:
     letterboxd:
     - star-wars-the-force-awakens
 - title: 'Star Wars: Episode VIII - The Last Jedi'
+  title_native: 'スター・ウォーズ/最後のジェダイ'
   group: Movie
   external_ids:
     letterboxd:
     - star-wars-the-last-jedi
 - title: 'Star Wars: Episode IX - The Rise of Skywalker'
+  title_native: 'スター・ウォーズ/スカイウォーカーの夜明け'
   group: Movie
   external_ids:
     letterboxd:
@@ -60,19 +71,22 @@
   - text: '2019'
     href: '{filename}/posts/review/2019/08-star-wars-rise-of-skywalker.md'
 - title: 'Star Wars: The Clone Wars'
+  title_native: 'スター・ウォーズ/クローン・ウォーズ'
   group: Movie
   external_ids:
     letterboxd:
     - star-wars-the-clone-wars
 - title: 'Star Wars: The Mandalorian and Grogu'
+  title_native: 'スター・ウォーズ/マンダロリアン・アンド・グローグー'
   group: Movie
   external_ids:
     letterboxd:
     - star-wars-the-mandalorian-and-grogu
   reviews:
-  - text: '2026 春'
+  - text: '2026年春'
     href: '{filename}/posts/review/2026/26-mandalorian-and-grogu.md'
 - title: 'Star Wars: Andor'
+  title_native: 'キャシアン・アンドー'
   group: Series
   reviews:
   - text: 'Season 1'
@@ -81,93 +95,111 @@
   - text: 'Season 2'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#star-wars-andor-season-2'
 - title: 'Star Wars: The Mandalorian'
+  title_native: 'マンダロリアン'
   group: Series
   reviews:
   - text: 'Season 1-2'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#star-wars-the-mandalorian'
 - title: 'Star Wars: Ashoka'
+  title_native: 'アソーカ'
   group: Series
   reviews:
-  - text: '2023 夏'
+  - text: '2023年夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#star-wars-ashoka'
 - title: 'Star Wars: The Mandalorian'
+  title_native: 'マンダロリアン'
   group: Series
   reviews:
   - text: 'Season 3'
     href: '{filename}/posts/review/2025/11-star-wars-the-mandalorian-season-3.md'
     season_href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#star-wars-the-mandalorian-season-3'
 - title: The Book of Boba Fett
+  title_native: 'ボバ・フェット/The Book of Boba Fett'
   group: Series
   reviews:
-  - text: '2022 夏'
+  - text: '2022年夏'
     href: '{filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#the-book-of-boba-fett'
 - title: Obi-Wan Kenobi
+  title_native: 'オビ＝ワン・ケノービ (テレビドラマ)'
   group: Series
   external_ids:
     letterboxd:
     - obi-wan-kenobi
   reviews:
-  - text: '2022 春'
+  - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#obi-wan-kenobi'
 - title: 'Star Wars: The Clone Wars'
+  title_native: 'スター・ウォーズ/クローン・ウォーズ'
   group: Anime
 - title: 'Star Wars: Rebels'
+  title_native: 'スター・ウォーズ 反乱者たち'
   group: Anime
-- title: 'Star Wars: Tale of Jedi'
+- title: 'Star Wars: Tales of the Jedi'
+  title_native: 'スター・ウォーズ：テイルズ・オブ・ジェダイ'
   group: Anime
   reviews:
-  - text: '2022 秋'
+  - text: '2022年秋'
     href: '{filename}/posts/review/2023/20-what-i-watch-in-2022-fall.md#star-wars-tale-of-jedi'
 - title: 'Star Wars: Resistance'
+  title_native: 'スター・ウォーズ レジスタンス'
   group: Anime
 - title: 'Star Wars: Visions'
+  title_native: 'スター・ウォーズ：ビジョンズ'
   group: Anime
   external_ids:
     anilist:
     - 138060
   reviews:
-  - text: '2021 秋 (Volume 1)'
+  - text: '2021年秋 (Volume 1)'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#star-wars-visions'
-  - text: '2025 春 (Volume 2)'
+  - text: '2025年春 (Volume 2)'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#star-wars-visions-volume-2'
 - title: 'Star Wars: The Bad Batch'
+  title_native: 'スター・ウォーズ: バッド・バッチ'
   group: Anime
   reviews:
-  - text: '2021 秋'
+  - text: '2021年秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#star-wars-the-bad-batch'
 - title: 'Star Wars: The Bad Batch Season 2'
+  title_native: 'スター・ウォーズ: バッド・バッチ シーズン2'
   group: Anime
   reviews:
-  - text: '2023 冬'
+  - text: '2023年冬'
     href: '{filename}/posts/review/2023/21-what-i-watch-in-2023-winter.md#star-wars-the-bad-batch-season-2'
 - title: 'Star Wars: The Bad Batch Season 3'
+  title_native: 'スター・ウォーズ: バッド・バッチ シーズン3'
   group: Anime
   reviews:
-  - text: '2025 秋'
+  - text: '2025年秋'
     href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#star-wars-the-bad-batch-season-3'
 - title: 'Star Wars: Tales of the Underworld'
   group: Anime
   reviews:
-  - text: '2025 春'
+  - text: '2025年春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#star-wars-tales-of-the-underworld'
 - title: 'Star Wars: Tales of the Empire'
   group: Anime
   reviews:
-  - text: '2025 春'
+  - text: '2025年春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#star-wars-tales-of-the-empire'
 - title: 'Star Wars: Maul – Shadow Lord'
+  title_native: 'スター・ウォーズ：モール／シャドウ・ロード'
   group: Anime
   reviews:
-  - text: '2026 春'
+  - text: '2026年春'
     href: '{filename}/posts/review/2026/24-maul-shadow-lord.md'
 - title: 'Under the Helmet: The Legacy of Boba Fett'
+  title_native: 'ボバ・フェットの伝説 アーマーに隠された素顔'
   group: Other
 - title: Star Wars Vehicle Flythroughs
+  title_native: 'スター・ウォーズ ビークル'
   group: Other
 - title: 'Star Wars: Biomes'
+  title_native: 'スター・ウォーズ ロケーション'
   group: Other
 - title: 'Star Wars: Rise of the Resistance'
+  title_native: 'スター・ウォーズ:ライズ・オブ・ザ・レジスタンス'
   group: Other
   reviews:
-  - text: '2025 春'
+  - text: '2025年春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#star-wars-rise-of-the-resistance'
