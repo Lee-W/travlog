@@ -21,7 +21,7 @@ FIELD_ORDER = [
 ]
 DATE_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2} \d{2}:\d{2} \+\d{4}$")
 SLUG_PATTERN = re.compile(r"^[a-zA-Z0-9][a-zA-Z0-9-]*[a-zA-Z0-9]$|^[a-zA-Z0-9]$")
-VALID_LANGS = {"zh-tw", "en"}
+VALID_LANGS = {"zh-tw", "en", "ja"}
 VALID_STATUSES = {"hidden"}
 
 

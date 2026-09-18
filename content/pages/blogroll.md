@@ -3,6 +3,7 @@ Date: 2026-06-10 22:00 +0800
 Modified: 2026-06-27 17:25 +0800
 Slug: blogroll
 Summary: 整理我透過 RSS 訂閱的個人部落格、社群夥伴與新聞媒體。
+Lang: zh-tw
 
 這裡是我透過 [RSS](https://blog.wei-lee.me/posts/random-thoughts/2025/01/get-your-retention-back-through-rss/) 訂閱的各種部落格們
 

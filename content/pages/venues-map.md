@@ -3,6 +3,7 @@ Date: 2026-08-04 00:00 +0800
 Modified: 2026-08-04 00:00 +0800
 Slug: venues-map
 Summary: 記錄去過的演唱會與舞台表演場館
+Lang: zh-tw
 Status: hidden
 
 去過的演唱會與舞台表演場館

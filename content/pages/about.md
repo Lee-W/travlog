@@ -3,6 +3,7 @@ Date: 2019-06-19 06:48 +0800
 Modified: 2026-07-28 23:35 +0800
 Slug: about
 Summary: 關於「那些沒人在乎的事」以及站長李唯（Wei Lee）的內容與聯絡方式。
+Lang: zh-tw
 
 想更認識我，可以看看[關於我](https://blog.wei-lee.me/pages/about-me)與[近況](https://blog.wei-lee.me/pages/now)
 這一頁則介紹這個部落格

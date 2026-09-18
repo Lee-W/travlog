@@ -3,6 +3,7 @@ Date: 2026-04-18 00:00 +0800
 Modified: 2026-08-04 00:00 +0800
 Slug: restaurant-map
 Summary: 記錄去過的餐廳
+Lang: zh-tw
 
 原本這些大概只會變成我寫在 Google Maps 裡的幾句短評
 現在乾脆整理成一張自己的餐廳地圖

@@ -1,13 +1,15 @@
-Title: 想去的聖地巡禮
+Title: 行ってみたい聖地
 Date: 2026-05-18 12:40 +0800
-Modified: 2026-05-19 09:55 +0800
+Modified: 2026-09-18 18:15 +0800
 Slug: pilgrimage-wishlist
-Summary: 收集想去的作品聖地、巡禮地圖與相關參考資料。
-Lang: zh-tw
+Summary: 行ってみたい作品の聖地、巡礼の地図、参考になる資料のまとめ。
+Lang: ja
 
-來到這裡的勇者啊（？），恭喜你找到秘寶 🪎
-這是我知道聖地巡禮這個概念後，有被我記錄下來的資料們
-之後也會把相關的有趣資源跟我想去的地方放在這
+ここまで辿り着いた勇者よ（？）、秘宝発見おめでとうございます 🪎
+聖地巡礼というものを知ってから書き留めてきた資料たちです
+これから見つけたおもしろい資料や、行ってみたい場所もここに足していきます
+
+資料のリンク先は日本語のサイトが中心ですが、メモは台湾華語です。
 
 {% place pilgrimage-wishlist %}
 
@@ -21,9 +23,9 @@ Lang: zh-tw
 * [動畫巡禮](https://anitabi.cn/)
 * [聖地巡礼マップ](https://seichimap.jp/)
 * [Anime Pilgrimage](https://www.animepilgrimage.com/ja)
-* [Sakepedia](https://sakepedia.code4sake.org/) — 日本酒地圖
-* [ゆる〜と](https://yuru-to.net/) — 日本溫泉地圖
-* [kaze](https://aurakaze.blog/about/) — 聖地巡禮部落格
+* [Sakepedia](https://sakepedia.code4sake.org/) — 日本酒の地図
+* [ゆる〜と](https://yuru-to.net/) — 日本の温泉の地図
+* [kaze](https://aurakaze.blog/about/) — 聖地巡礼のブログ
 
 ## Reference
 

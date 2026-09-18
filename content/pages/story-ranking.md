@@ -3,6 +3,7 @@ Date: 2022-02-06 18:48 +0800
 Modified: 2026-06-30 21:21 +0800
 Slug: story-ranking
 Summary: 依個人喜好整理看過的動畫、電影、影集、漫畫與小說排名及心得索引。
+Lang: zh-tw
 
 啟發自[kaze的日本留學&不務正業ACG](https://aurakaze.blog/list_anime/)跟在推特看到的[TierMaker](https://tiermaker.com/create/anime-tier-list-300-anime-17194)
 才做了這個給自己的作品排名/索引
@@ -54,7 +55,7 @@ Summary: 依個人喜好整理看過的動畫、電影、影集、漫畫與小�
 {% table data/story-ranking/live-action-movie.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
 
 ## 真人影集（含非日式動畫）
-{% table data/story-ranking/live-action-tv.yaml group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
+{% table data/story-ranking/live-action-tv.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
 
 ## 紀錄片
 {% table data/story-ranking/documentary.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
@@ -72,4 +73,4 @@ Summary: 依個人喜好整理看過的動畫、電影、影集、漫畫與小�
 {% table data/story-ranking/novel.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
 
 ## 設定集
-{% table data/story-ranking/artbook.yaml field_labels="title:作品,reviews:評論" %}
+{% table data/story-ranking/artbook.yaml fields="title,reviews" field_labels="title:作品,reviews:評論" %}
