@@ -86,7 +86,13 @@ def localize(rows: Any) -> tuple[Any, int]:
 
 
 def localize_places(node: Any) -> int:
-    """Rewrite place-name fields in place; return how many values changed."""
+    """Rewrite place fields in place; return how many values changed.
+
+    Two rules: known place names are swapped for their Japanese spelling, and
+    any `<field>_ja` written next to `<field>` in the source replaces it. The
+    latter is how the hand-written notes are translated — a place with no
+    `_ja` keeps the Taiwanese Mandarin text.
+    """
     changed = 0
     if isinstance(node, dict):
         for field in PLACE_FIELDS:
@@ -94,7 +100,10 @@ def localize_places(node: Any) -> int:
             if isinstance(value, str) and value.strip() in PLACE_NAMES:
                 node[field] = PLACE_NAMES[value.strip()]
                 changed += 1
-        for value in node.values():
+        for key in [k for k in node if isinstance(k, str) and k.endswith("_ja")]:
+            node[key.removesuffix("_ja")] = node.pop(key)
+            changed += 1
+        for value in list(node.values()):
             changed += localize_places(value)
     elif isinstance(node, list):
         for value in node:

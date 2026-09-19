@@ -12,7 +12,9 @@ toho-kawasaki:
       recommended_rows: "G"
       alt_rows: "H"
       hall_note: 整體聲光效果平均都很不錯
+      hall_note_ja: '音も映像も全体的にバランスがいい'
       seat_note: H 排不錯，但 G 應該最理想
+      seat_note_ja: 'H 列はいいが、G 列がいちばん理想的だと思う'
 
 
 lawson-minatomirai:
@@ -29,7 +31,9 @@ lawson-minatomirai:
       recommended_rows: "D"
       alt_rows: ""
       hall_note: 還不錯
+      hall_note_ja: 'なかなかいい'
       seat_note: D 排畫面好，但脖子會有點酸，5 或 6 才是座位的中間
+      seat_note_ja: 'D 列は映像がいいが首が少し疲れる。席の中央は 5 番か 6 番'
 
 
 cinema-city-two:
@@ -46,13 +50,17 @@ cinema-city-two:
       recommended_rows: "G"
       alt_rows: ""
       hall_note: 體驗過的音響的頂點
+      hall_note_ja: '体験したなかで音響は最高'
       seat_note: 畫面算不錯，但不是我喜歡的配置，座位在哪比較沒差
+      seat_note_ja: '映像はいいが好みの配置ではない。どの席でもあまり変わらない'
     - hall: b studio
       format: 極音廳
       recommended_rows: "E"
       alt_rows: "D"
       hall_note: 體驗過的音響的頂點
+      hall_note_ja: '体験したなかで音響は最高'
       seat_note: 畫面比 a studio 好，D 排有機會更好，但也可能太前面
+      seat_note_ja: '映像は a studio より良い。D 列はもっと良いかもしれないが、前すぎる可能性もある'
 
 
 cinema-sunshine-masaki:
@@ -69,7 +77,9 @@ cinema-sunshine-masaki:
       recommended_rows: "E"
       alt_rows: "D"
       hall_note: 音響不錯
+      hall_note_ja: '音響がいい'
       seat_note: 可以往前一排試試看
+      seat_note_ja: '一列前を試してみてもいい'
 
 
 united-cinema-canal-city:
@@ -86,7 +96,9 @@ united-cinema-canal-city:
       recommended_rows: "E"
       alt_rows: ""
       hall_note: 還不錯
+      hall_note_ja: 'なかなかいい'
       seat_note: F 排太後面，E 排可能比較理想
+      seat_note_ja: 'F 列は後ろすぎる。E 列のほうが理想的かもしれない'
 
 
 toho-nijo:
@@ -105,4 +117,6 @@ toho-nijo:
       recommended_rows: ""
       alt_rows: ""
       hall_note: 影音都不錯
+      hall_note_ja: '音も映像もなかなかいい'
       seat_note: 整間位置可能都差不多，是我沒那麼喜歡的影廳設計
+      seat_note_ja: 'どの席でもあまり変わらなさそう。あまり好みではないスクリーンの造り'

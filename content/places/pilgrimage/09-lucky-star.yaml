@@ -8,6 +8,7 @@ locations:
   osm_type: way
   osm_id: 339352245
   notes: '修學旅行'
+  notes_ja: '修学旅行'
   date: '2018-12-06'
   country: 日本
   city: 京都
@@ -20,6 +21,7 @@ locations:
   lat: 36.031747
   lon: 139.713839
   notes: '小鏡家神社'
+  notes_ja: '小鞠の家の神社'
   date:
   - '2019-09-12'
   - '2023-10-21'

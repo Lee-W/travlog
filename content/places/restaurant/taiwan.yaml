@@ -117,6 +117,7 @@ locations:
     city: 臺北市
     district: 松山區
     visit_note: 吃習慣了，吃了就會感到安心
+    visit_note_ja: '食べ慣れていて、食べると安心する'
     tags: [越式河粉]
     urls:
       - label: "河內河粉"

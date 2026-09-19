@@ -18,6 +18,7 @@ locations:
   lat: 48.134703
   lon: 11.588417
   notes: 這附近只有這個角度最接近
+  notes_ja: 'この辺りではこの角度がいちばん近い'
   date: '2025-07-12'
   country: 德國
   city: München

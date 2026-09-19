@@ -5,6 +5,7 @@ locations:
   lat: 34.405483
   lon: 133.196944
   notes: 山田出差掉手機的地方
+  notes_ja: '山田が出張でスマホを落とした場所'
   date: '2025-09-23'
   country: 日本
   city: 廣島
@@ -16,6 +17,7 @@ locations:
   lat: 35.635587
   lon: 139.716644
   notes: '奶茶回'
+  notes_ja: 'ミルクティーの回'
   date: '2024-06-06'
   country: 日本
   city: 東京

@@ -6,6 +6,7 @@ locations:
   lat: 34.472355
   lon: 134.27507
   notes: 有線耳機
+  notes_ja: '有線イヤホン'
   date: '2024-12-28'
   country: 日本
   city: 香川
@@ -18,6 +19,7 @@ locations:
   lat: 34.479192
   lon: 134.28881
   notes: 真人版不是用鹿島明神社
+  notes_ja: '実写版では鹿島明神社は使われていない'
   date: '2024-12-28'
   country: 日本
   city: 香川
