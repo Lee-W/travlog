@@ -124,7 +124,7 @@ LANGUAGES = (
     ("zh-tw", "/"),
     ("ja", "/ja/"),
 )
-LANGUAGE_NAMES = {"zh-tw": "台灣華語", "ja": "日本語"}
+LANGUAGE_NAMES = {"zh-tw": "臺灣華語", "ja": "日本語"}
 CURRENT_LANG = "zh-tw"
 I18N_SUBSITES = {
     "ja": {
