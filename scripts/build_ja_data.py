@@ -67,6 +67,20 @@ PLACE_NAMES = {
     "萬華": "万華",
     "三義鄉": "三義郷",
 }
+
+# Venue names. The first three are the names those places go by in Japanese;
+# the rest are the same name in Japanese character forms.
+VENUE_NAMES = {
+    "橫濱國際平和會議場 國立大廳": "横浜国際平和会議場 国立大ホール",
+    "福岡太陽宮": "福岡サンパレス",
+    "台北小巨蛋": "台北アリーナ",
+    "臺北流行音樂中心 表演廳": "台北流行音楽中心 表演ホール",
+    "國家音樂廳": "国家音楽庁",
+    "臺灣戲曲中心": "台湾戯曲中心",
+    "林口體育館": "林口体育館",
+    "大佳河濱公園": "大佳河浜公園",
+    "台北南港展覽館一館四樓": "台北南港展覧館 1館4階",
+}
 PLACE_FIELDS = ("country", "city", "district", "state", "region")
 
 
@@ -79,9 +93,15 @@ def localize(rows: Any) -> tuple[Any, int]:
         if not isinstance(row, dict):
             continue
         native = row.pop("title_native", None)
-        if native:
+        if not native:
+            continue
+        title = row.get("title")
+        if isinstance(title, dict):
+            # {text, href}: swap the label, keep the link
+            title["text"] = native
+        else:
             row["title"] = native
-            swapped += 1
+        swapped += 1
     return rows, swapped
 
 
@@ -100,6 +120,10 @@ def localize_places(node: Any) -> int:
             if isinstance(value, str) and value.strip() in PLACE_NAMES:
                 node[field] = PLACE_NAMES[value.strip()]
                 changed += 1
+        name = node.get("name")
+        if isinstance(name, str) and name.strip() in VENUE_NAMES:
+            node["name"] = VENUE_NAMES[name.strip()]
+            changed += 1
         for key in [k for k in node if isinstance(k, str) and k.endswith("_ja")]:
             node[key.removesuffix("_ja")] = node.pop(key)
             changed += 1
