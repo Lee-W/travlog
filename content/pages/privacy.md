@@ -3,16 +3,9 @@ Date: 2026-08-16 15:01 +0800
 Modified: 2026-08-16 15:01 +0800
 Slug: privacy
 Summary: 本站會讓哪些第三方服務接觸到你的瀏覽資訊，以及聯絡方式。
+Lang: zh-tw
 
-<nav class="rights-languages" aria-label="Language">
-  <a href="#zh-tw">臺灣華語</a>
-  <a href="#en">English</a>
-  <a href="#ja">日本語</a>
-</nav>
-
-<span id="zh-tw"></span>
-
-## 臺灣華語
+本頁另有 [English](/pages/privacy-en.html) 與 [日本語](/ja/pages/privacy.html) 版本。三份內容相同；若有出入，以臺灣華語版為準。
 
 ### 我不做的事
 
@@ -62,109 +55,3 @@ Summary: 本站會讓哪些第三方服務接觸到你的瀏覽資訊，以及�
 對本頁內容、或對與你有關的資料有任何疑問與要求，請寄信至 [hello+travlog@wei-lee.me](mailto:hello+travlog@wei-lee.me?subject=%E9%9A%B1%E7%A7%81%E6%AC%8A%E8%AA%AA%E6%98%8E)。
 
 本頁描述的是本站目前實際的做法；站上使用的服務有變動時，我會更新這一頁。本頁不是法律意見。
-
-<span id="en"></span>
-
-## English
-
-### What I don't do
-
-This site has no registration, no newsletter, no advertising, and no ad tracking. I do not actively collect, store, or sell your personal data, and there is no dashboard anywhere that tells me who a particular reader is.
-
-That said, a few third-party services do receive some technical information when you visit. Each is described below.
-
-### Analytics
-
-This site uses [Umami Cloud](https://umami.is/) to count page views. According to Umami's own documentation, its tracking code uses no cookies and collects no personally identifiable information, and all collected data is anonymized; see [Umami's privacy policy](https://umami.is/privacy) for details.
-
-What I see is aggregate: how many times each article was read, which sites referred those visits, and rough country and device type. I cannot see individual readers, nor can I tie two visits to the same person.
-
-To be clear about one thing: the mere act of your browser requesting a file from `cloud.umami.is` means that server sees your IP address and browser information.
-
-### Comments
-
-Comments are powered by [utterances](https://github.com/utterance/utterances), which stores each comment as an issue comment in this site's GitHub repository (`Lee-W/travlog`). Therefore:
-
-* Commenting requires a GitHub account and authorizing utterances to post on your behalf
-* Your comment and your GitHub username are **public**, visible to anyone, and indexed by search engines and crawlers
-* The data itself lives on GitHub and is governed by the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
-* To delete a comment, you can remove it yourself on GitHub, or email me and I will do it for you
-
-### Content loaded from other sites
-
-Some pages load resources from elsewhere:
-
-* Map pages (pilgrimage, restaurants, theaters, travel maps, and so on) fetch tiles from [OpenStreetMap](https://osmfoundation.org/wiki/Privacy_Policy), with the mapping library served from unpkg
-* Many articles embed Spotify players, and a few embed YouTube videos
-* The blogroll links badge images directly from the other sites that host them
-
-Each of these requests lets the remote server see your IP address and browser information, and embedded media players typically set cookies of their own under their respective policies. If you would rather they didn't, a content-blocking browser extension works fine here — the written content of this site remains readable without those resources.
-
-### Hosting and connection logs
-
-This site is served as static assets on Cloudflare Workers, so pages reach you from Cloudflare's edge. Cloudflare processes connection logs as needed to operate that service, under the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/). I have no access to those logs and do not request them.
-
-### Cookies and browser storage
-
-This site sets no cookies of its own. The only thing it keeps in your browser is your dark/light theme preference (`attila_theme` in `localStorage`), which stays on your device and is never sent to me or to anyone else.
-
-The third-party services above may set cookies of their own — for instance when you sign in to GitHub in order to comment, or when you play an embedded track or video.
-
-### Contact
-
-For any question or request about this page, or about data relating to you, please email [hello+travlog@wei-lee.me](mailto:hello+travlog@wei-lee.me?subject=Privacy).
-
-This page describes what this site actually does today; I will update it when the services it uses change. It does not constitute legal advice.
-
-<span id="ja"></span>
-
-## 日本語
-
-### 当サイトが行わないこと
-
-当サイトには会員登録、ニュースレター、広告、広告トラッキングのいずれもありません。個人データを能動的に収集・保存・販売することはなく、「この読者が誰なのか」を知るための管理画面も存在しません。
-
-ただし、閲覧の際にいくつかの第三者サービスが技術的な情報を受け取ります。以下、項目ごとに説明します。
-
-### アクセス解析
-
-当サイトはページビューの集計に [Umami Cloud](https://umami.is/) を使用しています。Umami の公式ドキュメントによれば、トラッキングコードは cookie を使用せず、個人を識別できる情報も収集せず、収集したデータはすべて匿名化されます。詳細は [Umami のプライバシーポリシー](https://umami.is/privacy)をご覧ください。
-
-管理画面で私が見ているのは集計値です。どの記事が何回読まれたか、どのサイトから来たか、おおまかな国と端末の種類。個々の読者を見ることはできず、二つの閲覧を同一人物に結びつけることもできません。
-
-なお、ブラウザーが `cloud.umami.is` にリクエストを送るという行為そのものによって、相手のサーバーには IP アドレスとブラウザー情報が伝わります。
-
-### コメント
-
-コメント機能には [utterances](https://github.com/utterance/utterances) を使用しており、コメントは当サイトの GitHub リポジトリ（`Lee-W/travlog`）の issue コメントとして保存されます。したがって：
-
-* コメントには GitHub アカウントと、utterances への投稿権限の許可が必要です
-* コメント内容と GitHub のアカウント名は**公開**され、誰でも閲覧でき、検索エンジンやクローラーにも収集されます
-* データ自体は GitHub 上にあり、[GitHub のプライバシーに関する声明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)が適用されます
-* コメントを削除したい場合は、GitHub 上でご自身で削除するか、私までご連絡ください
-
-### 外部サイトから読み込まれるもの
-
-一部のページは他サイトのリソースを読み込みます。
-
-* 地図ページ（聖地巡礼、レストラン、映画館、旅行の地図など）のタイルは [OpenStreetMap](https://osmfoundation.org/wiki/Privacy_Policy) から、地図ライブラリーは unpkg から配信されます
-* 多くの記事に Spotify のプレイヤーを、一部の記事に YouTube の動画を埋め込んでいます
-* ブログロールのバナー画像は、各サイト上の画像に直接リンクしています
-
-これらのリクエストにより、相手のサーバーに IP アドレスとブラウザー情報が伝わります。また、埋め込みプレイヤーは各社のポリシーに基づき独自の cookie を設置することがあります。避けたい場合は外部接続をブロックする拡張機能をご利用ください。当サイトの本文はそれらのリソースがなくても問題なく読めます。
-
-### ホスティングと接続ログ
-
-当サイトは Cloudflare Workers の静的アセットとして配信されており、ページは Cloudflare のエッジから届きます。Cloudflare はサービス運用に必要な範囲で接続ログを処理します（[Cloudflare のプライバシーポリシー](https://www.cloudflare.com/privacypolicy/)）。私はこれらのログにアクセスできず、開示を求めることもありません。
-
-### Cookie とブラウザーストレージ
-
-当サイトは独自の cookie を設置しません。ブラウザーに保存される唯一のものはダークモード／ライトモードの設定（`localStorage` の `attila_theme`）で、お使いの端末内にとどまり、私や第三者に送信されることはありません。
-
-上記の第三者サービスは、独自の cookie を設置する場合があります（コメントのために GitHub にログインする場合や、埋め込みの音楽・動画を再生する場合など）。
-
-### お問い合わせ
-
-本ページの内容、またはご自身に関するデータについてのご質問・ご要望は、[hello+travlog@wei-lee.me](mailto:hello+travlog@wei-lee.me?subject=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B)までお寄せください。
-
-本ページは、当サイトが現時点で実際に行っていることを説明するものです。利用しているサービスに変更があれば更新します。本ページは法律上の助言ではありません。

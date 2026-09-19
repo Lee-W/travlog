@@ -1,24 +1,30 @@
-{# Show the notice in the language of the page being rendered. The Japanese
-   subsite links into the #ja section of the (trilingual) policy pages. #}
+{# Show the notice in the language of the page being rendered; each language
+   now has its own copyright and privacy page. #}
 {% set rights_lang = page_lang|default(DEFAULT_LANG)|lower|replace('_', '-') %}
 <div class="rights-notice">
   {%- if rights_lang == 'ja' %}
   <p>作品のスクリーンショットやミーム画像などの権利は、それぞれの権利者に帰属します。</p>
   <p class="rights-notice-link">
-    <a href="/ja/pages/copyright.html#ja">著作権と権利に関するご連絡</a>
+    <a href="/ja/pages/copyright.html">著作権と権利に関するご連絡</a>
   </p>
   <p class="rights-notice-link">
-    <a href="/ja/pages/privacy.html#ja">プライバシーについて</a>
+    <a href="/ja/pages/privacy.html">プライバシーについて</a>
+  </p>
+  {%- elif rights_lang == 'en' %}
+  <p>Rights in screenshots, memes, and other third-party material remain with their respective owners.</p>
+  <p class="rights-notice-link">
+    <a href="/pages/copyright-en.html">Copyright &amp; Rights Notice</a>
+  </p>
+  <p class="rights-notice-link">
+    <a href="/pages/privacy-en.html">Privacy</a>
   </p>
   {%- else %}
   <p>作品截圖、梗圖等第三方素材，權利仍屬原權利人所有。</p>
-  <p>Rights in screenshots, memes, and other third-party material remain with their respective owners.</p>
-  <p>作品のスクリーンショットやミーム画像などの権利は、それぞれの権利者に帰属します。</p>
   <p class="rights-notice-link">
-    <a href="/pages/copyright.html">著作權與權利通知 / Copyright &amp; Rights Notice / 著作権と権利に関するご連絡</a>
+    <a href="/pages/copyright.html">著作權與權利通知</a>
   </p>
   <p class="rights-notice-link">
-    <a href="/pages/privacy.html">隱私權說明 / Privacy / プライバシーについて</a>
+    <a href="/pages/privacy.html">隱私權說明</a>
   </p>
   {%- endif %}
 </div>

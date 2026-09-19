@@ -164,9 +164,8 @@ I18N_SUBSITES = {
                 "🧭 さがす",
                 (
                     ("📜 ブログロール", "/ja/pages/blogroll.html"),
-                    # 本文が三言語同居なので、日本語の節に直接リンクする
-                    ("©️ 著作権", "/ja/pages/copyright.html#ja"),
-                    ("🔒 プライバシー", "/ja/pages/privacy.html#ja"),
+                    ("©️ 著作権", "/ja/pages/copyright.html"),
+                    ("🔒 プライバシー", "/ja/pages/privacy.html"),
                 ),
             ),
         ),
