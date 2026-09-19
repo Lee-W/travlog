@@ -7,6 +7,7 @@ locations:
   osm_type: node
   osm_id: 2088173092
   notes: '第 1 集 上學途中讀《機器太與波可太》'
+  notes_ja: '第1話 通学中に『ロボ太とポコ太』を読む'
   country: 日本
   city: 東京
   tags: []
@@ -19,6 +20,7 @@ locations:
   osm_type: node
   osm_id: 2119232537
   notes: '第 1 集 赤福家門口'
+  notes_ja: '第1話 赤福の家の前'
   country: 日本
   city: 東京
   tags: []
@@ -30,6 +32,7 @@ locations:
   osm_type: way
   osm_id: 202529529
   notes: '第 1 集 出發去 COMITIA'
+  notes_ja: '第1話 コミティアへ出発'
   country: 日本
   city: 東京
   tags: []
@@ -41,6 +44,7 @@ locations:
   osm_type: way
   osm_id: 188314334
   notes: '第 4 集 藤森老家「みなと館」的原型'
+  notes_ja: '第4話 藤森の実家「みなと館」のモデル'
   country: 日本
   city: 東京
   tags: []
@@ -51,6 +55,7 @@ locations:
   lat: 34.701665
   lon: 139.445113
   notes: '第 4 集 帶石龍觀光'
+  notes_ja: '第4話 石龍を案内する'
   country: 日本
   city: 東京
   tags: []
@@ -62,6 +67,7 @@ locations:
   osm_type: node
   osm_id: 2087049016
   notes: '第 4 集 帶石龍觀光'
+  notes_ja: '第4話 石龍を案内する'
   country: 日本
   city: 東京
   tags: []
@@ -71,6 +77,7 @@ locations:
   lat: 34.702449
   lon: 139.374613
   notes: '第 8 集 手島老師的取材之旅'
+  notes_ja: '第8話 手島先生の取材旅行'
   country: 日本
   city: 東京
   tags: []
@@ -80,6 +87,7 @@ locations:
   lat: 34.780687
   lon: 139.419220
   notes: '第 8 集 手島老師的取材之旅'
+  notes_ja: '第8話 手島先生の取材旅行'
   country: 日本
   city: 東京
   tags: []
@@ -90,6 +98,7 @@ locations:
   lat: 34.773908
   lon: 139.424428
   notes: '第 8 集 手島老師的取材之旅'
+  notes_ja: '第8話 手島先生の取材旅行'
   country: 日本
   city: 東京
   tags: []
@@ -101,6 +110,7 @@ locations:
   osm_type: relation
   osm_id: 2699337
   notes: '第 8 集 手島老師的取材之旅'
+  notes_ja: '第8話 手島先生の取材旅行'
   country: 日本
   city: 東京
   tags: []
@@ -110,6 +120,7 @@ locations:
   lat: 34.724482
   lon: 139.394738
   notes: '第 8 集 手島老師的取材之旅'
+  notes_ja: '第8話 手島先生の取材旅行'
   country: 日本
   city: 東京
   tags: []
@@ -121,6 +132,7 @@ locations:
   osm_type: node
   osm_id: 436379033
   notes: '第 8 集 夏日祭典看煙火'
+  notes_ja: '第8話 夏祭りで花火を見る'
   country: 日本
   city: 東京
   tags: []
@@ -133,6 +145,7 @@ locations:
   osm_type: way
   osm_id: 538190537
   notes: '第 9 集 社員全體去海水浴'
+  notes_ja: '第9話 社員みんなで海水浴'
   country: 日本
   city: 東京
   tags: []
@@ -144,6 +157,7 @@ locations:
   osm_type: way
   osm_id: 201952290
   notes: '第 9 集 海水浴之後泡的溫泉'
+  notes_ja: '第9話 海水浴のあとに入った温泉'
   country: 日本
   city: 東京
   tags: []

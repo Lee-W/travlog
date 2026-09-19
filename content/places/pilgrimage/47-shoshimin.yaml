@@ -6,6 +6,7 @@ locations:
   lat: 35.43253018188601
   lon: 136.76725211627686
   notes: "夏季限定水果百匯"
+  notes_ja: '夏期限定トロピカルパフェ'
   date:
   - '2025-09-15'
   country: 日本
@@ -21,6 +22,7 @@ locations:
   lat: 35.418603458695024
   lon: 136.7709844316396
   notes: "秋季限定，正直和正義都回來了"
+  notes_ja: '秋期限定、正直と正義が戻ってきた'
   date:
   - '2025-09-15'
   country: 日本
@@ -57,6 +59,7 @@ locations:
   lat: 35.427106
   lon: 136.764708
   notes: 春季限定草莓塔
+  notes_ja: '春期限定いちごタルト'
   date: '2025-09-15'
   country: 日本
   city: 岐阜
@@ -68,6 +71,7 @@ locations:
   lat: 35.454552
   lon: 136.755559
   notes: 建建跟小鳩偷約會
+  notes_ja: '健吾と小鳩がこっそりデート'
   date: '2025-09-16'
   country: 日本
   city: 岐阜

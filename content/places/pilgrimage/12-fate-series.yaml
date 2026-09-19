@@ -41,6 +41,7 @@ locations:
   lat: 34.701933
   lon: 135.193242
   notes: 間桐家
+  notes_ja: '間桐邸'
   date: '2023-03-13'
   country: 日本
   city: 兵庫
@@ -53,6 +54,7 @@ locations:
   lat: 35.345704
   lon: 136.989866
   notes: 切嗣單抽五星
+  notes_ja: '切嗣を単発で星5'
   date: '2023-03-17'
   country: 日本
   city: 愛知
@@ -64,6 +66,7 @@ locations:
   lat: 35.347812
   lon: 136.988863
   notes: Fate/Zero 轉圈圈
+  notes_ja: 'Fate/Zero のぐるぐる回るところ'
   date: '2023-03-17'
   country: 日本
   city: 愛知
@@ -77,6 +80,7 @@ locations:
   osm_type: way
   osm_id: 493562287
   notes: Fate/Zero 蟲老、雁夜
+  notes_ja: 'Fate/Zero の蟲爺と雁夜'
   date: '2023-03-17'
   country: 日本
   city: 愛知
@@ -88,6 +92,7 @@ locations:
   lat: 35.348713
   lon: 139.488552
   notes: '柳洞寺本體'
+  notes_ja: '柳洞寺の本体'
   date: '2025-04-25'
   country: 日本
   city: 神奈川
@@ -101,6 +106,7 @@ locations:
   lat: 35.339527
   lon: 139.5482
   notes: '柳洞寺步道'
+  notes_ja: '柳洞寺の参道'
   date: '2025-04-25'
   country: 日本
   city: 神奈川

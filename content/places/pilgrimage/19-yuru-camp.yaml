@@ -5,6 +5,7 @@ locations:
   lat: 35.472445
   lon: 138.407858
   notes: "劇場版鳥籠"
+  notes_ja: '劇場版の鳥かご'
   date:
   - '2023-05-27'
   - '2023-11-13'
@@ -52,6 +53,7 @@ locations:
   osm_type: way
   osm_id: 1241976032
   notes: 犬山等人新年參拜的地方
+  notes_ja: '犬山たちが初詣に行った場所'
   date: '2023-05-27'
   country: 日本
   city: 山梨
@@ -62,6 +64,7 @@ locations:
   lat: 35.446037
   lon: 138.4834
   notes: 印象中有人住，這個點抓得離實際點比較遠
+  notes_ja: '人が住んでいた気がするので、実際の場所から少し離してある'
   date: '2023-05-27'
   country: 日本
   city: 山梨
@@ -182,6 +185,7 @@ locations:
   lat: 35.716858
   lon: 139.361936
   notes: 劇場版撫子工作的露營店
+  notes_ja: '劇場版でなでしこが働いているキャンプ用品店'
   date: '2023-10-22'
   country: 日本
   city: 東京
