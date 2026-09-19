@@ -42,17 +42,3 @@ body.site-travlog {
   padding-top: 2rem;
   margin-top: 0;
 }
-
-.rights-languages {
-  display: flex;
-  gap: 0.8rem;
-  flex-wrap: wrap;
-  margin-bottom: 3rem;
-}
-
-.rights-languages a {
-  padding: 0.5rem 1rem;
-  border: 1px solid var(--color-content-secondary);
-  border-radius: 999px;
-  text-decoration: none;
-}
