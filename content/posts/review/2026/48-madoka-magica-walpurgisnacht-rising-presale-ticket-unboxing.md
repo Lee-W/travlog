@@ -1,11 +1,10 @@
 Title: 開箱《劇場版魔法少女小圓〈瓦爾普吉斯的迴天〉》預售票
-Date: 2026-09-11 15:10 +0800
+Date: 2026-09-20 17:54 +0800
 Category: Review
 Tags: Anime, Unboxing
 Slug: madoka-magica-walpurgisnacht-rising-presale-ticket-unboxing
 Cover: /images/post-images/2026/madoka-magica-walpurgisnacht-rising-presale-ticket-unboxing/presale-ticket-1.jpeg
 Authors: Wei Lee
-Status: draft
 
 好像是出差前衝動就刷下去了
 根本就不知道出差回來找不找得到時間看
