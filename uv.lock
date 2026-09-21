@@ -12,14 +12,14 @@ exclude-newer = "0001-01-01T00:00:00Z" # This has no effect and is included for 
 exclude-newer-span = "P4D"
 
 [options.exclude-newer-package]
-pelican-osm = false
-pelican-on-this-day = false
-pelican-tabular = false
-pelican-stat = false
 attila = false
-pelican-summary-link = false
-pelican-random-article = false
 pelican-heatmap = false
+pelican-on-this-day = false
+pelican-osm = false
+pelican-random-article = false
+pelican-stat = false
+pelican-summary-link = false
+pelican-tabular = false
 
 [[package]]
 name = "anyio"
