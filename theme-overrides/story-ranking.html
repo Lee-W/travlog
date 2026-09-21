@@ -1,0 +1,29 @@
+{% extends "!theme/page.html" %}
+{% set body_class = "page-template works-page" %}
+{% set is_ja = page.lang == "ja" %}
+
+{% block head %}
+  {{ super() }}
+  <link rel="stylesheet" href="{{ SITEURL }}/static/story-database.css">
+{% endblock %}
+
+{% block header %}
+  <header class="works-header">
+    <div class="inner">
+      <div>
+        <h1>{{ page.title }}</h1>
+      </div>
+      <a class="works-ranking-link" href="{{ SITEURL }}/pages/pages.html">{{ "コレクションへ" if is_ja else "回到私藏" }} <span aria-hidden="true">↗</span></a>
+    </div>
+  </header>
+{% endblock %}
+
+{% block content %}
+  <main id="site-main" class="content" data-pagefind-body>
+    <article class="post">
+      <div class="inner">
+        <section class="post-content">{{ page.content }}</section>
+      </div>
+    </article>
+  </main>
+{% endblock %}

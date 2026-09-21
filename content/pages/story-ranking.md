@@ -1,12 +1,21 @@
 Title: 我心中的作品排名
 Date: 2022-02-06 18:48 +0800
-Modified: 2026-06-30 21:21 +0800
+Modified: 2026-09-20 00:00 +0800
 Slug: story-ranking
 Summary: 依個人喜好整理看過的動畫、電影、影集、漫畫與小說排名及心得索引。
 Lang: zh-tw
+Template: story-ranking
+
+依個人喜好整理看過的動畫、電影、影集、漫畫與小說排名及心得索引。
+
+<details class="works-notes" markdown="1">
+<summary>關於這份排名與分級</summary>
 
 啟發自[kaze的日本留學&不務正業ACG](https://aurakaze.blog/list_anime/)跟在推特看到的[TierMaker](https://tiermaker.com/create/anime-tier-list-300-anime-17194)
 才做了這個給自己的作品排名/索引
+
+後來受到 [Parker Chang 的作品資料庫](https://www.parkerchang.life/database) 啟發
+把這份排名加上了搜尋和篩選功能
 
 照我的喜好程度紀錄了為每部作品分了幾個 tier
 每個 tier 中的前後順序沒有意義
@@ -33,6 +42,10 @@ Lang: zh-tw
 
 **Tier 對照表**
 
+<!-- Tier 文字說明同時存在這裡、story-ranking-ja.md 的對照表、以及
+     scripts/build_story_database.py 的 TIERS（中日兩份，供篩選面板用）。
+     改一處要記得改另外三處，目前沒有自動同步。 -->
+
 | Tier | 我心中的地位 | AniList | Letterboxd / Trakt |
 |---|---|---|---|
 | SSS | 無可撼動，沒有之一 | 10 | 5.0 |
@@ -46,31 +59,6 @@ Lang: zh-tw
 | F | 看得真的很痛苦 | 2 | 1.0 |
 | G | 你不一定要看，但一定要推薦給你朋友 | 1 | 0.5 |
 
-[TOC]
+</details>
 
-## 動畫
-{% table data/story-ranking/anime.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
-
-## 真人電影（含非日式動畫）
-{% table data/story-ranking/live-action-movie.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
-
-## 真人影集（含非日式動畫）
-{% table data/story-ranking/live-action-tv.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
-
-## 紀錄片
-{% table data/story-ranking/documentary.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
-
-## 星際大戰
-{% table data/story-ranking/star-wars.yaml fields="title,reviews" group_by="group" group_summary_at="group" field_labels="title:作品,reviews:評論" %}
-
-## 完結漫畫
-{% table data/story-ranking/manga-completed.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
-
-## 連載漫畫
-{% table data/story-ranking/manga-ongoing.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
-
-## 小說
-{% table data/story-ranking/novel.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:評論" %}
-
-## 設定集
-{% table data/story-ranking/artbook.yaml fields="title,reviews" field_labels="title:作品,reviews:評論" %}
+{% table data/story-database.yaml view="works" id="works" %}

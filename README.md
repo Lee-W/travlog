@@ -41,6 +41,38 @@ content/
   extra/       # Extra static files
 ```
 
+## Works database
+
+The ranking page at `/pages/story-ranking.html` uses the searchable catalog,
+with a Japanese version at `/ja/pages/story-ranking.html`. Its original ranking
+explanation is preserved in a collapsible section. The view and its compact
+layout are opted into by these two pages; other tables keep their existing UI.
+
+Keep editing the nine YAML files under `content/data/story-ranking/`.
+Every `inv` task that runs Pelican (`build`, `rebuild`, `regenerate`, `preview`,
+`build_publish`, `livereload`, `reserve`) first generates the ignored
+`content/data/story-database.yaml`, then localize it through `build_ja_data.py`.
+Do not edit or commit that generated file. Adding a category requires adding
+its labels to `scripts/build_story_database.py`; an unknown category fails the
+build so no entries silently disappear.
+
+The catalog preserves separate seasons/entries, tiers and review links. It
+supports searching both Taiwanese Mandarin and native titles, filtering by
+category/Tier/review availability, numerical preference sorting, URL state and
+compact mobile rows. It does not infer viewing progress or publication dates from
+ranking categories or review dates. Star Wars novels retain their separate
+ranking page. The catalog keeps Star Wars as the author's separate category,
+without exposing its source-specific grouping field on unrelated works.
+`check_story_ranking.py` checks source coverage through the catalog builder's
+category list as well as direct table references.
+
+`theme-overrides/story-ranking.html` opts into the page layout and loads
+`content/static/story-database.css` for page notes, column proportions and
+category/Tier styling. Tabular supplies the shared controls, typography and
+responsive labels. It opens filters by default above 680px, collapses them on
+smaller screens, and preserves manual toggles for the current page. Each row
+displays the page's localized work name; alternate titles remain searchable.
+
 ## Publishing
 
 Drafts (`uv run inv new_draft ...`) and new posts (`uv run inv new_post ...`)

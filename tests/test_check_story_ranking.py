@@ -1,6 +1,7 @@
 from pathlib import Path
 
-from scripts.check_story_ranking import check_yaml_file
+from scripts.build_story_database import CATEGORIES
+from scripts.check_story_ranking import check_page_references, check_yaml_file
 
 
 def _make_review_dir(tmp_path: Path) -> tuple[Path, Path]:
@@ -58,3 +59,30 @@ def test_direct_review_requires_seasonal_backlink(tmp_path):
     errors = check_yaml_file(yaml_path, tmp_path, {})
 
     assert any("lacks seasonal backlink" in error for error in errors)
+
+
+def test_combined_view_checks_all_canonical_sources(tmp_path):
+    sources = tmp_path / "sources"
+    sources.mkdir()
+    for category in CATEGORIES:
+        (sources / f"{category}.yaml").write_text("[]\n")
+    page = tmp_path / "story-ranking.md"
+    page.write_text('{% table data/story-database.yaml view="works" id="works" %}')
+    assert check_page_references(sources, page) == []
+    (sources / "anime.yaml").unlink()
+    (sources / "new.yaml").write_text("[]\n")
+    errors = check_page_references(sources, page)
+    assert any("orphan YAML: new.yaml" in error for error in errors)
+    assert any(
+        "dangling reference" in error and "anime.yaml" in error for error in errors
+    )
+
+
+def test_mentioning_catalog_without_rendering_it_does_not_cover_sources(tmp_path):
+    (tmp_path / "anime.yaml").write_text("[]\n")
+    page = tmp_path / "story-ranking.md"
+    page.write_text("Data comes from data/story-database.yaml")
+    assert any(
+        "orphan YAML: anime.yaml" in error
+        for error in check_page_references(tmp_path, page)
+    )

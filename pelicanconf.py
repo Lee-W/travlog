@@ -1,5 +1,7 @@
 from pelican.themes import attila
 
+from scripts.build_story_database import view_config
+
 HOST = "travlog.wei-lee.me"
 
 # ----common between blogs----
@@ -227,6 +229,9 @@ TABULAR_REF_HREF_TEMPLATE = (
     "https://www.openstreetmap.org/{osm_type}/{osm_id}"
     "|https://www.openstreetmap.org/?mlat={lat}&mlon={lon}#map=17/{lat}/{lon}"
 )
+
+TABULAR_VIEWS = {"works": view_config("zh-tw")}
+I18N_SUBSITES["ja"]["TABULAR_VIEWS"] = {"works": view_config("ja")}
 
 # pelican-seo settings
 SEO_REPORT = True  # SEO report is enabled by default

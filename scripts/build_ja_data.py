@@ -9,7 +9,8 @@ title when there is one and the Taiwanese Mandarin title otherwise.
 the `.md` pages keep the same `{% table data/... %}` calls in both languages.
 
 The output is generated at build time and is not committed — run it through
-`inv build` / `inv rebuild` / `inv build-publish`, which call it automatically.
+any `inv` task that runs Pelican (build/rebuild/regenerate/preview/build_publish/
+livereload/reserve), which call it automatically.
 """
 
 from __future__ import annotations
