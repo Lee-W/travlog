@@ -162,13 +162,14 @@ def build_publish(c):
     _build_pagefind()
 
 
-def _build_ja_tabular_data():
-    """Regenerate the Japanese subsite's tabular data (see the script's docstring)."""
+def _build_tabular_data():
+    """Generate the catalog before localizing all tabular data."""
+    subprocess.run([sys.executable, "scripts/build_story_database.py"], check=True)
     subprocess.run([sys.executable, "scripts/build_ja_data.py"], check=True)
 
 
 def pelican_run(cmd):
-    _build_ja_tabular_data()
+    _build_tabular_data()
     cmd += " " + program.core.remainder  # allows to pass-through args to pelican
     pelican_main(shlex.split(cmd))
 

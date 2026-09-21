@@ -1,11 +1,19 @@
 Title: 作品ランキング
 Date: 2022-02-06 18:48 +0800
-Modified: 2026-09-18 18:10 +0800
+Modified: 2026-09-20 00:00 +0800
 Slug: story-ranking
 Summary: 好みの順に並べた、観た・読んだアニメ、映画、ドラマ、漫画、小説のランキングと感想の索引。
 Lang: ja
+Template: story-ranking
+
+好みの順に並べた、観た・読んだアニメ、映画、ドラマ、漫画、小説のランキングと感想の索引。
+
+<details class="works-notes" markdown="1">
+<summary>このランキングと Tier について</summary>
 
 [kazeの日本留学＆ACG](https://aurakaze.blog/list_anime/)と、Twitter で見かけた [TierMaker](https://tiermaker.com/create/anime-tier-list-300-anime-17194) に触発されて、自分用の作品ランキング／索引を作りました
+
+その後、[Parker Chang の作品データベース](https://www.parkerchang.life/database) にヒントを得て、このランキングにも検索と絞り込み機能を追加しました
 
 どれくらい好きかで作品を Tier に分けています
 同じ Tier のなかでの並び順に意味はありません
@@ -32,6 +40,10 @@ Lang: ja
 
 **Tier 対応表**
 
+<!-- Tier の説明文はここ、story-ranking.md の対照表、
+     scripts/build_story_database.py の TIERS（中日それぞれ、フィルターパネル用）
+     の計 4 箇所に存在する。1 箇所を直したら残り 3 箇所も要更新、自動同期はない。 -->
+
 | Tier | 私にとっての位置づけ | AniList | Letterboxd / Trakt |
 |---|---|---|---|
 | SSS | 揺るがない、これ以外にない | 10 | 5.0 |
@@ -45,31 +57,6 @@ Lang: ja
 | F | 観ていて本当につらい | 2 | 1.0 |
 | G | 観なくてもいいけれど、友達には絶対すすめたい | 1 | 0.5 |
 
-[TOC]
+</details>
 
-## アニメ
-{% table data/story-ranking/anime.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:感想" %}
-
-## 実写映画（日本のアニメ以外を含む）
-{% table data/story-ranking/live-action-movie.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:感想" %}
-
-## 実写ドラマ（日本のアニメ以外を含む）
-{% table data/story-ranking/live-action-tv.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:感想" %}
-
-## ドキュメンタリー
-{% table data/story-ranking/documentary.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:感想" %}
-
-## スター・ウォーズ
-{% table data/story-ranking/star-wars.yaml fields="title,reviews" group_by="group" group_summary_at="group" field_labels="title:作品,reviews:感想" %}
-
-## 完結した漫画
-{% table data/story-ranking/manga-completed.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:感想" %}
-
-## 連載中の漫画
-{% table data/story-ranking/manga-ongoing.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:感想" %}
-
-## 小説
-{% table data/story-ranking/novel.yaml fields="title,reviews" group_by="tier" group_summary_at="tier" field_labels="title:作品,reviews:感想" %}
-
-## 設定資料集
-{% table data/story-ranking/artbook.yaml fields="title,reviews" field_labels="title:作品,reviews:感想" %}
+{% table data/story-database.yaml view="works" id="works" %}

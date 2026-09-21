@@ -17,6 +17,11 @@ import markdown
 import yaml
 from markdown.extensions.toc import TocExtension
 
+if __package__:
+    from .build_story_database import CATEGORIES
+else:
+    from build_story_database import CATEGORIES
+
 
 def get_anchor_map(filepath: Path) -> dict[str, str]:
     """Return {anchor_id: heading_name} for all TOC headings in a post."""
@@ -139,6 +144,10 @@ def check_page_references(yaml_dir: Path, page_path: Path) -> list[str]:
         Path(m).name
         for m in re.findall(r"data/story-ranking/([A-Za-z0-9_-]+\.yaml)", page_text)
     }
+    # The combined view reads every source declared by the catalog builder.
+    # Keep the same orphan/dangling checks when the page uses that view.
+    if re.search(r"\{%\s*table\s+data/story-database\.yaml(?:\s|%})", page_text):
+        referenced.update(f"{category}.yaml" for category in CATEGORIES)
     on_disk = {p.name for p in yaml_dir.glob("*.yaml")}
 
     for name in sorted(on_disk - referenced):
