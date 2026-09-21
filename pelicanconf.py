@@ -128,6 +128,7 @@ LANGUAGE_NAMES = {"zh-tw": "臺灣華語", "ja": "日本語"}
 CURRENT_LANG = "zh-tw"
 I18N_SUBSITES = {
     "ja": {
+        "RANDOM_ARTICLE_FALLBACK_URL": "/random/",
         "SITENAME": "誰も気にしないこと",
         "SITETITLE": "誰も気にしないこと",
         "SITE_DESCRIPTION": "アニメ・映画・音楽・料理・旅行の感想と暮らしの記録",
@@ -148,7 +149,7 @@ I18N_SUBSITES = {
         "OSM_PLACES_ROOT": "../.ja-data/places",
         # Articles are not generated here (I18N_UNTRANSLATED_ARTICLES), so the
         # links to them from the data pages point back at the main site.
-        # publishconf.py re-derives this once SITEURL is the production one.
+        # This stays relative in production: Pelican prefixes the subsite URL.
         "ARTICLE_LANG_URL": f"../{ARTICLE_URL}",
         "ARTICLE_LANG_SAVE_AS": "",
         "CATEGORY_TRANSLATIONS": {
@@ -168,6 +169,7 @@ I18N_SUBSITES = {
                     ("🔒 プライバシー", "/ja/pages/privacy.html"),
                 ),
             ),
+            ("🎲 ランダム", "/ja/random/"),
         ),
     }
 }
@@ -178,7 +180,6 @@ I18N_UNTRANSLATED_PAGES = "keep"
 PLUGINS = [
     "pelican.plugins.i18n_subsites",
     "pelican.plugins.neighbors",
-    "pelican.plugins.random_article",
     "pelican.plugins.render_math",
     "pelican.plugins.seo",
     "pelican.plugins.sitemap",
@@ -209,6 +210,7 @@ SITEMAP = {
 
 # Local plugins
 LOCAL_PLUGINS = [
+    "random_article_subsites",
     "image_markup",
 ]
 PLUGIN_PATHS = ["plugins"]

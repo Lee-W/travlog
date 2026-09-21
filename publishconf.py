@@ -9,9 +9,9 @@ SITEURL = f"https://{HOST}"
 STATIC_SITEURL = SITEURL
 RELATIVE_URLS = False
 
-# Built in pelicanconf.py against the development SITEURL; rebuild it so the
-# Japanese subsite links to articles on the production site.
-I18N_SUBSITES["ja"]["ARTICLE_LANG_URL"] = f"{SITEURL}/{ARTICLE_URL}"
+# Keep the relative ARTICLE_LANG_URL from pelicanconf.py. Pelican prefixes it
+# with the Japanese SITEURL when resolving article links; an absolute URL here
+# would produce /ja/https://... links in both tables and database views.
 
 FEED_MAX_ITEMS = 30
 FEED_ALL_ATOM = "feeds/all.atom.xml"
