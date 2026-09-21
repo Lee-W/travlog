@@ -1,0 +1,14 @@
+{# ja-only fallback: hardcodes Japanese copy and assumes DEFAULT_LANG is overridden to "ja" by the subsite. Update if reused for another subsite. #}
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG|e }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta http-equiv="refresh" content="0; url={{ fallback_url|e }}">
+  <title>ランダムな記事 — {{ SITENAME|e }}</title>
+</head>
+<body>
+  <p>日本語の記事はまだないため、臺灣華語の記事からランダムに表示します。</p>
+  <p><a href="{{ fallback_url|e }}">自動で移動しない場合はこちら</a></p>
+</body>
+</html>
