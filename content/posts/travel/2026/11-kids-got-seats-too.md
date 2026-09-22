@@ -1,10 +1,9 @@
 Title: 孩子們也有機位坐
-Date: 2026-09-06 21:29 +0800
+Date: 2026-09-22 20:01 +0800
 Category: Travel
 Tags: Japan
 Slug: kids-got-seats-too
 Authors: Wei Lee
-Status: draft
 
 我原本的機位不知道出什麼問題
 突然就被換到還不錯的位置
