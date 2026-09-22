@@ -7,13 +7,15 @@ locations:
   lat: 35.722548734844935
   lon: 139.71704620069065
   notes: "「普通」和「理所當然」是什麼呢？"
-  notes_ja: '「普通」と「当たり前」って何だろう？'
   date: 2026-02-22
   country: 日本
   city: 東京
   tags:
   - 公園
   images: ["/images/pilgrimage/25-bang-dream-series/Minami-Ikebukuro-Second-Park.JPEG"]
+  translations:
+    ja:
+      notes: '「普通」と「当たり前」って何だろう？'
 - name: サブウェイ サンシャインシティアルパ店
   lat: 35.731251
   lon: 139.718289
@@ -30,7 +32,6 @@ locations:
   lat: 35.731675
   lon: 139.710847
   notes: 不要把小祥從我身邊搶走！
-  notes_ja: '祥子を私から奪わないで！'
   date:
   - '2023-10-19'
   - '2025-04-17'
@@ -41,6 +42,9 @@ locations:
   - /images/pilgrimage/25-bang-dream-series/sunshine-city.JPG
   - /images/pilgrimage/25-bang-dream-series/sunshine-city-1.JPG
   urls: []
+  translations:
+    ja:
+      notes: '祥子を私から奪わないで！'
 - name: 米澤茜 Ubike 站
   place_type: 車站
   lat: 25.045432018635324

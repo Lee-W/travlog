@@ -21,6 +21,7 @@ properties:
       additionalProperties: true
       required: [name, lat, lon]
       allOf:
+        - $ref: "./_common.yaml#/$defs/field_translation_placeholders"
         - $ref: "./_common.yaml#/$defs/field_id"
         - $ref: "./_common.yaml#/$defs/field_personal_curation"
         - $ref: "./_common.yaml#/$defs/field_city"
@@ -28,6 +29,12 @@ properties:
         - $ref: "./_common.yaml#/$defs/field_address"
         - $ref: "./_common.yaml#/$defs/field_osm_ref"
       properties:
+        # visit_note：field_personal_curation 帶進來的是 icon / rating，
+        # other.yaml 不寫造訪備註。理由同 travel/_schema.yaml 的 notes。
+        visit_note:
+          type: string
+          x-osm-list-hidden: true
+
         name:
           type: string
           title: 地點

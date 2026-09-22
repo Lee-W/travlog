@@ -56,7 +56,6 @@ locations:
   osm_type: node
   osm_id: 1825027179
   notes: 波奇捕捉
-  notes_ja: 'ぼっち確保'
   date: '2023-05-26'
   country: 日本
   city: 東京
@@ -65,12 +64,14 @@ locations:
   images:
   - /images/pilgrimage/17-bocchi-the-rock/honda-theater.JPG  # wrong GPS
   urls: []
+  translations:
+    ja:
+      notes: 'ぼっち確保'
 - name: 江の島シーキャンドル
   place_type: 塔
   lat: 35.299681
   lon: 139.479042
   notes: 第八集去江之島玩
-  notes_ja: '第8話で江の島に遊びに行った場所'
   date: '2025-04-22'
   country: 日本
   city: 神奈川
@@ -78,3 +79,6 @@ locations:
   images:
   - /images/pilgrimage/17-bocchi-the-rock/enoshima-sea-candle.JPG
   urls: []
+  translations:
+    ja:
+      notes: '第8話で江の島に遊びに行った場所'

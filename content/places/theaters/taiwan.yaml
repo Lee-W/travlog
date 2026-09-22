@@ -12,39 +12,49 @@ vieshow-songren:
       recommended_rows: "D"
       alt_rows: ""
       hall_note: 普通
-      hall_note_ja: 'ふつう'
       seat_note: ""
+      translations:
+        ja:
+          hall_note: 'ふつう'
     - hall: "5 廳"
       format: 2D 廳
       recommended_rows: "E"
       alt_rows: "D"
       hall_note: 不錯
-      hall_note_ja: 'いい'
       seat_note: E 排可，可以試 D
-      seat_note_ja: 'E 列で大丈夫。D 列も試せる'
+      translations:
+        ja:
+          hall_note: 'いい'
+          seat_note: 'E 列で大丈夫。D 列も試せる'
     - hall: "6 廳"
       format: TITAN
       recommended_rows: "G"
       alt_rows: "F"
       hall_note: 一般 2D 最好的廳
-      hall_note_ja: '通常 2D では最良のスクリーン'
       seat_note: 理想，但可以試前一排
-      seat_note_ja: '理想的。ただ一列前も試してみたい'
+      translations:
+        ja:
+          hall_note: '通常 2D では最良のスクリーン'
+          seat_note: '理想的。ただ一列前も試してみたい'
     - hall: "7 廳"
       format: 2D 廳
       recommended_rows: "E"
       alt_rows: ""
       hall_note: 還不錯
-      hall_note_ja: 'なかなかいい'
       seat_note: ""
+      translations:
+        ja:
+          hall_note: 'なかなかいい'
     - hall: "8 廳"
       format: 2D 廳
       recommended_rows: "D"
       alt_rows: "C"
       hall_note: 音響很不錯，畫面也還行
-      hall_note_ja: '音響がとてもよく、映像もまずまず'
       seat_note: 可以試 C 排，包覆感可能比較好
-      seat_note_ja: 'C 列を試してみたい。包まれる感じが強いかもしれない'
+      translations:
+        ja:
+          hall_note: '音響がとてもよく、映像もまずまず'
+          seat_note: 'C 列を試してみたい。包まれる感じが強いかもしれない'
 
 
 vieshow-qsquare:
@@ -61,63 +71,79 @@ vieshow-qsquare:
       recommended_rows: "E~F"
       alt_rows: ""
       hall_note: 還不錯
-      hall_note_ja: 'なかなかいい'
       seat_note: 坐正中間可以選 E 排，旁邊的話選 F 排
-      seat_note_ja: 'ど真ん中なら E 列、端寄りなら F 列'
+      translations:
+        ja:
+          hall_note: 'なかなかいい'
+          seat_note: 'ど真ん中なら E 列、端寄りなら F 列'
     - hall: "2 廳"
       format: 2D 廳
       recommended_rows: "E~F"
       alt_rows: ""
       hall_note: 還不錯
-      hall_note_ja: 'なかなかいい'
       seat_note: 坐正中間可以選 E 排，旁邊的話選 F 排
-      seat_note_ja: 'ど真ん中なら E 列、端寄りなら F 列'
+      translations:
+        ja:
+          hall_note: 'なかなかいい'
+          seat_note: 'ど真ん中なら E 列、端寄りなら F 列'
     - hall: "3 廳"
       format: 2D 廳
       recommended_rows: "D"
       alt_rows: ""
       hall_note: 不太喜歡
-      hall_note_ja: 'あまり好きではない'
       seat_note: 理想位置
-      seat_note_ja: '理想的な席'
+      translations:
+        ja:
+          hall_note: 'あまり好きではない'
+          seat_note: '理想的な席'
     - hall: "5 廳"
       format: 2D 廳
       recommended_rows: "E"
       alt_rows: "D"
       hall_note: 音響不算好
-      hall_note_ja: '音響はあまりよくない'
       seat_note: E 排可，可以試 D
-      seat_note_ja: 'E 列で大丈夫。D 列も試せる'
+      translations:
+        ja:
+          hall_note: '音響はあまりよくない'
+          seat_note: 'E 列で大丈夫。D 列も試せる'
     - hall: "7 廳"
       format: 2D 廳
       recommended_rows: "E~F"
       alt_rows: ""
       hall_note: 還不錯
-      hall_note_ja: 'なかなかいい'
       seat_note: 坐正中間可以選 E 排，旁邊的話選 F 排
-      seat_note_ja: 'ど真ん中なら E 列、端寄りなら F 列'
+      translations:
+        ja:
+          hall_note: 'なかなかいい'
+          seat_note: 'ど真ん中なら E 列、端寄りなら F 列'
     - hall: "8 廳"
       format: 2D 廳
       recommended_rows: "D"
       alt_rows: ""
       hall_note: ""
       seat_note: E 排有點後面
-      seat_note_ja: 'E 列は少し後ろ'
+      translations:
+        ja:
+          seat_note: 'E 列は少し後ろ'
     - hall: "9 廳"
       format: 2D 廳
       recommended_rows: "D"
       alt_rows: ""
       hall_note: ""
       seat_note: 理想
-      seat_note_ja: '理想的'
+      translations:
+        ja:
+          seat_note: '理想的'
     - hall: "10 廳"
       format: 2D 廳
       recommended_rows: "E~F"
       alt_rows: ""
       hall_note: 還不錯
-      hall_note_ja: 'なかなかいい'
       seat_note: 坐正中間可以選 E 排，旁邊的話選 F 排
-      seat_note_ja: 'ど真ん中なら E 列、端寄りなら F 列'
+      translations:
+        ja:
+          hall_note: 'なかなかいい'
+          seat_note: 'ど真ん中なら E 列、端寄りなら F 列'
 
 
 vieshow-xinyi:
@@ -141,28 +167,36 @@ vieshow-xinyi:
       alt_rows: "D"
       hall_note: ""
       seat_note: E 排不錯，也可以試看看前一排
-      seat_note_ja: 'E 列はいい。一列前も試してみたい'
+      translations:
+        ja:
+          seat_note: 'E 列はいい。一列前も試してみたい'
     - hall: "3 廳"
       format: 2D 廳
       recommended_rows: "E"
       alt_rows: "D"
       hall_note: ""
       seat_note: E 排可，可以試 D
-      seat_note_ja: 'E 列で大丈夫。D 列も試せる'
+      translations:
+        ja:
+          seat_note: 'E 列で大丈夫。D 列も試せる'
     - hall: "5 廳"
       format: 2D 廳
       recommended_rows: "E"
       alt_rows: "D"
       hall_note: ""
       seat_note: E 排可，可以試 D
-      seat_note_ja: 'E 列で大丈夫。D 列も試せる'
+      translations:
+        ja:
+          seat_note: 'E 列で大丈夫。D 列も試せる'
     - hall: "6 廳"
       format: 2D 廳
       recommended_rows: "E"
       alt_rows: "D"
       hall_note: ""
       seat_note: E 排可，可以試 D
-      seat_note_ja: 'E 列で大丈夫。D 列も試せる'
+      translations:
+        ja:
+          seat_note: 'E 列で大丈夫。D 列も試せる'
     - hall: "8 廳"
       format: 2D 廳
       recommended_rows: "F"
@@ -174,44 +208,56 @@ vieshow-xinyi:
       recommended_rows: "E"
       alt_rows: ""
       hall_note: 金馬影廳，信義中比較好的，但很冷
-      hall_note_ja: '金馬のスクリーン。信義のなかでは良いほうだが、とても寒い'
       seat_note: 完美
-      seat_note_ja: '完璧'
+      translations:
+        ja:
+          hall_note: '金馬のスクリーン。信義のなかでは良いほうだが、とても寒い'
+          seat_note: '完璧'
     - hall: "13 廳"
       format: 2D 廳
       recommended_rows: "E"
       alt_rows: "D"
       hall_note: ""
       seat_note: E 排可，可以試 D
-      seat_note_ja: 'E 列で大丈夫。D 列も試せる'
+      translations:
+        ja:
+          seat_note: 'E 列で大丈夫。D 列も試せる'
     - hall: "15 廳"
       format: 2D 廳
       recommended_rows: "B~C"
       alt_rows: ""
       hall_note: ""
       seat_note: D 排太後面
-      seat_note_ja: 'D 列は後ろすぎる'
+      translations:
+        ja:
+          seat_note: 'D 列は後ろすぎる'
     - hall: "16 廳"
       format: 2D 廳
       recommended_rows: "C"
       alt_rows: ""
       hall_note: ""
       seat_note: 理想
-      seat_note_ja: '理想的'
+      translations:
+        ja:
+          seat_note: '理想的'
     - hall: "17 廳"
       format: 2D 廳
       recommended_rows: "B~C"
       alt_rows: ""
       hall_note: ""
       seat_note: D 排太後面
-      seat_note_ja: 'D 列は後ろすぎる'
+      translations:
+        ja:
+          seat_note: 'D 列は後ろすぎる'
     - hall: "18 廳"
       format: 2D 廳
       recommended_rows: "C"
       alt_rows: ""
       hall_note: ""
       seat_note: 坐過 D 排，C 排效果比較好
-      seat_note_ja: 'D 列に座ったことがあるが、C 列のほうが良い'
+      translations:
+        ja:
+          seat_note: 'D 列に座ったことがあるが、C 列のほうが良い'
 
 
 vieshow-lalaport-nangang:
@@ -228,37 +274,47 @@ vieshow-lalaport-nangang:
       recommended_rows: "D"
       alt_rows: ""
       hall_note: 影音都不錯，好像是這邊最大的影廳
-      hall_note_ja: '音も映像もなかなかいい。ここでいちばん大きいスクリーンらしい'
       seat_note: ""
+      translations:
+        ja:
+          hall_note: '音も映像もなかなかいい。ここでいちばん大きいスクリーンらしい'
     - hall: "11 廳"
       format: 2D 廳
       recommended_rows: "B~C"
       alt_rows: ""
       hall_note: 影音都不錯
-      hall_note_ja: '音も映像もなかなかいい'
       seat_note: ""
+      translations:
+        ja:
+          hall_note: '音も映像もなかなかいい'
     - hall: "12 廳"
       format: 2D 廳
       recommended_rows: "C~D"
       alt_rows: ""
       hall_note: 音效不錯，畫面普通
-      hall_note_ja: '音はいいが、映像はふつう'
       seat_note: D 排可，可以試 C
-      seat_note_ja: 'D 列で大丈夫。C 列も試せる'
+      translations:
+        ja:
+          hall_note: '音はいいが、映像はふつう'
+          seat_note: 'D 列で大丈夫。C 列も試せる'
     - hall: "14 廳"
       format: 2D 廳
       recommended_rows: "A~B"
       alt_rows: ""
       seat_note: C 排太後面，可以試A~B
-      seat_note_ja: 'C 列は後ろすぎる。A〜B 列を試したい'
+      translations:
+        ja:
+          seat_note: 'C 列は後ろすぎる。A〜B 列を試したい'
     - hall: "16 廳"
       format: 2D 廳
       recommended_rows: "B"
       alt_rows: ""
       hall_note: 普通
-      hall_note_ja: 'ふつう'
       seat_note: 上次坐 C，太後面，要試試看 B
-      seat_note_ja: '前回は C 列で後ろすぎた。B 列を試したい'
+      translations:
+        ja:
+          hall_note: 'ふつう'
+          seat_note: '前回は C 列で後ろすぎた。B 列を試したい'
 
 
 vieshow-ximending:
@@ -275,9 +331,11 @@ vieshow-ximending:
       recommended_rows: "3"
       alt_rows: ""
       hall_note: 不太喜歡，冷氣不知道是沒開還是壞了
-      hall_note_ja: 'あまり好きではない。冷房が切ってあるのか壊れているのか分からない'
       seat_note: 差不多就這了
-      seat_note_ja: 'だいたいこんなもの'
+      translations:
+        ja:
+          hall_note: 'あまり好きではない。冷房が切ってあるのか壊れているのか分からない'
+          seat_note: 'だいたいこんなもの'
 
 
 showtime-dajudan:
@@ -294,31 +352,39 @@ showtime-dajudan:
       recommended_rows: "4"
       alt_rows: "3"
       hall_note: 音響很好，畫面也不錯，椅子很高級，冷氣超冷
-      hall_note_ja: '音響がとても良く映像もいい。椅子は高級で、冷房はかなり寒い'
       seat_note: 4 排可能理想，3 排也可以試試看
-      seat_note_ja: '4 列目が理想的かもしれない。3 列目も試せる'
+      translations:
+        ja:
+          hall_note: '音響がとても良く映像もいい。椅子は高級で、冷房はかなり寒い'
+          seat_note: '4 列目が理想的かもしれない。3 列目も試せる'
     - hall: "8 廳"
       format: Dolby Cinema
       recommended_rows: "5"
       alt_rows: ""
       hall_note: 音效棒，畫面也棒，不愧是新影廳
-      hall_note_ja: '音も映像も素晴らしい。さすが新しいスクリーン'
       seat_note: 椅子真的超舒服...
-      seat_note_ja: '椅子が本当に快適……'
+      translations:
+        ja:
+          hall_note: '音も映像も素晴らしい。さすが新しいスクリーン'
+          seat_note: '椅子が本当に快適……'
     - hall: "10 廳"
       format: Screen X
       recommended_rows: "7"
       alt_rows: ""
       hall_note: ""
       seat_note: 椅子真的好舒服...
-      seat_note_ja: '椅子が本当に心地いい……'
+      translations:
+        ja:
+          seat_note: '椅子が本当に心地いい……'
     - hall: "14 廳"
       format: 4DX
       recommended_rows: "3"
       alt_rows: ""
       hall_note: ""
       seat_note: "椅子舒服"
-      seat_note_ja: '椅子が快適'
+      translations:
+        ja:
+          seat_note: '椅子が快適'
 
 
 spot-taipei:
@@ -335,9 +401,11 @@ spot-taipei:
       recommended_rows: "2~3"
       alt_rows: ""
       hall_note: 音效不錯，畫面還行
-      hall_note_ja: '音はよく、映像もまずまず'
       seat_note: 自由入座，坐過 2 排覺得不錯
-      seat_note_ja: '自由席。2 列目に座ってみて良かった'
+      translations:
+        ja:
+          hall_note: '音はよく、映像もまずまず'
+          seat_note: '自由席。2 列目に座ってみて良かった'
 
 
 eslite-cinema:
@@ -356,16 +424,20 @@ eslite-cinema:
       recommended_rows: "F"
       alt_rows: ""
       hall_note: 冷氣很冷，聲光效果比想像中的好一點
-      hall_note_ja: '冷房が寒い。音と映像は思っていたより少し良い'
       seat_note: 理想
-      seat_note_ja: '理想的'
+      translations:
+        ja:
+          hall_note: '冷房が寒い。音と映像は思っていたより少し良い'
+          seat_note: '理想的'
     - hall: B 廳
       format: 2D 廳
       recommended_rows: "D"
       alt_rows: ""
       hall_note: 冷氣很冷
-      hall_note_ja: '冷房が寒い'
       seat_note: ""
+      translations:
+        ja:
+          hall_note: '冷房が寒い'
 
 
 miramar-cinema:
@@ -382,47 +454,59 @@ miramar-cinema:
       recommended_rows: "E~F"
       alt_rows: ""
       hall_note: 畫面優秀，音效還行
-      hall_note_ja: '映像が優秀で、音もまずまず'
       seat_note: E 排太前面，看字幕會累，但在特定作品效果不錯<br>理想位置可能是 F
-      seat_note_ja: 'E 列は前すぎて字幕を追うのが疲れるが、作品によっては良い<br>理想的なのは F 列かもしれない'
+      translations:
+        ja:
+          hall_note: '映像が優秀で、音もまずまず'
+          seat_note: 'E 列は前すぎて字幕を追うのが疲れるが、作品によっては良い<br>理想的なのは F 列かもしれない'
     - hall: "5 廳"
       format: 2D 廳
       recommended_rows: "D~E"
       alt_rows: ""
       hall_note: 畫面優秀，音效還不錯
-      hall_note_ja: '映像が優秀で、音もなかなかいい'
       seat_note: C 排體驗很差，要往後移動
-      seat_note_ja: 'C 列は体験が良くない。もっと後ろへ'
+      translations:
+        ja:
+          hall_note: '映像が優秀で、音もなかなかいい'
+          seat_note: 'C 列は体験が良くない。もっと後ろへ'
     - hall: "5 廳"
       format: Dolby Cinema
       recommended_rows: "G"
       alt_rows: "F"
       hall_note: ""
       seat_note: 也許前一排也沒問題
-      seat_note_ja: '一列前でも問題ないかもしれない'
+      translations:
+        ja:
+          seat_note: '一列前でも問題ないかもしれない'
     - hall: "6 廳"
       format: 2D 廳
       recommended_rows: "F"
       alt_rows: ""
       hall_note: 聲光體驗都不錯
-      hall_note_ja: '音も映像も良い体験だった'
       seat_note: 理想
-      seat_note_ja: '理想的'
+      translations:
+        ja:
+          hall_note: '音も映像も良い体験だった'
+          seat_note: '理想的'
     - hall: "8 廳"
       format: 2D 廳
       recommended_rows: "E"
       alt_rows: ""
       hall_note: 聲光體驗都不錯
-      hall_note_ja: '音も映像も良い体験だった'
       seat_note: 理想
-      seat_note_ja: '理想的'
+      translations:
+        ja:
+          hall_note: '音も映像も良い体験だった'
+          seat_note: '理想的'
     - hall: IMAX 廳
       format: IMAX
       recommended_rows: "H~I"
       alt_rows: ""
       hall_note: 北部 IMAX 唯一推薦
-      hall_note_ja: '北部の IMAX ではここだけおすすめ'
       seat_note: ""
+      translations:
+        ja:
+          hall_note: '北部の IMAX ではここだけおすすめ'
 
 
 showtime-nangang:
@@ -439,24 +523,30 @@ showtime-nangang:
       recommended_rows: "1"
       alt_rows: ""
       hall_note: 不太喜歡
-      hall_note_ja: 'あまり好きではない'
       seat_note: 只建議坐 1 排 5～7 號
-      seat_note_ja: '1 列目の 5〜7 番だけおすすめ'
+      translations:
+        ja:
+          hall_note: 'あまり好きではない'
+          seat_note: '1 列目の 5〜7 番だけおすすめ'
     - hall: "12 廳"
       format: 2D 廳
       recommended_rows: "1"
       alt_rows: ""
       hall_note: 音效還不錯，但稱不上喜歡
-      hall_note_ja: '音はなかなかいいが、好きとまでは言えない'
       seat_note: ""
+      translations:
+        ja:
+          hall_note: '音はなかなかいいが、好きとまでは言えない'
     - hall: "19 廳"
       format: 2D 廳
       recommended_rows: "2"
       alt_rows: ""
       hall_note: 音效還不錯，但稱不上喜歡
-      hall_note_ja: '音はなかなかいいが、好きとまでは言えない'
       seat_note: 1 排是特殊座位，只建議 2 排中間
-      seat_note_ja: '1 列目は特殊席。2 列目の中央だけおすすめ'
+      translations:
+        ja:
+          hall_note: '音はなかなかいいが、好きとまでは言えない'
+          seat_note: '1 列目は特殊席。2 列目の中央だけおすすめ'
 
 
 showtime-ximending:
@@ -473,9 +563,11 @@ showtime-ximending:
       recommended_rows: ""
       alt_rows: ""
       hall_note: 很普通，冷氣冷，領票在食物販售處
-      hall_note_ja: 'ごくふつう。冷房が寒く、チケットの受け取りは売店で'
       seat_note: 上次搶不到位置，坐在 7 排，明顯太後面
-      seat_note_ja: '前回は席が取れず 7 列目。明らかに後ろすぎた'
+      translations:
+        ja:
+          hall_note: 'ごくふつう。冷房が寒く、チケットの受け取りは売店で'
+          seat_note: '前回は席が取れず 7 列目。明らかに後ろすぎた'
 
 
 jintri-showtime:
@@ -494,9 +586,11 @@ jintri-showtime:
       recommended_rows: "2"
       alt_rows: "1"
       hall_note: 偏小，不算喜歡
-      hall_note_ja: 'やや小さめで、あまり好きではない'
       seat_note: 可以試 1 排
-      seat_note_ja: '1 列目を試せる'
+      translations:
+        ja:
+          hall_note: 'やや小さめで、あまり好きではない'
+          seat_note: '1 列目を試せる'
 
 
 true-good-beauty:
@@ -513,17 +607,21 @@ true-good-beauty:
       recommended_rows: "1"
       alt_rows: ""
       hall_note: 螢幕偏小，冷氣超冷
-      hall_note_ja: 'スクリーンがやや小さく、冷房がかなり寒い'
       seat_note: 只建議坐 1 排中間
-      seat_note_ja: '1 列目の中央だけおすすめ'
+      translations:
+        ja:
+          hall_note: 'スクリーンがやや小さく、冷房がかなり寒い'
+          seat_note: '1 列目の中央だけおすすめ'
     - hall: 藝術廳
       format: 2D 廳
       recommended_rows: "1"
       alt_rows: ""
       hall_note: 螢幕偏小，冷氣超冷
-      hall_note_ja: 'スクリーンがやや小さく、冷房がかなり寒い'
       seat_note: 只建議坐 1 排中間
-      seat_note_ja: '1 列目の中央だけおすすめ'
+      translations:
+        ja:
+          hall_note: 'スクリーンがやや小さく、冷房がかなり寒い'
+          seat_note: '1 列目の中央だけおすすめ'
 
 
 lux-cinema:
@@ -542,9 +640,11 @@ lux-cinema:
       recommended_rows: "2"
       alt_rows: ""
       hall_note: 螢幕很爛，音響偏差
-      hall_note_ja: 'スクリーンがかなり悪く、音響もいまひとつ'
       seat_note: 只推薦 2 排中間，其他位置都很爛
-      seat_note_ja: '2 列目の中央だけおすすめ。ほかの席はどれも良くない'
+      translations:
+        ja:
+          hall_note: 'スクリーンがかなり悪く、音響もいまひとつ'
+          seat_note: '2 列目の中央だけおすすめ。ほかの席はどれも良くない'
 
 
 ambassador-changchun:
@@ -561,25 +661,31 @@ ambassador-changchun:
       recommended_rows: "3"
       alt_rows: ""
       hall_note: 螢幕普通，音效不錯，聲音有點太大
-      hall_note_ja: 'スクリーンはふつう。音はいいが、少し大きすぎる'
       seat_note: 3 排剛好
-      seat_note_ja: '3 列目がちょうどいい'
+      translations:
+        ja:
+          hall_note: 'スクリーンはふつう。音はいいが、少し大きすぎる'
+          seat_note: '3 列目がちょうどいい'
     - hall: "5 廳"
       format: 2D 廳
       recommended_rows: "3"
       alt_rows: ""
       hall_note: "意外音效其實不差"
-      hall_note_ja: '音は意外と悪くない'
       seat_note: "2 排要稍微抬頭， 3 排畫面稍微不夠滿"
-      seat_note_ja: '2 列目は少し見上げる。3 列目は映像がやや物足りない'
+      translations:
+        ja:
+          hall_note: '音は意外と悪くない'
+          seat_note: '2 列目は少し見上げる。3 列目は映像がやや物足りない'
     - hall: "12 廳"
       format: 2D 廳
       recommended_rows: "2~3"
       alt_rows: "2"
       hall_note: 聲光還不錯
-      hall_note_ja: '音も映像もなかなかいい'
       seat_note: 3 排可，可以試 2
-      seat_note_ja: '3 列目で大丈夫。2 列目も試せる'
+      translations:
+        ja:
+          hall_note: '音も映像もなかなかいい'
+          seat_note: '3 列目で大丈夫。2 列目も試せる'
 
 
 vieshow-linkou:
@@ -603,14 +709,18 @@ vieshow-linkou:
       alt_rows: ""
       hall_note: ""
       seat_note: "理想，D 可能會太前面"
-      seat_note_ja: '理想的。D 列は前すぎるかもしれない'
+      translations:
+        ja:
+          seat_note: '理想的。D 列は前すぎるかもしれない'
     - hall: "6 廳"
       format: 2D 廳
       recommended_rows: "F"
       alt_rows: ""
       hall_note: 聲光效果都相當優秀
-      hall_note_ja: '音も映像もかなり優秀'
       seat_note: ""
+      translations:
+        ja:
+          hall_note: '音も映像もかなり優秀'
 
 
 vieshow-banqiao:
@@ -627,16 +737,20 @@ vieshow-banqiao:
       recommended_rows: "D"
       alt_rows: "E"
       hall_note: 音效優秀，畫面還不錯
-      hall_note_ja: '音が優秀で、映像もなかなかいい'
       seat_note: E 排可，可以試 D
-      seat_note_ja: 'E 列で大丈夫。D 列も試せる'
+      translations:
+        ja:
+          hall_note: '音が優秀で、映像もなかなかいい'
+          seat_note: 'E 列で大丈夫。D 列も試せる'
     - hall: "6 廳"
       format: IMAX
       recommended_rows: ""
       alt_rows: ""
       hall_note: 不喜歡
-      hall_note_ja: '好きではない'
       seat_note: ""
+      translations:
+        ja:
+          hall_note: '好きではない'
 
 
 vieshow-zhonghe:
@@ -653,8 +767,10 @@ vieshow-zhonghe:
       recommended_rows: "E~F"
       alt_rows: ""
       hall_note: 聲光效果還不錯，但附近塞車嚴重，會避免再來
-      hall_note_ja: '音も映像もなかなかいいが、周辺の渋滞がひどいので次は避けたい'
       seat_note: ""
+      translations:
+        ja:
+          hall_note: '音も映像もなかなかいいが、周辺の渋滞がひどいので次は避けたい'
 
 
 vieshow-xindian-yulon:
@@ -673,9 +789,11 @@ vieshow-xindian-yulon:
       recommended_rows: "E"
       alt_rows: ""
       hall_note: 影音很棒，不愧是新的
-      hall_note_ja: '音も映像も素晴らしい。さすが新しいだけある'
       seat_note: E 排不錯
-      seat_note_ja: 'E 列はいい'
+      translations:
+        ja:
+          hall_note: '音も映像も素晴らしい。さすが新しいだけある'
+          seat_note: 'E 列はいい'
 
 
 shinkong-taoyuan:
@@ -692,9 +810,11 @@ shinkong-taoyuan:
       recommended_rows: "G"
       alt_rows: ""
       hall_note: 體感超棒
-      hall_note_ja: '体感がとても良い'
       seat_note: 理想位置
-      seat_note_ja: '理想的な席'
+      translations:
+        ja:
+          hall_note: '体感がとても良い'
+          seat_note: '理想的な席'
 
 
 vieshow-hsinchu:
@@ -711,9 +831,11 @@ vieshow-hsinchu:
       recommended_rows: "D~E"
       alt_rows: "D"
       hall_note: 聲光效果很不錯，音響比京站好
-      hall_note_ja: '音も映像もとても良く、音響は京站より上'
       seat_note: E 排可，包覆感稍嫌不夠，也可以考慮 D
-      seat_note_ja: 'E 列で大丈夫だが包まれる感じがやや足りない。D 列も検討できる'
+      translations:
+        ja:
+          hall_note: '音も映像もとても良く、音響は京站より上'
+          seat_note: 'E 列で大丈夫だが包まれる感じがやや足りない。D 列も検討できる'
 
 
 vieshow-tigercity:
@@ -730,9 +852,11 @@ vieshow-tigercity:
       recommended_rows: "F"
       alt_rows: "E"
       hall_note: 聲音有點大，不確定是不是因為電影
-      hall_note_ja: '音が少し大きい。作品のせいかどうかは分からない'
       seat_note: F 排可，可以試 E
-      seat_note_ja: 'F 列で大丈夫。E 列も試せる'
+      translations:
+        ja:
+          hall_note: '音が少し大きい。作品のせいかどうかは分からない'
+          seat_note: 'F 列で大丈夫。E 列も試せる'
 
 
 vieshow-tainan:
@@ -749,9 +873,11 @@ vieshow-tainan:
       recommended_rows: "E"
       alt_rows: "D"
       hall_note: 聲音不錯
-      hall_note_ja: '音がいい'
       seat_note: E 排可，可以試 D
-      seat_note_ja: 'E 列で大丈夫。D 列も試せる'
+      translations:
+        ja:
+          hall_note: '音がいい'
+          seat_note: 'E 列で大丈夫。D 列も試せる'
 
 
 vieshow-tainan-fe21:
@@ -768,6 +894,8 @@ vieshow-tainan-fe21:
       recommended_rows: "D"
       alt_rows: ""
       hall_note: "音效畫面都還行"
-      hall_note_ja: '音も映像もまずまず'
       seat_note: "理想"
-      seat_note_ja: '理想的'
+      translations:
+        ja:
+          hall_note: '音も映像もまずまず'
+          seat_note: '理想的'

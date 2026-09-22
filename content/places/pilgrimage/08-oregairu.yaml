@@ -20,7 +20,6 @@ locations:
   osm_type: node
   osm_id: 12176453331
   notes: 大老師名子由來
-  notes_ja: '八幡のあだ名の由来'
   date: '2025-04-25'
   country: 日本
   city: 神奈川
@@ -29,6 +28,9 @@ locations:
   images:
   - /images/pilgrimage/08-oregairu/tsurugaoka-hachimangu.JPG
   urls: []
+  translations:
+    ja:
+      notes: '八幡のあだ名の由来'
 - name: 鎌倉雪ノ下郵便局
   place_type: 郵局
   lat: 35.322522
@@ -36,7 +38,6 @@ locations:
   osm_type: node
   osm_id: 1420834020
   notes: 沒辦法拍整個雪之下，只好找個好拍的標的
-  notes_ja: '雪ノ下を全部は撮れないので、撮りやすい目印を探した'
   date: '2025-04-25'
   country: 日本
   city: 神奈川
@@ -44,12 +45,14 @@ locations:
   images:
   - /images/pilgrimage/08-oregairu/kamakura-yukinoshita-post-office.JPG
   urls: []
+  translations:
+    ja:
+      notes: '雪ノ下を全部は撮れないので、撮りやすい目印を探した'
 - name: 由比ガ浜
   place_type: 海岸
   lat: 35.310015
   lon: 139.542015
   notes: 離八幡太遠了...
-  notes_ja: '八幡から遠すぎた……'
   date: '2025-04-25'
   country: 日本
   city: 神奈川
@@ -57,3 +60,6 @@ locations:
   images:
   - /images/pilgrimage/08-oregairu/yuigahama.JPG
   urls: []
+  translations:
+    ja:
+      notes: '八幡から遠すぎた……'

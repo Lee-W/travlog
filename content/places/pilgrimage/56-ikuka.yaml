@@ -6,7 +6,6 @@ locations:
   lat: 22.925850
   lon: 120.287433
   notes: 有岡大貴蛋包飯（ポムの樹）
-  notes_ja: '有岡大貴のオムライス（ポムの樹）'
   date: '2026-07-18'
   country: 臺灣
   city: 臺南市
@@ -17,3 +16,6 @@ locations:
   urls:
   - label: ikuka 蛋包飯
     href: "{filename}/posts/travel/2026/08-pomunoki-tainan.md"
+  translations:
+    ja:
+      notes: '有岡大貴のオムライス（ポムの樹）'

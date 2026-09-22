@@ -40,12 +40,20 @@ properties:
       type: object
       required: [name, lat, lon]
       allOf:
+        - $ref: "../_common.yaml#/$defs/field_translation_placeholders"
         - $ref: "../_common.yaml#/$defs/field_city"
         - $ref: "../_common.yaml#/$defs/field_visit_status_and_lists"
         - $ref: "../_common.yaml#/$defs/field_address"
         - $ref: "../_common.yaml#/$defs/field_notes_and_images"
         - $ref: "../_common.yaml#/$defs/field_osm_ref"
       properties:
+        # notes：field_notes_and_images 帶進來的是 images，travel 不寫 notes。
+        # OSM_TRANSLATIONS 會把 note 欄位投影進每一筆地點（沒值就空字串），
+        # 所以要把 _common.yaml 的宣告蓋回 hidden，否則行程表會多一欄空的備註。
+        notes:
+          type: string
+          x-osm-list-hidden: true
+
         name:
           type: string
           title: 地點

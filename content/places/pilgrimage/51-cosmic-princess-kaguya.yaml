@@ -8,10 +8,12 @@ locations:
   osm_type: way
   osm_id: 186156892
   notes: "輝耀跟蹤彩葉"
-  notes_ja: '輝夜が彩羽を尾行'
   date: 2026-02-22
   country: 日本
   city: 東京
   tags:
   - 電影院
   images: ["/images/pilgrimage/51-cosmic-princess-kaguya/cinema-two.JPEG"]
+  translations:
+    ja:
+      notes: '輝夜が彩羽を尾行'

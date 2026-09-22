@@ -18,7 +18,6 @@ locations:
   lat: 48.134703
   lon: 11.588417
   notes: 這附近只有這個角度最接近
-  notes_ja: 'この辺りではこの角度がいちばん近い'
   date: '2025-07-12'
   country: 德國
   city: München
@@ -27,6 +26,9 @@ locations:
   images:
   - /images/pilgrimage/38-blue-giant-supreme/innere-ludwigsbrucke.JPG
   urls: []
+  translations:
+    ja:
+      notes: 'この辺りではこの角度がいちばん近い'
 - name: 瑪利亞廣場
   lat: 48.137706
   lon: 11.575887

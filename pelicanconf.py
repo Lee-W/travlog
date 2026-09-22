@@ -234,6 +234,19 @@ TABULAR_REF_HREF_TEMPLATE = (
 # the translated `title` from the component's language (the page's `Lang`).
 TABULAR_VIEWS = {"works": view_config()}
 
+# pelican-osm settings
+#
+# 地點的日文只寫在每筆自己的 `translations.ja` 區塊，由 plugin 依元件語言投影。
+# 沒有這個設定，那個區塊不會被消化，臺灣華語頁就會多出日文欄位。
+# `fields` 只列 note 類欄位：country / city / name / work 同時是 place_list 的
+# group_by 鍵，plugin 明文拒絕翻譯它們（"group fields must stay canonical"），
+# 那批仍由 scripts/build_ja_data.py 在 .ja-data/ 換值。
+OSM_TRANSLATIONS = {
+    "field": "translations",
+    "fields": ["hall_note", "seat_note", "notes", "visit_note"],
+    "source_lang": "zh-TW",
+}
+
 # pelican-seo settings
 SEO_REPORT = True  # SEO report is enabled by default
 SEO_ENHANCER = False

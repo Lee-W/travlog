@@ -6,7 +6,6 @@ locations:
   lat: 35.203569
   lon: 136.232431
   notes: '工作日 8:30～17:00 / 休息日 9:00～17:30'
-  notes_ja: '平日 8:30〜17:00 / 休日 9:00〜17:30'
   date: '2018-12-07'
   country: 日本
   city: 滋賀
@@ -14,6 +13,9 @@ locations:
   images:
   - /images/pilgrimage/10-k-on/toyosato-elementary-school.JPG
   urls: []
+  translations:
+    ja:
+      notes: '平日 8:30〜17:00 / 休日 9:00〜17:30'
 - name: JEUGIA 三条本店
   lat: 35.008712
   lon: 135.767656
