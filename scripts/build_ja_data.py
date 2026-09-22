@@ -1,8 +1,10 @@
 """Generate the Japanese subsite's data from the main data files.
 
-`content/data/**` holds Taiwanese Mandarin work titles in `title`, plus the
-original title in `title_native` where one is known. The Japanese subsite wants
-the original first, so this writes a parallel tree where `title` is the native
+The works database is translated by pelican-tabular itself (see
+TABULAR_TRANSLATED below). What is left here are the data files whose `title`
+is sometimes a `{text, href}` link, which the plugin refuses to translate:
+they still carry the Japanese title in `title_native`, and the Japanese
+subsite wants it first, so this writes a parallel tree where `title` is that
 title when there is one and the Taiwanese Mandarin title otherwise.
 
 `pelicanconf.py` points the subsite at this tree with `TABULAR_DATA_ROOT`, so
@@ -84,6 +86,13 @@ VENUE_NAMES = {
 }
 PLACE_FIELDS = ("country", "city", "district", "state", "region")
 
+# pelican-tabular translates these itself, from the `works` view's
+# `translations` setting in scripts/build_story_database.py, which reads each
+# record's own `translations:` block. Promoting their titles here as well
+# would consume that block before the plugin ever sees it, so they are copied
+# verbatim.
+TABULAR_TRANSLATED = {Path("story-database.yaml"), "story-ranking"}
+
 
 def localize(rows: Any) -> tuple[Any, int]:
     """Promote `title_native` into `title`; return the rows and how many moved."""
@@ -137,7 +146,11 @@ def localize_places(node: Any) -> int:
 
 
 def copy_tree(source: Path, target: Path, transform) -> tuple[int, int]:
-    """Mirror `source` into `target`, running `transform` over each YAML doc."""
+    """Mirror `source` into `target`.
+
+    `transform(document, relative_path)` runs over each YAML document and
+    returns how many values it changed.
+    """
     if target.exists():
         shutil.rmtree(target)
     target.mkdir(parents=True)
@@ -151,7 +164,7 @@ def copy_tree(source: Path, target: Path, transform) -> tuple[int, int]:
             shutil.copy2(source_path, target_path)
             continue
         document = yaml.safe_load(source_path.read_text(encoding="utf-8"))
-        touched += transform(document)
+        touched += transform(document, source_path.relative_to(source))
         target_path.write_text(
             yaml.safe_dump(document, allow_unicode=True, sort_keys=False, width=10**6),
             encoding="utf-8",
@@ -165,12 +178,17 @@ def main() -> int:
         print(f"{SOURCE} or {PLACES_SOURCE} not found", file=sys.stderr)
         return 1
 
-    def promote_titles(document: Any) -> int:
+    def promote_titles(document: Any, relative: Path) -> int:
+        if relative in TABULAR_TRANSLATED or relative.parts[0] in TABULAR_TRANSLATED:
+            return 0
         _, swapped = localize(document)
         return swapped
 
+    def rename_places(document: Any, relative: Path) -> int:
+        return localize_places(document)
+
     data_files, swapped = copy_tree(SOURCE, TARGET, promote_titles)
-    place_files, renamed = copy_tree(PLACES_SOURCE, PLACES_TARGET, localize_places)
+    place_files, renamed = copy_tree(PLACES_SOURCE, PLACES_TARGET, rename_places)
 
     print(
         f"ja data: {data_files} data files ({swapped} native titles promoted), "

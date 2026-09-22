@@ -1,5 +1,7 @@
 - title: 葬送的芙莉蓮
-  title_native: '葬送のフリーレン'
+  translations:
+    ja:
+      title: '葬送のフリーレン'
   tier: SS
   external_ids:
     anilist:
@@ -8,7 +10,9 @@
   - text: '2021年夏'
     href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_27'
 - title: 衛宮家今天的餐桌風景
-  title_native: '衛宮さんちの今日のごはん'
+  translations:
+    ja:
+      title: '衛宮さんちの今日のごはん'
   tier: SS
   external_ids:
     anilist:
@@ -17,7 +21,9 @@
   - text: '2020年秋'
     href: '{filename}/posts/review/2021/01-what-i-watch-in-2020-fall.md#_22'
 - title: 海波追尋的終幕
-  title_native: '海が走るエンドロール'
+  translations:
+    ja:
+      title: '海が走るエンドロール'
   tier: SS
   external_ids:
     anilist:
@@ -26,7 +32,9 @@
   - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_25'
 - title: 海盜戰記
-  title_native: 'ヴィンランド・サガ'
+  translations:
+    ja:
+      title: 'ヴィンランド・サガ'
   tier: SS
   external_ids:
     anilist:
@@ -35,7 +43,9 @@
   - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_24'
 - title: 躍動青春
-  title_native: 'スキップとローファー'
+  translations:
+    ja:
+      title: 'スキップとローファー'
   tier: SS
   external_ids:
     anilist:
@@ -44,7 +54,9 @@
   - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_25'
 - title: 失憶投捕
-  title_native: '忘却バッテリー'
+  translations:
+    ja:
+      title: '忘却バッテリー'
   tier: SS
   external_ids:
     anilist:
@@ -53,7 +65,9 @@
   - text: '2024年秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_19'
 - title: 瑠璃龍龍
-  title_native: 'ルリドラゴン'
+  translations:
+    ja:
+      title: 'ルリドラゴン'
   tier: S
   external_ids:
     anilist:
@@ -70,7 +84,9 @@
   - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#blue-giant-explorer'
 - title: 影宅
-  title_native: 'シャドーハウス'
+  translations:
+    ja:
+      title: 'シャドーハウス'
   tier: S
   external_ids:
     anilist:
@@ -79,7 +95,9 @@
   - text: '2021年夏'
     href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_28'
 - title: 間諜家家酒
-  title_native: 'SPY×FAMILY'
+  translations:
+    ja:
+      title: 'SPY×FAMILY'
   tier: S
   external_ids:
     anilist:
@@ -88,13 +106,17 @@
   - text: '2021年秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_27'
 - title: 搖曳露營△
-  title_native: 'ゆるキャン△'
+  translations:
+    ja:
+      title: 'ゆるキャン△'
   tier: S
   external_ids:
     anilist:
     - 98351
 - title: 我在意的對象並不是男人
-  title_native: '気になってる人が男じゃなかった'
+  translations:
+    ja:
+      title: '気になってる人が男じゃなかった'
   tier: S
   external_ids:
     anilist:
@@ -119,7 +141,9 @@
   - text: '2021年夏'
     href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_29'
 - title: 岸邊露伴一動也不動
-  title_native: '岸辺露伴は動かない'
+  translations:
+    ja:
+      title: '岸辺露伴は動かない'
   tier: A
   external_ids:
     anilist:
@@ -128,7 +152,9 @@
   - text: '2021年秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_28'
 - title: 擅長捉弄人的(前)高木同學
-  title_native: 'からかい上手の（元）高木さん'
+  translations:
+    ja:
+      title: 'からかい上手の（元）高木さん'
   tier: A
   external_ids:
     anilist:
@@ -137,7 +163,9 @@
   - text: '2021年冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_28'
 - title: 即使如此依舊步步進逼
-  title_native: 'それでも歩は寄せてくる'
+  translations:
+    ja:
+      title: 'それでも歩は寄せてくる'
   tier: A
   external_ids:
     anilist:
@@ -146,7 +174,9 @@
   - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_26'
 - title: 孤獨搖滾
-  title_native: 'ぼっち・ざ・ろっく！'
+  translations:
+    ja:
+      title: 'ぼっち・ざ・ろっく！'
   tier: A
   external_ids:
     anilist:
@@ -155,7 +185,9 @@
   - text: '2023年春'
     href: '{filename}/posts/review/2023/22-what-i-watch-in-2023-sprint.md#_29'
 - title: 地下忍者
-  title_native: 'アンダーニンジャ'
+  translations:
+    ja:
+      title: 'アンダーニンジャ'
   tier: A
   external_ids:
     anilist:
@@ -164,7 +196,9 @@
   - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_28'
 - title: 輝夜姬讓人想八卦
-  title_native: 'かぐや様を語りたい'
+  translations:
+    ja:
+      title: 'かぐや様を語りたい'
   tier: A
   external_ids:
     anilist:
@@ -173,7 +207,9 @@
   - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_29'
 - title: 陰晴不定的體操哥哥
-  title_native: 'うらみちお兄さん'
+  translations:
+    ja:
+      title: 'うらみちお兄さん'
   tier: A
   external_ids:
     anilist:
@@ -182,7 +218,9 @@
   - text: '2024年春'
     href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_24'
 - title: 地下城中的人
-  title_native: 'ダンジョンの中のひと'
+  translations:
+    ja:
+      title: 'ダンジョンの中のひと'
   tier: A
   external_ids:
     anilist:
@@ -220,7 +258,9 @@
   - text: '2025年夏'
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#on-and-off-1'
 - title: 百合是我的工作
-  title_native: '私の百合はお仕事です！'
+  translations:
+    ja:
+      title: '私の百合はお仕事です！'
   tier: A
   external_ids:
     anilist:
@@ -229,7 +269,9 @@
   - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_23'
 - title: 我的兒子似乎轉生去了異世界 full ver.
-  title_native: '私の息子が異世界転生したっぽい'
+  translations:
+    ja:
+      title: '私の息子が異世界転生したっぽい'
   tier: A
   external_ids:
     anilist:
@@ -238,7 +280,9 @@
   - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#full-ver'
 - title: JOJO的奇妙冒險 PART 9 The JOJOLands
-  title_native: 'ジョジョの奇妙な冒険 The JOJOLands'
+  translations:
+    ja:
+      title: 'ジョジョの奇妙な冒険 The JOJOLands'
   tier: A
   external_ids:
     anilist:
@@ -247,7 +291,9 @@
   - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#jojo-part-9-the-jojolands'
 - title: 這個美術社大有問題!
-  title_native: 'この美術部には問題がある!'
+  translations:
+    ja:
+      title: 'この美術部には問題がある!'
   tier: B
   external_ids:
     anilist:
@@ -256,7 +302,9 @@
   - text: '2021年春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_25'
 - title: 老夫老妻重返青春
-  title_native: 'じいさんばあさん若返る'
+  translations:
+    ja:
+      title: 'じいさんばあさん若返る'
   tier: C
   external_ids:
     anilist:
@@ -265,7 +313,9 @@
   - text: '2021年春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_26'
 - title: 魔法少年賈修II
-  title_native: '金色のガッシュ!! II'
+  translations:
+    ja:
+      title: '金色のガッシュ!! II'
   tier: C
   external_ids:
     anilist:

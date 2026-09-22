@@ -1,17 +1,23 @@
 - title: 聲之形
-  title_native: '聲の形'
+  translations:
+    ja:
+      title: '聲の形'
   tier: SSS
   external_ids:
     anilist:
     - 85135
 - title: 進擊的巨人
-  title_native: '進撃の巨人'
+  translations:
+    ja:
+      title: '進撃の巨人'
   tier: SS
   external_ids:
     anilist:
     - 53390
 - title: 路人超能 100
-  title_native: 'モブサイコ100'
+  translations:
+    ja:
+      title: 'モブサイコ100'
   tier: SS
   external_ids:
     anilist:
@@ -28,7 +34,9 @@
   - text: '2021年冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#fatezero'
 - title: 徒然喜歡你
-  title_native: '徒然チルドレン'
+  translations:
+    ja:
+      title: '徒然チルドレン'
   tier: SS
   external_ids:
     anilist:
@@ -37,7 +45,9 @@
   - text: '2021年冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_24'
 - title: 迷宮飯
-  title_native: 'ダンジョン飯'
+  translations:
+    ja:
+      title: 'ダンジョン飯'
   tier: SS
   external_ids:
     anilist:
@@ -46,7 +56,9 @@
   - text: '2024年夏'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_26'
 - title: DDDD 惡魔的破壞
-  title_native: 'デッドデッドデーモンズデデデデデストラクション'
+  translations:
+    ja:
+      title: 'デッドデッドデーモンズデデデデデストラクション'
   tier: SS
   external_ids:
     anilist:
@@ -55,7 +67,9 @@
   - text: '2024年夏'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#dddd_3'
 - title: 藍色巨星
-  title_native: 'BLUE GIANT'
+  translations:
+    ja:
+      title: 'BLUE GIANT'
   tier: SS
   external_ids:
     anilist:
@@ -69,7 +83,9 @@
   - text: '2024年秋 （歐洲篇）'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#blue-giant-supreme'
 - title: 魔法少女小圓
-  title_native: '魔法少女まどか☆マギカ'
+  translations:
+    ja:
+      title: '魔法少女まどか☆マギカ'
   tier: SS
   external_ids:
     anilist:
@@ -78,7 +94,9 @@
   - text: '2025年春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#_27'
 - title: 魔法少女小圓 [新篇] 叛逆物語
-  title_native: '劇場版 魔法少女まどか★マギカ [新編] 叛逆の物語'
+  translations:
+    ja:
+      title: '劇場版 魔法少女まどか★マギカ [新編] 叛逆の物語'
   tier: SS
   external_ids:
     anilist:
@@ -87,7 +105,9 @@
   - text: '2021年春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_23'
 - title: 魔法少女小圓~The different story~
-  title_native: '魔法少女まどか☆マギカ ~The different story~'
+  translations:
+    ja:
+      title: '魔法少女まどか☆マギカ ~The different story~'
   tier: SS
   external_ids:
     anilist:
@@ -96,7 +116,9 @@
   - text: '2021年冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#the-different-story'
 - title: 地。—關於地球的運動—
-  title_native: 'チ。―地球の運動について―'
+  translations:
+    ja:
+      title: 'チ。―地球の運動について―'
   tier: SS
   external_ids:
     anilist:
@@ -106,7 +128,9 @@
     href: '{filename}/posts/review/2025/07-chi-on-the-movements-of-the-earth.md'
     season_href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#-'
 - title: 章魚嗶的原罪
-  title_native: 'タコピーの原罪'
+  translations:
+    ja:
+      title: 'タコピーの原罪'
   tier: S
   external_ids:
     anilist:
@@ -115,7 +139,9 @@
   - text: '2025年夏'
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_20'
 - title: 一百公尺。—100M—新裝版
-  title_native: 'ひゃくえむ。'
+  translations:
+    ja:
+      title: 'ひゃくえむ。'
   tier: S
   external_ids:
     anilist:
@@ -124,7 +150,9 @@
   - text: '2025年秋'
     href: '{filename}/posts/review/2026/34-what-i-watched-in-2025-fall.md#100m'
 - title: 抽屜裡的生態箱(全)
-  title_native: 'ひきだしにテラリウム'
+  translations:
+    ja:
+      title: 'ひきだしにテラリウム'
   tier: S
   external_ids:
     anilist:
@@ -133,7 +161,9 @@
   - text: '2024年秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_22'
 - title: 進擊的巨人 LOST GIRLS
-  title_native: '進撃の巨人 LOST GIRLS'
+  translations:
+    ja:
+      title: '進撃の巨人 LOST GIRLS'
   tier: S
   external_ids:
     anilist:
@@ -150,7 +180,9 @@
   - text: '2021年冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#fatestay-night'
 - title: 勇者赫魯庫
-  title_native: 'ヘルク'
+  translations:
+    ja:
+      title: 'ヘルク'
   tier: S
   external_ids:
     anilist:
@@ -159,7 +191,9 @@
   - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_26'
 - title: 米奇與達利 惡童物語
-  title_native: 'ミギとダリ'
+  translations:
+    ja:
+      title: 'ミギとダリ'
   tier: S
   external_ids:
     anilist:
@@ -169,7 +203,9 @@
     href: '{filename}/posts/review/2024/39-migi-and-dali.md'
     season_href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_23'
 - title: 進擊的巨人番外篇~無悔的選擇
-  title_native: '進撃の巨人 外伝 悔いなき選択'
+  translations:
+    ja:
+      title: '進撃の巨人 外伝 悔いなき選択'
   tier: S
   external_ids:
     anilist:
@@ -178,7 +214,9 @@
   - text: '2021年冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_27'
 - title: 酷愛電影的龐波小姐
-  title_native: '映画大好きポンポさん'
+  translations:
+    ja:
+      title: '映画大好きポンポさん'
   tier: S
   external_ids:
     anilist:
@@ -187,7 +225,9 @@
   - text: '2022年夏'
     href: '{filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_27'
 - title: 愛在雨過天晴
-  title_native: '恋は雨上がりのように'
+  translations:
+    ja:
+      title: '恋は雨上がりのように'
   tier: S
   external_ids:
     anilist:
@@ -196,13 +236,17 @@
   - text: '2023年秋'
     href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_25'
 - title: 驀然回首
-  title_native: 'ルックバック'
+  translations:
+    ja:
+      title: 'ルックバック'
   tier: S
   external_ids:
     anilist:
     - 136807
 - title: 再見繪梨
-  title_native: 'さよなら絵梨'
+  translations:
+    ja:
+      title: 'さよなら絵梨'
   tier: S
   external_ids:
     anilist:
@@ -211,7 +255,9 @@
   - text: '2024年夏'
     href: '{filename}/posts/review/2025/06-what-i-watched-in-2024-summer.md#_27'
 - title: 擅長捉弄人的高木同學
-  title_native: 'からかい上手の高木さん'
+  translations:
+    ja:
+      title: 'からかい上手の高木さん'
   tier: S
   external_ids:
     anilist:
@@ -222,7 +268,9 @@
   - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_25'
 - title: 輝夜姬想讓人告白~天才們的戀愛頭腦戰
-  title_native: 'かぐや様は告らせたい～天才たちの恋愛頭脳戦～'
+  translations:
+    ja:
+      title: 'かぐや様は告らせたい～天才たちの恋愛頭脳戦～'
   tier: S
   external_ids:
     anilist:
@@ -238,7 +286,9 @@
     anilist:
     - 30051
 - title: 塗鴉日記
-  title_native: 'かくかくしかじか'
+  translations:
+    ja:
+      title: 'かくかくしかじか'
   tier: S
   external_ids:
     anilist:
@@ -248,13 +298,17 @@
     href: '{filename}/posts/review/2025/13-kakukakushikajika.md'
     season_href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_15'
 - title: 遊戲3人娘  # 台版東立斷尾（僅 3 集），原作 15 集完結
-  title_native: 'あそびあそばせ'
+  translations:
+    ja:
+      title: 'あそびあそばせ'
   tier: S
   external_ids:
     anilist:
     - 97418
 - title: 異國日記
-  title_native: '違国日記'
+  translations:
+    ja:
+      title: '違国日記'
   tier: A
   external_ids:
     anilist:
@@ -263,7 +317,9 @@
   - text: '2025年夏'
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_21'
 - title: 我推的孩子
-  title_native: '【推しの子】'
+  translations:
+    ja:
+      title: '【推しの子】'
   tier: A
   external_ids:
     anilist:
@@ -272,7 +328,9 @@
   - text: '2025年夏'
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_22'
 - title: 入伍吧！魔法少女
-  title_native: '入隊せよ！魔法少女'
+  translations:
+    ja:
+      title: '入隊せよ！魔法少女'
   tier: A
   external_unavailable:
   - anilist
@@ -280,7 +338,9 @@
   - text: '2025年夏'
     href: '{filename}/posts/review/2026/31-what-i-watched-in-2025-summer.md#_23'
 - title: 魔法少年賈修
-  title_native: '金色のガッシュ!! 完全版'
+  translations:
+    ja:
+      title: '金色のガッシュ!! 完全版'
   tier: A
   external_ids:
     anilist:
@@ -289,7 +349,9 @@
   - text: '2023年夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_25'
 - title: 海歸線
-  title_native: '海帰線'
+  translations:
+    ja:
+      title: '海帰線'
   tier: A
   external_ids:
     anilist:
@@ -298,7 +360,9 @@
   - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_27'
 - title: 嗶伊～不思議的生物
-  title_native: 'ピウイ～ふしぎないきもの～'
+  translations:
+    ja:
+      title: 'ピウイ～ふしぎないきもの～'
   tier: A
   external_ids:
     anilist:
@@ -307,7 +371,9 @@
   - text: '2024年冬'
     href: '{filename}/posts/review/2024/37-what-i-watched-in-2024-winter.md#_30'
 - title: 明天星期六
-  title_native: 'あしたは土曜日'
+  translations:
+    ja:
+      title: 'あしたは土曜日'
   tier: A
   external_ids:
     anilist:
@@ -323,7 +389,9 @@
   - text: '2021年春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_24'
 - title: 神明便利商店
-  title_native: '神様のコンビニ'
+  translations:
+    ja:
+      title: '神様のコンビニ'
   tier: A
   external_unavailable:
   - anilist
@@ -338,7 +406,9 @@
   - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_26'
 - title: 四月是你的謊言 最後樂章
-  title_native: '四月は君の嘘 Coda'
+  translations:
+    ja:
+      title: '四月は君の嘘 Coda'
   tier: B
   external_ids:
     anilist:
@@ -347,7 +417,9 @@
   - text: '2021年冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_29'
 - title: 夢的化石
-  title_native: '夢の化石 今敏全短篇'
+  translations:
+    ja:
+      title: '夢の化石 今敏全短篇'
   tier: B
   external_ids:
     anilist:
@@ -357,7 +429,9 @@
     href: '{filename}/posts/review/2024/36-dream-fossil.md'
     season_href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_25'
 - title: 進擊！巨人高校 ～青春！ 隔壁的瑪雷學園～
-  title_native: '進撃!巨人高校 ~青春! となりのマーレ学園~'
+  translations:
+    ja:
+      title: '進撃!巨人高校 ~青春! となりのマーレ学園~'
   tier: C
   external_ids:
     anilist:
@@ -366,7 +440,9 @@
   - text: '2021年春'
     href: '{filename}/posts/review/2021/05-what-i-watch-in-2021-sprint.md#_27'
 - title: 巴歐來訪者
-  title_native: 'バオー 来訪者'
+  translations:
+    ja:
+      title: 'バオー 来訪者'
   tier: C
   external_ids:
     anilist:

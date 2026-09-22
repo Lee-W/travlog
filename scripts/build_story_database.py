@@ -55,14 +55,16 @@ def build_database(source: Path) -> list[dict]:
             tier = row.get("tier") or "unranked"
             if tier != "unranked" and tier not in TIERS:
                 raise ValueError(f"{category}: unknown tier {tier!r}")
+            translations = deepcopy(row.get("translations", {}))
             reviews = deepcopy(row.get("reviews", []))
             result.append(
                 {
                     "title": row["title"],
                     "title_zh": deepcopy(row["title"]),
-                    # build_ja_data promotes this title and keeps the original
-                    # in title_zh, so either language remains searchable.
-                    "title_native": row.get("title_native", ""),
+                    "translations": translations,
+                    # Flat search aliases survive Tabular's display projection,
+                    # which removes the translation mapping before indexing.
+                    "title_ja": translations.get("ja", {}).get("title", ""),
                     "category": category,
                     "tier": tier,
                     "rank": RANKS.get(tier),
@@ -73,21 +75,32 @@ def build_database(source: Path) -> list[dict]:
     return result
 
 
-def view_config(lang: str) -> dict:
-    """Keep the filter values stable across the two language versions."""
-    index = {"zh-tw": 0, "ja": 1}[lang]
-    original_title = "title_native" if index == 0 else "title_zh"
+def view_config() -> dict:
+    """One config for both languages; the plugin picks the text per component.
+
+    Filter values stay canonical (`anime`, `SSS`, `yes`) so the query string
+    and cross-language links keep working; only their labels are localized.
+    """
     return {
         "fields": ["title", "category", "tier", "reviews"],
         "field_labels": {
-            "title": ("作品名稱", "作品名")[index],
-            "category": ("分類", "分類")[index],
+            "title": {"zh-TW": "作品名稱", "ja": "作品名"},
+            "category": {"zh-TW": "分類", "ja": "分類"},
             "tier": "Tier",
-            "reviews": ("評論", "感想")[index],
-            "rank": ("喜好程度", "好み順")[index],
-            "has_review": ("評論收錄", "感想の有無")[index],
+            "reviews": {"zh-TW": "評論", "ja": "感想"},
+            "rank": {"zh-TW": "喜好程度", "ja": "好み順"},
+            "has_review": {"zh-TW": "評論收錄", "ja": "感想の有無"},
         },
-        "search_fields": ["title", original_title],
+        # On the ja component `title` becomes the original title. The plugin
+        # projects rows before it builds the search index, so searching the
+        # displayed `title` would only ever find that component's language.
+        # The two canonical spellings are indexed instead, which covers both
+        # languages on both subsites without indexing the same text twice.
+        "translations": {
+            "fields": ["title"],
+            "source_lang": "zh-TW",
+        },
+        "search_fields": ["title_zh", "title_ja"],
         "sort_fields": ["rank", "title"],
         "field_types": {"rank": "number", "title": "text"},
         "sort_by": "rank",
@@ -95,8 +108,8 @@ def view_config(lang: str) -> dict:
         "filters": {
             "category": {
                 "options": [
-                    {"value": key, "label": labels[index]}
-                    for key, labels in CATEGORIES.items()
+                    {"value": key, "label": {"zh-TW": zh, "ja": ja}}
+                    for key, (zh, ja) in CATEGORIES.items()
                 ]
             },
             "tier": {
@@ -104,17 +117,22 @@ def view_config(lang: str) -> dict:
                     {
                         "value": tier,
                         "label": tier,
-                        "description": descriptions[index],
+                        "description": {"zh-TW": zh, "ja": ja},
                         "tone": "green" if tier in {"SSS", "SS"} else "neutral",
                     }
-                    for tier, descriptions in TIERS.items()
+                    for tier, (zh, ja) in TIERS.items()
                 ]
-                + [{"value": "unranked", "label": ("未分級", "Tier なし")[index]}]
+                + [
+                    {
+                        "value": "unranked",
+                        "label": {"zh-TW": "未分級", "ja": "Tier なし"},
+                    }
+                ]
             },
             "has_review": {
                 "options": [
-                    {"value": "yes", "label": ("有評論", "感想あり")[index]},
-                    {"value": "no", "label": ("尚無評論", "感想なし")[index]},
+                    {"value": "yes", "label": {"zh-TW": "有評論", "ja": "感想あり"}},
+                    {"value": "no", "label": {"zh-TW": "尚無評論", "ja": "感想なし"}},
                 ]
             },
         },
@@ -125,12 +143,18 @@ def view_config(lang: str) -> dict:
             "legend_fields": ["tier"],
         },
         "messages": {
-            "search": ("搜尋作品名稱或原名…", "作品名・原題を検索…")[index],
-            "empty": ("沒有符合條件的作品。", "条件に合う作品はありません。")[index],
-            "count": ("{shown} / {total} 筆紀錄", "{shown} / {total} 件")[index],
-            "legend": ("分級說明", "説明")[index],
-            "clear_search": ("清除", "クリア")[index],
-            "clear": ("重設", "リセット")[index],
+            "search": {"zh-TW": "搜尋作品名稱或原名…", "ja": "作品名・原題を検索…"},
+            "empty": {
+                "zh-TW": "沒有符合條件的作品。",
+                "ja": "条件に合う作品はありません。",
+            },
+            "count": {
+                "zh-TW": "{shown} / {total} 筆紀錄",
+                "ja": "{shown} / {total} 件",
+            },
+            "legend": {"zh-TW": "分級說明", "ja": "説明"},
+            "clear_search": {"zh-TW": "清除", "ja": "クリア"},
+            "clear": {"zh-TW": "重設", "ja": "リセット"},
         },
         "query_sync": True,
     }

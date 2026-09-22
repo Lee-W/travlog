@@ -1,4 +1,4 @@
-"""Backfill `title_native` for films and documentaries via Wikidata.
+"""Backfill `translations.ja.title` for films and documentaries via Wikidata.
 
 Anime and manga get their original title from AniList
 (`backfill_story_ranking_native_titles.py`). Western films, documentaries and
@@ -20,7 +20,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import re
 import time
 import urllib.error
 import urllib.parse
@@ -29,11 +28,12 @@ from pathlib import Path
 from typing import Any
 
 import yaml
+from ruamel.yaml import YAML
+from ruamel.yaml.scalarstring import SingleQuotedScalarString
 
 SPARQL_URL = "https://query.wikidata.org/sparql"
 USER_AGENT = "entertainment-blog-native-title-backfill/1.0 (hello+travlog@wei-lee.me)"
 RANKING_DIR = Path("content/data/story-ranking")
-ENTRY_RE = re.compile(r"^- title:")
 BATCH_SIZE = 40
 
 QUERY = """
@@ -85,26 +85,32 @@ def fetch_japanese_titles(slugs: list[str]) -> dict[str, str]:
     return titles
 
 
+def native_title(entry: dict[str, Any]) -> str | None:
+    return (entry.get("translations") or {}).get("ja", {}).get("title")
+
+
 def first_letterboxd_slug(entry: dict[str, Any]) -> str | None:
     slugs = (entry.get("external_ids") or {}).get("letterboxd") or []
     return slugs[0] if slugs else None
 
 
-def quote(value: str) -> str:
-    return "'" + value.replace("'", "''") + "'"
-
-
 def apply_to_file(path: Path, by_index: dict[int, str]) -> None:
-    lines = path.read_text(encoding="utf-8").split("\n")
-    out: list[str] = []
-    entry_index = -1
-    for line in lines:
-        out.append(line)
-        if ENTRY_RE.match(line):
-            entry_index += 1
-            if entry_index in by_index:
-                out.append(f"  title_native: {quote(by_index[entry_index])}")
-    path.write_text("\n".join(out), encoding="utf-8")
+    """Merge missing Japanese titles, retaining other translations and comments."""
+    document = YAML()
+    document.preserve_quotes = True
+    document.width = 1000
+    entries = document.load(path.read_text(encoding="utf-8"))
+    written = 0
+    for index, native in by_index.items():
+        entry = entries[index]
+        if native_title(entry) is not None:
+            continue
+        translations = entry.setdefault("translations", {})
+        translations.setdefault("ja", {})["title"] = SingleQuotedScalarString(native)
+        written += 1
+    if written:
+        with path.open("w", encoding="utf-8") as output:
+            document.dump(entries, output)
 
 
 def parse_args() -> argparse.Namespace:
@@ -119,12 +125,12 @@ def main() -> int:
     wanted: list[str] = []
     for path in files:
         for entry in yaml.safe_load(path.read_text(encoding="utf-8")) or []:
-            if isinstance(entry, dict) and not entry.get("title_native"):
+            if isinstance(entry, dict) and native_title(entry) is None:
                 slug = first_letterboxd_slug(entry)
                 if slug and slug not in wanted:
                     wanted.append(slug)
 
-    print(f"entries with a Letterboxd slug and no title_native: {len(wanted)}")
+    print(f"entries with a Letterboxd slug and no Japanese title: {len(wanted)}")
     titles = fetch_japanese_titles(wanted) if wanted else {}
     print(f"Wikidata knows a Japanese title for {len(titles)} of them\n")
 
@@ -133,7 +139,7 @@ def main() -> int:
         entries = yaml.safe_load(path.read_text(encoding="utf-8")) or []
         by_index: dict[int, str] = {}
         for index, entry in enumerate(entries):
-            if not isinstance(entry, dict) or entry.get("title_native"):
+            if not isinstance(entry, dict) or native_title(entry) is not None:
                 continue
             slug = first_letterboxd_slug(entry)
             japanese = titles.get(slug) if slug else None
@@ -155,7 +161,7 @@ def main() -> int:
         total += len(by_index)
 
     print(
-        f"\n{'wrote' if args.apply else 'would write'} title_native for {total} entries"
+        f"\n{'wrote' if args.apply else 'would write'} translations.ja.title for {total} entries"
     )
     print(f"{missing} entries had a slug Wikidata does not know")
     if not args.apply:

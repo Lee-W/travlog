@@ -1,5 +1,7 @@
 - title: 路人超能100 官方設定集
-  title_native: 'モブサイコ100 公式設定集'
+  translations:
+    ja:
+      title: 'モブサイコ100 公式設定集'
   reviews:
   - text: '2024年秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#100'

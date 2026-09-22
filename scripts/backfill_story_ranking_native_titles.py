@@ -1,21 +1,21 @@
-"""Backfill `title_native` into story-ranking YAML from AniList.
+"""Backfill `translations.ja.title` into story-ranking YAML from AniList.
 
 `title` holds the Taiwanese Mandarin name, which is what the main site shows.
-The Japanese subsite wants the original title, so this fills `title_native`
-from AniList's `title.native` for every entry that carries an AniList id.
+The Japanese subsite wants the original title, so this fills
+`translations.ja.title` from AniList's `title.native` for every entry that
+carries an AniList id.
 
 Entries without an AniList id (western films, live-action series, general
 novels) are left alone — the templates fall back to `title`.
 
-Editing is line based on purpose: round-tripping these files through a YAML
-dumper would reflow quoting and drop the comments that mark the tier blocks.
+Editing uses ruamel.yaml round-trip mode to merge translation mappings while
+retaining quotes and the comments that mark tier blocks.
 """
 
 from __future__ import annotations
 
 import argparse
 import json
-import re
 import sys
 import urllib.error
 import urllib.request
@@ -23,11 +23,12 @@ from pathlib import Path
 from typing import Any
 
 import yaml
+from ruamel.yaml import YAML
+from ruamel.yaml.scalarstring import SingleQuotedScalarString
 
 ANILIST_URL = "https://graphql.anilist.co"
 USER_AGENT = "entertainment-blog-native-title-backfill/1.0"
 RANKING_DIR = Path("content/data/story-ranking")
-ENTRY_RE = re.compile(r"^- title:")
 BATCH_SIZE = 50
 
 
@@ -71,14 +72,13 @@ def normalize(title: str) -> str:
     return title.replace("\uff65", "\u30fb")
 
 
+def native_title(entry: dict[str, Any]) -> str | None:
+    return (entry.get("translations") or {}).get("ja", {}).get("title")
+
+
 def first_anilist_id(entry: dict[str, Any]) -> int | None:
     ids = (entry.get("external_ids") or {}).get("anilist") or []
     return ids[0] if ids else None
-
-
-def quote(value: str) -> str:
-    """Emit a YAML single-quoted scalar."""
-    return "'" + value.replace("'", "''") + "'"
 
 
 def plan_for_file(
@@ -88,7 +88,7 @@ def plan_for_file(
     entries = yaml.safe_load(path.read_text(encoding="utf-8")) or []
     plan = []
     for index, entry in enumerate(entries):
-        if not isinstance(entry, dict) or entry.get("title_native"):
+        if not isinstance(entry, dict) or native_title(entry) is not None:
             continue
         anilist_id = first_anilist_id(entry)
         native = native_by_id.get(anilist_id) if anilist_id else None
@@ -98,20 +98,23 @@ def plan_for_file(
 
 
 def apply_to_file(path: Path, plan: list[tuple[int, str, str]]) -> int:
-    """Insert `title_native` right below each planned entry's `title` line."""
+    """Merge missing Japanese titles, retaining other translations and comments."""
     by_index = {index: native for index, _, native in plan}
-    lines = path.read_text(encoding="utf-8").split("\n")
-    out: list[str] = []
-    entry_index = -1
+    document = YAML()
+    document.preserve_quotes = True
+    document.width = 1000
+    entries = document.load(path.read_text(encoding="utf-8"))
     written = 0
-    for line in lines:
-        out.append(line)
-        if ENTRY_RE.match(line):
-            entry_index += 1
-            if entry_index in by_index:
-                out.append(f"  title_native: {quote(by_index[entry_index])}")
-                written += 1
-    path.write_text("\n".join(out), encoding="utf-8")
+    for index, native in by_index.items():
+        entry = entries[index]
+        if native_title(entry) is not None:
+            continue
+        translations = entry.setdefault("translations", {})
+        translations.setdefault("ja", {})["title"] = SingleQuotedScalarString(native)
+        written += 1
+    if written:
+        with path.open("w", encoding="utf-8") as output:
+            document.dump(entries, output)
     return written
 
 
@@ -136,12 +139,12 @@ def main() -> int:
     wanted: set[int] = set()
     for path in files:
         for entry in yaml.safe_load(path.read_text(encoding="utf-8")) or []:
-            if isinstance(entry, dict) and not entry.get("title_native"):
+            if isinstance(entry, dict) and native_title(entry) is None:
                 anilist_id = first_anilist_id(entry)
                 if anilist_id:
                     wanted.add(anilist_id)
 
-    print(f"entries with an AniList id and no title_native: {len(wanted)}")
+    print(f"entries with an AniList id and no Japanese title: {len(wanted)}")
     native_by_id = fetch_native_titles(sorted(wanted)) if wanted else {}
     print(f"AniList returned a native title for {len(native_by_id)} of them\n")
 
@@ -159,7 +162,7 @@ def main() -> int:
             apply_to_file(path, plan)
 
     print(
-        f"\n{'wrote' if args.apply else 'would write'} title_native for {total} entries"
+        f"\n{'wrote' if args.apply else 'would write'} translations.ja.title for {total} entries"
     )
     if not args.apply:
         print("re-run with --apply to write them")

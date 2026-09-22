@@ -230,8 +230,9 @@ TABULAR_REF_HREF_TEMPLATE = (
     "|https://www.openstreetmap.org/?mlat={lat}&mlon={lon}#map=17/{lat}/{lon}"
 )
 
-TABULAR_VIEWS = {"works": view_config("zh-tw")}
-I18N_SUBSITES["ja"]["TABULAR_VIEWS"] = {"works": view_config("ja")}
+# One view for both languages: pelican-tabular resolves labels, messages and
+# the translated `title` from the component's language (the page's `Lang`).
+TABULAR_VIEWS = {"works": view_config()}
 
 # pelican-seo settings
 SEO_REPORT = True  # SEO report is enabled by default
