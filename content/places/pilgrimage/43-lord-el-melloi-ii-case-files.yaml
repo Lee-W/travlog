@@ -18,7 +18,6 @@ locations:
   osm_type: node
   osm_id: 1802652184
   notes: 魔術協會
-  notes_ja: '魔術協会'
   date: '2025-07-26'
   country: 英國
   city: London
@@ -26,3 +25,6 @@ locations:
   images:
   - /images/pilgrimage/43-lord-el-melloi-ii-case-files/big-ben.JPG
   urls: []
+  translations:
+    ja:
+      notes: '魔術協会'

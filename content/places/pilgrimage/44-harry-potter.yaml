@@ -18,7 +18,6 @@ locations:
   osm_type: way
   osm_id: 218344453
   notes: 其實是八又二分之1
-  notes_ja: '実は 8 1/2'
   date: '2025-07-27'
   country: 英國
   city: London
@@ -26,3 +25,6 @@ locations:
   images:
   - /images/pilgrimage/44-harry-potter/platform-9-3-4.JPG
   urls: []
+  translations:
+    ja:
+      notes: '実は 8 1/2'

@@ -7,8 +7,15 @@ they still carry the Japanese title in `title_native`, and the Japanese
 subsite wants it first, so this writes a parallel tree where `title` is that
 title when there is one and the Taiwanese Mandarin title otherwise.
 
-`pelicanconf.py` points the subsite at this tree with `TABULAR_DATA_ROOT`, so
-the `.md` pages keep the same `{% table data/... %}` calls in both languages.
+The place tree is here for the same reason. Its note fields carry their own
+`translations.ja` block, which pelican-osm projects per component language
+(`OSM_TRANSLATIONS`), but country / city / district / venue names are
+`place_list` grouping keys and the plugin refuses to translate those, so they
+are still swapped here.
+
+`pelicanconf.py` points the subsite at these trees with `TABULAR_DATA_ROOT`
+and `OSM_PLACES_ROOT`, so the `.md` pages keep the same
+`{% table data/... %}` and `{% place_list ... %}` calls in both languages.
 
 The output is generated at build time and is not committed — run it through
 any `inv` task that runs Pelican (build/rebuild/regenerate/preview/build_publish/
@@ -118,10 +125,11 @@ def localize(rows: Any) -> tuple[Any, int]:
 def localize_places(node: Any) -> int:
     """Rewrite place fields in place; return how many values changed.
 
-    Two rules: known place names are swapped for their Japanese spelling, and
-    any `<field>_ja` written next to `<field>` in the source replaces it. The
-    latter is how the hand-written notes are translated — a place with no
-    `_ja` keeps the Taiwanese Mandarin text.
+    One rule: known place names are swapped for their Japanese spelling. Note
+    fields are not handled here — those carry a per-record `translations.ja`
+    block that pelican-osm projects itself (`OSM_TRANSLATIONS` in
+    `pelicanconf.py`). What is left are the names the plugin refuses to
+    translate because they are `place_list` grouping keys.
     """
     changed = 0
     if isinstance(node, dict):
@@ -133,9 +141,6 @@ def localize_places(node: Any) -> int:
         name = node.get("name")
         if isinstance(name, str) and name.strip() in VENUE_NAMES:
             node["name"] = VENUE_NAMES[name.strip()]
-            changed += 1
-        for key in [k for k in node if isinstance(k, str) and k.endswith("_ja")]:
-            node[key.removesuffix("_ja")] = node.pop(key)
             changed += 1
         for value in list(node.values()):
             changed += localize_places(value)

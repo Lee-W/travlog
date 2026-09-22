@@ -6,7 +6,6 @@ locations:
   lat: 51.506102
   lon: -0.019065
   notes: 'ISB 大樓'
-  notes_ja: 'ISB のビル'
   date:
   - '2025-07-25'
   - '2025-07-25'
@@ -19,6 +18,9 @@ locations:
   urls:
   - label: Andor、Rogue One 倫敦聖地巡禮
     href: "{filename}/posts/travel/2026/03-andor-pilgrimage.md"
+  translations:
+    ja:
+      notes: 'ISB のビル'
 - name: Barbican Centre
   lat: 51.521186
   lon: -0.093918

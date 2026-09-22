@@ -17,7 +17,6 @@ locations:
   lat: 33.845764
   lon: 132.76561
   notes: 它自己說是無限城，那就這樣吧
-  notes_ja: '向こうが無限城だと言うなら、そういうことにしておく'
   date: '2025-10-05'
   country: 日本
   city: 愛媛
@@ -25,3 +24,6 @@ locations:
   images:
   - /images/pilgrimage/16-kimetsu-no-yaiba/matsuyama-castle.JPG
   urls: []
+  translations:
+    ja:
+      notes: '向こうが無限城だと言うなら、そういうことにしておく'

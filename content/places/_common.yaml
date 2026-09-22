@@ -19,6 +19,29 @@
 # 覆寫，不放在這裡；locations 容器結構、以及 work / trip / items 等各領域
 # 專有欄位同樣留在各自的 _schema.yaml。
 $defs:
+  # hall_note / seat_note / notes / visit_note：七份 schema 全部共用，且必須
+  # 排在各自 allOf 的第一項。pelicanconf.py 的 OSM_TRANSLATIONS.fields 是全站
+  # 設定，pelican-osm 投影時會把清單裡的每個欄位都寫進每一筆地點（該領域沒用
+  # 到就寫空字串），place_list 的自動欄位偵測於是會替每個領域長出空欄。這裡
+  # 一律宣告成 hidden 當地板，真正用到的領域再用自己的 properties 覆寫回來
+  # （$ref 帶進來的定義算 outer，引用方自己的欄位勝出；所以順序不能調換）。
+  # 新增 note 類欄位時，這裡與 OSM_TRANSLATIONS.fields 要一起加。
+  field_translation_placeholders:
+    type: object
+    properties:
+      hall_note:
+        type: string
+        x-osm-list-hidden: true
+      seat_note:
+        type: string
+        x-osm-list-hidden: true
+      notes:
+        type: string
+        x-osm-list-hidden: true
+      visit_note:
+        type: string
+        x-osm-list-hidden: true
+
   # id：root / restaurant / venues 三檔共用。
   field_id:
     type: object

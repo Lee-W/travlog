@@ -5,7 +5,6 @@ locations:
   lat: 35.472445
   lon: 138.407858
   notes: "劇場版鳥籠"
-  notes_ja: '劇場版の鳥かご'
   date:
   - '2023-05-27'
   - '2023-11-13'
@@ -19,6 +18,9 @@ locations:
   - "/images/pilgrimage/19-yuru-camp/Minobu-Shizen-no-Sato-2.jpeg"
   - /images/pilgrimage/19-yuru-camp/Minobu-Shizen-no-Sato-1.JPG
   urls: []
+  translations:
+    ja:
+      notes: '劇場版の鳥かご'
 - name: 下部小・中学校跡
   place_type: 學校
   lat: 35.44991064679377
@@ -53,18 +55,19 @@ locations:
   osm_type: way
   osm_id: 1241976032
   notes: 犬山等人新年參拜的地方
-  notes_ja: '犬山たちが初詣に行った場所'
   date: '2023-05-27'
   country: 日本
   city: 山梨
   tags: []
   images: []
   urls: []
+  translations:
+    ja:
+      notes: '犬山たちが初詣に行った場所'
 - name: 凜家
   lat: 35.446037
   lon: 138.4834
   notes: 印象中有人住，這個點抓得離實際點比較遠
-  notes_ja: '人が住んでいた気がするので、実際の場所から少し離してある'
   date: '2023-05-27'
   country: 日本
   city: 山梨
@@ -72,6 +75,9 @@ locations:
   images:
   - /images/pilgrimage/19-yuru-camp/shimarin-house.JPG  # wrong GPS
   urls: []
+  translations:
+    ja:
+      notes: '人が住んでいた気がするので、実際の場所から少し離してある'
 - name: 鰍沢中部小学校跡地
   place_type: 學校
   lat: 35.520994
@@ -185,7 +191,6 @@ locations:
   lat: 35.716858
   lon: 139.361936
   notes: 劇場版撫子工作的露營店
-  notes_ja: '劇場版でなでしこが働いているキャンプ用品店'
   date: '2023-10-22'
   country: 日本
   city: 東京
@@ -194,3 +199,6 @@ locations:
   images:
   - /images/pilgrimage/19-yuru-camp/a-and-f-country-akishima-outdoor-village-branch.JPG
   urls: []
+  translations:
+    ja:
+      notes: '劇場版でなでしこが働いているキャンプ用品店'

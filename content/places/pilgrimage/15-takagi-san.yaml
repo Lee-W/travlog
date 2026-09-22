@@ -6,7 +6,6 @@ locations:
   lat: 35.716875
   lon: 139.815493
   notes: '這也算嗎...'
-  notes_ja: 'これも入るのかな……'
   date: '2023-03-21'
   country: 日本
   city: 東京
@@ -15,6 +14,9 @@ locations:
   images:
   - /images/pilgrimage/15-takagi-san/takagi-shrine.JPG # wrong GPS
   urls: []
+  translations:
+    ja:
+      notes: 'これも入るのかな……'
 - name: 太陽的贈禮
   lat: 34.489183
   lon: 134.173664

@@ -31,7 +31,6 @@ locations:
   lat: 34.989023
   lon: 136.259943
   notes: '星期六、日 10～16時'
-  notes_ja: '土日 10〜16時'
   date: '2018-12-08'
   country: 日本
   city: 滋賀
@@ -39,3 +38,6 @@ locations:
   images:
   - /images/pilgrimage/06-chuunibyou-demo-koi-ga-shitai/old-kamakake-elementary-school.JPG # wrong GPS
   urls: []
+  translations:
+    ja:
+      notes: '土日 10〜16時'

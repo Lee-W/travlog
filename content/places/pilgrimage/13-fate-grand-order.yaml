@@ -19,7 +19,6 @@ locations:
   lat: 51.51962
   lon: -0.126903
   notes: 抽得到梵谷嗎
-  notes_ja: 'ゴッホは引けるかな'
   date: '2025-07-26'
   country: 英國
   city: London
@@ -28,6 +27,9 @@ locations:
   images:
   - /images/pilgrimage/13-fate-grand-order/british-museum-sunflowers.JPG
   urls: []
+  translations:
+    ja:
+      notes: 'ゴッホは引けるかな'
 - name: 夏洛克·福爾摩斯雕像
   lat: 51.522688
   lon: -0.156567

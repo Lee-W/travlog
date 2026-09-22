@@ -6,7 +6,6 @@ locations:
   lat: 35.713036
   lon: 139.794069
   notes: 電波塔
-  notes_ja: '電波塔'
   date: '2023-05-25'
   country: 日本
   city: 東京
@@ -15,3 +14,6 @@ locations:
   images:
   - /images/pilgrimage/20-lycoris-recoil/tokyo-skytree.JPG
   urls: []
+  translations:
+    ja:
+      notes: '電波塔'
