@@ -4,19 +4,25 @@
   - text: '2021年冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_32'
 - title: 逃避雖可恥但有用 特別篇
-  title_native: '逃げるは恥だが役に立つ 特別編'
+  translations:
+    ja:
+      title: '逃げるは恥だが役に立つ 特別編'
   tier: S
   reviews:
   - text: '2021年冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_31'
 - title: 大豆田永久子與三個前夫
-  title_native: '大豆田とわ子と三人の元夫'
+  translations:
+    ja:
+      title: '大豆田とわ子と三人の元夫'
   tier: S
   reviews:
   - text: '2022年夏'
     href: '{filename}/posts/review/2023/19-what-i-watch-in-2022-summer.md#_24'
 - title: 勇者義彥
-  title_native: '勇者ヨシヒコ'
+  translations:
+    ja:
+      title: '勇者ヨシヒコ'
   tier: S
   reviews:
   - text: '2022年夏'
@@ -27,14 +33,18 @@
   - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#loki'
 - title: 擅長捉弄人的高木同學
-  title_native: 'からかい上手の高木さん'
+  translations:
+    ja:
+      title: 'からかい上手の高木さん'
   tier: A
   reviews:
   - text: '2024年春'
     href: '{filename}/posts/review/2024/46-drama-teasing-master-takagi-san.md'
     season_href: '{filename}/posts/review/2024/55-what-i-watched-in-2024-sprint.md#_16'
 - title: 逃避雖可恥卻有用
-  title_native: '逃げるは恥だが役に立つ'
+  translations:
+    ja:
+      title: '逃げるは恥だが役に立つ'
   tier: A
   reviews:
   - text: '2020年夏'
@@ -59,38 +69,50 @@
   - text: '2022年春'
     href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#wanda-vision'
 - title: 無限可能：假如...？
-  title_native: 'ホワット・イフ...?'
+  translations:
+    ja:
+      title: 'ホワット・イフ...?'
   tier: A
   reviews:
   - text: '2021年秋'
     href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_11'
 - title: 勇者動畫系列
-  title_native: '勇者シリーズ'
+  translations:
+    ja:
+      title: '勇者シリーズ'
   tier: A
   reviews:
   - text: '2021年夏'
     href: '{filename}/posts/review/2022/01-what-i-watch-in-2021-summer.md#_7'
 - title: 初戀
-  title_native: 'First Love 初恋'
+  translations:
+    ja:
+      title: 'First Love 初恋'
   tier: A
   reviews:
   - text: '2025年冬'
     href: '{filename}/posts/review/2025/04-first-love.md'
     season_href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_18'
 - title: 我推的孩子
-  title_native: '【推しの子】'
+  translations:
+    ja:
+      title: '【推しの子】'
   tier: B
   reviews:
   - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_19'
 - title: 舞伎家的料理人
-  title_native: '舞妓さんちのまかないさん'
+  translations:
+    ja:
+      title: '舞妓さんちのまかないさん'
   tier: C
   reviews:
   - text: '2023年夏'
     href: '{filename}/posts/review/2024/01-what-i-watch-in-2023-summer.md#_16'
 - title: 奧術
-  title_native: 'アーケイン'
+  translations:
+    ja:
+      title: 'アーケイン'
   tier: C
   reviews:
   - text: '2022年冬'

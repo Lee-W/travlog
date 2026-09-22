@@ -51,7 +51,11 @@ layout are opted into by these two pages; other tables keep their existing UI.
 Keep editing the nine YAML files under `content/data/story-ranking/`.
 Every `inv` task that runs Pelican (`build`, `rebuild`, `regenerate`, `preview`,
 `build_publish`, `livereload`, `reserve`) first generates the ignored
-`content/data/story-database.yaml`, then localize it through `build_ja_data.py`.
+`content/data/story-database.yaml`. Japanese titles live in each source record's
+`translations.ja.title`; the generated catalog preserves the translation mapping
+and Tabular selects the title for the page language. `build_ja_data.py` copies
+the catalog unchanged and retains compatibility handling for other tables and
+place data.
 Do not edit or commit that generated file. Adding a category requires adding
 its labels to `scripts/build_story_database.py`; an unknown category fails the
 build so no entries silently disappear.

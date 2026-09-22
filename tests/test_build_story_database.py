@@ -6,7 +6,6 @@ import yaml
 from bs4 import BeautifulSoup
 from pelican.plugins.tabular.views import render_view
 
-from scripts.build_ja_data import localize
 from scripts.build_story_database import CATEGORIES, build_database, view_config
 
 
@@ -63,24 +62,29 @@ def test_category_changes_fail_instead_of_silently_dropping_works(ranking_dir, c
         build_database(ranking_dir)
 
 
-@pytest.mark.parametrize("lang", ["zh-tw", "ja"])
-def test_localized_views_keep_both_titles_searchable(ranking_dir, lang):
+@pytest.mark.parametrize(("lang", "displayed"), [("zh-tw", "聲之形"), ("ja", "聲の形")])
+def test_localized_views_keep_both_titles_searchable(ranking_dir, lang, displayed):
+    """One config serves both languages; the plugin translates per component.
+
+    `title` is projected from `translations.ja.title`, so both
+    spellings must stay in the search index either way, and the generated
+    rows must not mutate the database the other subsite renders from.
+    """
     (ranking_dir / "anime.yaml").write_text(
-        "- title: 聲之形\n  title_native: 聲の形\n  tier: SSS\n", encoding="utf-8"
+        "- title: 聲之形\n  translations:\n    ja:\n      title: 聲の形\n  tier: SSS\n",
+        encoding="utf-8",
     )
     original = build_database(ranking_dir)
     rows = deepcopy(original)
-    if lang == "ja":
-        rows, promoted = localize(rows)
-        assert promoted == 1
-        assert rows[0]["title"] == "聲の形"
-        assert rows[0]["title_zh"] == "聲之形"
-    html = render_view(rows, view_config(lang), table_id="works", lang=lang)
+    html = render_view(rows, view_config(), table_id="works", lang=lang)
     payload = json.loads(
         BeautifulSoup(html, "html.parser").select_one(".tabular-data").string
     )
-    assert "聲之形" in payload["records"][0]["search"]
-    assert "聲の形" in payload["records"][0]["search"]
+    record = payload["records"][0]
+    assert record["values"]["title"] == [displayed]
+    assert "聲之形" in record["search"]
+    assert "聲の形" in record["search"]
+    assert rows == original
     assert original[0]["title"] == "聲之形"
 
 
@@ -88,3 +92,41 @@ def test_unknown_tier_stops_generation(ranking_dir):
     (ranking_dir / "anime.yaml").write_text("- title: Example\n  tier: typo\n")
     with pytest.raises(ValueError, match="unknown tier"):
         build_database(ranking_dir)
+
+
+@pytest.mark.parametrize(
+    ("translations", "lang", "displayed"),
+    [
+        pytest.param({"ja": {"title": ""}}, "ja", [""], id="explicit-empty"),
+        pytest.param(
+            {"en": {"title": "A Silent Voice"}},
+            "en",
+            ["A Silent Voice"],
+            id="other-language",
+        ),
+        pytest.param(
+            {"ja-JP": {"title": "聲の形"}}, "ja-JP", ["聲の形"], id="regional-language"
+        ),
+        pytest.param({}, "ja", ["聲之形"], id="missing-translation"),
+    ],
+)
+def test_catalog_preserves_translations_for_display(
+    ranking_dir, translations, lang, displayed
+):
+    path = ranking_dir / "anime.yaml"
+    path.write_text(
+        yaml.safe_dump(
+            [{"title": "聲之形", "translations": translations}], allow_unicode=True
+        )
+    )
+    before = path.read_bytes()
+    rows = build_database(ranking_dir)
+    assert rows[0]["translations"] == translations
+    original = deepcopy(rows)
+    html = render_view(rows, view_config(), table_id="works", lang=lang)
+    payload = json.loads(
+        BeautifulSoup(html, "html.parser").select_one(".tabular-data").string
+    )
+    assert payload["records"][0]["values"]["title"] == displayed
+    assert rows == original
+    assert path.read_bytes() == before
