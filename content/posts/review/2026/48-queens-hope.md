@@ -1,10 +1,9 @@
 Title: Star Wars: Queen's Hope
-Date: 2026-09-11 15:25 +0800
+Date: 2026-09-24 16:22 +0800
 Category: Review
 Tags: Star Wars, Novel
 Slug: queens-hope
 Authors: Wei Lee
-Status: draft
 
 這次在飛機上，把之前在健身房聽到快完的這本終於聽完了
 
