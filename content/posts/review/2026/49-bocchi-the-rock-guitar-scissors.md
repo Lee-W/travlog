@@ -1,13 +1,12 @@
 Title: 我買了一把吉他
 Subtitle: 造型的剪刀
-Date: 2026-09-26 13:17 +0800
+Date: 2026-09-26 14:50 +0800
 Category: Review
 Tags: Anime, Unboxing, 聖地巡禮
 Slug: bocchi-the-rock-guitar-scissors
 Cover: /images/post-images/2026/bocchi-the-rock-guitar-scissors/guitar-scissors-box-front.jpeg
 Authors: Wei Lee
 Lang: zh-tw
-Status: draft
 
 上次去到 K-ON 聖地 JEUGIA 的時候發現了這把就很心動
 
