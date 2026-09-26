@@ -20,14 +20,19 @@ locations:
   lat: 35.008712
   lon: 135.767656
   notes: ''
-  date: '2018-12-03'
+  date:
+  - '2018-12-03'
+  - '2026-08-28'
   country: 日本
   city: 京都
   tags:
   - 樂器店
   images:
   - /images/pilgrimage/10-k-on/jeugia-sanjo-main-store.JPG  # wrong GPS
-  urls: []
+  - /images/pilgrimage/10-k-on/jeugia-sanjo-main-store-with-mortis-plush.jpeg
+  urls:
+  - label: 我買了一把吉他
+    href: "{filename}/posts/review/2026/bocchi-the-rock-guitar-scissors.md"
 - name: Hotel ibis London Earl's Court
   lat: 51.488975
   lon: -0.191783
