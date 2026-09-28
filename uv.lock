@@ -1212,7 +1212,7 @@ wheels = [
 
 [[package]]
 name = "pelican-tabular"
-version = "0.9.1"
+version = "0.9.2"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "babel" },
@@ -1220,9 +1220,9 @@ dependencies = [
     { name = "pelican" },
     { name = "pyyaml" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/04/96/9a3bc73d952eb8d9ae0e8ebffe53e6a3c49953090d613c14298345333d44/pelican_tabular-0.9.1.tar.gz", hash = "sha256:e1ba5ab5f3957dda23e4c1bd10833374c1442efe97a6e8957706eef8f8ebdb32", size = 70090, upload-time = "2026-09-22T11:20:31.809Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/d7/af/3408ccf12c90451c19701e19707a2a68c63bfc1cf58513e00fcdde23b990/pelican_tabular-0.9.2.tar.gz", hash = "sha256:da3ff9b8632b85ece8d3ea5ca3d886e6dca4ead5314f8782885e355ab516620d", size = 70159, upload-time = "2026-09-23T00:28:52.999Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/ee/b3/9115e3843d20f76d07f70556ad82f472f945e2cc301b6ec1132f177249e3/pelican_tabular-0.9.1-py3-none-any.whl", hash = "sha256:437f56a848970ca46ed8e73da729b1081a42a57f68953ea4981f72d310b47223", size = 62986, upload-time = "2026-09-22T11:20:30.249Z" },
+    { url = "https://files.pythonhosted.org/packages/58/72/99513767becc383d5008d8d77ad88bed45f537cc8c73df50d68615aff23d/pelican_tabular-0.9.2-py3-none-any.whl", hash = "sha256:5c2ccc2cc64daaa8bc392d8d1a66311f2b5b9cc71235f7382e209dd7fa3411f5", size = 63048, upload-time = "2026-09-23T00:28:51.45Z" },
 ]
 
 [[package]]
