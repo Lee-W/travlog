@@ -349,7 +349,6 @@ Leia 的服裝
   ![toymaker]({static}/images/post-images/2019-06-12-star-war-galaxys-edge-first-peek/P1140564.jpg)  
   我的 Asoka 娃娃也是在這裡買的
   ![asoka]({static}/images/post-images/2019-06-12-star-war-galaxys-edge-first-peek/15601810440637.jpg)
-
 * **Black Spire Outfitters**: 賣絕地袍這類的衣服
 * **Jewels of Bith**: 這間店就比較像是一般的紀念品店了，不過也是賣 **Black Spire Outpose** 的商品，不是 **Star Wars: Galaxy's Edge**
 * **Bina’s Creature Stall**： 設定上應該是寵物店，你可以在這找到各種 Star Wars 的生物  

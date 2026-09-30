@@ -41,12 +41,12 @@ Lang: zh-tw
 
 （以下照片都是可拍照的部分）
 
-![stage]( /images/post-images/2023-2-5-dimension-musical-sailor-moon-the-super-live/16809691371081.jpg)
+![stage](/images/post-images/2023-2-5-dimension-musical-sailor-moon-the-super-live/16809691371081.jpg)
 
 舞台設計感覺應該是蠻有效的運用了國父紀念館的場館
 但畢竟不是常駐演出，就沒辦法看到像百老匯或迪士尼那麼炫的舞台
 
-![stage]( /images/post-images/2023-2-5-dimension-musical-sailor-moon-the-super-live/16809691402054.jpg)
+![stage](/images/post-images/2023-2-5-dimension-musical-sailor-moon-the-super-live/16809691402054.jpg)
 
 雖然我抱怨了一些，但整體來說我還是很享受這次的表演
 希望之後能有我有看過的作品來台灣演出

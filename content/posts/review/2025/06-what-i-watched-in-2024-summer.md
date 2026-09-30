@@ -124,7 +124,7 @@ Lang: zh-tw
 屬於我也蠻喜歡的輕鬆日常小品
 漫畫也只有 6 本，看完就順手也買了
 
-### 天穗之咲稻姬  <!--a-->
+### 天穗之咲稻姬 <!--a-->
 * 觀看平台： [巴哈動畫瘋](https://ani.gamer.com.tw/animeVideo.php?sn=38918)
 
 <!--TODO-->
@@ -229,7 +229,7 @@ Lang: zh-tw
 * 觀看平台： 信義威秀 17 廳
 
 新海誠的作品中我最愛的果然還是這部
-每次重刷都可以想起爲什麼  One more chance, one more time 就跟春日影一樣
+每次重刷都可以想起爲什麼 One more chance, one more time 就跟春日影一樣
 
 ![mygo-good-song](/images/meme/mygo-good-song.jpg)
 /// caption

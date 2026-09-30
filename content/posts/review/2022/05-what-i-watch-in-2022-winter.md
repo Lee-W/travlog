@@ -342,7 +342,7 @@ Amazon Prime Video 上要打英文 kemurikusa 才找得到
 ### PSYCHO-PASS 3 心靈判官3　FIRST INSPECTOR
 * 觀看平台： [Amazon Prime](https://www.primevideo.com/region/fe/detail/PSYCHO-PASS-3/0GMA6H790B7EMLNVN83K54XMRA/)
 
-我不太會分 PSYCHO-PASS  的 3, 4 季
+我不太會分 PSYCHO-PASS 的 3, 4 季
 不過反正跑酷大師慎導灼登場的部分
 
 題材跟上了現實世界所發生的各種事
