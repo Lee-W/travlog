@@ -402,3 +402,259 @@ def test_publication_date_uses_taiwan_timezone():
     utc = datetime.datetime(2026, 6, 30, 10, 20, tzinfo=datetime.UTC)
 
     assert publication_date(utc) == "2026-06-30 18:20 +0800"
+
+
+# Translated companion posts: ``<name>-ja.md`` next to ``<name>.md`` shares the
+# primary post's number instead of taking one of its own.
+
+
+def post_names(directory):
+    return sorted(path.name for path in directory.glob("*.md"))
+
+
+@pytest.fixture
+def review_posts(tmp_path):
+    posts = tmp_path / "content" / "posts" / "review" / "2026"
+    posts.mkdir(parents=True)
+    write_post(posts / "47-a.md", status="")
+    write_post(posts / "48-b.md", status="")
+    return posts
+
+
+def test_prepare_gives_companion_published_together_the_primary_number(
+    review_posts,
+):
+    primary = review_posts / "watase.md"
+    companion = review_posts / "watase-ja.md"
+    write_post(primary)
+    write_post(companion)
+
+    assert prepare([companion, primary], "2026-06-30 18:20 +0800") == 0
+    assert post_names(review_posts) == [
+        "47-a.md",
+        "48-b.md",
+        "49-watase-ja.md",
+        "49-watase.md",
+    ]
+    assert not draft_status(review_posts / "49-watase.md")
+    assert not draft_status(review_posts / "49-watase-ja.md")
+
+
+def test_prepare_gives_companion_the_already_published_primary_number(
+    review_posts,
+):
+    write_post(review_posts / "49-watase.md", status="")
+    companion = review_posts / "watase-ja.md"
+    write_post(companion)
+
+    assert prepare([companion], "2026-06-30 18:20 +0800") == 0
+    assert post_names(review_posts) == [
+        "47-a.md",
+        "48-b.md",
+        "49-watase-ja.md",
+        "49-watase.md",
+    ]
+    assert not draft_status(review_posts / "49-watase-ja.md")
+
+
+def test_prepare_corrects_misnumbered_companion_of_numbered_primary(review_posts):
+    primary = review_posts / "49-watase.md"
+    companion = review_posts / "50-watase-ja.md"
+    write_post(primary)
+    write_post(companion)
+
+    assert check_filename_numbers([primary, companion]) == 1
+    assert prepare([primary, companion], "2026-06-30 18:20 +0800") == 0
+    assert post_names(review_posts)[-2:] == ["49-watase-ja.md", "49-watase.md"]
+
+
+def test_prepare_renames_companion_draft_with_primary_but_keeps_it_draft(
+    review_posts,
+):
+    primary = review_posts / "watase.md"
+    companion = review_posts / "watase-ja.md"
+    write_post(primary)
+    write_post(companion)
+
+    assert prepare([primary], "2026-06-30 18:20 +0800") == 0
+    assert post_names(review_posts)[-2:] == ["49-watase-ja.md", "49-watase.md"]
+    assert draft_status(review_posts / "49-watase-ja.md")
+    assert not draft_status(review_posts / "49-watase.md")
+    assert check([review_posts / "49-watase.md"]) == 0
+
+
+def test_prepare_moves_companion_with_its_colliding_draft_primary(review_posts):
+    other_draft = review_posts / "49-other.md"
+    other_companion = review_posts / "49-other-ja.md"
+    publishing = review_posts / "watase.md"
+    write_post(other_draft)
+    write_post(other_companion)
+    write_post(publishing)
+
+    assert prepare([publishing], "2026-06-30 18:20 +0800") == 0
+    assert post_names(review_posts)[2:] == [
+        "49-watase.md",
+        "50-other-ja.md",
+        "50-other.md",
+    ]
+    assert draft_status(review_posts / "50-other-ja.md")
+
+
+def test_prepare_rejects_companion_of_draft_primary_without_changes(
+    review_posts, capsys
+):
+    primary = review_posts / "watase.md"
+    companion = review_posts / "watase-ja.md"
+    write_post(primary)
+    write_post(companion)
+    before = {
+        path.name: path.read_text(encoding="utf-8")
+        for path in review_posts.glob("*.md")
+    }
+
+    assert prepare([companion], "2026-06-30 18:20 +0800") == 1
+    after = {
+        path.name: path.read_text(encoding="utf-8")
+        for path in review_posts.glob("*.md")
+    }
+    assert after == before
+    assert "cannot be published before their primary post" in capsys.readouterr().err
+    assert check([companion]) == 1
+
+
+def test_unpaired_ja_post_is_numbered_as_an_ordinary_post(review_posts):
+    publishing = review_posts / "tokyo-trip-ja.md"
+    write_post(publishing)
+
+    assert check_filename_numbers([publishing]) == 1
+    assert prepare([publishing], "2026-06-30 18:20 +0800") == 0
+    assert (review_posts / "49-tokyo-trip-ja.md").exists()
+
+
+def test_en_companion_shares_primary_number(review_posts):
+    primary = review_posts / "watase.md"
+    companion = review_posts / "watase-en.md"
+    write_post(primary)
+    write_post(companion)
+
+    assert prepare([primary, companion], "2026-06-30 18:20 +0800") == 0
+    assert post_names(review_posts)[-2:] == ["49-watase-en.md", "49-watase.md"]
+
+
+def test_published_companions_do_not_advance_the_sequence(review_posts):
+    write_post(review_posts / "48-b-ja.md", status="")
+    publishing = review_posts / "49-next.md"
+    write_post(publishing)
+
+    assert check_filename_numbers([publishing]) == 0
+
+
+def test_check_rejects_companion_number_different_from_primary(review_posts):
+    write_post(review_posts / "48-b-ja.md", status="")
+    write_post(review_posts / "49-watase.md", status="")
+    companion = review_posts / "50-watase-ja.md"
+    write_post(companion, status="")
+
+    assert check_filename_numbers([companion]) == 1
+
+
+def test_ambiguous_companion_primary_is_rejected(review_posts):
+    write_post(review_posts / "49-example.md", status="")
+    write_post(review_posts / "50-example.md", status="")
+    companion = review_posts / "example-ja.md"
+    write_post(companion)
+
+    with pytest.raises(ValueError, match="ambiguous primary post"):
+        prepare([companion], "2026-06-30 18:20 +0800")
+
+
+def test_prepare_updates_references_to_renamed_companion(review_posts):
+    content = review_posts.parents[2]
+    places = content / "places"
+    places.mkdir()
+    primary = review_posts / "watase.md"
+    companion = review_posts / "watase-ja.md"
+    write_post(primary)
+    write_post(companion)
+    write_post(review_posts / "watase-jazz.md", status="")
+    place = places / "other.yaml"
+    place.write_text(
+        "    urls:\n"
+        '      - label: "zh"\n'
+        '        href: "{filename}/posts/review/2026/watase.md"\n'
+        '      - label: "ja"\n'
+        '        href: "{filename}/posts/review/2026/watase-ja.md#access"\n'
+        '      - label: "other"\n'
+        '        href: "{filename}/posts/review/2026/watase-jazz.md"\n',
+        encoding="utf-8",
+    )
+    page = content / "pages" / "index.md"
+    page.parent.mkdir()
+    page.write_text(
+        "[zh]({filename}/posts/review/2026/watase.md) "
+        "[ja]({filename}/posts/review/2026/watase-ja.md) "
+        "[b]({filename}/posts/review/2026/48-b.md)\n",
+        encoding="utf-8",
+    )
+
+    assert prepare([primary, companion], "2026-06-30 18:20 +0800") == 0
+    assert place.read_text(encoding="utf-8") == (
+        "    urls:\n"
+        '      - label: "zh"\n'
+        '        href: "{filename}/posts/review/2026/49-watase.md"\n'
+        '      - label: "ja"\n'
+        '        href: "{filename}/posts/review/2026/49-watase-ja.md#access"\n'
+        '      - label: "other"\n'
+        '        href: "{filename}/posts/review/2026/watase-jazz.md"\n'
+    )
+    assert page.read_text(encoding="utf-8") == (
+        "[zh]({filename}/posts/review/2026/49-watase.md) "
+        "[ja]({filename}/posts/review/2026/49-watase-ja.md) "
+        "[b]({filename}/posts/review/2026/48-b.md)\n"
+    )
+
+
+def test_prepare_repairs_stale_reference_to_companion(review_posts):
+    content = review_posts.parents[2]
+    places = content / "places"
+    places.mkdir()
+    write_post(review_posts / "49-watase.md", status="")
+    write_post(review_posts / "49-watase-ja.md", status="")
+    publishing = review_posts / "50-next.md"
+    write_post(publishing)
+    place = places / "other.yaml"
+    place.write_text(
+        'href: "{filename}/posts/review/2026/watase-ja.md"\n'
+        'href: "{filename}/posts/review/2026/watase.md"\n',
+        encoding="utf-8",
+    )
+
+    assert prepare([publishing], "2026-06-30 18:20 +0800") == 0
+    assert place.read_text(encoding="utf-8") == (
+        'href: "{filename}/posts/review/2026/49-watase-ja.md"\n'
+        'href: "{filename}/posts/review/2026/49-watase.md"\n'
+    )
+
+
+def test_check_mode_ignores_companion_draft_renamed_with_primary(
+    monkeypatch, review_posts
+):
+    primary = review_posts / "49-watase.md"
+    companion = review_posts / "49-watase-ja.md"
+    write_post(primary, status="")
+    write_post(companion)
+    monkeypatch.setattr(
+        sys,
+        "argv",
+        ["prepare_publication.py", "check", "--base-ref", "origin/main"],
+    )
+    monkeypatch.setattr(
+        "scripts.prepare_publication.has_publish_commit", lambda base_ref: True
+    )
+    monkeypatch.setattr(
+        "scripts.prepare_publication.changed_posts",
+        lambda base_ref: [primary, companion],
+    )
+    monkeypatch.setattr("scripts.prepare_publication.head_is_prepared", lambda: True)
+
+    assert main() == 0

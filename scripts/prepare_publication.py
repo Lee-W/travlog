@@ -14,6 +14,9 @@ DATE_LINE = re.compile(r"^Date:\s*.*$", re.IGNORECASE)
 STATUS_LINE = re.compile(r"^Status:\s*(.*?)\s*$", re.IGNORECASE)
 POST_FILENAME = re.compile(r"^(\d+)-.+\.md$")
 FILENAME_REFERENCE = re.compile(r"\{filename\}(/posts/[^\s\"'()<>#]+\.md)")
+# A translated companion post is ``<primary name>-<lang>.md`` next to its
+# primary post. It shares the primary's number instead of taking its own.
+COMPANION_SUFFIXES = ("-ja", "-en")
 PUBLISH_COMMIT_PREFIX = "new post:"
 PREPARE_COMMIT_PREFIX = "post metadata: prepare publication for #"
 
@@ -142,12 +145,82 @@ def filename_number(path: Path) -> int | None:
     return int(match.group(1)) if match else None
 
 
+def unnumbered_name(name: str) -> str:
+    """Return a post filename without its numeric prefix."""
+    return name.split("-", 1)[1] if POST_FILENAME.match(name) else name
+
+
+def companion_primary(path: Path) -> Path | None:
+    """Return the primary post of a translated companion post, if paired.
+
+    ``[NN-]<name>-ja.md`` (or ``-en.md``) is a companion when the same
+    directory contains ``[NN-]<name>.md``; either side may be numbered. A
+    ``-ja.md`` post without such a sibling is an ordinary post.
+    """
+    stem = unnumbered_name(path.name).removesuffix(".md")
+    for suffix in COMPANION_SUFFIXES:
+        if stem.endswith(suffix) and len(stem) > len(suffix):
+            primary_name = stem.removesuffix(suffix) + ".md"
+            break
+    else:
+        return None
+
+    candidates = sorted(
+        sibling
+        for sibling in path.parent.glob("*.md")
+        if unnumbered_name(sibling.name) == primary_name
+    )
+    if len(candidates) > 1:
+        number = filename_number(path)
+        candidates = [
+            candidate
+            for candidate in candidates
+            if number is not None and filename_number(candidate) == number
+        ]
+        if len(candidates) != 1:
+            raise ValueError(f"{path}: ambiguous primary post for {primary_name}")
+    return candidates[0] if candidates else None
+
+
+def companion_primaries(directory: Path) -> dict[Path, Path]:
+    """Map each translated companion post in a directory to its primary."""
+    return {
+        sibling: primary
+        for sibling in sorted(directory.glob("*.md"))
+        if (primary := companion_primary(sibling)) is not None
+    }
+
+
+def check_companions(paths: list[Path]) -> int:
+    """Reject translated companions published before their primary post."""
+    publishing_paths = {path.resolve() for path in paths}
+    errors = [
+        f"{path}: primary post {primary} is still a draft; "
+        "publish both together or publish the primary post first"
+        for path in paths
+        if (primary := companion_primary(path)) is not None
+        and primary.resolve() not in publishing_paths
+        and draft_status(primary)
+    ]
+    if errors:
+        print(
+            "Translated posts cannot be published before their primary post:",
+            file=sys.stderr,
+        )
+        for error in errors:
+            print(f"  {error}", file=sys.stderr)
+        return 1
+    return 0
+
+
 def check_filename_numbers(paths: list[Path]) -> int:
     """Require publishing posts to follow the latest published sibling.
 
     Numbering is scoped to the category/year directory. Draft siblings and all
     posts being published in this run are excluded from the existing sequence.
     Multiple posts published together must occupy the next consecutive numbers.
+    Translated companion posts are outside the sequence and must share their
+    primary post's number.
     """
     publishing_paths = {path.resolve() for path in paths}
     by_directory: dict[Path, list[Path]] = {}
@@ -156,10 +229,12 @@ def check_filename_numbers(paths: list[Path]) -> int:
 
     errors: list[str] = []
     for directory, publishing_posts in by_directory.items():
+        companions = companion_primaries(directory)
         published_numbers = [
             number
             for sibling in directory.glob("*.md")
-            if sibling.resolve() not in publishing_paths
+            if sibling not in companions
+            and sibling.resolve() not in publishing_paths
             and not draft_status(sibling)
             and (number := filename_number(sibling)) is not None
         ]
@@ -167,6 +242,18 @@ def check_filename_numbers(paths: list[Path]) -> int:
 
         numbered_posts: list[tuple[int, Path]] = []
         for path in publishing_posts:
+            if path in companions:
+                primary = companions[path]
+                primary_number = filename_number(primary)
+                expected_prefix = (
+                    "NN-" if primary_number is None else f"{primary_number:02d}-"
+                )
+                if primary_number is None or not path.name.startswith(expected_prefix):
+                    errors.append(
+                        f"{path}: expected filename prefix {expected_prefix} "
+                        f"(matching primary post {primary.name})"
+                    )
+                continue
             number = filename_number(path)
             if number is None:
                 errors.append(f"{path}: expected filename to start with a number")
@@ -307,18 +394,27 @@ def repair_unnumbered_filename_references(paths: list[Path]) -> list[Path]:
 
 
 def correct_filename_numbers(paths: list[Path]) -> list[Path]:
-    """Correct publishing filenames and move colliding drafts after them."""
+    """Correct publishing filenames and move colliding drafts after them.
+
+    Translated companion posts never take a number of their own: whenever the
+    primary post or the companion is published or renumbered, the companion is
+    renamed to the primary post's final number. A companion that is not being
+    published keeps its draft status.
+    """
     publishing_paths = {path.resolve() for path in paths}
     by_directory: dict[Path, list[Path]] = {}
     for path in paths:
         by_directory.setdefault(path.parent, []).append(path)
 
     replacements: dict[Path, Path] = {}
-    for directory, publishing_posts in by_directory.items():
+    for directory, directory_paths in by_directory.items():
+        companions = companion_primaries(directory)
+        publishing_posts = [path for path in directory_paths if path not in companions]
         published_numbers = [
             number
             for sibling in directory.glob("*.md")
-            if sibling.resolve() not in publishing_paths
+            if sibling not in companions
+            and sibling.resolve() not in publishing_paths
             and not draft_status(sibling)
             and (number := filename_number(sibling)) is not None
         ]
@@ -330,25 +426,43 @@ def correct_filename_numbers(paths: list[Path]) -> list[Path]:
             corrected_filename(path, next_number + offset)
             for offset, path in enumerate(publishing_posts)
         ]
-        if all(
-            source == destination
+        if any(
+            source != destination
             for source, destination in zip(publishing_posts, publishing_destinations)
         ):
-            continue
+            remaining_drafts = sorted(
+                (
+                    sibling
+                    for sibling in directory.glob("*.md")
+                    if sibling not in companions
+                    and sibling.resolve() not in publishing_paths
+                    and draft_status(sibling)
+                ),
+                key=lambda path: (filename_number(path) or sys.maxsize, path.name),
+            )
+            ordered_posts = publishing_posts + remaining_drafts
+            for offset, source in enumerate(ordered_posts):
+                destination = corrected_filename(source, next_number + offset)
+                if source != destination:
+                    replacements[source] = destination
 
-        remaining_drafts = sorted(
-            (
-                sibling
-                for sibling in directory.glob("*.md")
-                if sibling.resolve() not in publishing_paths and draft_status(sibling)
-            ),
-            key=lambda path: (filename_number(path) or sys.maxsize, path.name),
-        )
-        ordered_posts = publishing_posts + remaining_drafts
-        for offset, source in enumerate(ordered_posts):
-            destination = corrected_filename(source, next_number + offset)
-            if source != destination:
-                replacements[source] = destination
+        for companion, primary in companions.items():
+            if (
+                companion.resolve() not in publishing_paths
+                and primary.resolve() not in publishing_paths
+                and primary not in replacements
+            ):
+                continue
+            number = filename_number(replacements.get(primary, primary))
+            if number is None:
+                continue
+            destination = corrected_filename(companion, number)
+            if destination != companion:
+                replacements[companion] = destination
+
+    for source, destination in replacements.items():
+        if destination.exists() and destination not in replacements:
+            raise ValueError(f"cannot rename {source}: {destination} already exists")
 
     temporary_paths: dict[Path, Path] = {}
     for index, source in enumerate(replacements):
@@ -409,7 +523,8 @@ def prepare_post(path: Path, date: str) -> bool:
 
 def check(paths: list[Path]) -> int:
     """Validate publication status and filename sequence."""
-    failed = check_filename_numbers(paths)
+    failed = check_companions(paths)
+    failed |= check_filename_numbers(paths)
     failed |= check_filename_references(paths)
     drafts = [path for path in paths if draft_status(path)]
     if drafts:
@@ -426,6 +541,9 @@ def check(paths: list[Path]) -> int:
 
 def prepare(paths: list[Path], date: str) -> int:
     """Prepare every changed post for publication."""
+    # Validate before touching any file so a rejected run leaves no changes.
+    if check_companions(paths):
+        return 1
     paths = correct_filename_numbers(paths)
     repair_unnumbered_filename_references(paths)
     changed = [path for path in paths if prepare_post(path, date)]
