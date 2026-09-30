@@ -482,9 +482,9 @@ def correct_filename_numbers(paths: list[Path]) -> list[Path]:
 
 
 def publication_date(now: datetime.datetime | None = None) -> str:
-    """Format the publication time in the blog's Taiwan timezone."""
-    current = now or datetime.datetime.now(tz=ZoneInfo("Asia/Taipei"))
-    return current.astimezone(ZoneInfo("Asia/Taipei")).strftime("%Y-%m-%d %H:%M %z")
+    """Format the publication time in the blog's Japan timezone."""
+    current = now or datetime.datetime.now(tz=ZoneInfo("Asia/Tokyo"))
+    return current.astimezone(ZoneInfo("Asia/Tokyo")).strftime("%Y-%m-%d %H:%M %z")
 
 
 def prepare_post(path: Path, date: str) -> bool:
@@ -562,7 +562,7 @@ def main() -> int:
     parser.add_argument("--base-ref", required=True)
     parser.add_argument(
         "--date",
-        help="publication date override in 'YYYY-MM-DD HH:MM +0800' format",
+        help="publication date override in 'YYYY-MM-DD HH:MM +0900' format",
     )
     args = parser.parse_args()
 
