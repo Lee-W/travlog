@@ -35,6 +35,14 @@ disable = [
   "MD051",
   # MD052 - First line should be a top-level header: Permits other content before the main heading
   "MD052",
+  # MD057 - Relative links should exist: Pelican's {filename}/... links are resolved at build time, not on disk
+  "MD057",
+  # MD066 - Footnote definitions should be referenced: false positive when the reference sits inside an indented block (e.g. a ??? admonition)
+  "MD066",
+  # MD075 - Pipe-formatted rows need a table header: false positive on reference definitions whose label contains "|"
+  "MD075",
+  # MD077 - List item content indentation: flags images that are intentionally a separate paragraph after a list item
+  "MD077",
 ]
 
 # Configure individual rules

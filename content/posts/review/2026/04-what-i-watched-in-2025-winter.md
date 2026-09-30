@@ -164,7 +164,7 @@ ED 也很魔性
 ### TVアニメ「BanG Dream! Ave Mujica」#1～#3 先行上映会 <!--s-->
 * 觀看平台： ユナイテッドシネマ キャナルシティ13 Screen 11
 
-👉 [TVアニメ「BanG Dream! Ave Mujica」#1～#3 先行上映会 -  大家抱歉，我先 GO 了]({filename}/posts/review/2025/01-bang-dream-ave-mujica-1-3.md)
+👉 [TVアニメ「BanG Dream! Ave Mujica」#1～#3 先行上映会 - 大家抱歉，我先 GO 了]({filename}/posts/review/2025/01-bang-dream-ave-mujica-1-3.md)
 
 ### 機動戰士Gundam GQuuuuuuX -Beginning- <!--a-->
 * 觀看平台： 美麗華 IMAX 廳

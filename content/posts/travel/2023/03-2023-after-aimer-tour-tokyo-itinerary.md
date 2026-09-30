@@ -108,7 +108,7 @@ Lycoris 咖啡廳整體是蠻用心的
 剛好又對到櫻花季
 到底何年何月我才能再遇到這樣的巧合巡禮秒速 5 公分啊 🙀
 
-## Day 4 -  💻 .andwork, 🥘 [炸牛排 あおな御徒町本店]
+## Day 4 - 💻 .andwork, 🥘 [炸牛排 あおな御徒町本店]
 * 💻 [.andwork](https://www.xandwork.com/en/shibuya/)
 * 🥘 [炸牛排 あおな御徒町本店](https://goo.gl/maps/XDQxwcRPKU1dXkV4A)
 

@@ -525,7 +525,7 @@ Netflix 每次都要跳我 ED，我真的很困擾ˊˋ
 音樂雖然說不上喜歡，但確實很有特色
 但它就是部不適合我的作品
 
-後來聽了 [尼爾喝牛奶 -  加點牛奶：AKIRA 的神倒不只動畫好看而已](https://neildrinkmilk.firstory.io/episodes/ckcan03ngnmbk091886z7nbwl) 有理解為什麼它會成為經典
+後來聽了 [尼爾喝牛奶 - 加點牛奶：AKIRA 的神倒不只動畫好看而已](https://neildrinkmilk.firstory.io/episodes/ckcan03ngnmbk091886z7nbwl) 有理解為什麼它會成為經典
 除了作畫上極為優異外，還要將當時的時代氛圍和文化背景一起考慮進去
 它是部好作品，只是沒對到的我電波
 
