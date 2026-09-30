@@ -14,7 +14,11 @@ RELATIVE_URLS = False
 # would produce /ja/https://... links in both tables and database views.
 
 FEED_MAX_ITEMS = 30
-FEED_ALL_ATOM = "feeds/all.atom.xml"
+# FEED_ATOM, not FEED_ALL_ATOM: the "all" feed also appends every article's
+# translations, so a ja translation would show up in the zh feed (and a zh
+# original in /ja/feeds/). Same path, so subscribers and <link> tags are kept.
+FEED_ALL_ATOM = None
+FEED_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
 DELETE_OUTPUT_DIRECTORY = True

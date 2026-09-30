@@ -121,6 +121,21 @@ CSS_OVERRIDE = ("static/brand-travlog.css",)
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
 OG_LOCALE = "zh_TW"
 DEFAULT_LANG = "zh-tw"
+# i18n_subsites rebuilds the ja subsite with DEFAULT_LANG = "ja", so a file
+# without a `Lang:` line would be read as Japanese there: it gets published
+# under /ja/ and collides with its real ja translation ("2 original items").
+# Pin the fallback to the main language for every subsite.
+DEFAULT_METADATA = {"lang": DEFAULT_LANG}
+# That fallback also tags static files, which the ja subsite then treats as
+# "not in its language" and looks up STATIC_LANG_*; keep Pelican's defaults.
+STATIC_LANG_URL = "{path}"
+STATIC_LANG_SAVE_AS = "{path}"
+# i18n_subsites only filters published articles, not drafts: without these a
+# draft is also written in every other site's language (drafts/<slug>-<lang>
+# .html) -- and publishconf.py's DRAFT_SAVE_AS = "" does not cover that copy.
+# Each draft is still previewed in its own site (drafts/ or ja/drafts/).
+DRAFT_LANG_SAVE_AS = ""
+DRAFT_LANG_URL = ""
 I18N_TEMPLATES_LANG = "en"
 LANGUAGES = (
     ("zh-tw", "/"),
