@@ -398,10 +398,10 @@ def test_has_publish_commit_detects_prefixed_subject(tmp_path, monkeypatch):
     assert has_publish_commit("base") is True
 
 
-def test_publication_date_uses_taiwan_timezone():
+def test_publication_date_uses_japan_timezone():
     utc = datetime.datetime(2026, 6, 30, 10, 20, tzinfo=datetime.UTC)
 
-    assert publication_date(utc) == "2026-06-30 18:20 +0800"
+    assert publication_date(utc) == "2026-06-30 19:20 +0900"
 
 
 # Translated companion posts: ``<name>-ja.md`` next to ``<name>.md`` shares the

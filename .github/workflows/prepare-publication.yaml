@@ -2,7 +2,7 @@
 #
 # Drafts carry `Status: draft` and a placeholder `Date`. When a PR with a
 # `new post:` commit has auto-merge enabled, this workflow removes the draft
-# status and rewrites `Date` to "now" (Asia/Taipei), then commits the result
+# status and rewrites `Date` to "now" (Asia/Tokyo), then commits the result
 # back to the PR branch so the post that lands on `main` is dated at the
 # moment it actually shipped. Whether a PR qualifies is decided by
 # scripts/prepare_publication.py from commit messages, not the PR title (which
