@@ -24,6 +24,18 @@ locations:
     city: "東京"
     address: "東京都渋谷区神宮前一丁目"
     date: "2023-03"
+  - id: kingly-mask-harajuku
+    name: "KINGLY MASK 原宿本店"
+    lat: 35.670829
+    lon: 139.707738
+    osm_type: way
+    osm_id: 139500168
+    city: "東京"
+    address: "東京都渋谷区神宮前 3-21-22 フィールドビル 1階"
+    date: "2026-09"
+    urls:
+      - label: "渡瀬結月 × KINGLYMASK 一日店長"
+        href: "{filename}/posts/review/2026/watase-yuzuki-kinglymask-one-day-manager.md"
   - id: shimokitazawa
     name: "下北澤"
     trip: "2023 巴哈動漫朝聖團"
