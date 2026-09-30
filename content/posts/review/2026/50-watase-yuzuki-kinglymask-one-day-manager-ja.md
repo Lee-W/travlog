@@ -1,13 +1,12 @@
 Title: 渡瀬結月 × KINGLYMASK 一日店長
 Subtitle: ほ、本当にこんなに幸せでいいの…？
-Date: 2026-09-30 12:42 +0900
+Date: 2026-10-01 00:30 +0900
 Category: Review
 Tags: Anime, BanG Dream, Voice Actor, 渡瀬結月, 娃: 小睦, 娃: 燈
 Slug: watase-yuzuki-kinglymask-one-day-manager
 Cover: /images/post-images/2026/watase-yuzuki-kinglymask-one-day-manager/kinglymask-storefront-with-plush-and-standee.jpeg
 Authors: Wei Lee
 Lang: ja
-Status: draft
 
 「渡瀬結月 × KINGLYMASK」のコラボ服を見て、迷わずバケットハットとロンTを買いました
 そのあと、この一日店長イベントを知って、抽選に応募してみました
