@@ -17,7 +17,7 @@ HEADER_COVER = "images/cover.jpeg"
 SITE_DESCRIPTION = "動畫、電影、音樂、料理與旅遊的觀後感與生活紀錄"
 SITESUBTITLE = SITE_DESCRIPTION
 DEFAULT_DATE_FORMAT = "%Y/%m/%d - %a"
-TIMEZONE = "Asia/Taipei"
+TIMEZONE = "Asia/Tokyo"
 SHOW_ARTICLE_MODIFIED_TIME = True
 
 FAVICON = "favicon-32.png"

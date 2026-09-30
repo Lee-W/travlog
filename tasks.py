@@ -13,6 +13,7 @@ from collections import defaultdict
 from collections.abc import Sequence
 from pathlib import Path
 from string import Template
+from zoneinfo import ZoneInfo
 
 from invoke.exceptions import Exit
 from invoke.main import program
@@ -272,8 +273,8 @@ def _create_post_from_template(
     slug: str = "",
     extra: dict | None = None,
 ) -> None:
-    now = datetime.datetime.now(tz=datetime.timezone(datetime.timedelta(hours=8)))
-    date_str = now.strftime("%Y-%m-%d %H:%M +0800")
+    now = datetime.datetime.now(tz=ZoneInfo("Asia/Tokyo"))
+    date_str = now.strftime("%Y-%m-%d %H:%M %z")
     year = now.strftime("%Y")
 
     if not slug:
