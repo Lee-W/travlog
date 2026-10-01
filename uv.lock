@@ -12,14 +12,15 @@ exclude-newer = "0001-01-01T00:00:00Z" # This has no effect and is included for 
 exclude-newer-span = "P4D"
 
 [options.exclude-newer-package]
+pelican-heatmap = false
 pelican-osm = false
 pelican-on-this-day = false
 pelican-tabular = false
 pelican-stat = false
 attila = false
 pelican-summary-link = false
+pelican-i18n-feeds = false
 pelican-random-article = false
-pelican-heatmap = false
 
 [[package]]
 name = "anyio"
@@ -357,6 +358,7 @@ dependencies = [
     { name = "pagefind", extra = ["extended"] },
     { name = "pelican", extra = ["markdown"] },
     { name = "pelican-heatmap" },
+    { name = "pelican-i18n-feeds" },
     { name = "pelican-i18n-subsites" },
     { name = "pelican-neighbors" },
     { name = "pelican-on-this-day" },
@@ -403,6 +405,7 @@ requires-dist = [
     { name = "pagefind", extras = ["extended"], specifier = ">=1.5.2" },
     { name = "pelican", extras = ["markdown"], specifier = ">=4.12.0" },
     { name = "pelican-heatmap", specifier = ">=0.7.1" },
+    { name = "pelican-i18n-feeds", specifier = ">=0.2.0" },
     { name = "pelican-i18n-subsites", specifier = ">=1.0.0" },
     { name = "pelican-neighbors", specifier = ">=1.2.0" },
     { name = "pelican-on-this-day", specifier = ">=0.4.0" },
@@ -998,6 +1001,19 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/e9/f8/46d7cc0100368c743190ac5ae626f1d504524745d946c1fe2c446dd9bb2c/pelican_heatmap-0.7.1.tar.gz", hash = "sha256:6bf983f3ccd820211b242892d0dc7acb6d76f4fc75f49ab4df62845718ec6aec", size = 17217, upload-time = "2026-08-10T09:16:20.6Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/0f/c6/0ca729454b67ae9694916882bbbc26cf92c9376f11112145321f7779309c/pelican_heatmap-0.7.1-py3-none-any.whl", hash = "sha256:9700dc762509eb51fa9e149eb9f2480ba0596c18c56513577dc2ad483d9d9362", size = 17796, upload-time = "2026-08-10T09:16:19.401Z" },
+]
+
+[[package]]
+name = "pelican-i18n-feeds"
+version = "0.2.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "pelican" },
+    { name = "pelican-i18n-subsites" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/6a/4c/c427363f9e186aae5965a5ddd3a5452d3353174d46b9c3a875f5abb0decd/pelican_i18n_feeds-0.2.0.tar.gz", hash = "sha256:8836a04370a366db35de740cc9e4c4d93fbb1c76bad09f06b4dba17d95474be9", size = 11120, upload-time = "2026-10-01T23:50:44.095Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/8b/8f/594301821d6083259c24531678b89ad9198911c3f8328337971e7edba871/pelican_i18n_feeds-0.2.0-py3-none-any.whl", hash = "sha256:0c5386f56a52e9d4e8a0acd4aa9309524f869f57c2595e2c24f262ad47dabdd3", size = 11226, upload-time = "2026-10-01T23:50:42.72Z" },
 ]
 
 [[package]]
