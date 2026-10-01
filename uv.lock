@@ -12,14 +12,14 @@ exclude-newer = "0001-01-01T00:00:00Z" # This has no effect and is included for 
 exclude-newer-span = "P4D"
 
 [options.exclude-newer-package]
-attila = false
-pelican-heatmap = false
-pelican-on-this-day = false
 pelican-osm = false
-pelican-random-article = false
-pelican-stat = false
-pelican-summary-link = false
+pelican-on-this-day = false
 pelican-tabular = false
+pelican-stat = false
+attila = false
+pelican-summary-link = false
+pelican-random-article = false
+pelican-heatmap = false
 
 [[package]]
 name = "anyio"
@@ -45,8 +45,8 @@ wheels = [
 
 [[package]]
 name = "attila"
-version = "3.4.1"
-source = { git = "https://github.com/Lee-W/attila/#9ad3120292234d25fb74519df9775bf5f6cfa471" }
+version = "3.5.0"
+source = { git = "https://github.com/Lee-W/attila/#fb00510381e5dffab4d5366815a737a66429fcdd" }
 dependencies = [
     { name = "pelican" },
     { name = "pelican-heatmap" },
