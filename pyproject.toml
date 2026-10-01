@@ -34,6 +34,7 @@ dependencies = [
   "pelican-on-this-day>=0.4.0",
   "pelican-sitemap>=1.2.2",
   "pelican-stat>=0.4.0",
+  "pelican-i18n-feeds>=0.2.0",
 ]
 
 [dependency-groups]
@@ -63,6 +64,7 @@ pelican-random-article = false
 pelican-tabular = false
 pelican-on-this-day = false
 pelican-stat = false
+pelican-i18n-feeds = false
 
 [tool.uv.sources]
 attila = { git = "https://github.com/Lee-W/attila/" }

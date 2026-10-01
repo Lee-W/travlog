@@ -196,6 +196,8 @@ I18N_UNTRANSLATED_PAGES = "keep"
 # Plugin-setting
 PLUGINS = [
     "pelican.plugins.i18n_subsites",
+    # Writes feeds/ with every language; publishconf.py turns it on.
+    "pelican.plugins.i18n_feeds",
     "pelican.plugins.neighbors",
     "pelican.plugins.render_math",
     "pelican.plugins.seo",
@@ -229,7 +231,6 @@ SITEMAP = {
 LOCAL_PLUGINS = [
     "random_article_subsites",
     "image_markup",
-    "all_language_feeds",
 ]
 PLUGIN_PATHS = ["plugins"]
 PLUGINS.extend(LOCAL_PLUGINS)

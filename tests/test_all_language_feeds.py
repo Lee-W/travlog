@@ -1,9 +1,12 @@
-"""Build a two-language site with the publish feed settings and read the feeds."""
+"""Build a two-language site with the publish feed settings and read the feeds.
+
+pelican-i18n-feeds tests the plugin itself (ordering, FEED_MAX_ITEMS, three
+languages); this checks that this blog's settings produce its feed layout.
+"""
 
 import json
 import subprocess
 import sys
-from pathlib import Path
 from xml.etree import ElementTree
 
 import pelicanconf
@@ -17,6 +20,8 @@ FEED_KEYS = (
     "CATEGORY_FEED_ATOM",
     "FEED_ALL_LANGUAGES_ATOM",
     "CATEGORY_FEED_ALL_LANGUAGES_ATOM",
+    "I18N_FEEDS_URL_AS_ID",
+    "I18N_FEEDS_KEEP_ID_PREFIXES",
 )
 SITEURL = "https://example.com"
 
@@ -56,9 +61,8 @@ def _build(tmp_path, write_posts):
         "PLUGINS": [
             name
             for name in pelicanconf.PLUGINS
-            if name in {"pelican.plugins.i18n_subsites", "all_language_feeds"}
+            if name in {"pelican.plugins.i18n_subsites", "pelican.plugins.i18n_feeds"}
         ],
-        "PLUGIN_PATHS": [str(Path(__file__).resolve().parents[1] / "plugins")],
         "STATIC_PATHS": [],
         "AUTHOR_FEED_ATOM": None,
         "AUTHOR_FEED_RSS": None,
@@ -73,7 +77,10 @@ def _build(tmp_path, write_posts):
             sys.executable,
             "-c",
             (
-                "import json, sys; from pelican import Pelican; "
+                # Pelican().run() sets up no logging: without a format, records
+                # reach stderr without their level and the check below is moot.
+                "import json, logging, sys; from pelican import Pelican; "
+                "logging.basicConfig(format='%(levelname)s %(name)s: %(message)s'); "
                 "from pelican.settings import read_settings; "
                 "Pelican(read_settings(override=json.load(sys.stdin))).run()"
             ),
@@ -182,54 +189,6 @@ def test_feeds_split_by_language_with_every_article_in_feeds(tmp_path):
     ja_entry = feeds["ja/feeds/all.atom.xml"]["entries"][1]
     assert main_entry == ja_entry
     assert f'href="{ja_review}"' in main_entry["content"]
-
-
-def test_articles_with_the_same_date_keep_the_site_order(tmp_path):
-    def write_posts(posts):
-        # ja-only names sort before the zh ones, so reading order cannot
-        # produce the expected order by accident.
-        for index in range(4):
-            _write_post(posts, f"z-zh-{index}", "zh-tw", "Travel")
-            _write_post(posts, f"a-ja-{index}", "ja", "Travel")
-        _write_post(posts, "m-both", "zh-tw", "Travel")
-        _write_post(posts, "m-both", "ja", "Travel")
-
-    output = _build(tmp_path, write_posts)
-
-    links = _read_feed(output / "feeds/all.atom.xml")["links"]
-    site = {f"{SITEURL}/z-zh-{index}.html" for index in range(4)}
-    site.add(f"{SITEURL}/m-both.html")
-    # Site articles first (in the site's order), then translations, then the
-    # articles only another subsite publishes, by file path.
-    assert set(links[:5]) == site
-    assert links[5:] == [f"{SITEURL}/ja/m-both.html"] + [
-        f"{SITEURL}/ja/a-ja-{index}.html" for index in range(4)
-    ]
-
-
-def test_all_language_feeds_keep_the_newest_items_up_to_the_limit(tmp_path):
-    limit = publishconf.FEED_MAX_ITEMS
-
-    def write_posts(posts):
-        # Interleave the languages: even days in zh, odd days ja-only.
-        for day in range(1, limit + 6):
-            lang = "zh-tw" if day % 2 == 0 else "ja"
-            date = f"2026-03-{day:02d}" if day <= 31 else f"2026-04-{day - 31:02d}"
-            _write_post(posts, f"post-{day:02d}", lang, "Travel", date)
-
-    output = _build(tmp_path, write_posts)
-
-    for path in ("feeds/all.atom.xml", "feeds/travel.atom.xml"):
-        entries = _read_feed(output / path)["entries"]
-        published = [entry["published"] for entry in entries]
-        assert len(entries) == limit
-        assert len({entry["link"] for entry in entries}) == limit
-        assert published == sorted(published, reverse=True)
-        # The oldest posts fall off: post-01 .. post-05.
-        slugs = {entry["link"].rsplit("/", 1)[1] for entry in entries}
-        assert slugs == {f"post-{day:02d}.html" for day in range(6, limit + 6)}
-        assert any("/ja/" in entry["link"] for entry in entries)
-        assert any("/ja/" not in entry["link"] for entry in entries)
 
 
 def test_publishconf_gives_each_site_its_own_feed_links():
