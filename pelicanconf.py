@@ -229,6 +229,7 @@ SITEMAP = {
 LOCAL_PLUGINS = [
     "random_article_subsites",
     "image_markup",
+    "all_language_feeds",
 ]
 PLUGIN_PATHS = ["plugins"]
 PLUGINS.extend(LOCAL_PLUGINS)
