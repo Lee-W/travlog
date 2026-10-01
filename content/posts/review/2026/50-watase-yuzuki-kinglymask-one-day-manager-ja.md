@@ -4,7 +4,7 @@ Date: 2026-10-01 00:30 +0900
 Category: Review
 Tags: Anime, BanG Dream, Voice Actor, 渡瀬結月, 娃: 小睦, 娃: 燈
 Slug: watase-yuzuki-kinglymask-one-day-manager
-Cover: /images/post-images/2026/watase-yuzuki-kinglymask-one-day-manager/penguin-letter-set.jpeg
+Cover: /images/post-images/2026/watase-yuzuki-kinglymask-one-day-manager/letter-envelope-and-mutsumi-plush.jpeg
 Authors: Wei Lee
 Lang: ja
 
