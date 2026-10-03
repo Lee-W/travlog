@@ -5,7 +5,6 @@ Tags: Taiwan, Japan, 聖地巡禮
 Slug: pilgrimage-map-update-2026-summer
 Authors: Wei Lee
 Lang: zh-tw
-Status: draft
 
 這幾個月又陸續去了幾個聖地，把照片和地點補進了[聖地巡禮地圖]({filename}/pages/pilgrimage.md)
 
