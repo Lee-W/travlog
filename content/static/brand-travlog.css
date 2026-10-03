@@ -42,3 +42,12 @@ body.site-travlog {
   padding-top: 2rem;
   margin-top: 0;
 }
+
+/* 地點表格自然寬度約 850px，比 820px 的內容欄寬一點，最後的照片欄會被
+   推出畫面。寬螢幕上往兩側各多出 60px（用負 margin，不改寬度計算）。 */
+@media only screen and (min-width: 1000px) {
+  .page-template .post-content .osm-place-list-wrapper {
+    max-width: none;
+    margin-inline: -60px;
+  }
+}
