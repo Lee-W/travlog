@@ -1,7 +1,7 @@
 Title: 暗殺教室 第二季
 Date: 2024-06-14 10:45 +0800
 Category: Review
-Tags: Anime
+Tags: Anime, 暗殺教室
 Slug: assassination-classroom-s2
 Authors: Wei Lee
 Lang: zh-tw

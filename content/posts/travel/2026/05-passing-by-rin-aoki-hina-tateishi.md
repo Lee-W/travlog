@@ -2,7 +2,7 @@ Title: 不到一層樓的距離
 Subtitle: 一輩子也忘不了吧
 Date: 2026-05-23 16:25 +0800
 Category: Travel
-Tags: BanG Dream! It's MyGO!!!!!, Anime, Voice Actor
+Tags: BanG Dream! It's MyGO!!!!!, Anime, Voice Actor, BanG Dream
 Slug: passing-by-rin-aoki-hina-tateishi
 Cover: /images/post-images/2026/passing-by-rin-aoki-hina-tateishi/IMG_0522.jpeg
 Authors: Wei Lee

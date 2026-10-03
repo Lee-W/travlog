@@ -2,7 +2,7 @@ Title: 劇場總集篇 孤獨搖滾！ Re:
 Subtitle: ぼっちちゃんのロック！
 Date: 2024-07-10 23:10 +0800
 Category: Review
-Tags: Anime, Movie
+Tags: Anime, Movie, 孤獨搖滾
 Slug: bocchi-the-rock-movie-1
 Cover: /images/post-images/2024-bocchi-the-rock-movie-1/bocchi.JPG
 Authors: Wei Lee

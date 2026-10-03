@@ -2,7 +2,7 @@ Title: 已嚴肅探班豐川家大小姐
 Subtitle: 過去軟糯的我已經死了
 Date: 2026-05-02 23:15 +0800
 Category: Travel
-Tags: BanG Dream! It's MyGO!!!!!
+Tags: BanG Dream! It's MyGO!!!!!, BanG Dream
 Slug: togawa-construction-site
 Cover: /images/post-images/2026/togawa-construction-site/B1.jpeg
 Authors: Wei Lee
