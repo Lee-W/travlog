@@ -1,0 +1,46 @@
+work: 再見菈菈 | さよならララ
+tags: [動畫]
+locations:
+- name: 平和堂 石山店
+  lat: 34.978581
+  lon: 135.902786
+  notes: 店內有作品立牌與簽名
+  date: '2026-08-25'
+  country: 日本
+  city: 滋賀
+  tags:
+  - 商店
+  images:
+  - /images/pilgrimage/58-sayonara-rara/heiwado-ishiyama.jpeg
+  - /images/pilgrimage/58-sayonara-rara/heiwado-ishiyama-standees.jpeg
+  urls: []
+  translations:
+    ja:
+      notes: '店内に作品のスタンディとサイン'
+- name: カメチク本店
+  lat: 35.1258
+  lon: 136.098892
+  notes: 第 5 話登場，主角坐過的座位
+  date: '2026-08-25'
+  country: 日本
+  city: 滋賀
+  tags:
+  - 餐廳
+  images:
+  - /images/pilgrimage/58-sayonara-rara/kamechiku-honten.jpeg
+  urls: []
+  translations:
+    ja:
+      notes: '第5話に登場、主人公が座った席'
+- name: アンデケン
+  lat: 35.1245
+  lon: 136.100022
+  notes: ''
+  date: '2026-08-25'
+  country: 日本
+  city: 滋賀
+  tags:
+  - 甜點店
+  images:
+  - /images/pilgrimage/58-sayonara-rara/andenken.jpeg
+  urls: []

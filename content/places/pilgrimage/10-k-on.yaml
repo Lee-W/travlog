@@ -6,12 +6,16 @@ locations:
   lat: 35.203569
   lon: 136.232431
   notes: '工作日 8:30～17:00 / 休息日 9:00～17:30'
-  date: '2018-12-07'
+  date:
+  - '2018-12-07'
+  - '2026-08-27'
   country: 日本
   city: 滋賀
   tags: []
   images:
   - /images/pilgrimage/10-k-on/toyosato-elementary-school.JPG
+  - /images/pilgrimage/10-k-on/toyosato-elementary-school-plush-shelf.jpeg
+  - /images/pilgrimage/10-k-on/toyosato-elementary-school-2.jpeg
   urls: []
   translations:
     ja:
