@@ -1,6 +1,6 @@
 Title: 我心中的作品排名
 Date: 2022-02-06 18:48 +0800
-Modified: 2026-09-20 00:00 +0800
+Modified: 2026-10-04 00:00 +0800
 Slug: story-ranking
 Summary: 依個人喜好整理看過的動畫、電影、影集、漫畫與小說排名及心得索引。
 Lang: zh-tw

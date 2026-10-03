@@ -62,6 +62,10 @@
   reviews:
   - text: '2026年春'
     href: '{filename}/posts/review/2026/33-104-sai-tetsuyo-obasan.md'
+- title: 大風之島
+  tier: S
+- title: 冠軍之路
+  tier: S
 - title: 法蘭克札帕：從前衛到當代
   translations:
     ja:
@@ -95,3 +99,7 @@
   reviews:
   - text: '2024年秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_17'
+- title: 傳奇女伶 高菊花
+  tier: B
+- title: 神木之島
+  tier: B

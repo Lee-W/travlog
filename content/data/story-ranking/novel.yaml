@@ -84,3 +84,11 @@
   reviews:
   - text: '2024年秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#lycoris-recoil-ordinary-days'
+- title: 我內心的糟糕念頭短篇集
+  translations:
+    ja:
+      title: '小説 僕の心のヤバイやつ'
+  tier: A
+  external_ids:
+    anilist:
+    - 180028
