@@ -2,7 +2,7 @@ Title: 岸邊露伴一動也不動: 懺悔室
 Subtitle: 這能不能算是一種 Heaven's Doll
 Date: 2025-09-01 09:45 +0800
 Category: Review
-Tags: Movie
+Tags: Movie, JOJO
 Slug: thus-spoke-kjishibe-rohan-at-a-confessional
 Cover: /images/post-images/2025-thus-spoke-kjishibe-rohan-at-a-confessional/dolls.jpeg
 Authors: Wei Lee

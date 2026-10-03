@@ -2,7 +2,7 @@ Title: 【推しの子】 Mother and Children
 Subtitle: 星野アイは欲張りなんだ
 Date: 2024-07-11 20:25 +0800
 Category: Review
-Tags: Anime, Movie
+Tags: Anime, Movie, 我推的孩子
 Slug: oshi-no-ko-mother-and-children
 Cover: /images/post-images/2024-oshinoko-mother-and-children/oshinoko.JPG
 Authors: Wei Lee

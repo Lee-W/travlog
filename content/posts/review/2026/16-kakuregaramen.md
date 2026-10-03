@@ -1,7 +1,7 @@
 Title: 隱家拉麵 赤峰店
 Date: 2026-04-22 21:13 +0800
 Category: Review
-Tags: Food, 拉麵, 娃: 睦
+Tags: Food, 拉麵, 娃: 小睦
 Slug: kakuregaramen
 Cover: /images/post-images/2026/restaurant/kakuregaramen.jpeg
 Authors: Wei Lee

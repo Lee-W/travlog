@@ -2,7 +2,7 @@ Title: Star Wars: Andor
 Subtitle: 星戰影集只接受菁英, 絕對不會接受垃圾
 Date: 2023-01-21 19:52 +0800
 Category: Review
-Tags: Star Wars
+Tags: Star Wars, Andor
 Slug: star-wars-andor
 Cover: /images/post-images/2023-star-wars-andor/i-mean-all-of-you.jpg
 Authors: Wei Lee

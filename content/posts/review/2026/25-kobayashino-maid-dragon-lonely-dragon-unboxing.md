@@ -2,7 +2,7 @@ Title: 小林家的龍女僕：害怕寂寞的龍 BD 開箱
 Subtitle: 我好想要實體通路特典 😢
 Date: 2026-05-20 23:47 +0800
 Category: Review
-Tags: Anime, Movie, Kyoto Anime, Unboxing
+Tags: Anime, Movie, Kyoto Anime, Unboxing, 小林家的龍女僕
 Slug: kobayashino-maid-dragon-lonely-dragon-unboxing
 Cover: /images/post-images/2026/kobayashino-maid-dragon-lonely-dragon-unboxing/IMG_3250.jpeg
 Authors: Wei Lee
