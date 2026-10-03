@@ -264,6 +264,11 @@ OSM_TRANSLATIONS = {
     "source_lang": "zh-TW",
 }
 
+# 地點表格預設的欄位順序是：地點、標籤、各資料欄位、連結、照片（🖼）。
+# 欄位多時最後的照片欄要橫向滑才看得到，所以把照片放在地點旁、連結放在
+# 日期前面。沒列出的欄位（日期、國家、縣市、狀態）維持預設順序接在後面。
+OSM_LIST_COLUMN_ORDER = ["name", "images", "tags", "notes", "urls"]
+
 # pelican-seo settings
 SEO_REPORT = True  # SEO report is enabled by default
 SEO_ENHANCER = False
