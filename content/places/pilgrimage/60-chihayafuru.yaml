@@ -1,0 +1,17 @@
+work: 花牌情緣 | ちはやふる
+tags: [動畫]
+locations:
+- name: 近江神宮
+  place_type: 神社
+  lat: 35.032440
+  lon: 135.851309
+  osm_type: node
+  osm_id: 2567367907
+  notes: ''
+  date: '2026-08-25'
+  country: 日本
+  city: 滋賀
+  tags: []
+  images:
+  - /images/pilgrimage/60-chihayafuru/omi-jingu.jpeg
+  urls: []
