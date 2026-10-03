@@ -70,6 +70,27 @@ cinema-city-two:
           hall_note: '体験したなかで音響は最高'
           seat_note: '映像は a studio より良い。D 列はもっと良いかもしれないが、前すぎる可能性もある'
 
+united-cinema-toshimaen:
+  name: ユナイテッド・シネマとしまえん
+  lat: 35.7422605
+  lon: 139.6487454
+  osm_type: node
+  osm_id: 2195624859
+  address: 東京都練馬区練馬4-15-20
+  country: 日本
+  city: 東京
+  district: 練馬
+  items:
+    - hall: Screen 1
+      format: 2D 廳
+      recommended_rows: "D"
+      alt_rows: ""
+      hall_note: 音響不錯，畫面偏普通
+      seat_note: D 排完美，D-08 最完美
+      translations:
+        ja:
+          hall_note: '音響はいいが映像は普通'
+          seat_note: 'D 列は完璧、なかでも D-08 が最高'
 
 cinema-sunshine-masaki:
   name: シネマサンシャイン エミフルMASAKI
@@ -134,26 +155,3 @@ toho-nijo:
         ja:
           hall_note: '音も映像もなかなかいい'
           seat_note: 'どの席でもあまり変わらなさそう。あまり好みではないスクリーンの造り'
-
-
-united-cinema-toshimaen:
-  name: ユナイテッド・シネマとしまえん
-  lat: 35.7422605
-  lon: 139.6487454
-  osm_type: node
-  osm_id: 2195624859
-  address: 東京都練馬区練馬4-15-20
-  country: 日本
-  city: 東京
-  district: 練馬
-  items:
-    - hall: Screen 1
-      format: 2D 廳
-      recommended_rows: "D"
-      alt_rows: ""
-      hall_note: 音響不錯，畫面偏普通
-      seat_note: D 排完美，D-08 最完美
-      translations:
-        ja:
-          hall_note: '音響はいいが映像は普通'
-          seat_note: 'D 列は完璧、なかでも D-08 が最高'
