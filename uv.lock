@@ -409,7 +409,7 @@ requires-dist = [
     { name = "pelican-i18n-subsites", specifier = ">=1.0.0" },
     { name = "pelican-neighbors", specifier = ">=1.2.0" },
     { name = "pelican-on-this-day", specifier = ">=0.4.0" },
-    { name = "pelican-osm", extras = ["validate"], specifier = ">=0.17.0" },
+    { name = "pelican-osm", extras = ["validate"], specifier = ">=0.18.0" },
     { name = "pelican-random-article", specifier = ">=0.2.1" },
     { name = "pelican-render-math", specifier = ">=1.0.3" },
     { name = "pelican-seo", specifier = ">=1.2.2" },
@@ -1082,16 +1082,16 @@ wheels = [
 
 [[package]]
 name = "pelican-osm"
-version = "0.17.0"
+version = "0.18.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pelican" },
     { name = "pelican-tabular" },
     { name = "pyyaml" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/9e/54/42d4cf379abfd617e7eff9f72b20f234f0e4337992d054f5e4fb48fc560e/pelican_osm-0.17.0.tar.gz", hash = "sha256:bb595c6ba555976f732fa1c3f267f2c959d8c46b26ad0dcd85a4a265a7a6859b", size = 65618, upload-time = "2026-09-22T06:22:24.188Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/e7/1f/35b23fafc6ed84a54db917ff838394b9bc5d59cb6d8b120b72bf7205e30c/pelican_osm-0.18.0.tar.gz", hash = "sha256:290b8298061c18a3d8e6144b4b741edc755076b773c03a0a614d70ae6bc26bda", size = 66699, upload-time = "2026-10-03T02:44:09.223Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/48/1f/a338af216c533c9a487da6e129fba4f60211721d3cd3ba5169063ed05bef/pelican_osm-0.17.0-py3-none-any.whl", hash = "sha256:33bd99fb83979ad66f3f1833275e2f5f90cfbfe62c6391ef4ae0d8d22696e515", size = 56105, upload-time = "2026-09-22T06:22:22.885Z" },
+    { url = "https://files.pythonhosted.org/packages/c0/7a/c595a7791db14a275012153034ac71fc04e897c911e673474ba5f99089f5/pelican_osm-0.18.0-py3-none-any.whl", hash = "sha256:9065b9ac59933372feb4c97bc4d3864eda2dd77e6add3b6da1b0a2ba7f0310f1", size = 56884, upload-time = "2026-10-03T02:44:08.001Z" },
 ]
 
 [package.optional-dependencies]
