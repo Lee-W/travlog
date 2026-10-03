@@ -685,6 +685,78 @@
   reviews:
   - text: '2026年夏'
     href: '{filename}/posts/review/2026/37-zombie-land-saga-yumeginga-paradise.md'
+- title: 夏日大作戰
+  translations:
+    ja:
+      title: 'サマーウォーズ'
+  tier: SS
+  external_ids:
+    anilist:
+    - 5681
+  reviews:
+  - text: '2021年冬'
+    href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_14'
+- title: 酷愛電影的龐波小姐
+  translations:
+    ja:
+      title: '映画大好きポンポさん'
+  tier: SS
+  external_ids:
+    anilist:
+    - 99900
+  reviews:
+  - text: '2022年春'
+    href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_15'
+  - text: '2023年秋'
+    href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_12'
+- title: 異國日記
+  translations:
+    ja:
+      title: '違国日記'
+  tier: SS
+  external_ids:
+    anilist:
+    - 177385
+- title: Fate/strange Fake
+  translations:
+    ja:
+      title: 'Fate/strange Fake'
+  tier: SS
+  external_ids:
+    anilist:
+    - 166617
+- title: 公主殿下，「拷問」的時間到了 第二季
+  translations:
+    ja:
+      title: '姫様“拷問”の時間です 第2期'
+  tier: SS
+  external_ids:
+    anilist:
+    - 176370
+- title: 再見菈菈
+  translations:
+    ja:
+      title: 'さよならララ'
+  tier: SS
+  external_ids:
+    anilist:
+    - 177637
+- title: 劇場版魔法少女小圓 瓦爾普魯吉斯的迴天
+  translations:
+    ja:
+      title: '劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉'
+  tier: SS
+  external_ids:
+    anilist:
+    - 133007
+- title: 劇場版 吹響吧！上低音號 最終樂章 後篇
+  translations:
+    ja:
+      title: '最終楽章 響け！ユーフォニアム後編'
+  tier: SS
+  external_ids:
+    anilist:
+    - 194116
 - title: City the animation
   translations:
     ja:
@@ -1502,19 +1574,6 @@
     season_href: '{filename}/posts/review/2022/03-what-i-watch-in-2021-fall.md#_15'
   - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_12'
-- title: 酷愛電影的龐波小姐
-  translations:
-    ja:
-      title: '映画大好きポンポさん'
-  tier: S
-  external_ids:
-    anilist:
-    - 99900
-  reviews:
-  - text: '2022年春'
-    href: '{filename}/posts/review/2023/18-what-i-watch-in-2022-sprint.md#_15'
-  - text: '2023年秋'
-    href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_12'
 - title: 藍色巨星
   translations:
     ja:
@@ -2067,6 +2126,166 @@
   reviews:
   - text: '2026年冬'
     href: '{filename}/posts/review/2026/12-virgin-punk.md'
+- title: 輝夜姬想讓人告白 邁向大人的階梯
+  translations:
+    ja:
+      title: 'かぐや様は告らせたい 大人への階段'
+  tier: S
+  external_ids:
+    anilist:
+    - 194884
+- title: 葬送的芙莉蓮 第二季
+  translations:
+    ja:
+      title: '葬送のフリーレン 第2期'
+  tier: S
+  external_ids:
+    anilist:
+    - 182255
+- title: 咒術迴戰 死滅迴游 前篇
+  translations:
+    ja:
+      title: '呪術廻戦 死滅回游 前編'
+  tier: S
+  external_ids:
+    anilist:
+    - 172463
+- title: SPY×FAMILY 間諜家家酒 Season 3
+  translations:
+    ja:
+      title: 'SPY×FAMILY Season 3'
+  tier: S
+  external_ids:
+    anilist:
+    - 177937
+- title: 【後篇】劇場版 少女樂團吶喊吧-嗨, 未來
+  translations:
+    ja:
+      title: 'ガールズバンドクライ なぁ、未来。'
+  tier: S
+  external_ids:
+    anilist:
+    - 199154
+- title: 超時空輝耀姬
+  translations:
+    ja:
+      title: '超かぐや姫！'
+  tier: S
+  external_ids:
+    anilist:
+    - 201903
+- title: 跳躍吧！時空少女全新4K修復版
+  translations:
+    ja:
+      title: '時をかける少女'
+  tier: S
+  external_ids:
+    anilist:
+    - 2236
+- title: 機動戰士鋼彈 閃光的哈薩威
+  translations:
+    ja:
+      title: '機動戦士ガンダム 閃光のハサウェイ'
+  tier: S
+  external_ids:
+    anilist:
+    - 105595
+- title: 劇場版 我內心的糟糕念頭
+  translations:
+    ja:
+      title: '劇場版 僕の心のヤバイやつ'
+  tier: S
+  external_ids:
+    anilist:
+    - 182317
+- title: 空之境界 第五章 矛盾螺旋
+  translations:
+    ja:
+      title: '空の境界 矛盾螺旋'
+  tier: S
+  external_ids:
+    anilist:
+    - 4282
+- title: 淡島百景
+  translations:
+    ja:
+      title: '淡島百景'
+  tier: S
+  external_ids:
+    anilist:
+    - 177501
+- title: 上伊那牡丹，醉姿如百合
+  translations:
+    ja:
+      title: '上伊那ぼたん、酔へる姿は百合の花'
+  tier: S
+  external_ids:
+    anilist:
+    - 187869
+- title: 女僕小姐的貪吃日常
+  translations:
+    ja:
+      title: 'メイドさんは食べるだけ'
+  tier: S
+  external_ids:
+    anilist:
+    - 197868
+- title: 銀河特急 Milky☆Subway - 劇場版
+  translations:
+    ja:
+      title: '銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き'
+  tier: S
+  external_ids:
+    anilist:
+    - 204949
+- title: 感謝對戰。～大小姐才不玩格鬥遊戲～
+  translations:
+    ja:
+      title: '対ありでした。 ～お嬢さまは格闘ゲームなんてしない～'
+  tier: S
+  external_ids:
+    anilist:
+    - 128757
+- title: 穹廬下的魔女
+  translations:
+    ja:
+      title: '天幕のジャードゥーガル'
+  tier: S
+  external_ids:
+    anilist:
+    - 190569
+- title: Re：從零開始的異世界生活 第四季
+  translations:
+    ja:
+      title: 'Re:ゼロから始める異世界生活 4th season'
+  tier: S
+  external_ids:
+    anilist:
+    - 189046
+- title: THE WORLD IS DANCING 世界在起舞
+  translations:
+    ja:
+      title: 'ワールド イズ ダンシング'
+  tier: S
+  external_ids:
+    anilist:
+    - 206521
+- title: 攻殼機動隊 2026
+  translations:
+    ja:
+      title: '攻殻機動隊 THE GHOST IN THE SHELL'
+  tier: S
+  external_ids:
+    anilist:
+    - 177699
+- title: 劇場版吉伊卡哇人魚島的秘密
+  translations:
+    ja:
+      title: '映画ちいかわ 人魚の島のひみつ'
+  tier: S
+  external_ids:
+    anilist:
+    - 202717
 - title: 學姊是男孩 劇場版：雨後天晴
   translations:
     ja:
@@ -2494,17 +2713,6 @@
   reviews:
   - text: '2021年冬'
     href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_18'
-- title: 夏日大作戰
-  translations:
-    ja:
-      title: 'サマーウォーズ'
-  tier: A
-  external_ids:
-    anilist:
-    - 5681
-  reviews:
-  - text: '2021年冬'
-    href: '{filename}/posts/review/2021/02-what-i-watch-in-2021-winter.md#_14'
 - title: Great Pretender
   translations:
     ja:
@@ -3889,6 +4097,143 @@
   reviews:
   - text: '2025年春'
     href: '{filename}/posts/review/2026/27-what-i-watched-in-2025-spring.md#thank-you'
+- title: 相反的你和我
+  translations:
+    ja:
+      title: '正反対な君と僕'
+  tier: A
+  external_ids:
+    anilist:
+    - 184951
+- title: 地獄樂 第二季
+  translations:
+    ja:
+      title: '地獄楽 第二期'
+  tier: A
+  external_ids:
+    anilist:
+    - 166613
+- title: 和雨．和你
+  translations:
+    ja:
+      title: '雨と君と'
+  tier: A
+  external_ids:
+    anilist:
+    - 180425
+- title: 機動戰士鋼彈 閃光的哈薩威 喀耳刻的魔女
+  translations:
+    ja:
+      title: '機動戦士ガンダム 閃光のハサウェイ キルケーの魔女'
+  tier: A
+  external_ids:
+    anilist:
+    - 113971
+- title: 空之境界 第三章 痛覺殘留
+  translations:
+    ja:
+      title: '空の境界 痛覚残留'
+  tier: A
+  external_ids:
+    anilist:
+    - 3783
+- title: 空之境界 第四章 伽藍之洞
+  translations:
+    ja:
+      title: '空の境界 伽藍の洞'
+  tier: A
+  external_ids:
+    anilist:
+    - 4280
+- title: 朱音落語
+  translations:
+    ja:
+      title: 'あかね噺'
+  tier: A
+  external_ids:
+    anilist:
+    - 196935
+- title: 魔法帽工作室
+  translations:
+    ja:
+      title: 'とんがり帽子のアトリエ'
+  tier: A
+  external_ids:
+    anilist:
+    - 147105
+- title: 銀河特急 Milky☆Subway
+  translations:
+    ja:
+      title: '銀河特急 ミルキー☆サブウェイ'
+  tier: A
+  external_ids:
+    anilist:
+    - 189069
+- title: BanG Dream! 第三季
+  translations:
+    ja:
+      title: 'BanG Dream! 3rd Season'
+  tier: A
+  external_ids:
+    anilist:
+    - 101634
+- title: 境界的彼方
+  translations:
+    ja:
+      title: '境界の彼方'
+  tier: A
+  external_ids:
+    anilist:
+    - 18153
+- title: BanG Dream!
+  translations:
+    ja:
+      title: 'BanG Dream!（バンドリ！）'
+  tier: A
+  external_ids:
+    anilist:
+    - 87435
+    - 98847
+- title: 世外
+  translations:
+    ja:
+      title: '世外'
+  tier: A
+  external_ids:
+    anilist:
+    - 184351
+- title: 黃泉使者
+  translations:
+    ja:
+      title: '黄泉のツガイ'
+  tier: A
+  external_ids:
+    anilist:
+    - 195600
+- title: BanG Dream! YUME∞MITA
+  translations:
+    ja:
+      title: 'バンドリ！ ゆめ∞みた'
+  tier: A
+  external_ids:
+    anilist:
+    - 198376
+- title: 稜鏡戀曲
+  translations:
+    ja:
+      title: 'プリズム輪舞曲'
+  tier: A
+  external_ids:
+    anilist:
+    - 202955
+- title: 劇場版 吹響吧！上低音號 最終樂章 前篇
+  translations:
+    ja:
+      title: '最終楽章 響け！ユーフォニアム 前編'
+  tier: A
+  external_ids:
+    anilist:
+    - 188035
 - title: 碰之道
   translations:
     ja:
@@ -4707,6 +5052,70 @@
   reviews:
   - text: '2026年春'
     href: '{filename}/posts/review/2026/14-Ansatsu-Kyoushitsu-Minna-no-Jikan.md'
+- title: 天穗之咲稻姬 - 特別篇
+  translations:
+    ja:
+      title: '天穂のサクナヒメ ココロワ稲作日誌'
+  tier: B
+  external_ids:
+    anilist:
+    - 184280
+- title: 空之境界 第六章 忘卻錄音
+  translations:
+    ja:
+      title: '空の境界 忘却録音'
+  tier: B
+  external_ids:
+    anilist:
+    - 5204
+- title: 婚姻劇毒
+  translations:
+    ja:
+      title: 'マリッジトキシン'
+  tier: B
+  external_ids:
+    anilist:
+    - 199547
+- title: 空之境界 終章
+  translations:
+    ja:
+      title: '空の境界 終章'
+  tier: B
+  external_ids:
+    anilist:
+    - 6954
+- title: MEZZO FORTE 次強音
+  translations:
+    ja:
+      title: 'メゾフォルテ'
+  tier: B
+  external_ids:
+    anilist:
+    - 221
+- title: 花綠青綻放之時
+  translations:
+    ja:
+      title: '花緑青が明ける日に'
+  tier: B
+  external_ids:
+    anilist:
+    - 177132
+- title: 空之境界 未來福音
+  translations:
+    ja:
+      title: '空の境界 未来福音'
+  tier: B
+  external_ids:
+    anilist:
+    - 14807
+- title: 劇場版 境界的彼方 -I'LL BE HERE- 未來篇
+  translations:
+    ja:
+      title: '劇場版 境界の彼方 I''LL BE HERE 未来篇'
+  tier: B
+  external_ids:
+    anilist:
+    - 20963
 - title: 同居人是貓
   translations:
     ja:
@@ -5247,6 +5656,14 @@
     href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_19'
   - text: 劇場版 紅蓮螺巖 紅蓮篇
     href: '{filename}/posts/review/2024/04-what-i-watch-in-2023-fall.md#_20'
+- title: 春夏秋冬代行者 春之舞
+  translations:
+    ja:
+      title: '春夏秋冬代行者 春の舞'
+  tier: D
+  external_ids:
+    anilist:
+    - 190143
 - title: 龍與雀斑公主
   translations:
     ja:

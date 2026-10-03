@@ -305,6 +305,30 @@
   external_ids:
     anilist:
     - 97418
+- title: 少女終末旅行
+  translations:
+    ja:
+      title: '少女終末旅行'
+  tier: S
+  external_ids:
+    anilist:
+    - 85412
+- title: 魔法少女小圓「魔獸篇」
+  translations:
+    ja:
+      title: '魔法少女まどか☆マギカ [魔獣編]'
+  tier: S
+  external_ids:
+    anilist:
+    - 86410
+- title: 淡島百景
+  translations:
+    ja:
+      title: '淡島百景'
+  tier: S
+  external_ids:
+    anilist:
+    - 55878
 - title: 異國日記
   translations:
     ja:
@@ -405,6 +429,22 @@
   reviews:
   - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#_26'
+- title: 秒速 5 公分
+  translations:
+    ja:
+      title: '秒速5センチメートル'
+  tier: A
+  external_ids:
+    anilist:
+    - 53419
+- title: 深夜 Punch
+  translations:
+    ja:
+      title: '真夜中ぱんチ'
+  tier: A
+  external_ids:
+    anilist:
+    - 176389
 - title: 四月是你的謊言 最後樂章
   translations:
     ja:
