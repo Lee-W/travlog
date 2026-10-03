@@ -1,0 +1,54 @@
+work: 爆音少女台灣篇 | ばくおん!! 台湾編
+tags: [漫畫]
+locations:
+- name: 阿村第二代牛肉湯
+  lat: 22.990202
+  lon: 120.196529
+  osm_type: node
+  osm_id: 3529504687
+  notes: ''
+  date: '2026-07-21'
+  country: 臺灣
+  city: 臺南市
+  tags:
+  - 餐廳
+  images:
+  - /images/pilgrimage/59-bakuon-taiwan-hen/a-cun-beef-soup.jpeg
+  urls: []
+- name: 阿堂鹹粥
+  lat: 22.989936
+  lon: 120.197953
+  osm_type: node
+  osm_id: 2140013894
+  notes: 夜裡鐵門已拉下，隔天早上才吃到虱目魚肚粥
+  date:
+  - '2026-07-21'
+  - '2026-07-22'
+  country: 臺灣
+  city: 臺南市
+  tags:
+  - 餐廳
+  images:
+  - /images/pilgrimage/59-bakuon-taiwan-hen/a-tang-salty-congee.jpeg
+  - /images/pilgrimage/59-bakuon-taiwan-hen/a-tang-salty-congee-milkfish-belly.jpeg
+  urls: []
+  translations:
+    ja:
+      notes: '夜はシャッターが閉まっていて、翌朝サバヒーの腹身粥を食べた'
+- name: 林百貨
+  lat: 22.99171
+  lon: 120.202527
+  osm_type: way
+  osm_id: 203987696
+  notes: 第 9 話
+  date: '2026-07-22'
+  country: 臺灣
+  city: 臺南市
+  tags:
+  - 百貨公司
+  images:
+  - /images/pilgrimage/59-bakuon-taiwan-hen/hayashi-department-store.jpeg
+  urls: []
+  translations:
+    ja:
+      notes: '第9話'

@@ -36,3 +36,18 @@ locations:
   images:
   - /images/pilgrimage/39-violet-evergarden/Königstraße-49.JPG  # wrong GPS
   urls: []
+- name: 京都文化博物館
+  place_type: 博物館
+  lat: 35.008714
+  lon: 135.762314
+  notes: 故事中郵局的原型
+  date: '2026-08-28'
+  country: 日本
+  city: 京都
+  tags: []
+  images:
+  - /images/pilgrimage/39-violet-evergarden/kyoto-museum-of-culture.jpeg
+  urls: []
+  translations:
+    ja:
+      notes: '作中の郵便局のモデル'

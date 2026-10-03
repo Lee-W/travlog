@@ -41,3 +41,43 @@ locations:
   translations:
     ja:
       notes: '土日 10〜16時'
+- name: 石山駅
+  place_type: 車站
+  lat: 34.979443
+  lon: 135.900768
+  osm_type: node
+  osm_id: 9569944378
+  notes: ''
+  date: '2026-08-25'
+  country: 日本
+  city: 滋賀
+  tags: []
+  images:
+  - /images/pilgrimage/06-chuunibyou-demo-koi-ga-shitai/ishiyama-station.jpeg
+  - /images/pilgrimage/06-chuunibyou-demo-koi-ga-shitai/ishiyama-station-2.jpeg
+  - /images/pilgrimage/06-chuunibyou-demo-koi-ga-shitai/ishiyama-station-3.jpeg
+  urls: []
+- name: 瀬田川橋梁
+  place_type: 橋
+  lat: 34.980072
+  lon: 135.907531
+  notes: ''
+  date: '2026-08-25'
+  country: 日本
+  city: 滋賀
+  tags: []
+  images:
+  - /images/pilgrimage/06-chuunibyou-demo-koi-ga-shitai/seta-river-railway-bridge.jpeg
+  urls: []
+- name: 唐橋公園
+  place_type: 公園
+  lat: 34.976539
+  lon: 135.908356
+  notes: ''
+  date: '2026-08-25'
+  country: 日本
+  city: 滋賀
+  tags: []
+  images:
+  - /images/pilgrimage/06-chuunibyou-demo-koi-ga-shitai/karahashi-park.jpeg
+  urls: []
