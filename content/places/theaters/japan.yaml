@@ -91,6 +91,16 @@ united-cinema-toshimaen:
         ja:
           hall_note: '音響はいいが映像は普通'
           seat_note: 'D 列は完璧、なかでも D-08 が最高'
+    - hall: Screen 6
+      format: 2D 廳
+      recommended_rows: "D"
+      alt_rows: ""
+      hall_note: 音響不錯，畫面偏普通
+      seat_note: D 排完美，D-08 最完美
+      translations:
+        ja:
+          hall_note: '音響はいいが映像は普通'
+          seat_note: 'D 列は完璧、なかでも D-08 が最高'
 
 cinema-sunshine-masaki:
   name: シネマサンシャイン エミフルMASAKI
