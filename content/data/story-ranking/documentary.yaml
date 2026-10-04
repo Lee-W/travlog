@@ -63,8 +63,14 @@
   - text: '2026年春'
     href: '{filename}/posts/review/2026/33-104-sai-tetsuyo-obasan.md'
 - title: 大風之島
+  translations:
+    ja:
+      title: '大風の島'
   tier: S
 - title: 冠軍之路
+  translations:
+    ja:
+      title: 'HERO！HITO！'
   tier: S
 - title: 法蘭克札帕：從前衛到當代
   translations:
@@ -100,6 +106,12 @@
   - text: '2024年秋'
     href: '{filename}/posts/review/2025/08-what-i-watched-in-2024-fall.md#_17'
 - title: 傳奇女伶 高菊花
+  translations:
+    ja:
+      title: 'LA PALOMA'
   tier: B
 - title: 神木之島
+  translations:
+    ja:
+      title: 'The Island and the Trees'
   tier: B

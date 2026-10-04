@@ -111,6 +111,9 @@
   - text: '2026'
     href: '{filename}/posts/review/2026/42-another-round.md'
 - title: 日租家庭
+  translations:
+    ja:
+      title: 'レンタル・ファミリー'
   tier: SS
   external_ids:
     letterboxd:
@@ -323,25 +326,43 @@
   - text: '2025年冬'
     href: '{filename}/posts/review/2026/04-what-i-watched-in-2025-winter.md#-10'
 - title: 總統的蛋糕
+  translations:
+    ja:
+      title: '大統領のケーキ'
   tier: S
   external_ids:
     letterboxd:
     - the-presidents-cake
 - title: 大濛
+  translations:
+    ja:
+      title: '霧のごとく'
   tier: S
   external_ids:
     letterboxd:
     - a-foggy-tale
 - title: 生命之詩
+  translations:
+    ja:
+      title: 'ポエトリー アグネスの詩'
   tier: S
   external_ids:
     letterboxd:
     - poetry
 - title: 情感的價值
+  translations:
+    ja:
+      title: 'センチメンタル・バリュー'
   tier: S
 - title: 蜘蛛人：重生日
+  translations:
+    ja:
+      title: 'スパイダーマン：ブランド・ニュー・デイ'
   tier: S
 - title: 奧德賽
+  translations:
+    ja:
+      title: 'オデュッセイア'
   tier: S
 - title: 無敵破壞王2：網路大暴走
   translations:
@@ -632,30 +653,54 @@
   - text: '2026年春'
     href: '{filename}/posts/review/2026/18-michael.md'
 - title: 偶然與想像
+  translations:
+    ja:
+      title: '偶然と想像'
   tier: A
   external_ids:
     letterboxd:
     - wheel-of-fortune-and-fantasy
 - title: 極限返航
+  translations:
+    ja:
+      title: 'プロジェクト・ヘイル・メアリー'
   tier: A
+  external_ids:
+    letterboxd:
+    - project-hail-mary
 - title: 薄荷糖
+  translations:
+    ja:
+      title: 'ペパーミント・キャンディー'
   tier: A
   external_ids:
     letterboxd:
     - peppermint-candy
 - title: 玩具總動員 5
+  translations:
+    ja:
+      title: 'トイ・ストーリー５'
   tier: A
   external_ids:
     letterboxd:
     - toy-story-5
 - title: 小雨愛蜜莉
+  translations:
+    ja:
+      title: 'アメリと雨の物語'
   tier: A
   external_ids:
     letterboxd:
     - little-amelie-or-the-character-of-rain
 - title: 超級瑪利歐銀河電影版
+  translations:
+    ja:
+      title: 'ザ・スーパーマリオギャラクシー・ムービー'
   tier: A
 - title: 熟女甜秘密
+  translations:
+    ja:
+      title: 'Sweet Forty'
   tier: A
 - title: 驀然回首
   translations:
@@ -886,6 +931,9 @@
     letterboxd:
     - the-purge
 - title: 外賣
+  translations:
+    ja:
+      title: 'テイクアウト'
   tier: B
 - title: 素還真
   tier: C
