@@ -1,5 +1,5 @@
 Title: 最近走過的幾個聖地，2026 年夏
-Date: 2026-10-03 11:44 +0900
+Date: 2026-10-04 13:22 +0900
 Category: Travel
 Tags: Taiwan, Japan, 聖地巡禮
 Slug: pilgrimage-map-update-2026-summer
