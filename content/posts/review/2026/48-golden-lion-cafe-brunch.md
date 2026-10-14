@@ -1,12 +1,11 @@
 Title: 金獅取水
 Subtitle: 夢想開始的地方
-Date: 2026-09-06 21:27 +0800
+Date: 2026-10-14 18:12 +0800
 Category: Review
 Tags: Food, 娃: 小睦
 Slug: golden-lion-cafe-brunch
 Cover: /images/post-images/2026/golden-lion-cafe-brunch/tofu-chicken-burger-set.jpeg
 Authors: Wei Lee
-Status: draft
 
 這樣的副標題是不是給人一種キラキラドキドキ的感覺呢
 
