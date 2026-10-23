@@ -220,6 +220,11 @@ RANDOM_ARTICLE_BUTTON = True
 SUMMARY_LINK_FORMAT = ""
 SITEMAP = {
     "format": "xml",
+    "priorities": {
+        "articles": 0.7,
+        "indexes": 0.5,
+        "pages": 0.6,
+    },
     "changefreqs": {
         "articles": "monthly",
         "pages": "monthly",
