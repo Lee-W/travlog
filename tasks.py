@@ -212,7 +212,7 @@ def format(c):
 
 @task
 def security_check(c):
-    """Run pip-autid on dependencies"""
+    """Run pip-audit on dependencies"""
     # CVE-2026-4539 (pygments < 2.20.0) is a transitive dev-only dependency with
     # no fix available in our pinned tree; ignore until an upgrade is possible.
     with tempfile.NamedTemporaryFile(
