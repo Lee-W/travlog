@@ -377,8 +377,6 @@ dependencies = [
     { name = "pelican-webassets" },
     { name = "pillow" },
     { name = "pymdown-extensions" },
-    { name = "python-gettext" },
-    { name = "typogrify" },
     { name = "webassets" },
 ]
 
@@ -424,8 +422,6 @@ requires-dist = [
     { name = "pelican-webassets", specifier = ">=2.0.0" },
     { name = "pillow", specifier = ">=11.0.0" },
     { name = "pymdown-extensions", specifier = ">=10.16.1" },
-    { name = "python-gettext", specifier = ">=5.0" },
-    { name = "typogrify", specifier = ">=2.0.7" },
     { name = "webassets", specifier = ">=2.0" },
 ]
 
@@ -1527,15 +1523,6 @@ wheels = [
 ]
 
 [[package]]
-name = "python-gettext"
-version = "5.0"
-source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/f6/c8/85df0d3956bebdbaff936df47a5705be9e0b42404589a07065a39c8324e5/python-gettext-5.0.tar.gz", hash = "sha256:869af1ea45e3dab6180557259824c2a62f1800e1286226af912431fe75c5084c", size = 9879, upload-time = "2023-03-30T06:24:37.991Z" }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/0d/e7/70b80ec3480b9c453366a396e31eaa2f00b5a6824e1600d23f796e848b6b/python_gettext-5.0-py3-none-any.whl", hash = "sha256:083d4c72c5e72a6bd83b0570770792b9a1e572d8ab3e9cba554e0cd4781aa84a", size = 13086, upload-time = "2023-03-30T06:24:36.274Z" },
-]
-
-[[package]]
 name = "pyyaml"
 version = "6.0.3"
 source = { registry = "https://pypi.org/simple" }
@@ -1724,15 +1711,6 @@ wheels = [
 ]
 
 [[package]]
-name = "smartypants"
-version = "2.0.2"
-source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/6c/8f/a033f78196d9467b402d100ec40b95166d43fa2642693f23f771473d8195/smartypants-2.0.2.tar.gz", hash = "sha256:39d64ce1d7cc6964b698297bdf391bc12c3251b7f608e6e55d857cd7c5f800c6", size = 16392, upload-time = "2025-06-17T07:59:48.122Z" }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/39/2c/f12558bff677defbfc64bf32441daec245df608dd2d9a12168f1d766ad75/smartypants-2.0.2-py2.py3-none-any.whl", hash = "sha256:9471578606e8ee0740065bf8771f55fec8c83313cb98c5d1c1864ddd389d0f3a", size = 10168, upload-time = "2025-06-17T07:59:46.765Z" },
-]
-
-[[package]]
 name = "sortedcontainers"
 version = "2.4.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1828,18 +1806,6 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/f6/cc/6253133b5bb138fc3306cebfbda2c520f545d36b5be2c7255cc528bb45d6/typing_extensions-4.16.0.tar.gz", hash = "sha256:dc983d19a509c94dba722ee6abd33940f7c05a89e243c47e907eb4db6f1a43e5", size = 113555, upload-time = "2026-07-02T08:40:05.92Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/49/d3/b8441a820a491ddfc024b0b0cf0393375b75ea13866d9c66727e54c2fc80/typing_extensions-4.16.0-py3-none-any.whl", hash = "sha256:481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8", size = 45571, upload-time = "2026-07-02T08:40:04.659Z" },
-]
-
-[[package]]
-name = "typogrify"
-version = "2.1.0"
-source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "smartypants" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/93/8c/b73fe0050bbf67c172b7c6d0c74c356939de0e891e669667f20381c099a8/typogrify-2.1.0.tar.gz", hash = "sha256:f0aa004e98032a6e6be4c9da65e7eb7150e36ca3bf508adbcda82b4d003e61ee", size = 28622, upload-time = "2025-01-12T16:38:12.431Z" }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/ab/7f/3221bc6bd429a78e37b96aac309a66512af35360b69c67d20bb5e4ef4e5b/typogrify-2.1.0-py3-none-any.whl", hash = "sha256:fdfd2bf8ad3df7296074187e89a890b68b116263bd4e0f4aefe768291b0d854e", size = 12411, upload-time = "2025-01-12T16:38:11.112Z" },
 ]
 
 [[package]]
