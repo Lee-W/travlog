@@ -31,6 +31,8 @@ disable = [
   "MD036",
   # MD041 - Start Your Document with a Clear Title
   "MD041",
+  # MD044 - Proper names capitalization: rewrites Slug, Cover paths and URL text
+  "MD044",
   # MD051 - Link anchors should exist
   "MD051",
   # MD052 - First line should be a top-level header: Permits other content before the main heading
@@ -56,6 +58,9 @@ tables = false
 
 [rules.MD044]
 names = ["rumdl", "Markdown", "GitHub"]
+
+[rules.MD046]
+style = "fenced"
 
 [rules.MD048]
 style = "backtick"
