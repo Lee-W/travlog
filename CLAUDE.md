@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-This is a personal entertainment blog built with [Pelican](https://getpelican.com/) (Python static site generator), using a customized [Attila](https://github.com/Lee-W/attila) theme. Content is written in Markdown. The site is deployed to Cloudflare Pages via `wrangler.toml`.
+This is a personal entertainment blog built with [Pelican](https://getpelican.com/) (Python static site generator), using a customized [Attila](https://github.com/Lee-W/attila) theme. Content is written in Markdown. The site is deployed to Cloudflare Workers static assets via `wrangler.toml` and `cloudflare/wrangler-action` (`.github/workflows/deploy.yaml`).
 
 ## Common Commands
 

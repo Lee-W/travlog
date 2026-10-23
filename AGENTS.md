@@ -4,7 +4,7 @@ This file provides guidance to Codex (Codex.ai/code) when working with code in t
 
 ## Overview
 
-This is a personal entertainment blog built with [Pelican](https://getpelican.com/) (Python static site generator), using a customized [Attila](https://github.com/Lee-W/attila) theme. Content is written in Markdown. The site is deployed to Cloudflare Pages via `wrangler.toml`.
+This is a personal entertainment blog built with [Pelican](https://getpelican.com/) (Python static site generator), using a customized [Attila](https://github.com/Lee-W/attila) theme. Content is written in Markdown. The site is deployed to Cloudflare Workers static assets via `wrangler.toml` and `cloudflare/wrangler-action` (`.github/workflows/deploy.yaml`).
 
 ## Common Commands
 
@@ -63,7 +63,7 @@ content/
   data/        # YAML data files (story-ranking, concerts, etc.)
 ```
 
-Posts are organized by category then year (e.g., `content/posts/review/2026/`). Filenames are prefixed with a sequential number (e.g., `14-what-i-watched-in-2026-spring.md`).
+Posts are organized by category then year (e.g., `content/posts/review/2026/`). Filenames are created without a numeric prefix locally; GitHub Actions assigns the final sequence number at publication time.
 
 ### Post Metadata
 
@@ -90,7 +90,6 @@ Key plugins configured in `pelicanconf.py`:
 - `pelican.plugins.series` — groups posts into series
 - `pelican.plugins.webassets` — CSS/JS asset bundling
 - `pelican.plugins.seo` — SEO report and enhancer
-- `pelican.plugins.deadlinks` — dead link validation (disabled by default)
 - `pelican.plugins.tabular` — table rendering from YAML data files
 - `pelican.plugins.osm` — OpenStreetMap integration for pilgrimage/place data
 - `pagefind` — client-side search (must be built separately with `--build-pagefind`)
