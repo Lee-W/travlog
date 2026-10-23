@@ -2,6 +2,7 @@ import datetime
 import glob
 import hashlib
 import os
+import posixpath
 import re
 import shlex
 import shutil
@@ -9,12 +10,15 @@ import subprocess
 import sys
 import tempfile
 import urllib.parse
+import xml.etree.ElementTree as ET
 from collections import defaultdict
 from collections.abc import Sequence
 from pathlib import Path
 from string import Template
+from urllib.parse import unquote, urlparse
 from zoneinfo import ZoneInfo
 
+from bs4 import BeautifulSoup
 from invoke.exceptions import Exit
 from invoke.main import program
 from invoke.tasks import task
@@ -50,6 +54,181 @@ def _build_pagefind():
     )
 
 
+def _find_output_target(output_root: Path, page: Path, href: str) -> Path | None:
+    """Return the generated file `href` resolves to, or None if it is missing."""
+    parsed = urlparse(href)
+    if parsed.netloc and parsed.netloc not in {
+        SETTINGS["HOST"],
+        urlparse(SETTINGS["SITEURL"]).netloc,
+    }:
+        return None
+    if parsed.scheme in {"mailto", "tel", "javascript"} or not parsed.path:
+        return None
+
+    if parsed.path.startswith("/"):
+        target = output_root / unquote(parsed.path.lstrip("/"))
+    else:
+        target = page.parent / unquote(parsed.path)
+    # Articles are published as <slug>/index.html under an extensionless URL.
+    candidates = [target / "index.html"] if target.is_dir() else [target]
+    if not target.suffix:
+        candidates.extend((target / "index.html", target.with_suffix(".html")))
+    return next(
+        (candidate.resolve() for candidate in candidates if candidate.is_file()), None
+    )
+
+
+def _add_hreflang_links(soup: BeautifulSoup) -> bool:
+    """Add alternate-language metadata for pages with real translations."""
+    canonical = soup.select_one('link[rel="canonical"][href]')
+    language_menu = soup.select_one("#nav-language-menu")
+    if canonical is None or language_menu is None or soup.head is None:
+        return False
+
+    canonical_url = canonical["href"]
+    canonical_path = urlparse(canonical_url).path
+    site_root = urllib.parse.urljoin(canonical_url, "/")
+    language_roots = {
+        urlparse(root).path.rstrip("/"): "zh-TW" if lang == "zh-tw" else lang
+        for lang, root in SETTINGS["LANGUAGES"]
+    }
+    alternates: dict[str, str] = {}
+    for anchor in language_menu.find_all("a", href=True):
+        path = urlparse(anchor["href"]).path
+        # The language picker falls back to a subsite's home page when no
+        # translation exists. Do not advertise that fallback as a translation.
+        if (
+            path.rstrip("/") in language_roots
+            and canonical_path.rstrip("/") not in language_roots
+        ):
+            continue
+        for root in sorted(language_roots, key=len, reverse=True):
+            if path.rstrip("/") == root or path.startswith(f"{root}/"):
+                alternates[language_roots[root]] = urllib.parse.urljoin(site_root, path)
+                break
+
+    if len(alternates) < 2:
+        return False
+
+    for old_link in soup.select('link[rel="alternate"][hreflang]'):
+        old_link.decompose()
+    for lang, href in sorted(alternates.items()):
+        soup.head.append(
+            soup.new_tag("link", rel="alternate", hreflang=lang, href=href)
+        )
+    if "zh-TW" in alternates:
+        soup.head.append(
+            soup.new_tag(
+                "link",
+                rel="alternate",
+                hreflang="x-default",
+                href=alternates["zh-TW"],
+            )
+        )
+    return True
+
+
+def _normalize_sitemap(path: Path) -> int:
+    """Merge duplicate sitemap entries (untranslated pages appear in both sites)."""
+    if not path.exists():
+        return 0
+
+    sitemap_namespace = "http://www.sitemaps.org/schemas/sitemap/0.9"
+    xhtml_namespace = "http://www.w3.org/1999/xhtml"
+    ET.register_namespace("", sitemap_namespace)
+    ET.register_namespace("xhtml", xhtml_namespace)
+    tree = ET.parse(path)
+    root = tree.getroot()
+    loc_tag = f"{{{sitemap_namespace}}}loc"
+    alternate_tag = f"{{{xhtml_namespace}}}link"
+    seen: dict[str, ET.Element] = {}
+    duplicates = 0
+
+    for url_element in list(root):
+        loc = url_element.find(loc_tag)
+        if loc is None or not loc.text:
+            continue
+        if loc.text in seen:
+            target = seen[loc.text]
+            existing_languages = {
+                link.get("hreflang") for link in target.findall(alternate_tag)
+            }
+            for alternate in url_element.findall(alternate_tag):
+                if alternate.get("hreflang") not in existing_languages:
+                    target.append(alternate)
+            root.remove(url_element)
+            duplicates += 1
+            continue
+        seen[loc.text] = url_element
+
+    tree.write(path, encoding="utf-8", xml_declaration=True)
+    return duplicates
+
+
+def _fix_internal_links() -> None:
+    """Repair generated links for i18n, add hreflang and dedupe the sitemap."""
+    output_root = Path(CONFIG["deploy_path"]).resolve()
+    # Longest first, so /ja/ never loses to the default language's "/".
+    subsite_roots = sorted(
+        (
+            urlparse(language_root).path
+            for _, language_root in SETTINGS["LANGUAGES"]
+            if urlparse(language_root).path.strip("/")
+        ),
+        key=len,
+        reverse=True,
+    )
+
+    fixed = 0
+    hreflang_pages = 0
+    for page in output_root.rglob("*.html"):
+        soup = BeautifulSoup(page.read_text(encoding="utf-8"), "html.parser")
+        changed = False
+        for anchor in soup.find_all("a", href=True):
+            href = anchor["href"]
+            parsed = urlparse(href)
+            if (
+                parsed.netloc
+                and parsed.netloc
+                not in {SETTINGS["HOST"], urlparse(SETTINGS["SITEURL"]).netloc}
+                or parsed.scheme in {"mailto", "tel", "javascript"}
+                or not parsed.path
+                or _find_output_target(output_root, page, href) is not None
+            ):
+                continue
+            # The language picker links to a translation that was never built
+            # (articles are not generated in /ja/); it carries its own fallback.
+            replacement = anchor.get("data-fallback")
+            if replacement is None and "/../" in parsed.path:
+                replacement = posixpath.normpath(parsed.path)
+            if replacement is None and (
+                "/tag/" in parsed.path
+                or "/category/" in parsed.path
+                or "/author/" in parsed.path
+            ):
+                # Fall back to the home page of the subsite the link sits in.
+                replacement = next(
+                    (root for root in subsite_roots if parsed.path.startswith(root)),
+                    "/",
+                )
+            if replacement is None:
+                continue
+            anchor["href"] = parsed._replace(path=replacement).geturl()
+            changed = True
+            fixed += 1
+        if _add_hreflang_links(soup):
+            changed = True
+            hreflang_pages += 1
+        if changed:
+            page.write_text(str(soup), encoding="utf-8")
+    sitemap_duplicates = _normalize_sitemap(output_root / "sitemap.xml")
+    print(
+        f"Fixed {fixed} generated internal link(s); "
+        f"added hreflang to {hreflang_pages} page(s); "
+        f"removed {sitemap_duplicates} duplicate sitemap URL(s)"
+    )
+
+
 @task
 def clean(c):
     """Remove generated files"""
@@ -62,6 +241,7 @@ def clean(c):
 def build(c, build_pagefind=False):
     """Build local version of site"""
     pelican_run("-s {settings_base}".format(**CONFIG))
+    _fix_internal_links()
     if build_pagefind:
         _build_pagefind()
 
@@ -70,6 +250,7 @@ def build(c, build_pagefind=False):
 def rebuild(c, build_pagefind=False):
     """`build` with the delete switch"""
     pelican_run("-d -s {settings_base}".format(**CONFIG))
+    _fix_internal_links()
     if build_pagefind:
         _build_pagefind()
 
@@ -114,6 +295,7 @@ def reserve(c):
 def preview(c):
     """Build production version of site"""
     pelican_run("-s {settings_publish}".format(**CONFIG))
+    _fix_internal_links()
     _build_pagefind()
 
 
@@ -160,6 +342,7 @@ def livereload(c):
 def build_publish(c):
     """Build pages with publishconf.py"""
     pelican_run("-s {settings_publish}".format(**CONFIG))
+    _fix_internal_links()
     _build_pagefind()
 
 
