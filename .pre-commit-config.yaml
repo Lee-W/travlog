@@ -28,7 +28,7 @@ repos:
       - id: blacken-docs
         args: ["--line-length", "110"]
         additional_dependencies:
-        - black==24.8.0
+        - black==26.10.1
 
   - repo: https://github.com/astral-sh/uv-pre-commit
     rev: 0.11.6
