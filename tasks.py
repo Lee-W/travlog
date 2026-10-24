@@ -395,19 +395,21 @@ def format(c):
 
 @task
 def security_check(c):
-    """Run pip-audit on dependencies"""
-    # CVE-2026-4539 (pygments < 2.20.0) is a transitive dev-only dependency with
-    # no fix available in our pinned tree; ignore until an upgrade is possible.
+    """Run pip-audit on the dependency versions pinned in uv.lock"""
+    # pelican 4.12.0 pins pygments<2.20.0; the fix (2.20.0) cannot be installed yet
     with tempfile.NamedTemporaryFile(
         mode="w", suffix=".txt", delete=False
     ) as requirements_file:
         requirements_path = requirements_file.name
 
     try:
-        c.run(f"uv pip compile pyproject.toml -o {shlex.quote(requirements_path)}")
+        c.run(
+            "uv export --frozen --no-hashes --format requirements-txt "
+            f"-o {shlex.quote(requirements_path)}"
+        )
         c.run(
             f"uv run pip-audit -r {shlex.quote(requirements_path)} "
-            "--ignore-vuln CVE-2026-4539"
+            "--disable-pip --no-deps --ignore-vuln CVE-2026-4539"
         )
     finally:
         Path(requirements_path).unlink(missing_ok=True)
