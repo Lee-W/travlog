@@ -5,8 +5,6 @@ respect_gitignore = true
 
 # Disable specific rules
 disable = [
-  # MD002 - First heading should be a top-level heading
-  "MD002",
   # MD004 - Unordered list style should be consistent
   "MD004",
   # MD013 - Line length: Allows lines longer than the default limit for better readability in technical docs
