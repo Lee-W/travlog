@@ -6,6 +6,7 @@ import sys
 from pathlib import Path
 
 import pytest
+from pelican.themes import attila
 
 import pelicanconf
 
@@ -41,7 +42,7 @@ def test_subsites_generate_pages_and_random_entries(tmp_path, has_japanese_artic
         "AUTHOR": "Test",
         "TIMEZONE": "UTC",
         "DEFAULT_LANG": pelicanconf.DEFAULT_LANG,
-        "THEME": "simple",
+        "THEME": attila.get_path(),
         "THEME_TEMPLATES_OVERRIDES": [
             str(Path(__file__).resolve().parents[1] / "theme-overrides")
         ],
