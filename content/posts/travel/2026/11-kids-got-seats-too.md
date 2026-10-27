@@ -4,6 +4,7 @@ Category: Travel
 Tags: Japan
 Slug: kids-got-seats-too
 Authors: Wei Lee
+Lang: zh-tw
 
 我原本的機位不知道出什麼問題
 突然就被換到還不錯的位置

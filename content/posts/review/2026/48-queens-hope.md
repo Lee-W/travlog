@@ -4,6 +4,7 @@ Category: Review
 Tags: Star Wars, Novel
 Slug: queens-hope
 Authors: Wei Lee
+Lang: zh-tw
 
 這次在飛機上，把之前在健身房聽到快完的這本終於聽完了
 

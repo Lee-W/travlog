@@ -6,6 +6,7 @@ Tags: Anime, BanG Dream, Voice Actor, 渡瀬結月, 娃: 小睦, 娃: 燈
 Slug: watase-yuzuki-kinglymask-one-day-manager
 Cover: /images/post-images/2026/watase-yuzuki-kinglymask-one-day-manager/letter-envelope-and-mutsumi-plush.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 當初看到「渡瀬結月 × KINGLYMASK」的服飾聯名二話不說就買了帽子跟長 T
 後來看到這個很酷的一日店長活動就參加抽選了

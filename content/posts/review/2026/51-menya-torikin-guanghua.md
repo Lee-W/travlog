@@ -5,6 +5,7 @@ Tags: Food, 拉麵, 娃: 小燈
 Slug: menya-torikin-guanghua
 Cover: /images/post-images/2026/menya-torikin-guanghua/torikin-ramen-with-tomori-plush.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 每次看到這間店都是大排長龍，總有種我好像沒吃過，應該要來吃吃看的感覺
 然後點完才發現...
