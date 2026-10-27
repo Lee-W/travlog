@@ -1,7 +1,7 @@
 Title: 麵屋雞金 光華店
 Date: 2026-10-24 09:51 +0900
 Category: Review
-Tags: Food, 拉麵, 娃: 小燈
+Tags: Food, 拉麵, 娃: 燈
 Slug: menya-torikin-guanghua
 Cover: /images/post-images/2026/menya-torikin-guanghua/torikin-ramen-with-tomori-plush.jpeg
 Authors: Wei Lee
