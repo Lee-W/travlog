@@ -47,7 +47,7 @@ CONFIG = {
 }
 
 
-def _base_cmd(build_pagefind):
+def _make_dev_pelican_args(build_pagefind):
     """pelican args for the dev config.
 
     The theme renders the search button whenever PAGEFIND_ENABLED is true, but
@@ -57,7 +57,7 @@ def _base_cmd(build_pagefind):
     """
     cmd = "-s {settings_base}"
     if not build_pagefind:
-        cmd += " -e PAGEFIND_ENABLED=false"
+        cmd = f"{cmd} -e PAGEFIND_ENABLED=false"
     return cmd
 
 
@@ -254,7 +254,7 @@ def clean(c):
 @task(optional=["--build-pagefind"])
 def build(c, build_pagefind=False):
     """Build local version of site"""
-    pelican_run(_base_cmd(build_pagefind).format(**CONFIG))
+    pelican_run(_make_dev_pelican_args(build_pagefind).format(**CONFIG))
     _fix_internal_links()
     if build_pagefind:
         _build_pagefind()
@@ -263,7 +263,7 @@ def build(c, build_pagefind=False):
 @task(optional=["--build-pagefind"])
 def rebuild(c, build_pagefind=False):
     """`build` with the delete switch"""
-    pelican_run(("-d " + _base_cmd(build_pagefind)).format(**CONFIG))
+    pelican_run(f"-d {_make_dev_pelican_args(build_pagefind)}".format(**CONFIG))
     _fix_internal_links()
     if build_pagefind:
         _build_pagefind()
