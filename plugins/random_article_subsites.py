@@ -8,7 +8,7 @@ from pelican import signals
 from pelican.plugins.random_article.random_article import _is_excluded
 
 
-def _article_urls(generator):
+def _collect_eligible_article_urls(generator):
     """Published article URLs after the upstream exclusion rules."""
     context = generator.context
     exclude_categories = context.get("RANDOM_ARTICLE_EXCLUDE_CATEGORIES", []) or []
@@ -22,14 +22,14 @@ def _article_urls(generator):
             continue
         url = article.url
         if siteurl and not url.startswith(("http://", "https://")):
-            url = siteurl.rstrip("/") + "/" + url.lstrip("/")
+            url = f"{siteurl.rstrip('/')}/{url.lstrip('/')}"
         urls.append(url)
     return urls
 
 
 def _generate_random_page(generator):
     fallback_url = generator.settings.get("RANDOM_ARTICLE_FALLBACK_URL")
-    urls = _article_urls(generator)
+    urls = _collect_eligible_article_urls(generator)
     # The main site's random page applies the upstream exclusion rules. A
     # subsite with no eligible articles redirects to the fallback instead.
     if urls or not fallback_url:
