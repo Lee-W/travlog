@@ -63,7 +63,7 @@ Lang: zh-tw
 
 ![d1-dinner](/images/post-images/2024-mt-fugi-biking/d1-dinner.jpg)
 
-### GPX 紀錄
+## GPX 紀錄
 
 為了寫這篇文，找了如何把 GPX 連起來的工具
 最後的選擇是 [wanderer](https://github.com/Flomp/wanderer)
