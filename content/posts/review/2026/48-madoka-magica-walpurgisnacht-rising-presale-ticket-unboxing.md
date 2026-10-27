@@ -5,6 +5,7 @@ Tags: Anime, Unboxing
 Slug: madoka-magica-walpurgisnacht-rising-presale-ticket-unboxing
 Cover: /images/post-images/2026/madoka-magica-walpurgisnacht-rising-presale-ticket-unboxing/presale-ticket-1.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 好像是出差前衝動就刷下去了
 根本就不知道出差回來找不找得到時間看

@@ -6,6 +6,7 @@ Tags: Food, 娃: 小睦
 Slug: golden-lion-cafe-brunch
 Cover: /images/post-images/2026/golden-lion-cafe-brunch/tofu-chicken-burger-set.jpeg
 Authors: Wei Lee
+Lang: zh-tw
 
 這樣的副標題是不是給人一種キラキラドキドキ的感覺呢
 
