@@ -8,7 +8,9 @@ This is a personal entertainment blog built with [Pelican](https://getpelican.co
 
 ## Common Commands
 
-All tasks are run via `invoke` (using `uv run`):
+All tasks are run via `invoke` (using `uv run`).
+
+Locally, always pass `--no-sync` (`uv run --no-sync inv build`). A plain `uv run` re-syncs the venv from `uv.lock` first, which silently replaces the editable installs of pelican-osm / pelican-tabular with the PyPI wheels, and `content/places/` depends on unreleased branches of both, so the next build fails on an unresolvable `$ref`. The same applies to the `uv run` calls inside `tasks.py` and `.pre-commit-config.yaml`. CI runs `uv sync` beforehand, so the examples below omit the flag.
 
 ```bash
 uv run inv build           # Build local version of site
