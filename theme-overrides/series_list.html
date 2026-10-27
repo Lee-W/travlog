@@ -1,5 +1,7 @@
 {% extends "!theme/series_list.html" %}
 
+{% block title %}{% import "partials/i18n.html" as i18n with context %}{{ SITENAME }} - {{ i18n.t("Article Series") }}{% endblock title %}
+
 {% block canonical_url %}
   <link href="{{ SITEURL }}/{{ SERIES_LIST_URL }}" rel="canonical" />
 {% endblock canonical_url %}

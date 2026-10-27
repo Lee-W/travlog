@@ -1,0 +1,3 @@
+{#- Suffix for <title> on page 2+ of a paginated listing, so each page has a unique title. -#}
+{%- import "partials/i18n.html" as i18n with context -%}
+{%- if articles_page and articles_page.number > 1 %} - {{ i18n.t("Page %(current)s of %(total)s", current=articles_page.number, total=articles_paginator.num_pages) }}{% endif -%}
