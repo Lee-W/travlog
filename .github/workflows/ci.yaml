@@ -10,6 +10,9 @@ on:
         required: false
         default: ''
 
+permissions:
+  contents: read
+
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -22,11 +25,11 @@ jobs:
           # automation marker, not GitHub's synthetic pull-request merge commit.
           ref: '${{ github.event.pull_request.head.sha || inputs.git_rev }}'
 
-      - name: Install the latest version of uv
+      - name: Install uv
         uses: astral-sh/setup-uv@v10.3.1
         with:
           enable-cache: true
-          version: "latest"
+          version: "0.13.4"
           python-version: "3.14"
 
       - name: Install dependencies
