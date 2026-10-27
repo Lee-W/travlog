@@ -14,17 +14,17 @@ URL: pages/copyright-en.html
 
 This page is also available in [臺灣華語](/pages/copyright.html) and [日本語](/ja/pages/copyright.html). The three versions say the same thing; if they differ, the Taiwanese Mandarin version governs.
 
-### Original content
+## Original content
 
 Unless otherwise noted, text and photographs created by Wei Lee on this site are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
-### Third-party material
+## Third-party material
 
 Articles may include screenshots, memes, posters, logos, or other third-party material for purposes such as commentary, introduction, or explanation. All rights in such material remain with their respective copyright holders or rights holders. **Third-party material is not covered by this site's Creative Commons license.**
 
 I make reasonable efforts to identify sources and rights information. Such attribution does not imply that this site owns the material or that its rights holders endorse this site.
 
-### Rights notice and removal requests
+## Rights notice and removal requests
 
 If material used on this site concerns your rights, or if its source or attribution is incorrect, please email [hello+travlog@wei-lee.me](mailto:hello+travlog@wei-lee.me?subject=Copyright%20and%20Rights%20Notice). Please include, where possible:
 

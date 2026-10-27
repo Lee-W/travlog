@@ -7,17 +7,17 @@ Lang: zh-tw
 
 本頁另有 [English](/pages/copyright-en.html) 與 [日本語](/ja/pages/copyright.html) 版本。三份內容相同；若有出入，以臺灣華語版為準。
 
-### 本站原創內容
+## 本站原創內容
 
 除非另有標示，本站由 Wei Lee 創作的文字與照片，採用[創用 CC 姓名標示─相同方式分享 4.0 國際授權條款](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant)授權。
 
-### 第三方素材
+## 第三方素材
 
 文章有時會因評論、介紹或說明的需要，使用作品截圖、梗圖、海報、標誌或其他第三方素材。這些素材的權利仍屬原著作權人或權利人所有，**不在本站的創用 CC 授權範圍內**。
 
 本站會盡可能標示素材來源及權利資訊；這些標示不代表本站擁有該素材，也不代表權利人為本站背書。
 
-### 權利通知與移除
+## 權利通知與移除
 
 如果本站使用的素材涉及你的權利，或來源、署名有誤，請寄信至 [hello+travlog@wei-lee.me](mailto:hello+travlog@wei-lee.me?subject=%E8%91%97%E4%BD%9C%E6%AC%8A%E8%88%87%E6%AC%8A%E5%88%A9%E9%80%9A%E7%9F%A5)。來信請盡量提供：
 
