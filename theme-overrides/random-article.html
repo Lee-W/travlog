@@ -1,0 +1,53 @@
+{# Standalone redirect page rendered by plugins/random_article_subsites.py (replaces
+   pelican-random-article's built-in template, which has no lang/description/canonical/h1).
+   Variables: article_urls_json (pre-serialised, script-safe), plus the usual site context. #}
+{% set is_ja = DEFAULT_LANG|lower == "ja" %}
+{% set page_title = ("ランダムな記事" if is_ja else "隨機文章") ~ " — " ~ SITENAME %}
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG|e }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="description" content="{{ (SITE_DESCRIPTION or SITENAME)|e }}">
+  <link href="{{ SITEURL }}/random/" rel="canonical">
+  <title>{{ page_title|e }}</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      margin: 0;
+      background: #fafafa;
+      color: #333;
+    }
+    h1 { font-size: 1.25rem; font-weight: normal; }
+    p { font-size: 1.1rem; }
+    a { color: #0078d4; }
+  </style>
+</head>
+<body>
+  <h1>{{ "ランダムな記事" if is_ja else "隨機文章" }}</h1>
+  <p>{{ "ランダムな記事に移動しています…" if is_ja else "正在前往隨機文章…" }}</p>
+  <p><small>{{ "自動で移動しない場合は" if is_ja else "若沒有自動跳轉，請" }}<a id="fallback" href="{{ SITEURL }}/">{{ "こちら" if is_ja else "點此前往" }}</a>{{ "。" if is_ja else "。" }}</small></p>
+
+  <script>
+    var articles = {{ article_urls_json }};
+
+    function randomRedirect() {
+      if (!articles || articles.length === 0) {
+        window.location.href = {{ (SITEURL ~ "/")|tojson }};
+        return;
+      }
+      var target = articles[Math.floor(Math.random() * articles.length)];
+      document.getElementById("fallback").href = target;
+      window.location.href = target;
+    }
+
+    randomRedirect();
+  </script>
+</body>
+</html>
