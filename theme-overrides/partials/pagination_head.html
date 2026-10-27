@@ -1,0 +1,10 @@
+{# rel=prev/next for paginated listings. Direction follows the visible pager:
+   "previous" is the newer page, "next" the older one. #}
+{% if articles_page and articles_paginator and articles_paginator.num_pages > 1 %}
+  {% if articles_page.has_previous() %}
+  <link href="{{ SITEURL }}/{{ articles_previous_page.url }}" rel="prev" />
+  {% endif %}
+  {% if articles_page.has_next() %}
+  <link href="{{ SITEURL }}/{{ articles_next_page.url }}" rel="next" />
+  {% endif %}
+{% endif %}
