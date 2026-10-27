@@ -220,6 +220,13 @@ RANDOM_ARTICLE_BUTTON = True
 SUMMARY_LINK_FORMAT = ""
 SITEMAP = {
     "format": "xml",
+    # Paginated listings (page 2+) are thin duplicates of page 1 and the
+    # sitemap plugin can only stamp them with the build time as lastmod.
+    # Patterns are regex-searched against the URL relative to SITEURL.
+    "exclude": [
+        r"^(ja/)?index[0-9]+\.html$",
+        r"^(ja/)?(tag|category)/[^/]*[^/0-9-][0-9]+\.html$",
+    ],
     "priorities": {
         "articles": 0.7,
         "indexes": 0.5,
