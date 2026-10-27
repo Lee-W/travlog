@@ -49,7 +49,7 @@ CONFIG = {
 
 def _build_pagefind():
     subprocess.run(
-        ["uv", "run", "python", "-m", "pagefind", "--site", "output"],
+        ["uv", "run", "--no-sync", "python", "-m", "pagefind", "--site", "output"],
         check=True,
     )
 
@@ -362,7 +362,7 @@ def pelican_run(cmd):
 def style(c, rev_range="origin/main.."):
     """Run style check on python code"""
     python_targets = "pelicanconf.py publishconf.py tasks.py scripts plugins tests"
-    c.run(f"uv run ruff check {python_targets}")
+    c.run(f"uv run --no-sync ruff check {python_targets}")
 
     commit_count = subprocess.run(
         ["git", "rev-list", "--count", rev_range],
@@ -378,7 +378,7 @@ def style(c, rev_range="origin/main.."):
         print(f"Skipping commit style check: no commits in {rev_range!r}")
         return
 
-    c.run(f"uv run cz check --rev-range {shlex.quote(rev_range)}")
+    c.run(f"uv run --no-sync cz check --rev-range {shlex.quote(rev_range)}")
 
 
 @task
@@ -387,8 +387,8 @@ def format(c):
     python_targets = "pelicanconf.py publishconf.py tasks.py scripts plugins tests"
     c.run(
         f"""
-        uv run ruff format {python_targets} && \
-        uv run ruff check {python_targets} --fix
+        uv run --no-sync ruff format {python_targets} && \
+        uv run --no-sync ruff check {python_targets} --fix
         """
     )
 
@@ -408,7 +408,7 @@ def security_check(c):
             f"-o {shlex.quote(requirements_path)}"
         )
         c.run(
-            f"uv run pip-audit -r {shlex.quote(requirements_path)} "
+            f"uv run --no-sync pip-audit -r {shlex.quote(requirements_path)} "
             "--disable-pip --no-deps --ignore-vuln CVE-2026-4539"
         )
     finally:
