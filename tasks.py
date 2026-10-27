@@ -47,6 +47,20 @@ CONFIG = {
 }
 
 
+def _base_cmd(build_pagefind):
+    """pelican args for the dev config.
+
+    The theme renders the search button whenever PAGEFIND_ENABLED is true, but
+    the button only works once `pagefind` has built the index. Without
+    --build-pagefind the index is absent, so turn the button off instead of
+    shipping one that silently does nothing.
+    """
+    cmd = "-s {settings_base}"
+    if not build_pagefind:
+        cmd += " -e PAGEFIND_ENABLED=false"
+    return cmd
+
+
 def _build_pagefind():
     subprocess.run(
         ["uv", "run", "--no-sync", "python", "-m", "pagefind", "--site", "output"],
@@ -240,7 +254,7 @@ def clean(c):
 @task(optional=["--build-pagefind"])
 def build(c, build_pagefind=False):
     """Build local version of site"""
-    pelican_run("-s {settings_base}".format(**CONFIG))
+    pelican_run(_base_cmd(build_pagefind).format(**CONFIG))
     _fix_internal_links()
     if build_pagefind:
         _build_pagefind()
@@ -249,7 +263,7 @@ def build(c, build_pagefind=False):
 @task(optional=["--build-pagefind"])
 def rebuild(c, build_pagefind=False):
     """`build` with the delete switch"""
-    pelican_run("-d -s {settings_base}".format(**CONFIG))
+    pelican_run(("-d " + _base_cmd(build_pagefind)).format(**CONFIG))
     _fix_internal_links()
     if build_pagefind:
         _build_pagefind()
