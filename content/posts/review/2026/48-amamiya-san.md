@@ -1,10 +1,9 @@
 Title: 雨宮同學
-Date: 2026-09-11 15:15 +0800
+Date: 2026-10-28 08:10 +0800
 Category: Review
 Tags: Comic
 Slug: amamiya-san
 Authors: Wei Lee
-Status: draft
 
 《日常》和《CITY》的作者新井圭一的另外一部作品
 查了一下維基百科，才發現老師的作品很多
