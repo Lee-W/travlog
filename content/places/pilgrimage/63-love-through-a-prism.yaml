@@ -1,0 +1,47 @@
+work: 稜鏡戀曲 | プリズム輪舞曲
+tags: [動畫]
+locations:
+- name: Gilbert Scott Building
+  place_type: 學校
+  lat: 55.871090
+  lon: -4.288480
+  osm_type: relation
+  osm_id: 11951
+  notes: 美術學院的原型
+  date: '2026-10-10'
+  country: 英國
+  city: Glasgow
+  tags: []
+  images:
+  - /images/pilgrimage/63-love-through-a-prism/gilbert-scott-building.JPG
+  - /images/pilgrimage/63-love-through-a-prism/gilbert-scott-building-quadrangle.JPG
+  urls: []
+  translations:
+    ja:
+      notes: '美術学院のモデル'
+- name: Cloisters
+  place_type: 學校
+  lat: 55.871090
+  lon: -4.288480
+  notes: ''
+  date: '2026-10-14'
+  country: 英國
+  city: Glasgow
+  tags: []
+  images:
+  - /images/pilgrimage/63-love-through-a-prism/gilbert-scott-building-cloisters.jpeg
+  urls: []
+- name: Hunterian Museum
+  place_type: 博物館
+  lat: 55.871720
+  lon: -4.288430
+  osm_type: node
+  osm_id: 600576868
+  notes: ''
+  date: '2026-10-14'
+  country: 英國
+  city: Glasgow
+  tags: []
+  images:
+  - /images/pilgrimage/63-love-through-a-prism/hunterian-museum.jpeg
+  urls: []
