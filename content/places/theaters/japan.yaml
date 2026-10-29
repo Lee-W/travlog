@@ -165,3 +165,24 @@ toho-nijo:
         ja:
           hall_note: '音も映像もなかなかいい'
           seat_note: 'どの席でもあまり変わらなさそう。あまり好みではないスクリーンの造り'
+
+
+cinecitta-kawasaki:
+  name: CINECITTA'
+  lat: 35.5278506
+  lon: 139.6978750
+  osm_type: node
+  osm_id: 995971596
+  address: 神奈川県川崎市川崎区小川町4-1
+  country: 日本
+  city: 神奈川
+  district: 川崎
+  items:
+    - hall: CINE 8
+      recommended_rows: "G"
+      alt_rows: ""
+      hall_note: LIVE ZOUND
+      seat_note: ""
+      translations:
+        ja:
+          hall_note: 'LIVE ZOUND'
