@@ -39,3 +39,7 @@ Lang: zh-tw
 ## 日本 / Japan
 {% place_list theaters/japan.yaml group_by="country,city,name" group_summary_at="country,city,name" %}
 {% place theaters/japan.yaml %}
+
+## 英國 / UK
+{% place_list theaters/uk.yaml group_by="country,city,name" group_summary_at="country,city,name" %}
+{% place theaters/uk.yaml %}
