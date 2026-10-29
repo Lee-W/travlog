@@ -1,0 +1,20 @@
+work: "蜘蛛人：重生日 | Spider-Man: Brand New Day"
+tags: [電影]
+locations:
+- name: Wilson Street
+  lat: 55.858518
+  lon: -4.247715
+  notes: 代替紐約街景的取景地
+  date: '2026-10-10'
+  country: 英國
+  city: Glasgow
+  tags:
+  - 街道
+  images:
+  - /images/pilgrimage/62-spider-man-brand-new-day/wilson-street.JPG
+  - /images/pilgrimage/62-spider-man-brand-new-day/merchant-city-2.JPG
+  - /images/pilgrimage/62-spider-man-brand-new-day/merchant-city-3.JPG
+  urls: []
+  translations:
+    ja:
+      notes: 'ニューヨークの街並みとして撮影された通り'

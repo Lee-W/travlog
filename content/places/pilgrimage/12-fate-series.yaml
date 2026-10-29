@@ -178,3 +178,45 @@ locations:
   images:
   - /images/pilgrimage/12-fate-series/trafalgar-square.JPG
   urls: []
+- name: Scott Monument
+  place_type: 塔
+  lat: 55.952310
+  lon: -3.192580
+  osm_type: way
+  osm_id: 39044819
+  notes: Return to AVALON
+  date: '2026-10-06'
+  country: 英國
+  city: Edinburgh
+  tags: []
+  images:
+  - /images/pilgrimage/12-fate-series/scott-monument.JPG
+  urls: []
+- name: Princes Street Gardens
+  place_type: 公園
+  lat: 55.950590
+  lon: -3.201380
+  notes: Return to AVALON
+  date: '2026-10-07'
+  country: 英國
+  city: Edinburgh
+  tags: []
+  images:
+  - /images/pilgrimage/12-fate-series/princes-street-gardens.JPG
+  urls: []
+- name: "Arthur's Seat"
+  lat: 55.944069
+  lon: -3.161603
+  osm_type: node
+  osm_id: 31209291
+  notes: 其實不是聖地，但畢竟是亞瑟王座...
+  date: '2026-10-08'
+  country: 英國
+  city: Edinburgh
+  tags: []
+  images:
+  - /images/pilgrimage/12-fate-series/arthurs-seat.JPG
+  urls: []
+  translations:
+    ja:
+      notes: '本当は聖地じゃないけど、なにしろアーサー王の座だし…'
