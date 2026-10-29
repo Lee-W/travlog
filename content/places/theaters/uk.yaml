@@ -1,0 +1,21 @@
+glasgow-film-theatre:
+  name: Glasgow Film Theatre
+  lat: 55.8657225
+  lon: -4.2612728
+  osm_type: way
+  osm_id: 58654476
+  address: 12 Rose Street, Glasgow G3 6RB
+  country: 英國
+  city: 格拉斯哥
+  district: Blythswood Hill
+  items:
+    - hall: Screen 1
+      format: 2D 廳
+      recommended_rows: "3~4"
+      alt_rows: ""
+      hall_note: 歷史最久的主廳，螢幕不差，音響很棒
+      seat_note: 自由入座，3、4 排中間最好
+      translations:
+        ja:
+          hall_note: '最も歴史のあるメインスクリーン。映像は悪くなく、音響は素晴らしい'
+          seat_note: '自由席。3〜4 列目の中央がいちばんいい'
