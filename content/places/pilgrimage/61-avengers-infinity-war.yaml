@@ -1,0 +1,18 @@
+work: "復仇者聯盟 3：無限之戰 | Avengers: Infinity War"
+tags: [電影]
+locations:
+- name: Cockburn Street
+  lat: 55.950550
+  lon: -3.188700
+  notes: 汪達與幻視藏身的街道
+  date: '2026-10-06'
+  country: 英國
+  city: Edinburgh
+  tags:
+  - 街道
+  images:
+  - /images/pilgrimage/61-avengers-infinity-war/cockburn-street.JPG
+  urls: []
+  translations:
+    ja:
+      notes: 'ワンダとヴィジョンが潜んだ通り'
