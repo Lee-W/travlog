@@ -1,12 +1,11 @@
 Title: Glasgow Film Theatre
-Date: 2026-10-29 22:24 +0800
+Date: 2026-11-03 14:19 +0900
 Category: Travel
 Tags: UK, Scotland, Glasgow, Movie, 電影院
 Slug: glasgow-film-theatre
 Cover: /images/post-images/2026/glasgow-film-theatre/IMG_5634.jpeg
 Authors: Wei Lee
 Lang: zh-tw
-Status: draft
 
 畢竟自認為是影迷，來到一個新的地方，有機會還是想試試看當地的電影院
 （雖然根據[電影的費米推定](https://shuojen.com/blog/2026/05/13/watch_movie)內的評斷標準，我還要再努力才能成為喜歡看電影的人）
