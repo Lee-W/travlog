@@ -1,11 +1,10 @@
 Title: 最近走過的幾個聖地，2026 年秋
-Date: 2026-10-29 23:38 +0900
+Date: 2026-11-14 02:22 +0900
 Category: Travel
 Tags: UK, 聖地巡禮, Fate
 Slug: pilgrimage-map-update-2026-autumn
 Authors: Wei Lee
 Lang: zh-tw
-Status: draft
 
 10 月因為 Community Over Code Glasgow，去了一趟愛丁堡和格拉斯哥
 
