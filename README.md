@@ -88,7 +88,7 @@ excluded from the build. To publish one:
 
 Before the PR merges, a GitHub Actions workflow assigns the final sequence
 number, removes the draft status, and rewrites the post's `Date` to the
-moment it ships. References using Pelican's `{filename}/posts/...` syntax are
+moment it ships (after first rebasing the PR branch onto the latest base). References using Pelican's `{filename}/posts/...` syntax are
 updated with the final filename and checked for missing targets, so the
 published date and internal links stay accurate without manual editing. See
 [`.github/workflows/prepare-publication.yaml`](.github/workflows/prepare-publication.yaml)

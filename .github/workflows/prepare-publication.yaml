@@ -4,7 +4,9 @@
 # `new post:` commit has auto-merge enabled, this workflow removes the draft
 # status and rewrites `Date` to "now" (Asia/Tokyo), then commits the result
 # back to the PR branch so the post that lands on `main` is dated at the
-# moment it actually shipped. Whether a PR qualifies is decided by
+# moment it actually shipped. The PR branch is first rebased onto the latest
+# base so CI runs with base's fixes, and is then force-pushed with a lease tied
+# to the tip it checked out. Whether a PR qualifies is decided by
 # scripts/prepare_publication.py from commit messages, not the PR title (which
 # is freeform and can go stale, e.g. reused from an earlier `new draft:` PR).
 # The metadata edit is done by that script's `prepare` mode; ci.yaml runs the
@@ -75,6 +77,26 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           token: ${{ secrets.PUBLISH_TOKEN }}
 
+      # Rebase before stamping so the branch (and the CI the stamp triggers)
+      # carries base's latest fixes. ORIGINAL_SHA is the tip we checked out; the
+      # push below uses it as the force-with-lease expectation.
+      - name: Rebase onto base branch
+        working-directory: pull-request
+        env:
+          BASE_REF: ${{ github.event.pull_request.base.ref }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          echo "ORIGINAL_SHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+          git fetch origin "$BASE_REF"
+          if git merge-base --is-ancestor "origin/$BASE_REF" HEAD; then
+            echo "Branch already contains origin/$BASE_REF."
+          elif ! git rebase "origin/$BASE_REF"; then
+            git rebase --abort
+            echo "::error::Rebase onto $BASE_REF hit conflicts; rebase manually and re-enable auto-merge."
+            exit 1
+          fi
+
       # Removes Status: draft and rewrites Date for posts this PR changes vs the
       # base; a no-op (success) when there is nothing to prepare.
       - name: Prepare publication metadata
@@ -91,14 +113,19 @@ jobs:
         run: |
           # Loop-breaker: our marker push fires `synchronize`, which re-enters
           # this job. The script also treats this branch-tip marker as prepared.
+          # A rebase can also carry an earlier marker over as the tip.
           if git log -1 --pretty=%s | grep -q '^post metadata: prepare publication for #'; then
             echo "Branch already carries the automation publication commit."
+          else
+            git add content
+            # The marker commit is the required-check handshake. Keep it even in
+            # the unlikely case where Date already equals the current minute.
+            git commit --allow-empty -m "post metadata: prepare publication for #${PR_NUMBER}"
+          fi
+          # Push only if the branch actually changed. It was rebased, so the push
+          # must be forced; the lease is tied to the tip we checked out.
+          if [ "$(git rev-parse HEAD)" = "$ORIGINAL_SHA" ]; then
+            echo "Nothing to push."
             exit 0
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content
-          # The marker commit is the required-check handshake. Keep it even in
-          # the unlikely case where Date already equals the current minute.
-          git commit --allow-empty -m "post metadata: prepare publication for #${PR_NUMBER}"
-          git push origin "HEAD:${HEAD_REF}"
+          git push --force-with-lease="${HEAD_REF}:${ORIGINAL_SHA}" origin "HEAD:${HEAD_REF}"
