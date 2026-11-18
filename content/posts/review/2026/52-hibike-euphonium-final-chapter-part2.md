@@ -1,12 +1,11 @@
 Title: 再見了，所有的吹奏樂部
-Date: 2026-09-26 13:19 +0800
+Date: 2026-11-18 17:16 +0800
 Category: Review
 Tags: Anime, Movie, Kyoto Anime
 Slug: hibike-euphonium-final-chapter-part2
 Cover: /images/post-images/2026/hibike-euphonium-final-chapter-part2/cinema-poster-and-ticket-stub.jpeg
 Authors: Wei Lee
 Lang: zh-tw
-Status: draft
 
 啊，不是啦，是《最終樂章 吹響吧！上低音號 後篇》
 
