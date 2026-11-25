@@ -1,11 +1,10 @@
 Title: 手機掉在愛丁堡的公車上
-Date: 2026-10-29 22:26 +0900
+Date: 2026-11-25 23:27 +0900
 Category: Travel
 Tags: UK, Community Over Code
 Slug: lost-phone-on-edinburgh-bus
 Authors: Wei Lee
 Lang: zh-tw
-Status: draft
 
 而且我的日本 SIM 卡還放在裡面
 
