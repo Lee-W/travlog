@@ -101,6 +101,25 @@ united-cinema-toshimaen:
         ja:
           hall_note: '音響はいいが映像は普通'
           seat_note: 'D 列は完璧、なかでも D-08 が最高'
+    - hall: Screen 7
+      format: 2D 廳
+      recommended_rows: "D"
+      alt_rows: "E"
+      hall_note: 音響不錯，畫面偏普通
+      seat_note: D 排最好，E 排可以接受但稍微偏後
+      translations:
+        ja:
+          hall_note: '音響はいいが映像は普通'
+          seat_note: 'D 列がベスト。E 列も許容範囲だが少し後ろ寄り'
+    - hall: Screen 8
+      format: IMAX
+      recommended_rows: ""
+      alt_rows: ""
+      hall_note: 音響有點太大聲，不過聽起來很過癮。螢幕不錯、有 IMAX 感，但還是比不上美麗華
+      seat_note: ""
+      translations:
+        ja:
+          hall_note: '音響は少し大きすぎるが、迫力があって気持ちいい。スクリーンは IMAX らしさがあって良いが、美麗華（Miramar）には及ばない'
 
 cinema-sunshine-masaki:
   name: シネマサンシャイン エミフルMASAKI
