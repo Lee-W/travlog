@@ -6,7 +6,8 @@
 # back to the PR branch so the post that lands on `main` is dated at the
 # moment it actually shipped. The PR branch is first rebased onto the latest
 # base so CI runs with base's fixes, and is then force-pushed with a lease tied
-# to the tip it checked out. Whether a PR qualifies is decided by
+# to the tip it checked out. The marker commit is only created for publishing
+# PRs; other PRs are at most rebased. Whether a PR qualifies is decided by
 # scripts/prepare_publication.py from commit messages, not the PR title (which
 # is freeform and can go stale, e.g. reused from an earlier `new draft:` PR).
 # The metadata edit is done by that script's `prepare` mode; ci.yaml runs the
@@ -98,8 +99,10 @@ jobs:
           fi
 
       # Removes Status: draft and rewrites Date for posts this PR changes vs the
-      # base; a no-op (success) when there is nothing to prepare.
+      # base; a no-op (success) when there is nothing to prepare. Exposes
+      # `publishing` (true/false) so non-publishing PRs get no marker commit.
       - name: Prepare publication metadata
+        id: prepare
         working-directory: pull-request
         run: >-
           python3 ../automation/scripts/prepare_publication.py prepare
@@ -110,12 +113,17 @@ jobs:
         env:
           HEAD_REF: ${{ github.event.pull_request.head.ref }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
+          PUBLISHING: ${{ steps.prepare.outputs.publishing }}
         run: |
           # Loop-breaker: our marker push fires `synchronize`, which re-enters
           # this job. The script also treats this branch-tip marker as prepared.
           # A rebase can also carry an earlier marker over as the tip.
           if git log -1 --pretty=%s | grep -q '^post metadata: prepare publication for #'; then
             echo "Branch already carries the automation publication commit."
+          elif [ "$PUBLISHING" != "true" ]; then
+            # Not a publishing PR: no marker is needed, and pushing one only
+            # races with auto-merge deleting the branch.
+            echo "Not a publishing PR; skipping marker commit."
           else
             git add content
             # The marker commit is the required-check handshake. Keep it even in
