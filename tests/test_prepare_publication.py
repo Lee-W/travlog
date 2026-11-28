@@ -658,3 +658,43 @@ def test_check_mode_ignores_companion_draft_renamed_with_primary(
     monkeypatch.setattr("scripts.prepare_publication.head_is_prepared", lambda: True)
 
     assert main() == 0
+
+
+def run_main_with_publish_commit(monkeypatch, has_commit):
+    monkeypatch.setattr(
+        sys,
+        "argv",
+        ["prepare_publication.py", "check", "--base-ref", "origin/main"],
+    )
+    monkeypatch.setattr(
+        "scripts.prepare_publication.has_publish_commit", lambda base_ref: has_commit
+    )
+    monkeypatch.setattr(
+        "scripts.prepare_publication.changed_posts", lambda base_ref: []
+    )
+    return main()
+
+
+def test_main_writes_publishing_false_for_non_publishing_pr(monkeypatch, tmp_path):
+    output = tmp_path / "github_output"
+    monkeypatch.setenv("GITHUB_OUTPUT", str(output))
+
+    assert run_main_with_publish_commit(monkeypatch, False) == 0
+    assert output.read_text(encoding="utf-8") == "publishing=false\n"
+
+
+def test_main_writes_publishing_true_for_publishing_pr(monkeypatch, tmp_path):
+    output = tmp_path / "github_output"
+    monkeypatch.setenv("GITHUB_OUTPUT", str(output))
+
+    run_main_with_publish_commit(monkeypatch, True)
+
+    assert output.read_text(encoding="utf-8") == "publishing=true\n"
+
+
+def test_main_skips_github_output_when_env_unset(monkeypatch, tmp_path):
+    monkeypatch.delenv("GITHUB_OUTPUT", raising=False)
+    monkeypatch.chdir(tmp_path)
+
+    assert run_main_with_publish_commit(monkeypatch, False) == 0
+    assert list(tmp_path.iterdir()) == []

@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import datetime
+import os
 import re
 import subprocess
 import sys
@@ -556,6 +557,15 @@ def prepare(paths: list[Path], date: str) -> int:
     return check(paths)
 
 
+def write_github_output(publishing: bool) -> None:
+    """Expose the publishing-PR decision to later workflow steps."""
+    output_path = os.environ.get("GITHUB_OUTPUT")
+    if not output_path:
+        return
+    with open(output_path, "a", encoding="utf-8") as output:
+        output.write(f"publishing={str(publishing).lower()}\n")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("mode", choices=["check", "prepare"])
@@ -568,11 +578,13 @@ def main() -> int:
 
     try:
         if not has_publish_commit(args.base_ref):
+            write_github_output(publishing=False)
             print(
                 f"No {PUBLISH_COMMIT_PREFIX!r} commit ahead of {args.base_ref}; "
                 "not a publishing PR."
             )
             return 0
+        write_github_output(publishing=True)
 
         posts = changed_posts(args.base_ref)
         if not posts:
